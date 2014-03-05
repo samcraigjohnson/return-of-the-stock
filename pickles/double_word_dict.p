@@ -1,21102 +1,35212 @@
 (dp1
-S'downturn oil'
+S'safety ukraine'
 p2
 (lp3
-I2
-aF0.011512762036800132
-asS'safety ukraine'
-p4
-(lp5
 I9
 aF0.063055396376559991
-asS'solarcity shares'
+asS'positioning 7'
+p4
+(lp5
+I30
+aF0.78528042609589921
+asS'windows xp'
 p6
 (lp7
-I1
-aF-0.020009416195856743
-asS'windows xp'
+I2
+aF0.0028409817157098796
+asS'mar -'
 p8
 (lp9
 I1
-aF-0.013834507961367818
-asS'mar -'
-p10
-(lp11
-I1
 aF-0.017333579199704921
 asS'released three'
+p10
+(lp11
+I2
+aF0.0094823222529492185
+asS'laura mandaro'
 p12
 (lp13
-I1
-aF0.0028884159318941583
-asS'health human'
+I8
+aF0.052751250568440482
+asS"berkshire 's"
 p14
 (lp15
-I1
-aF-0.01749999999999996
-asS'investor group'
+I2
+aF0.037754290992674737
+asS'. baidu'
 p16
 (lp17
 I1
-aF-0.0078271226816403073
-asS'proposal due'
+aF0.015729013254786376
+asS'eisen wheat'
 p18
 (lp19
-I1
-aF0.01163378856853821
-asS'2010 700,000'
+I12
+aF0.069076572220800783
+asS'government part'
 p20
 (lp21
 I1
-aF0.01163378856853821
-asS'yet another'
+aF-0.015098314606741563
+asS'shld fortune'
 p22
 (lp23
-I1
-aF-0.0078271226816403073
-asS'0.12% late'
+I6
+aF0.069426877234213216
+asS'global stocks'
 p24
 (lp25
-I1
-aF0.016847172081828975
-asS'industries video'
+I4
+aF-0.021676788124156639
+asS'genov\xc3\xa9s around'
 p26
 (lp27
-I7
-aF-0.061600416238838308
-asS'commission faced'
+I2
+aF-0.0005004065187305274
+asS'shipping services'
 p28
 (lp29
 I1
-aF-0.01486199575371556
-asS"berkshire 's"
+aF0.022254127781766008
+asS'congress statistics'
 p30
 (lp31
-I1
-aF0.0095057034220531987
-asS'million loans'
+I2
+aF0.019620762866974131
+asS'/quotes/zigman/118681/delayed/quotes/nls/tsla tsla'
 p32
 (lp33
-I1
-aF-0.01486199575371556
-asS'unfair existing'
+I6
+aF0.12170801861980383
+asS'built gold'
 p34
 (lp35
-I2
-aF-0.02972399150743112
-asS'sale paypal'
+I1
+aF0.034482758620689689
+asS'$100 million'
 p36
 (lp37
 I1
-aF-0.0078271226816403073
-asS'investment planning'
+aF0.00067980965329706225
+asS'stock units'
 p38
 (lp39
-I1
-aF0.022254127781766008
-asS'states canada'
+I2
+aF0.0052826627277634021
+asS'situation ukraine.'
 p40
 (lp41
 I1
-aF0.022254127781766008
-asS'payments due'
+aF0.017951856385148825
+asS'russia exports'
 p42
 (lp43
 I1
-aF-0.01486199575371556
-asS'eisen wheat'
+aF0.017951856385148825
+asS'advantages weak'
 p44
 (lp45
-I12
-aF0.069076572220800783
-asS'- 1.85%'
+I1
+aF-0.015098314606741563
+asS'dow chemical'
 p46
 (lp47
-I1
-aF-0.016598508539812311
-asS'" values'
+I8
+aF0.08457842319714548
+asS'collaborative do-it-together'
 p48
 (lp49
-I1
-aF-0.010500807754442712
-asS'10 26'
+I30
+aF0.78528042609589921
+asS"'s riskiness.ingves"
 p50
 (lp51
-I9
-aF0.063055396376559991
-asS'shld fortune'
+I1
+aF-0.015098314606741563
+asS'makers kegerators'
 p52
 (lp53
-I3
-aF0.052339482314863482
-asS'global stocks'
+I2
+aF-0.0063315831052970124
+asS'bmo private'
 p54
 (lp55
-I2
-aF-0.051282051282051329
-asS'people ]'
+I1
+aF-0.015098314606741563
+asS'thursday reported'
 p56
 (lp57
-I1
-aF-0.025641025641025664
-asS'saved aig'
+I2
+aF0.044066106993071633
+asS'crisis pressures'
 p58
 (lp59
-I2
-aF-0.02972399150743112
-asS'congress statistics'
+I9
+aF0.063055396376559991
+asS'mahmudova techs'
 p60
 (lp61
 I1
-aF-0.01486199575371556
-asS'time help'
+aF0.0065939063210550593
+asS'saefong u.s.'
 p62
 (lp63
-I1
-aF-0.013834507961367818
-asS'david thebault'
+I12
+aF0.069076572220800783
+asS'. access'
 p64
 (lp65
 I1
-aF-0.025641025641025664
-asS'/quotes/zigman/118681/delayed/quotes/nls/tsla tsla'
+aF-0.0032679738562091968
+asS'radioshack super'
 p66
 (lp67
-I3
-aF0.070462807891834484
-asS'$100 million'
+I30
+aF0.78528042609589921
+asS'famous it.'
 p68
 (lp69
 I1
-aF0.00067980965329706225
-asS"'s instability"
+aF-0.0089897260273972355
+asS'accused united'
 p70
 (lp71
-I2
-aF-0.02972399150743112
-asS'loeb\xe2\x80\x99s third'
+I1
+aF-0.015098314606741563
+asS'worth. starr'
 p72
 (lp73
 I1
-aF0.036999999999999922
-asS'business $5'
+aF-0.01486199575371556
+asS'htz -'
 p74
 (lp75
-I1
-aF0.0027342063606276006
-asS'related italian'
+I2
+aF-0.045650441836882411
+asS'retailers due'
 p76
 (lp77
-I1
-aF0.0062801932367149279
-asS'arguing terms'
+I8
+aF-0.020074526510182204
+asS'top female'
 p78
 (lp79
-I2
-aF-0.02972399150743112
-asS'stock units'
+I1
+aF-0.013834507961367818
+asS'195px ;'
 p80
 (lp81
-I1
-aF-0.015337423312883396
-asS'michael corbat'
+I5
+aF0.1588106388459081
+asS'interview mexico'
 p82
 (lp83
 I1
 aF-0.01486199575371556
-asS'corp 000270.ks'
+asS'1,871 stock'
 p84
 (lp85
-I1
-aF0.0095057034220531987
-asS'muted expectations'
+I2
+aF0.013187812642110119
+asS'height 195px'
 p86
 (lp87
-I1
-aF0.0095057034220531987
-asS'together. last'
+I5
+aF0.1588106388459081
+asS'political uncertainty.'
 p88
 (lp89
 I1
-aF-0.0078271226816403073
-asS'symc fortune'
+aF-0.024283439490445837
+asS'boot reported'
 p90
 (lp91
-I7
-aF-0.061600416238838308
-asS'due services'
+I2
+aF-0.00055632415198211133
+asS'slow u.s.'
 p92
 (lp93
-I1
-aF-0.01486199575371556
-asS'32 cents'
+I3
+aF0.0047587671132585697
+asS'freight rates'
 p94
 (lp95
-I2
-aF-0.045650441836882411
-asS'corp. /quotes/zigman/109220/delayed/quotes/nls/dish'
-p96
-(lp97
-I2
-aF0.0013596193065941245
-asS'group .'
-p98
-(lp99
 I1
 aF0.022254127781766008
-asS'gerard baker'
+asS'launching broadside'
+p96
+(lp97
+I1
+aF-0.015098314606741563
+asS'traffic prevent'
+p98
+(lp99
+I4
+aF0.010079537768633639
+asS'succession planning'
 p100
 (lp101
-I9
-aF0.063055396376559991
-asS'stores /quotes/zigman/77604/delayed/quotes/nls/rost'
+I2
+aF0.037754290992674737
+asS'0.3 percent'
 p102
 (lp103
-I1
-aF-0.0070054945054943809
-asS'report said.reller'
+I3
+aF-0.014346998406732193
+asS'minority investors'
 p104
 (lp105
 I1
-aF-0.013834507961367818
-asS'said noting'
+aF-0.015098314606741563
+asS'global insight'
 p106
 (lp107
-I1
-aF0.022254127781766008
-asS'passenger cars'
+I3
+aF-0.036479419703103984
+asS'sector.the report'
 p108
 (lp109
 I1
-aF-0.042688910696761409
-asS'holds zacks'
+aF-0.0071729957805906396
+asS'moderate.a poll'
 p110
 (lp111
-I3
-aF0.015817950519726197
-asS'expectations overall'
-p112
-(lp113
 I1
 aF-0.042688910696761409
-asS'states economy'
+asS'co. /quotes/zigman/222647/delayed/quotes/nls/ko'
+p112
+(lp113
+I4
+aF-0.010679627874459668
+asS'eight years'
 p114
 (lp115
-I2
-aF0.0073921320280504483
-asS'banks raise'
+I1
+aF-0.01749999999999996
+asS'said cancel'
 p116
 (lp117
-I9
-aF0.063055396376559991
-asS'company plans'
+I2
+aF0.007155813175024445
+asS'sacramento kings'
 p118
 (lp119
-I1
-aF-0.013834507961367818
-asS'makers kegerators'
+I9
+aF0.063055396376559991
+asS'markets --'
 p120
 (lp121
 I1
-aF-0.024283439490445837
-asS'spg free'
+aF-0.015098314606741563
+asS'22 a.m.'
 p122
 (lp123
-I1
-aF-0.0096207215541164858
-asS'unfolded.the s&p'
+I24
+aF0.13815314444160159
+asS'game companies'
 p124
 (lp125
-I1
-aF-0.024283439490445837
-asS'corp. tenet'
+I14
+aF0.018081633883883088
+asS'" transition'
 p126
 (lp127
-I2
-aF-0.045650441836882411
-asS'group tesla'
+I1
+aF0.0065939063210550593
+asS'alaska hawaii'
 p128
 (lp129
 I1
-aF-0.021229666390956799
-asS'ok move'
+aF0.022254127781766008
+asS'deal beverage'
 p130
 (lp131
-I2
-aF0.011512762036800132
-asS'ukraine could'
+I1
+aF0.054777388694347298
+asS'marketwatch \xe2\x80\x94'
 p132
 (lp133
-I2
-aF-0.051282051282051329
-asS'crisis pressures'
+I10
+aF-0.060775370143652127
+asS'nature eventual'
 p134
 (lp135
-I9
-aF0.063055396376559991
-asS'saefong u.s.'
+I1
+aF-0.015098314606741563
+asS'chesapeake energy'
 p136
 (lp137
-I12
-aF0.069076572220800783
-asS'u.s. lean'
+I1
+aF0.017811704834605556
+asS'report green'
 p138
 (lp139
-I43
-aF0.25877235100216228
-asS'- u.s.'
+I3
+aF0.019851875731156512
+asS'buffett second'
 p140
 (lp141
-I1
-aF-0.01749999999999996
-asS'today7 47'
+I2
+aF0.007155813175024445
+asS'2 min'
 p142
 (lp143
-I12
-aF0.069076572220800783
-asS'cp pnc'
+I9
+aF0.063055396376559991
+asS'regulations. related'
 p144
 (lp145
 I2
-aF-0.014586566700890537
-asS'sodastream international'
+aF-0.0005004065187305274
+asS'even machines'
 p146
 (lp147
 I1
-aF-0.011144883485308961
-asS'500 shareholders'
+aF-0.0044444444444443499
+asS'technologies sport'
 p148
 (lp149
-I2
-aF-0.015654245363280615
-asS'famous it.'
+I3
+aF0.015817950519726197
+asS'february 39'
 p150
 (lp151
-I1
-aF-0.0089897260273972355
-asS'sanctions aren'
+I12
+aF0.069076572220800783
+asS'week record-breaking'
 p152
 (lp153
-I2
-aF-0.048566878980891674
-asS'putin declared'
+I1
+aF0.014802631578947345
+asS'frequent-flier program'
 p154
 (lp155
-I1
-aF-0.025641025641025664
-asS'bb&t corp.'
+I2
+aF0.044508255563532016
+asS'billion reportedly'
 p156
 (lp157
 I2
-aF-0.0082949308755760238
-asS'general motors'
+aF0.0028409817157098796
+asS'hedge-fund mogul'
 p158
 (lp159
-I4
-aF0.038532986692969728
-asS'post earnings'
+I2
+aF0.0050351650906114501
+asS'bankers financial'
 p160
 (lp161
-I4
-aF-0.055786865608566071
-asS'dipped 1'
+I1
+aF-0.015098314606741563
+asS'\xe2\x80\x94 among'
 p162
 (lp163
-I1
-aF0.0095057034220531987
-asS'home economics'
+I10
+aF-0.060775370143652127
+asS'recused ebay'
 p164
 (lp165
-I43
-aF0.25877235100216228
-asS'unrest region'
+I2
+aF0.0050351650906114501
+asS'analysts thomson'
 p166
 (lp167
 I1
-aF-0.025641025641025664
-asS'reportedly earning'
+aF-0.042688910696761409
+asS'shares pulled'
 p168
 (lp169
-I1
-aF-0.013834507961367818
-asS'htz -'
+I2
+aF0.040569339539934614
+asS'ecuadorean plaintiffs'
 p170
 (lp171
-I2
-aF-0.045650441836882411
-asS'forward-looking new'
+I1
+aF-0.015098314606741563
+asS'buy .'
 p172
 (lp173
-I1
-aF-0.0071729957805906396
-asS'mogul carl'
+I7
+aF0.087210949322016604
+asS'wto india'
 p174
 (lp175
 I1
-aF-0.0078271226816403073
-asS'updates be.'
+aF-0.015098314606741563
+asS'law enforcement'
 p176
 (lp177
-I1
-aF0.0028884159318941583
-asS'retailers due'
+I2
+aF0.019620762866974131
+asS'asset also'
 p178
 (lp179
-I4
-aF-0.037111166550747227
-asS'unveiled proposal'
+I2
+aF0.032728465832498853
+asS'rost -'
 p180
 (lp181
-I1
-aF-0.0078271226816403073
-asS'unit valuing'
+I2
+aF-0.014010989010988762
+asS'dividend 20'
 p182
 (lp183
 I1
-aF0.0027342063606276006
-asS'gains data'
+aF-0.015098314606741563
+asS'wednesday said'
 p184
 (lp185
-I14
-aF0.080589334257600925
-asS'investigation securities'
+I2
+aF0.040569339539934614
+asS'problems $300'
 p186
 (lp187
 I1
 aF-0.01486199575371556
-asS'top female'
+asS'highs mario'
 p188
 (lp189
-I1
-aF-0.013834507961367818
-asS'mac os'
+I43
+aF0.25877235100216228
+asS'dfrg overbought'
 p190
 (lp191
-I2
-aF0.0057768318637883165
-asS'italian gunmaker'
+I1
+aF0.012706969580285016
+asS'shares -'
 p192
 (lp193
-I1
-aF0.0062801932367149279
-asS'kollmeyer consumer'
+I30
+aF0.78528042609589921
+asS'shares 1'
 p194
 (lp195
-I12
-aF0.069076572220800783
-asS'services group'
+I1
+aF0.0095057034220531987
+asS'chief executive'
 p196
 (lp197
-I2
-aF-0.0082949308755760238
-asS'sailing euro'
+I4
+aF-0.039602597394028272
+asS'$1.01 share.'
 p198
 (lp199
 I1
-aF-0.025641025641025664
-asS"citizens.russia 's"
+aF-0.0070054945054943809
+asS'strategy temporarily'
 p200
 (lp201
 I1
-aF-0.025641025641025664
-asS'reports. mark'
+aF-0.013834507961367818
+asS'initial price'
 p202
 (lp203
-I1
-aF-0.013834507961367818
-asS'interview mexico'
+I2
+aF0.10801026392961874
+asS'fujifilm hldgs'
 p204
 (lp205
-I1
-aF-0.01486199575371556
-asS"'s ceo"
+I3
+aF0.076043454879415551
+asS'announced purchases'
 p206
 (lp207
-I43
-aF0.25877235100216228
-asS'political uncertainty.'
+I1
+aF0.0028884159318941583
+asS'nonpublic information'
 p208
 (lp209
-I1
-aF-0.024283439490445837
-asS'boot reported'
+I2
+aF0.0050351650906114501
+asS'announced april'
 p210
 (lp211
-I1
-aF-0.019905850706119568
-asS'rebalancing game'
+I2
+aF0.037754290992674737
+asS'/quotes/zigman/5419837/delayed/quotes/nls/p p'
 p212
 (lp213
-I9
-aF0.063055396376559991
-asS"'s operating"
+I1
+aF-0.015434451219512105
+asS'cancel 22,000'
 p214
 (lp215
-I1
-aF-0.0078271226816403073
-asS'session target'
+I2
+aF0.007155813175024445
+asS'kollmeyer u.s.'
 p216
 (lp217
-I1
-aF-0.011144883485308961
-asS'month. wheeler'
+I2
+aF0.013187812642110119
+asS'projected post'
 p218
 (lp219
-I2
-aF-0.014234192551842047
-asS'states easy'
+I1
+aF-0.026623073330219536
+asS'500 kroger'
 p220
 (lp221
-I1
-aF0.022254127781766008
-asS'freight rates'
+I8
+aF-0.020074526510182204
+asS'earnings 15'
 p222
 (lp223
-I1
-aF0.022254127781766008
-asS"'s new"
+I2
+aF-0.00013053922301388583
+asS'- 1.71%'
 p224
 (lp225
-I1
-aF-0.0078271226816403073
-asS'pickup truck'
+I3
+aF-0.061248498782670281
+asS'8 30'
 p226
 (lp227
-I1
-aF-0.042688910696761409
-asS'solstice saturn'
+I30
+aF0.78528042609589921
+asS'2 44'
 p228
 (lp229
-I1
-aF-0.052777777777777764
-asS'bank believes'
+I30
+aF0.78528042609589921
+asS'costco cost'
 p230
 (lp231
-I1
-aF-0.01486199575371556
-asS'sharply central'
+I8
+aF-0.020074526510182204
+asS'gains buoyed'
 p232
 (lp233
 I1
-aF0.022254127781766008
-asS'traffic prevent'
+aF-0.015098314606741563
+asS'2 40'
 p234
 (lp235
-I2
-aF-0.014234192551842047
-asS'succession planning'
+I30
+aF0.78528042609589921
+asS'dollar euro'
 p236
 (lp237
-I1
-aF0.0095057034220531987
-asS'housing finance'
+I9
+aF0.063055396376559991
+asS'4.9 percent'
 p238
 (lp239
-I2
-aF0.0073921320280504483
-asS'travel king'
+I1
+aF0.022254127781766008
+asS'arte reina'
 p240
 (lp241
-I7
-aF-0.061600416238838308
-asS'/quotes/zigman/439823/delayed/quotes/nls/htz htz'
+I2
+aF0.033133788568538193
+asS'" companies'
 p242
 (lp243
 I2
-aF-0.045650441836882411
-asS'investor charged'
+aF0.0050351650906114501
+asS'presided ceo'
 p244
 (lp245
 I1
-aF-0.0078271226816403073
-asS'global insight'
+aF-0.0096207215541164858
+asS'ukraine crisis'
 p246
 (lp247
-I2
-aF-0.051282051282051329
-asS'sector.the report'
+I68
+aF0.42601533618673781
+asS'reller report'
 p248
 (lp249
 I1
-aF-0.0071729957805906396
-asS'double-digit gains'
+aF-0.013834507961367818
+asS'stock.voc energy'
 p250
 (lp251
 I1
-aF-0.042688910696761409
-asS'1.03% \xc2'
+aF0.029542097488921743
+asS'tsla -'
 p252
 (lp253
-I1
-aF-0.0085193657805474349
-asS'/quotes/zigman/13139813/delayed/quotes/nls/scty scty'
+I3
+aF0.070462807891834484
+asS'growth though'
 p254
 (lp255
-I2
-aF-0.040018832391713485
-asS'advantage big'
+I1
+aF-0.0071729957805906396
+asS'states behind'
 p256
 (lp257
-I1
-aF0.022254127781766008
-asS'quarter. sodastream'
+I2
+aF0.007155813175024445
+asS'" even'
 p258
 (lp259
-I1
-aF-0.011144883485308961
-asS'co. /quotes/zigman/222647/delayed/quotes/nls/ko'
+I4
+aF-0.012663166210594025
+asS'stock picks'
 p260
 (lp261
-I2
-aF-0.0096874231100129455
-asS'eight years'
+I43
+aF0.25877235100216228
+asS'highest since'
 p262
 (lp263
 I1
-aF-0.01749999999999996
-asS'1,000 workers'
+aF-0.0071729957805906396
+asS'citigroup inc.'
 p264
 (lp265
 I1
-aF0.0062801932367149279
-asS'pandora media'
+aF-0.015434451219512105
+asS'even sanctions'
 p266
 (lp267
-I1
-aF-0.015434451219512105
-asS'said cancel'
+I4
+aF-0.012663166210594025
+asS'fedex ups'
 p268
 (lp269
 I1
 aF0.022254127781766008
-asS'safeway inc.'
+asS'2.24 percent'
 p270
 (lp271
-I1
-aF-0.021229666390956799
-asS'buffett said'
+I2
+aF0.0073921320280504483
+asS'ebay nominated'
 p272
 (lp273
-I3
-aF-0.014987792366776505
-asS'cable internet'
+I2
+aF0.0050351650906114501
+asS'executive bill'
 p274
 (lp275
-I2
-aF-0.023970052699711648
-asS'22 a.m.'
+I1
+aF-0.01749999999999996
+asS'forecast 34'
 p276
 (lp277
-I24
-aF0.13815314444160159
-asS'game companies'
+I1
+aF0.0063291139240506224
+asS'noting shirts'
 p278
 (lp279
-I7
-aF-0.061600416238838308
-asS'repelling tourists'
+I2
+aF0.007155813175024445
+asS'ko +0.37%'
 p280
 (lp281
-I4
-aF-0.047177815558848674
-asS'outperformed seasoned'
+I2
+aF-0.00099220476444672294
+asS'million forecast'
 p282
 (lp283
 I2
-aF0.0076523476523476276
-asS'analyst deutsche'
+aF-0.027455969162467415
+asS'seats board'
 p284
 (lp285
-I1
-aF0.0095057034220531987
-asS'8 13'
+I2
+aF0.0050351650906114501
+asS'inc. /quotes/zigman/77604/delayed/quotes/nls/rost'
 p286
 (lp287
-I12
-aF0.069076572220800783
-asS'corp. j.c.'
+I2
+aF-0.0047921869940820618
+asS'closing bell'
 p288
 (lp289
-I1
-aF-0.011144883485308961
-asS'hawaii well'
+I8
+aF-0.0053634097414264155
+asS'share $288.7'
 p290
 (lp291
-I1
-aF0.022254127781766008
-asS'northern tech'
+I2
+aF0.014618679165891798
+asS'$2.67 12'
 p292
 (lp293
-I3
-aF0.0021474564628237813
-asS'director. iphones'
+I30
+aF0.78528042609589921
+asS'bitcoin 10'
 p294
 (lp295
-I1
-aF0.0028884159318941583
-asS'marketwatch \xe2\x80\x94'
+I9
+aF0.063055396376559991
+asS'came steep'
 p296
 (lp297
-I5
-aF-0.054537389082536671
-asS'50 indicate'
-p298
-(lp299
 I1
 aF-0.0071729957805906396
-asS'tightened grip'
+asS'close five'
+p298
+(lp299
+I57
+aF0.33936168525976329
+asS'peak. hiring'
 p300
 (lp301
 I1
-aF-0.025641025641025664
-asS'food network'
+aF0.034482758620689689
+asS'share. groupon'
 p302
 (lp303
-I2
-aF0.019043392929388579
-asS'- 1.32%'
+I1
+aF0.016847172081828975
+asS'$81.2 million'
 p304
 (lp305
 I2
-aF-0.014010989010988762
-asS'first two'
+aF0.044066106993071633
+asS'brands link.reuters.com/sar37v^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^>'
 p306
 (lp307
 I1
-aF0.022254127781766008
-asS'inflation consumer'
+aF0.014802631578947345
+asS'provide loan'
 p308
 (lp309
-I2
-aF-0.036601126188498201
-asS'buffett second'
-p310
-(lp311
-I1
-aF0.022254127781766008
-asS'2 min'
-p312
-(lp313
 I9
 aF0.063055396376559991
-asS'new stakes'
+asS'single-family home'
+p310
+(lp311
+I20
+aF0.11512762036800134
+asS'put personal'
+p312
+(lp313
+I1
+aF-0.0044444444444443499
+asS'- michael'
 p314
 (lp315
-I2
-aF0.023622213537533625
-asS'/quotes/zigman/13637761/delayed/quotes/nls/lmca lmca'
+I27
+aF0.18916618912968003
+asS'hold nerve'
 p316
 (lp317
-I2
-aF-0.022566372361966354
-asS'dominated list'
+I9
+aF0.063055396376559991
+asS'metals stocks'
 p318
 (lp319
-I8
-aF-0.07254061158029762
-asS'ukraine turmoil'
+I2
+aF0.011512762036800132
+asS'monitors citi'
 p320
 (lp321
 I43
 aF0.25877235100216228
-asS'even machines'
+asS'rally ukraine'
 p322
 (lp323
-I1
-aF-0.0044444444444443499
-asS'deal. bank'
+I15
+aF0.088858291183965946
+asS'blackberry fourth'
 p324
 (lp325
-I2
-aF0.0074097938144331178
-asS'yelp yelp'
+I1
+aF0.036999999999999922
+asS'wmt fortune'
 p326
 (lp327
 I4
-aF-0.047177815558848674
-asS'technologies sport'
+aF0.044781306879880148
+asS'messages markets'
 p328
 (lp329
 I3
-aF0.015817950519726197
-asS'running mac'
+aF-0.036479419703103984
+asS'life month'
 p330
 (lp331
 I1
-aF0.0028884159318941583
-asS'month. jan'
+aF-0.01486199575371556
+asS'made move'
 p332
 (lp333
 I1
-aF-0.010500807754442712
-asS'escalates european'
+aF0.017951856385148825
+asS'shares expected'
 p334
 (lp335
-I2
-aF0.011512762036800132
-asS'lean hog'
+I10
+aF-0.060775370143652127
+asS'unveils new'
 p336
 (lp337
-I43
-aF0.25877235100216228
-asS'bell tuesday'
+I30
+aF0.78528042609589921
+asS'now.apple shares'
 p338
 (lp339
 I1
-aF-0.047141424272818457
-asS'due release'
+aF0.0065939063210550593
+asS'defend claims'
 p340
 (lp341
-I4
-aF-0.037111166550747227
-asS'february 39'
+I1
+aF-0.015098314606741563
+asS'retreat earlier'
 p342
 (lp343
-I12
-aF0.069076572220800783
-asS'made decision'
+I2
+aF0.0094823222529492185
+asS'rush 6'
 p344
 (lp345
-I1
-aF0.022254127781766008
-asS'executive two'
+I9
+aF0.063055396376559991
+asS'+2.04% \xc2'
 p346
 (lp347
-I1
-aF-0.013834507961367818
-asS'percent target.when'
+I2
+aF0.033684210526315816
+asS'image make'
 p348
 (lp349
-I2
-aF-0.036601126188498201
-asS'" pre-empting'
+I30
+aF0.78528042609589921
+asS'percent fixed'
 p350
 (lp351
 I1
-aF-0.0078271226816403073
-asS"reserve 's"
+aF-0.015098314606741563
+asS'corp. hertz'
 p352
 (lp353
 I4
-aF-0.066325117695929331
-asS'8 35'
+aF-0.038294363224545734
+asS'tuesday said'
 p354
 (lp355
-I9
-aF0.063055396376559991
-asS'billion reportedly'
+I2
+aF-0.01702614434749404
+asS'activision blizzard'
 p356
 (lp357
-I1
-aF-0.013834507961367818
-asS'chevrolet cobalt'
+I14
+aF0.018081633883883088
+asS'rules protect'
 p358
 (lp359
 I1
-aF-0.052777777777777764
-asS'employed factory'
+aF-0.015098314606741563
+asS'recently discovered'
 p360
 (lp361
-I1
-aF0.0062801932367149279
-asS'dltr -'
+I2
+aF0.0094823222529492185
+asS'million $5.79'
 p362
 (lp363
-I1
-aF-0.00091290852656571587
-asS'course means'
+I2
+aF0.014618679165891798
+asS'clean hld'
 p364
 (lp365
-I1
-aF-0.024283439490445837
-asS'; oil'
+I3
+aF0.076043454879415551
+asS'icahn also'
 p366
 (lp367
-I43
-aF0.25877235100216228
-asS'office u.s.'
+I2
+aF0.0050351650906114501
+asS'. adv'
 p368
 (lp369
-I1
-aF-0.01486199575371556
-asS'serbia united'
+I3
+aF0.076043454879415551
+asS'wholesale corp'
 p370
 (lp371
 I1
-aF0.022254127781766008
-asS'buyers hlt'
+aF-0.0089897260273972355
+asS'reach target'
 p372
 (lp373
 I1
-aF0.0095057034220531987
-asS'reserved. quotes'
+aF0.028248587570621538
+asS'transition doesn'
 p374
 (lp375
-I12
-aF0.069076572220800783
-asS'inc considered'
+I1
+aF0.0065939063210550593
+asS'million $1.02'
 p376
 (lp377
-I1
-aF-0.013834507961367818
-asS'genov\xc3\xa9s around'
+I2
+aF-0.0047921869940820618
+asS'million $1.05'
 p378
 (lp379
-I1
-aF-0.010660963270678267
-asS'companies exchange'
+I2
+aF-0.01702614434749404
+asS'million $1.07'
 p380
 (lp381
 I2
-aF0.0074097938144331178
-asS'suggest unrest'
+aF-0.0047921869940820618
+asS'states production'
 p382
 (lp383
 I1
-aF-0.025641025641025664
-asS'took 10-million-share'
+aF-0.015098314606741563
+asS'april 8.'
 p384
 (lp385
 I1
-aF0.036999999999999922
-asS'halted. "'
+aF0.016675489677077698
+asS'nacional centro'
 p386
 (lp387
 I2
-aF-0.051282051282051329
-asS'\xe2\x80\x94 among'
+aF0.033133788568538193
+asS'speeds paying'
 p388
 (lp389
-I5
-aF-0.054537389082536671
-asS'recused ebay'
+I6
+aF0.013389593364884374
+asS'separate company'
 p390
 (lp391
-I1
-aF-0.0078271226816403073
-asS'sales 183,947'
+I2
+aF0.0050351650906114501
+asS'report fujifilm'
 p392
 (lp393
-I1
-aF-0.042688910696761409
-asS'said swung'
+I3
+aF0.076043454879415551
+asS'trade deficit'
 p394
 (lp395
 I1
-aF-0.026623073330219536
-asS'central bank'
+aF-0.015098314606741563
+asS'boosted shares'
 p396
 (lp397
-I3
-aF-0.018248893612975218
-asS'roasters inc.'
+I1
+aF-0.015434451219512105
+asS'made loans'
 p398
 (lp399
-I2
-aF-0.0096874231100129455
-asS'analysts thomson'
+I1
+aF-0.01486199575371556
+asS'big hit'
 p400
 (lp401
-I1
-aF-0.042688910696761409
-asS'released last'
+I30
+aF0.78528042609589921
+asS'500 staples'
 p402
 (lp403
-I2
-aF0.0076523476523476276
-asS'tech companies'
+I8
+aF-0.020074526510182204
+asS'bank announced'
 p404
 (lp405
-I3
-aF-0.039832894544929484
-asS'hold talks'
+I1
+aF-0.015098314606741563
+asS'arm holdings'
 p406
 (lp407
-I2
-aF0.0074097938144331178
-asS'shares pulled'
+I14
+aF0.018081633883883088
+asS'be. iphones'
 p408
 (lp409
 I1
-aF0.023487602630611493
-asS'macs snow'
+aF0.0028884159318941583
+asS'said howard'
 p410
 (lp411
 I1
-aF0.0028884159318941583
-asS'inc. wal-mart'
+aF-0.025641025641025664
+asS'tensions spike'
 p412
 (lp413
-I1
-aF0.023487602630611493
-asS'dismissed icahn'
+I57
+aF0.33936168525976329
+asS'scrap recent'
 p414
 (lp415
 I1
-aF-0.0078271226816403073
-asS'ceo february'
+aF-0.015098314606741563
+asS'samsung brings'
 p416
 (lp417
-I1
-aF-0.013834507961367818
-asS'" new'
+I30
+aF0.78528042609589921
+asS'oil natural'
 p418
 (lp419
 I1
-aF-0.0078271226816403073
-asS"'t die"
+aF0.017951856385148825
+asS'commission conduct'
 p420
 (lp421
 I1
-aF-0.01486199575371556
-asS'buy .'
+aF0.032987171655467266
+asS'guide could'
 p422
 (lp423
-I3
-aF0.015817950519726197
-asS'metre said.the'
+I1
+aF0.012706969580285016
+asS'problems region'
 p424
 (lp425
 I1
-aF-0.0044444444444443499
-asS'asset also'
+aF-0.015098314606741563
+asS'ebay 2009'
 p426
 (lp427
-I1
-aF0.0027342063606276006
-asS'downturn paul'
+I2
+aF0.0050351650906114501
+asS'global rebalancing'
 p428
 (lp429
-I43
-aF0.25877235100216228
-asS'ukraine 12'
-p430
-(lp431
 I9
 aF0.063055396376559991
-asS"general 's"
+asS'retreat five-month'
+p430
+(lp431
+I44
+aF0.87759511459066997
+asS'ceo charge'
 p432
 (lp433
 I1
-aF-0.01486199575371556
-asS'warren buffett\xe2\x80\x99s'
+aF-0.013834507961367818
+asS'24 2014'
 p434
 (lp435
-I1
-aF0.00067980965329706225
-asS'third bk'
+I61
+aF1.5771547585128536
+asS'related aspects'
 p436
 (lp437
-I2
-aF-0.014586566700890537
-asS'rost -'
+I1
+aF-0.015098314606741563
+asS'blogs.marketwatch.com newscast'
 p438
 (lp439
-I2
-aF-0.014010989010988762
-asS'shares gm'
+I30
+aF0.78528042609589921
+asS'though much'
 p440
 (lp441
 I1
-aF-0.015434451219512105
-asS'bankrate.com home'
+aF-0.015098314606741563
+asS'$520 million'
 p442
 (lp443
-I2
-aF0.011512762036800132
-asS'carlyle /quotes/zigman/9872907/delayed/quotes/nls/cg'
+I1
+aF0.017811704834605556
+asS'conflicts board'
 p444
 (lp445
-I1
-aF-0.021229666390956799
-asS'hoped conclusions'
+I4
+aF0.0100703301812229
+asS'apple bugs'
 p446
 (lp447
-I1
-aF-0.01486199575371556
-asS'one top'
+I2
+aF0.0094823222529492185
+asS'500 paying'
 p448
 (lp449
-I1
-aF-0.013834507961367818
-asS'said carlo'
+I16
+aF0.046391384821821771
+asS'additional reporting'
 p450
 (lp451
 I1
-aF0.0095057034220531987
-asS'wednesday said'
+aF0.014802631578947345
+asS'computers running'
 p452
 (lp453
-I1
-aF0.023487602630611493
-asS'problems $300'
+I2
+aF0.0094823222529492185
+asS'bonds fell'
 p454
 (lp455
 I1
-aF-0.01486199575371556
-asS"'t want"
+aF0.022254127781766008
+asS'. tech'
 p456
 (lp457
 I1
-aF-0.0044444444444443499
-asS'highs mario'
+aF-0.0064070698702017393
+asS'much huge'
 p458
 (lp459
-I43
-aF0.25877235100216228
-asS'30 mix'
+I1
+aF0.0065939063210550593
+asS'read 51.3'
 p460
 (lp461
-I6
-aF-0.05390200719883341
-asS'product line'
+I1
+aF-0.0071729957805906396
+asS'management reshuffle'
 p462
 (lp463
 I1
-aF0.022254127781766008
-asS'jcpenney jcp'
+aF-0.013834507961367818
+asS'losses.citigroup chief'
 p464
 (lp465
-I2
-aF0.019043392929388579
-asS'friday profit-taking'
+I1
+aF-0.01486199575371556
+asS'systems ohio'
 p466
 (lp467
 I1
-aF-0.024283439490445837
-asS'share. panera'
+aF0.017951856385148825
+asS'interest rates'
 p468
 (lp469
 I1
-aF0.00016545334215751787
-asS'shares 1'
+aF0.022254127781766008
+asS'add additional'
 p470
 (lp471
 I1
-aF0.0095057034220531987
-asS'chief executive'
+aF-0.015098314606741563
+asS'estimates 3'
 p472
 (lp473
-I3
-aF-0.046196503715083333
-asS'report congress'
+I2
+aF0.037754290992674737
+asS'4,332 9'
 p474
 (lp475
 I1
-aF-0.01486199575371556
-asS'firm symantec'
+aF0.0065939063210550593
+asS'suvs helped'
 p476
 (lp477
-I7
-aF-0.061600416238838308
-asS'today6 29'
+I1
+aF0.0063291139240506224
+asS'solar inc.'
 p478
 (lp479
-I9
-aF0.063055396376559991
-asS'significant updates'
+I4
+aF0.02364507778153388
+asS'push separate'
 p480
 (lp481
-I1
-aF0.0028884159318941583
-asS'strategy temporarily'
+I2
+aF0.0050351650906114501
+asS'use google'
 p482
 (lp483
-I1
-aF-0.013834507961367818
-asS'stores inc.'
+I2
+aF-0.0005004065187305274
+asS'within united'
 p484
 (lp485
-I2
-aF0.016482108125117113
-asS'spending rose'
+I3
+aF0.066762383345298021
+asS'0.20% \xc2'
 p486
 (lp487
-I2
-aF-0.036601126188498201
-asS'500 recently'
+I1
+aF-0.011144883485308961
+asS'year markets'
 p488
 (lp489
 I1
-aF0.0028884159318941583
-asS'narrowed $16.3'
+aF-0.015098314606741563
+asS'oil apple'
 p490
 (lp491
-I1
-aF0.023487602630611493
-asS'may related'
+I4
+aF0.044938893448227483
+asS'overall u.s.'
 p492
 (lp493
 I1
-aF-0.016598508539812311
-asS'said lilit'
+aF-0.042688910696761409
+asS'fell almost'
 p494
 (lp495
 I1
 aF-0.025641025641025664
-asS'york times'
+asS'spearheaded restructuring'
 p496
 (lp497
 I1
-aF-0.013834507961367818
-asS'mexican homebuilders'
+aF-0.015098314606741563
+asS'gain 90'
 p498
 (lp499
-I1
-aF-0.01486199575371556
-asS'fell sharply'
+I2
+aF0.10801026392961874
+asS'agreement sunday'
 p500
 (lp501
-I1
-aF0.022254127781766008
-asS'announced purchases'
+I6
+aF0.013389593364884374
+asS'a.m. march'
 p502
 (lp503
-I1
-aF0.0028884159318941583
-asS'icahn raised'
+I784
+aF14.459092419014898
+asS'indian nationals'
 p504
 (lp505
 I1
-aF0.0028884159318941583
-asS'inc. /quotes/zigman/238082/delayed/quotes/nls/pep'
+aF-0.015098314606741563
+asS'hertz global'
 p506
 (lp507
-I1
-aF-0.011144883485308961
-asS'berkowitz said'
+I4
+aF-0.038294363224545734
+asS'europe united'
 p508
 (lp509
-I2
-aF0.0073921320280504483
-asS'/quotes/zigman/5419837/delayed/quotes/nls/p p'
+I1
+aF-0.015098314606741563
+asS'said jack'
 p510
 (lp511
 I1
-aF-0.015434451219512105
-asS'vectors russia'
+aF-0.015098314606741563
+asS'vetoes anti-gay'
 p512
 (lp513
 I1
-aF0.022254127781766008
-asS'glass plant'
+aF0.0028884159318941583
+asS'jcp fortune'
 p514
 (lp515
-I1
-aF0.0028884159318941583
-asS'car shoppers'
+I4
+aF0.044781306879880148
+asS'said growth'
 p516
 (lp517
 I1
-aF0.0063291139240506224
-asS'index still'
+aF-0.015098314606741563
+asS'pulling money'
 p518
 (lp519
 I1
-aF0.023487602630611493
-asS'earnings 15'
+aF0.028248587570621538
+asS'merrill lynch'
 p520
 (lp521
 I1
-aF-0.011144883485308961
-asS'- 1.71%'
+aF0.014802631578947345
+asS'report marsh'
 p522
 (lp523
-I3
-aF-0.061248498782670281
-asS'+2.52% day'
+I2
+aF0.060087816422073489
+asS'inc. /quotes/zigman/90481/delayed/quotes/nls/pcln'
 p524
 (lp525
 I2
-aF0.011512762036800132
-asS'falling 0.1'
+aF0.014618679165891798
+asS'argentina brazil.chevron'
 p526
 (lp527
-I2
-aF-0.036601126188498201
-asS'$300 million'
+I1
+aF-0.015098314606741563
+asS'individual collective'
 p528
 (lp529
 I1
-aF-0.01486199575371556
-asS'month probably'
+aF0.017951856385148825
+asS'23 a.m.'
 p530
 (lp531
-I1
-aF0.0063291139240506224
-asS'costco cost'
+I3
+aF0.019781718963165176
+asS'contaminated oil'
 p532
 (lp533
-I4
-aF-0.037111166550747227
-asS'2014 marketwatch'
+I1
+aF-0.015098314606741563
+asS'funds hot'
 p534
 (lp535
-I43
-aF0.25877235100216228
-asS'year earlier.john'
+I4
+aF0.044938893448227483
+asS'person briefed'
 p536
 (lp537
 I1
-aF-0.042688910696761409
-asS'share. groupon'
+aF-0.013834507961367818
+asS'still shows'
 p538
 (lp539
-I1
-aF0.016847172081828975
-asS'dollar euro'
+I2
+aF0.040569339539934614
+asS"'s currently"
 p540
 (lp541
-I9
-aF0.063055396376559991
-asS'feb. 10'
+I1
+aF0.0085513078470825805
+asS'market retreat'
 p542
 (lp543
-I9
-aF0.063055396376559991
-asS'1.2 percent'
+I3
+aF0.019781718963165176
+asS'capital levels'
 p544
 (lp545
-I2
-aF-0.036601126188498201
-asS'reports. andreessen'
+I1
+aF-0.015098314606741563
+asS'west exports'
 p546
 (lp547
 I1
-aF-0.013834507961367818
-asS'4.5 million'
+aF0.017951856385148825
+asS'battery factory'
 p548
 (lp549
-I1
-aF0.036999999999999922
-asS'a.m. feb.'
+I2
+aF0.040569339539934614
+asS'1,865 9'
 p550
 (lp551
-I45
-aF0.31527698188280007
-asS'warren buffett'
+I2
+aF0.013187812642110119
+asS'heavy volume'
 p552
 (lp553
-I2
-aF0.011512762036800132
-asS'ups revise'
-p554
-(lp555
 I1
 aF0.022254127781766008
-asS'like wal-mart'
+asS'at&t att'
+p554
+(lp555
+I4
+aF-0.047177815558848674
+asS'corp 7203.t'
 p556
 (lp557
 I1
-aF-0.0089897260273972355
-asS'wage hike'
+aF0.0095057034220531987
+asS'nearly 300,000'
 p558
 (lp559
-I1
-aF-0.005373455131649536
-asS'" companies'
+I2
+aF0.019620762866974131
+asS'chrysler automobiles'
 p560
 (lp561
 I1
-aF-0.0078271226816403073
-asS'presided ceo'
+aF0.0063291139240506224
+asS'could end'
 p562
 (lp563
-I1
-aF-0.0096207215541164858
-asS'ukraine crisis'
+I20
+aF0.11512762036800134
+asS'tensions 9'
 p564
 (lp565
-I67
-aF0.41942142986568276
-asS'reller report'
+I60
+aF1.5705608521917984
+asS'ractopamine. country'
 p566
 (lp567
 I1
-aF-0.013834507961367818
-asS'central government'
+aF-0.015098314606741563
+asS'bureau economic'
 p568
 (lp569
-I2
-aF-0.051282051282051329
-asS'continued cold'
+I4
+aF0.10298968128032032
+asS'apc +0.53%'
 p570
 (lp571
-I1
-aF0.0063291139240506224
-asS'report methanex'
+I2
+aF0.023622213537533625
+asS'23% 7'
 p572
 (lp573
-I3
-aF0.0021474564628237813
-asS'baker reactions'
+I30
+aF0.78528042609589921
+asS'gm -'
 p574
 (lp575
-I9
-aF0.063055396376559991
-asS'tsla -'
+I3
+aF0.029027283270916533
+asS'could halted.'
 p576
 (lp577
 I3
-aF0.070462807891834484
-asS'economist ihs'
+aF-0.036479419703103984
+asS'- marketwatch'
 p578
 (lp579
-I1
-aF-0.025641025641025664
-asS'consumer spending'
+I30
+aF0.78528042609589921
+asS'coincided visit'
 p580
 (lp581
-I57
-aF0.29124779703446496
-asS'poor. shares'
+I1
+aF-0.015098314606741563
+asS'inc. /quotes/zigman/238082/delayed/quotes/nls/pep'
 p582
 (lp583
-I1
-aF0.022254127781766008
-asS'book reserves'
+I2
+aF-0.00013053922301388583
+asS'fbi monitors'
 p584
 (lp585
-I1
-aF-0.01486199575371556
-asS'complete disregard'
+I43
+aF0.25877235100216228
+asS'regrets.the united'
 p586
 (lp587
 I1
-aF-0.0078271226816403073
-asS'region "'
+aF-0.015098314606741563
+asS'street journal'
 p588
 (lp589
-I1
-aF-0.025641025641025664
-asS'leave company'
+I210
+aF2.0463883536270986
+asS'request united'
 p590
 (lp591
 I1
-aF-0.013834507961367818
-asS'states behind'
+aF-0.015098314606741563
+asS'- realmoney.com'
 p592
 (lp593
-I1
-aF0.022254127781766008
-asS'/quotes/zigman/253872/delayed/quotes/nls/tgt tgt'
+I60
+aF1.5705608521917984
+asS'special projects'
 p594
 (lp595
-I1
-aF-0.011144883485308961
-asS'" even'
+I2
+aF-0.0005004065187305274
+asS'market share'
 p596
 (lp597
-I2
-aF-0.048566878980891674
-asS'pressure grain'
+I1
+aF-0.015098314606741563
+asS'assets two'
 p598
 (lp599
-I12
-aF0.069076572220800783
-asS'buying program'
+I1
+aF0.017811704834605556
+asS'percent 222,104'
 p600
 (lp601
 I1
-aF-0.01486199575371556
-asS'stock picks'
+aF0.0095057034220531987
+asS'wesson /quotes/zigman/87396/delayed/quotes/nls/swhc'
 p602
 (lp603
-I43
-aF0.25877235100216228
-asS'highest since'
+I1
+aF0.015490533562822848
+asS'january corrected'
 p604
 (lp605
-I1
-aF-0.0071729957805906396
-asS'citigroup inc.'
+I43
+aF0.25877235100216228
+asS'officer 9'
 p606
 (lp607
-I1
-aF-0.015434451219512105
-asS'even sanctions'
+I30
+aF0.78528042609589921
+asS'ross stores'
 p608
 (lp609
-I2
-aF-0.048566878980891674
-asS'story 5'
+I4
+aF-0.0095843739881641219
+asS'take recent'
 p610
 (lp611
 I2
-aF-0.051282051282051329
-asS'vod -'
+aF0.033133788568538193
+asS'4 sell'
 p612
 (lp613
-I1
-aF-0.016598508539812311
-asS'conducting public'
+I3
+aF0.050800374916289345
+asS'among uninsured'
 p614
 (lp615
-I1
-aF0.0028884159318941583
-asS'ebay nominated'
+I10
+aF0.065939063210550597
+asS'thursday. tesla'
 p616
 (lp617
 I1
-aF-0.0078271226816403073
-asS'executive bill'
+aF0.01708173690932312
+asS'14% related'
 p618
 (lp619
-I1
-aF-0.01749999999999996
-asS'bp /quotes/zigman/247026/delayed/quotes/nls/bp'
+I2
+aF0.019620762866974131
+asS'slow federal'
 p620
 (lp621
-I2
-aF0.023622213537533625
-asS'man united'
+I4
+aF0.039241525733948263
+asS'citigroup said'
 p622
 (lp623
 I1
-aF0.022254127781766008
-asS'batters aussie'
+aF-0.01486199575371556
+asS'- united'
 p624
 (lp625
-I9
-aF0.063055396376559991
-asS'enforcers mexican'
+I1
+aF-0.015098314606741563
+asS'buzz familiar'
 p626
 (lp627
-I1
-aF-0.01486199575371556
-asS'priceline pcln'
+I9
+aF0.063055396376559991
+asS'executive two'
 p628
 (lp629
-I7
-aF-0.061600416238838308
-asS'mobilized war'
+I1
+aF-0.013834507961367818
+asS'vehicle year'
 p630
 (lp631
 I1
-aF-0.024283439490445837
-asS'bill congress'
+aF-0.015098314606741563
+asS'mtn coffe'
 p632
 (lp633
-I1
-aF-0.01486199575371556
-asS'million forecast'
+I3
+aF0.019851875731156512
+asS'buyout quarter'
 p634
 (lp635
 I1
-aF-0.020009416195856743
-asS'services company'
+aF-0.015098314606741563
+asS"freddie 's"
 p636
 (lp637
-I1
-aF-0.01486199575371556
-asS'concerns corn'
+I2
+aF0.0073921320280504483
+asS'fourth quarter.'
 p638
 (lp639
-I2
-aF-0.051282051282051329
-asS'per share'
+I6
+aF-0.0036131577293311385
+asS'" stakes'
 p640
 (lp641
 I1
-aF0.023487602630611493
-asS'bill klesse'
+aF-0.015098314606741563
+asS'ukraine events'
 p642
 (lp643
 I1
-aF-0.01749999999999996
-asS'closing bell'
+aF-0.025641025641025664
+asS'sky-mobi limited'
 p644
 (lp645
-I4
-aF-0.063113036331142375
-asS'possible deal.'
+I1
+aF0.086510263929618747
+asS'make coca-cola'
 p646
 (lp647
-I2
-aF0.0074097938144331178
-asS'lagged peers,\xe2\x80\x9d'
+I1
+aF0.054777388694347298
+asS'three mexican'
 p648
 (lp649
 I1
-aF0.0095057034220531987
-asS'manage $100'
+aF-0.01486199575371556
+asS'companies 1,170'
 p650
 (lp651
 I1
-aF0.00067980965329706225
-asS'bitcoin 10'
+aF0.086510263929618747
+asS'inc appl.o'
 p652
 (lp653
-I9
-aF0.063055396376559991
-asS'accept bitcoin'
+I1
+aF0.0028884159318941583
+asS'corp vlo.n'
 p654
 (lp655
-I9
-aF0.063055396376559991
-asS'came steep'
+I1
+aF-0.01749999999999996
+asS'reserves expected'
 p656
 (lp657
 I1
-aF-0.0071729957805906396
-asS'inc free'
+aF-0.01486199575371556
+asS'looking sites'
 p658
 (lp659
-I1
-aF0.00082576383154416076
-asS'a.m. dec.'
+I2
+aF0.040569339539934614
+asS'whether preliminary'
 p660
 (lp661
-I18
-aF0.12611079275312001
-asS'; 1'
+I1
+aF-0.015098314606741563
+asS'founded george'
 p662
 (lp663
 I1
-aF0.0095057034220531987
-asS'state reportedly'
+aF-0.015434451219512105
+asS'react comcast-twc'
 p664
 (lp665
-I1
-aF0.0028884159318941583
-asS'close five'
+I6
+aF0.0076232379247427508
+asS'company views'
 p666
 (lp667
-I57
-aF0.33936168525976329
-asS'west likely'
+I1
+aF0.022254127781766008
+asS'also post'
 p668
 (lp669
-I2
-aF-0.048566878980891674
-asS'ruble ;'
+I1
+aF0
+asS'central eastern'
 p670
 (lp671
-I57
-aF0.33936168525976329
-asS'" notion'
+I1
+aF-0.015098314606741563
+asS'1,321.60 1,354.90'
 p672
 (lp673
 I2
-aF0.0073921320280504483
-asS'may coming'
+aF0.011512762036800132
+asS'company expected'
 p674
 (lp675
 I1
-aF-0.010660963270678267
-asS'theft according'
+aF-0.015098314606741563
+asS'" bernanke'
 p676
 (lp677
 I1
-aF-0.01486199575371556
-asS'hoard shareholders'
+aF-0.015098314606741563
+asS'released fresh'
 p678
 (lp679
-I1
-aF0.0028884159318941583
-asS"'s second"
+I2
+aF0.0050351650906114501
+asS'co f.n'
 p680
 (lp681
 I1
-aF0.022254127781766008
-asS'provide loan'
+aF-0.042688910696761409
+asS'investment. related'
 p682
 (lp683
-I9
-aF0.063055396376559991
-asS'single-family home'
+I1
+aF0.016675489677077698
+asS'tenure cfo.maestri'
 p684
 (lp685
-I20
-aF0.11512762036800134
-asS'firm pro'
+I1
+aF0.0065939063210550593
+asS'company united'
 p686
 (lp687
 I1
-aF-0.0044444444444443499
-asS'25 a.m.'
+aF0.022254127781766008
+asS'corp. /quotes/zigman/13637761/delayed/quotes/nls/lmca'
 p688
 (lp689
-I9
-aF0.063055396376559991
-asS'- michael'
+I4
+aF0.0010669424439089712
+asS'shares publicly'
 p690
 (lp691
-I27
-aF0.18916618912968003
-asS'hold nerve'
+I2
+aF0.007155813175024445
+asS'500 target'
 p692
 (lp693
-I9
-aF0.063055396376559991
-asS'metals stocks'
+I4
+aF0.044781306879880148
+asS'patent law'
 p694
 (lp695
-I2
-aF0.011512762036800132
-asS'traffic third'
+I1
+aF-0.015098314606741563
+asS'list glassdoor'
 p696
 (lp697
-I3
-aF-0.024059813263408034
-asS'fedex increased'
+I16
+aF0.046391384821821771
+asS'surprise us'
 p698
 (lp699
 I1
-aF0.022254127781766008
-asS'washington threatened'
+aF0.0065939063210550593
+asS'property spg'
 p700
 (lp701
 I1
-aF-0.024283439490445837
-asS'financial services'
+aF-0.0096207215541164858
+asS'percent u.s.'
 p702
 (lp703
-I2
-aF-0.0082949308755760238
-asS'broadband network'
+I1
+aF0.025356283546178002
+asS'247wallst.com march'
 p704
 (lp705
-I3
-aF-0.024059813263408034
-asS'monitors citi'
+I30
+aF0.78528042609589921
+asS'earnings 32'
 p706
 (lp707
-I43
-aF0.25877235100216228
-asS'7 percent'
+I4
+aF-0.038294363224545734
+asS'euro rises'
 p708
 (lp709
-I1
-aF0.022254127781766008
-asS'rally ukraine'
+I9
+aF0.063055396376559991
+asS'hd fortune'
 p710
 (lp711
-I12
-aF0.069076572220800783
-asS'includes subpoenas'
+I4
+aF0.044781306879880148
+asS'drones oil'
 p712
 (lp713
-I1
-aF-0.01486199575371556
-asS'directed fhfa.fairholme'
+I44
+aF0.87759511459066997
+asS'session low'
 p714
 (lp715
-I2
-aF0.0073921320280504483
-asS'blackberry fourth'
+I1
+aF0.022254127781766008
+asS'bbry +3.40%'
 p716
 (lp717
-I1
-aF0.036999999999999922
-asS'third bancorp'
+I3
+aF0.029027283270916533
+asS'newscast stocks'
 p718
 (lp719
-I2
-aF-0.0082949308755760238
-asS'currently collecting'
+I30
+aF0.78528042609589921
+asS'salvage ruble'
 p720
 (lp721
-I1
-aF-0.010660963270678267
-asS'futures ukraine'
+I57
+aF0.33936168525976329
+asS'blocked use'
 p722
 (lp723
-I14
-aF0.080589334257600925
-asS'getting verizon'
+I2
+aF-0.0005004065187305274
+asS'u.s. trade'
 p724
 (lp725
 I1
-aF-0.016598508539812311
-asS'messages markets'
+aF-0.015098314606741563
+asS'dreaded tapering'
 p726
 (lp727
-I2
-aF-0.051282051282051329
-asS'life month'
+I1
+aF-0.01486199575371556
+asS'bank determine'
 p728
 (lp729
 I1
 aF-0.01486199575371556
-asS'reserve eases'
+asS'people familiar'
 p730
 (lp731
-I4
-aF-0.059447983014862239
-asS'hongyuran shutdown'
+I1
+aF-0.01486199575371556
+asS'make mistakes'
 p732
 (lp733
-I9
-aF0.063055396376559991
-asS'2 2014'
+I2
+aF0.023269395998132755
+asS'pro cnc'
 p734
 (lp735
-I18
-aF0.12611079275312001
-asS'" providing'
+I2
+aF-0.0088888888888886998
+asS'riskiness.ingves alluded'
 p736
 (lp737
 I1
-aF-0.042688910696761409
-asS'/quotes/zigman/7212269/delayed/quotes/nls/grpn grpn'
+aF-0.015098314606741563
+asS'would become'
 p738
 (lp739
-I2
-aF0.033694344163657949
-asS'making investments'
+I1
+aF0.0065939063210550593
+asS'take new'
 p740
 (lp741
 I1
-aF-0.013834507961367818
-asS'investors underestimated'
+aF0.0065939063210550593
+asS'investors yet'
 p742
 (lp743
 I1
-aF-0.025641025641025664
-asS'issuing new'
+aF0.017951856385148825
+asS'really worth'
 p744
 (lp745
-I1
-aF-0.010660963270678267
-asS'cherokee cherokee'
+I9
+aF0.063055396376559991
+asS'2014 +1.25%'
 p746
 (lp747
 I1
-aF0.0063291139240506224
-asS'without occasional'
+aF0.0065939063210550593
+asS'street also'
 p748
 (lp749
 I1
-aF0.0028884159318941583
-asS'/quotes/zigman/272085/delayed/quotes/nls/jpm jpm'
+aF0.025356283546178002
+asS'technology companies'
 p750
 (lp751
-I3
-aF0.029027283270916533
-asS'mu +1.03%'
+I16
+aF0.046391384821821771
+asS'according british'
 p752
 (lp753
-I2
-aF0.023622213537533625
-asS'shares expected'
+I1
+aF0.022254127781766008
+asS'quickly conclude'
 p754
 (lp755
-I5
-aF-0.054537389082536671
-asS'crimea region'
+I1
+aF0.017951856385148825
+asS'analysts polled'
 p756
 (lp757
 I1
-aF-0.025641025641025664
-asS'internships technology'
+aF0.0063291139240506224
+asS'writing mark'
 p758
 (lp759
-I8
-aF-0.07254061158029762
-asS'attention general'
+I1
+aF0.014802631578947345
+asS'blogs.marketwatch.com apple'
 p760
 (lp761
-I3
-aF0.029027283270916533
-asS'retreat earlier'
+I1
+aF0.0065939063210550593
+asS'come federal'
 p762
 (lp763
 I1
-aF0.0028884159318941583
-asS'euro. related'
+aF-0.01486199575371556
+asS'chair janet'
 p764
 (lp765
-I1
-aF-0.025641025641025664
-asS'berkshire hathaway'
+I3
+aF0.0047587671132585697
+asS'services provided'
 p766
 (lp767
 I1
-aF0.00067980965329706225
-asS'rush 6'
+aF-0.01486199575371556
+asS'500 closed'
 p768
 (lp769
-I9
-aF0.063055396376559991
-asS'corbat called'
+I1
+aF-0.024283439490445837
+asS'said.gm said'
 p770
 (lp771
 I1
-aF-0.01486199575371556
-asS'" political'
+aF0.0063291139240506224
+asS'loss close'
 p772
 (lp773
-I1
-aF-0.025641025641025664
-asS'draghi says'
+I30
+aF0.78528042609589921
+asS'dollar tree'
 p774
 (lp775
-I43
-aF0.25877235100216228
-asS'motors inc.'
+I2
+aF-0.0025576453686709114
+asS'european sales'
 p776
 (lp777
-I3
-aF0.025745538870266187
-asS'economic stimulus.'
+I2
+aF0.02960526315789469
+asS'$218 million'
 p778
 (lp779
-I4
-aF-0.059447983014862239
-asS'reserves expected'
+I2
+aF-0.0047921869940820618
+asS'day ahead'
 p780
 (lp781
-I1
-aF-0.01486199575371556
-asS'online video'
+I30
+aF0.78528042609589921
+asS'post lower'
 p782
 (lp783
-I3
-aF-0.024059813263408034
-asS"glassdoor 's"
+I1
+aF0
+asS'past analysts'
 p784
 (lp785
-I8
-aF-0.07254061158029762
-asS'planned ipo'
+I1
+aF0.0095057034220531987
+asS"'t stomach"
 p786
 (lp787
 I1
-aF-0.0078271226816403073
-asS'measure even'
+aF-0.0044444444444443499
+asS'become peter'
 p788
 (lp789
 I1
-aF0.0028884159318941583
-asS'independent federal'
+aF0.0065939063210550593
+asS'inc. uctt'
 p790
 (lp791
-I2
-aF0.0073921320280504483
-asS'family aide'
+I3
+aF0.076043454879415551
+asS"believe 't"
 p792
 (lp793
-I1
-aF-0.013834507961367818
-asS'activision blizzard'
+I2
+aF0.0073921320280504483
+asS'make way'
 p794
 (lp795
-I7
-aF-0.061600416238838308
-asS'thursday reported'
+I30
+aF0.78528042609589921
+asS'mahmudova nasdaq'
 p796
 (lp797
 I1
-aF0.016847172081828975
-asS'hit extended'
+aF0.0065939063210550593
+asS'struggled find'
 p798
 (lp799
 I1
-aF-0.015337423312883396
-asS'$22 share.'
+aF0.034482758620689689
+asS'already paid-connection'
 p800
 (lp801
-I1
-aF0.0027342063606276006
-asS'recently discovered'
+I6
+aF0.0076232379247427508
+asS'stricter agreements'
 p802
 (lp803
 I1
-aF0.0028884159318941583
-asS'million $5.79'
+aF-0.015098314606741563
+asS'treasurys rise'
 p804
 (lp805
-I1
-aF-0.0078586044304735248
-asS'new york'
+I14
+aF0.080589334257600925
+asS'7% hours.'
 p806
 (lp807
-I7
-aF-0.037321627289373549
-asS'icahn accused'
+I1
+aF-0.0069034107529398394
+asS'vehicles february'
 p808
 (lp809
 I1
-aF-0.0078271226816403073
-asS'budget proposal'
+aF0.0063291139240506224
+asS'art fairs'
 p810
 (lp811
-I1
-aF0.01163378856853821
-asS'won global'
+I2
+aF-0.032580270082819947
+asS'agreements known'
 p812
 (lp813
-I9
-aF0.063055396376559991
-asS'fund also'
+I1
+aF-0.015098314606741563
+asS'states britain'
 p814
 (lp815
-I2
-aF0.0073921320280504483
-asS'fb fortune'
+I1
+aF-0.015098314606741563
+asS'marketwire viralgains'
 p816
 (lp817
-I17
-aF-0.16627551332406051
-asS'express shipping'
+I30
+aF0.78528042609589921
+asS'money russia-only'
 p818
 (lp819
 I1
-aF0.022254127781766008
-asS'. \xc2'
+aF0.028248587570621538
+asS'economic research'
 p820
 (lp821
-I1
-aF-0.010660963270678267
-asS'methanex corp.'
+I4
+aF0.10298968128032032
+asS'many economic'
 p822
 (lp823
-I2
-aF0.0063122470976729999
-asS'strategy officer'
+I1
+aF-0.01486199575371556
+asS'effort weaken'
 p824
 (lp825
-I2
-aF-0.027669015922735636
-asS'brewer vetoes'
+I9
+aF0.063055396376559991
+asS'america signed'
 p826
 (lp827
-I5
-aF-0.044289399626954516
-asS'rico virgin'
+I2
+aF0.03185842475789831
+asS'vanke given'
 p828
 (lp829
-I1
-aF0.022254127781766008
-asS'icahn also'
+I2
+aF0.011512762036800132
+asS'underpin capital'
 p830
 (lp831
 I1
-aF-0.0078271226816403073
-asS'gonzalez president'
+aF-0.015098314606741563
+asS'laura u.s.'
 p832
 (lp833
-I1
-aF-0.01486199575371556
-asS'panera bread'
+I2
+aF0.013187812642110119
+asS'levels -'
 p834
 (lp835
-I2
-aF0.00033090668431503574
-asS'8 24'
+I1
+aF0.0065939063210550593
+asS'slides triple'
 p836
 (lp837
-I9
-aF0.063055396376559991
-asS'executive vice'
+I14
+aF0.080589334257600925
+asS'/quotes/zigman/68719/delayed/quotes/nls/adsk adsk'
 p838
 (lp839
 I1
-aF-0.013834507961367818
-asS'stocks forcing'
+aF-0.015434451219512105
+asS'paying internships'
 p840
 (lp841
-I1
-aF-0.025641025641025664
-asS'part limited'
+I16
+aF0.046391384821821771
+asS'patches apple'
 p842
 (lp843
-I1
-aF0.022254127781766008
-asS'peter oppenheimer'
+I2
+aF0.0094823222529492185
+asS'+3.40% yahoo'
 p844
 (lp845
-I1
-aF0.0028884159318941583
-asS'stimulus. market'
+I3
+aF0.029027283270916533
+asS'futures slip'
 p846
 (lp847
-I1
-aF-0.01486199575371556
-asS'wholesale corp'
+I9
+aF0.063055396376559991
+asS'oppenheimer retire'
 p848
 (lp849
-I1
-aF-0.0089897260273972355
-asS'stepped ceo'
+I45
+aF0.88418902091172502
+asS'communications commission'
 p850
 (lp851
-I1
-aF0.0028884159318941583
-asS'- 0.09%'
+I2
+aF0.019620762866974131
+asS'test record'
 p852
 (lp853
 I1
-aF0.016847172081828975
-asS'ukraine gold'
+aF0.0065939063210550593
+asS'earlier announced'
 p854
 (lp855
-I2
-aF0.011512762036800132
-asS'- 0.93%'
+I1
+aF0.032987171655467266
+asS'writes paulsen'
 p856
 (lp857
-I2
-aF-0.022566372361966354
-asS'$45 billion'
+I1
+aF-0.01486199575371556
+asS'fresh fields'
 p858
 (lp859
-I2
-aF-0.023970052699711648
-asS'j.p. morgan'
+I1
+aF-0.0096207215541164858
+asS'third quarter'
 p860
 (lp861
-I4
-aF0.013592832051404428
-asS'closed record'
+I1
+aF-0.01486199575371556
+asS'- 1.54%'
 p862
 (lp863
 I1
-aF-0.024283439490445837
-asS'agencies nearly'
+aF-0.015434451219512105
+asS'arizona said'
 p864
 (lp865
 I1
-aF-0.01486199575371556
-asS'away dealers'
+aF-0.010500807754442712
+asS'billion shares'
 p866
 (lp867
 I1
-aF0.0063291139240506224
-asS'makes prosthetics'
+aF0.0065939063210550593
+asS'states speaking'
 p868
 (lp869
 I1
-aF-0.0044444444444443499
-asS'markets close'
+aF-0.015098314606741563
+asS'ge -'
 p870
 (lp871
-I2
-aF0.011512762036800132
-asS'crisis deepens'
+I1
+aF0.00067980965329706225
+asS'canada argentina'
 p872
 (lp873
-I14
-aF0.080589334257600925
-asS'million $1.02'
+I1
+aF-0.015098314606741563
+asS'hole apple'
 p874
 (lp875
-I1
-aF-0.0070054945054943809
-asS'million $1.05'
+I2
+aF0.0094823222529492185
+asS'mandaro s&p'
 p876
 (lp877
-I1
-aF-0.026623073330219536
-asS'head quantitative'
+I2
+aF0.013187812642110119
+asS'gun bill'
 p878
 (lp879
-I1
-aF-0.025641025641025664
-asS'million $1.07'
+I2
+aF0.019620762866974131
+asS'call market'
 p880
 (lp881
 I1
-aF-0.0070054945054943809
-asS'fia.mi said'
+aF-0.025641025641025664
+asS'redemptions according'
 p882
 (lp883
 I1
-aF0.0063291139240506224
-asS'3.4% after-hours'
+aF0.014802631578947345
+asS'confidential financial'
 p884
 (lp885
-I1
-aF-0.020009416195856743
-asS'head advanced'
+I4
+aF-0.00061460034380793511
+asS'david einhorn\xe2\x80\x99s'
 p886
 (lp887
-I1
-aF-0.013834507961367818
-asS'1 percent'
+I2
+aF0.023622213537533625
+asS'stake nokia'
 p888
 (lp889
-I3
-aF0.028517110266159596
-asS'three months'
+I1
+aF0.036999999999999922
+asS'risk-weight variations'
 p890
 (lp891
 I1
-aF0.0028884159318941583
-asS'industrywide u.s.'
+aF-0.015098314606741563
+asS'defend ruble.the'
 p892
 (lp893
 I1
-aF0.0063291139240506224
-asS'$5 billion.'
+aF0.022254127781766008
+asS'see active'
 p894
 (lp895
-I1
-aF0.023487602630611493
-asS'probably kept'
+I10
+aF-0.060775370143652127
+asS'exterran partners'
 p896
 (lp897
 I1
-aF0.0063291139240506224
-asS'worth. starr'
+aF-0.0032679738562091968
+asS'co 005380.ks'
 p898
 (lp899
 I1
-aF-0.01486199575371556
-asS'speeds paying'
+aF0.0095057034220531987
+asS'weeks ago'
 p900
 (lp901
-I3
-aF-0.024059813263408034
-asS'28 2014'
+I1
+aF-0.0044444444444443499
+asS'staff changes'
 p902
 (lp903
-I63
-aF0.44138777463592005
-asS'500 already'
+I1
+aF-0.013834507961367818
+asS'states around'
 p904
 (lp905
-I3
-aF-0.039832894544929484
-asS'companies dominated'
+I1
+aF-0.015098314606741563
+asS'fell 64'
 p906
 (lp907
-I8
-aF-0.07254061158029762
-asS'insured guaranteed'
+I2
+aF0.01182253889076694
+asS'russia hikes'
 p908
 (lp909
-I1
-aF-0.01486199575371556
-asS'russian banks'
+I57
+aF0.33936168525976329
+asS'high $1,182'
 p910
 (lp911
-I9
-aF0.063055396376559991
-asS'separate company'
+I12
+aF0.069076572220800783
+asS'tesla tsla'
 p912
 (lp913
-I1
-aF-0.0078271226816403073
-asS'years previously'
+I4
+aF0.081138679079869228
+asS'heavyweights sap'
 p914
 (lp915
-I1
-aF0.0095057034220531987
-asS'kings accept'
+I14
+aF0.018081633883883088
+asS'duties marketing'
 p916
 (lp917
-I9
-aF0.063055396376559991
-asS'kr fortune'
+I1
+aF-0.013834507961367818
+asS'sodastream international'
 p918
 (lp919
-I4
-aF-0.037111166550747227
-asS'get full'
+I2
+aF-0.00013053922301388583
+asS'/quotes/zigman/62747/delayed/quotes/nls/ttwo ttwo'
 p920
 (lp921
-I1
-aF0.022254127781766008
-asS'- 0.32%'
+I2
+aF0.023622213537533625
+asS'2014 +0.71%'
 p922
 (lp923
 I1
-aF-0.015434451219512105
-asS"'s pre-crisis"
+aF0.0065939063210550593
+asS'fujiy free'
 p924
 (lp925
-I2
-aF0.0073921320280504483
-asS'posted double-digit'
+I3
+aF0.076043454879415551
+asS'websites force'
 p926
 (lp927
-I1
-aF-0.042688910696761409
-asS'made loans'
+I4
+aF0.010079537768633639
+asS'commission investigating'
 p928
 (lp929
 I1
 aF-0.01486199575371556
-asS'week offered'
+asS'co. ko'
 p930
 (lp931
 I1
-aF0.0027342063606276006
-asS'+33.30 +2.52%'
+aF0.054777388694347298
+asS'win column'
 p932
 (lp933
-I2
-aF0.011512762036800132
-asS'releases quarterly'
+I30
+aF0.78528042609589921
+asS'virgin islands'
 p934
 (lp935
-I2
-aF-0.022566372361966354
-asS'sachs group'
+I1
+aF0.022254127781766008
+asS'selling brands'
 p936
 (lp937
-I1
-aF0.0028884159318941583
-asS'gail levine'
+I2
+aF0.02960526315789469
+asS'sb 1062'
 p938
 (lp939
-I1
-aF-0.010660963270678267
-asS'petroleum corp.'
+I4
+aF-0.047177815558848674
+asS'lovallo reiterated'
 p940
 (lp941
 I2
-aF0.023622213537533625
-asS'arm holdings'
+aF0.040569339539934614
+asS'closest crimea'
 p942
 (lp943
-I7
-aF-0.061600416238838308
-asS'oil leaps'
+I1
+aF-0.025641025641025664
+asS'ecuador 1964'
 p944
 (lp945
-I57
-aF0.33936168525976329
-asS'be. iphones'
+I1
+aF-0.015098314606741563
+asS'gmcr canada'
 p946
 (lp947
 I1
-aF0.0028884159318941583
-asS'said howard'
+aF-0.012006549026741798
+asS'observers certain'
 p948
 (lp949
 I1
-aF-0.025641025641025664
-asS'tensions spike'
+aF-0.01486199575371556
+asS'chase co.'
 p950
 (lp951
-I57
-aF0.33936168525976329
-asS'mexican attorney'
+I3
+aF0.029027283270916533
+asS'read article'
 p952
 (lp953
-I1
-aF-0.01486199575371556
-asS'few. sears'
+I24
+aF0.25324927828668647
+asS'numbers retirementors'
 p954
 (lp955
-I1
-aF0.033296089385474903
-asS'partnership coca-cola'
+I43
+aF0.25877235100216228
+asS'bank lehman'
 p956
 (lp957
-I2
-aF-0.0096874231100129455
-asS'service inc'
+I1
+aF-0.015098314606741563
+asS'market fell'
 p958
 (lp959
 I1
-aF0.022254127781766008
-asS'andreesen purchased'
+aF-0.025641025641025664
+asS'got boost'
 p960
 (lp961
-I1
-aF-0.0078271226816403073
-asS'2010 rules'
+I2
+aF0.019620762866974131
+asS'identity theft'
 p962
 (lp963
 I2
-aF-0.023970052699711648
-asS'weather probably'
+aF0.019620762866974131
+asS'attracted attention'
 p964
 (lp965
-I1
-aF-0.01486199575371556
-asS'subpoena u.s.'
+I4
+aF-0.010679627874459668
+asS'group /quotes/zigman/29728828/delayed/quotes/nls/vod'
 p966
 (lp967
-I1
-aF-0.01486199575371556
-asS'mexico.the world'
+I2
+aF-0.0014321680310061119
+asS'wesson swhc'
 p968
 (lp969
 I1
-aF0.022254127781766008
-asS'many car'
+aF0.015490533562822848
+asS'regions fear'
 p970
 (lp971
-I1
-aF0.0063291139240506224
-asS'comes time'
+I3
+aF-0.036479419703103984
+asS"'s successor"
 p972
 (lp973
-I3
-aF-0.0074698637256651115
-asS'renewing attacks'
+I1
+aF0.0065939063210550593
+asS'" \'ve'
 p974
 (lp975
-I1
-aF-0.0078271226816403073
-asS'ebay 2009'
+I2
+aF-0.0096143372351269688
+asS'according bofa'
 p976
 (lp977
 I1
-aF-0.0078271226816403073
-asS'crimea putin'
+aF0.014802631578947345
+asS'fall might'
 p978
 (lp979
-I1
-aF-0.025641025641025664
-asS'capossela replace'
+I2
+aF0.038093405336004325
+asS'alleged conflicts'
 p980
 (lp981
-I1
-aF-0.013834507961367818
-asS'global rebalancing'
+I2
+aF0.0050351650906114501
+asS'methanex corp'
 p982
 (lp983
-I9
-aF0.063055396376559991
-asS'run 8'
+I6
+aF0.028685644767253066
+asS'discovered least'
 p984
 (lp985
-I9
-aF0.063055396376559991
-asS'associated sale'
+I1
+aF-0.01486199575371556
+asS'wfm free'
 p986
 (lp987
 I1
-aF-0.0078271226816403073
-asS'ceo charge'
+aF-0.0096207215541164858
+asS'pop-up store'
 p988
 (lp989
-I1
-aF-0.013834507961367818
-asS'stocks expected'
+I30
+aF0.78528042609589921
+asS'metre said.the'
 p990
 (lp991
-I3
-aF0.029027283270916533
-asS'states europe.'
+I1
+aF-0.0044444444444443499
+asS'euro 10'
 p992
 (lp993
-I1
-aF0.022254127781766008
-asS'os x'
+I9
+aF0.063055396376559991
+asS'buy dow'
 p994
 (lp995
-I2
-aF0.0057768318637883165
-asS'ahead 4q13'
+I3
+aF0.043144411231668872
+asS'5. 12'
 p996
 (lp997
 I1
-aF0.0095057034220531987
-asS'deutsche bank'
+aF0.014802631578947345
+asS'apple 9'
 p998
 (lp999
 I1
-aF0.0095057034220531987
-asS'month national'
+aF0.0065939063210550593
+asS'record ukraine'
 p1000
 (lp1001
-I2
-aF0.0076523476523476276
-asS'slump ukraine'
+I47
+aF0.89737683355383513
+asS'month. iphones'
 p1002
 (lp1003
-I14
-aF0.080589334257600925
-asS'earnings 29'
+I1
+aF0.0028884159318941583
+asS'17 percent'
 p1004
 (lp1005
 I1
-aF-0.047141424272818457
-asS'bancaria y'
+aF0.0095057034220531987
+asS'past ukraine'
 p1006
 (lp1007
-I1
-aF-0.01486199575371556
-asS'- 2.24%'
+I30
+aF0.78528042609589921
+asS'former skype'
 p1008
 (lp1009
-I2
-aF0.023622213537533625
-asS'fitb free'
+I1
+aF-0.013834507961367818
+asS'forecast report'
 p1010
 (lp1011
 I2
-aF-0.014586566700890537
-asS'36 a.m.'
+aF-0.030299319009660548
+asS'store cuts'
 p1012
 (lp1013
-I12
-aF0.069076572220800783
-asS'apple bugs'
+I30
+aF0.78528042609589921
+asS'joins market'
 p1014
 (lp1015
-I1
-aF0.0028884159318941583
-asS'friday discovered'
+I2
+aF0.013187812642110119
+asS'patterns many'
 p1016
 (lp1017
 I1
-aF-0.01486199575371556
-asS'available united'
+aF0.022254127781766008
+asS'| metals'
 p1018
 (lp1019
-I1
-aF0.022254127781766008
-asS'currently many'
+I2
+aF0.011512762036800132
+asS'origination sale'
 p1020
 (lp1021
 I1
 aF-0.01486199575371556
-asS'500 paying'
+asS'american collectors.'
 p1022
 (lp1023
-I8
-aF-0.07254061158029762
-asS'program --'
+I1
+aF0.01016055675194774
+asS'withdraw product'
 p1024
 (lp1025
-I1
-aF-0.01486199575371556
-asS'computers running'
+I2
+aF0.007155813175024445
+asS'russia seizes'
 p1026
 (lp1027
-I1
-aF0.0028884159318941583
-asS'money laundering'
+I9
+aF0.063055396376559991
+asS'investors seek'
 p1028
 (lp1029
-I1
-aF0.022254127781766008
-asS'/quotes/zigman/121019/delayed/quotes/nls/chtr chtr'
+I9
+aF0.063055396376559991
+asS'\xe2\x80\x9cwe expect'
 p1030
 (lp1031
 I1
-aF-0.0085193657805474349
-asS'readjust changes'
+aF0.0075437537718768856
+asS'canada u.s.'
 p1032
 (lp1033
 I1
 aF0.022254127781766008
-asS'easing program'
+asS'foods mkt'
 p1034
 (lp1035
 I1
-aF-0.01486199575371556
-asS'slowing growth'
+aF-0.0096207215541164858
+asS'freezes proceeds'
 p1036
 (lp1037
 I1
-aF-0.0071729957805906396
-asS'borrowing money'
+aF-0.015098314606741563
+asS'fear imminent'
 p1038
 (lp1039
-I1
-aF-0.0044444444444443499
-asS'oil 6'
+I3
+aF-0.036479419703103984
+asS'lynch global'
 p1040
 (lp1041
-I12
-aF0.069076572220800783
-asS'momentum "'
+I1
+aF0.014802631578947345
+asS'sofas west'
 p1042
 (lp1043
-I1
-aF-0.042688910696761409
-asS'washington machine'
+I2
+aF-0.0063315831052970124
+asS'quarter. monday\xe2\x80\x99s'
 p1044
 (lp1045
 I1
-aF-0.0044444444444443499
-asS'ruble traded'
+aF-0.0074465529666106712
+asS'said companies'
 p1046
 (lp1047
-I1
-aF-0.025641025641025664
-asS'likely chill.'
+I2
+aF0.0073921320280504483
+asS'known trade'
 p1048
 (lp1049
 I1
-aF-0.024283439490445837
-asS'read 51.3'
+aF-0.015098314606741563
+asS'technology news'
 p1050
 (lp1051
 I1
-aF-0.0071729957805906396
-asS'management reshuffle'
+aF-0.013834507961367818
+asS'mahmudova treasurys'
 p1052
 (lp1053
-I1
-aF-0.013834507961367818
-asS'relationship russia'
+I12
+aF0.069076572220800783
+asS'12 52'
 p1054
 (lp1055
-I2
-aF-0.048566878980891674
-asS'shareholders demanding'
+I9
+aF0.063055396376559991
+asS'aal at&t'
 p1056
 (lp1057
-I1
-aF-0.0078271226816403073
-asS'losses.citigroup chief'
+I4
+aF-0.047177815558848674
+asS'strong start'
 p1058
 (lp1059
-I1
-aF-0.01486199575371556
-asS'2.24% micron'
+I2
+aF0.023269395998132755
+asS'name few.'
 p1060
 (lp1061
 I2
-aF0.023622213537533625
-asS'expand faster'
+aF0.024645570354333065
+asS'yhoo -'
 p1062
 (lp1063
-I55
-aF0.32784892322296316
-asS'oil wheat'
+I3
+aF0.029027283270916533
+asS'loss gold'
 p1064
 (lp1065
 I43
 aF0.25877235100216228
-asS'company u.s.'
+asS'day high'
 p1066
 (lp1067
-I1
-aF-0.042688910696761409
-asS'program potential'
+I15
+aF0.088858291183965946
+asS'unveiled proposal'
 p1068
 (lp1069
-I1
-aF0.022254127781766008
-asS'slow u.s.'
+I2
+aF0.0050351650906114501
+asS'shares 2'
 p1070
 (lp1071
-I2
-aF-0.02972399150743112
-asS'dollar euro.'
+I1
+aF0.036999999999999922
+asS'4.7 million'
 p1072
 (lp1073
 I1
-aF-0.025641025641025664
-asS'president corporate'
+aF0.0028884159318941583
+asS'providers could'
 p1074
 (lp1075
-I1
-aF0.0095057034220531987
-asS'2.34% \xc2'
+I4
+aF-0.0075938299399980749
+asS'ukraine. "'
 p1076
 (lp1077
 I1
-aF-0.047141424272818457
-asS'flights first'
+aF0.017951856385148825
+asS'" radioshack'
 p1078
 (lp1079
-I1
-aF0.022254127781766008
-asS'live state.'
+I44
+aF0.87759511459066997
+asS'basis payments'
 p1080
 (lp1081
-I2
-aF-0.027834386954147632
-asS'144% 2013'
+I1
+aF-0.01486199575371556
+asS'mar fortune'
 p1082
 (lp1083
-I2
-aF0.011512762036800132
-asS'fool\xe2\x80\x99s gold'
+I4
+aF-0.047177815558848674
+asS'move leads'
 p1084
 (lp1085
 I9
 aF0.063055396376559991
-asS'newport n.h.'
+asS'federal safety'
 p1086
 (lp1087
 I1
-aF0.0062801932367149279
-asS'2013 problems'
+aF0.034482758620689689
+asS'insurance brokers'
 p1088
 (lp1089
-I1
-aF-0.01486199575371556
-asS'russia economically'
+I2
+aF0.060087816422073489
+asS'worst selloff'
 p1090
 (lp1091
-I1
-aF-0.024283439490445837
-asS'richest man'
+I3
+aF0.019781718963165176
+asS'expected central'
 p1092
 (lp1093
 I1
-aF0.022254127781766008
-asS'suvs helped'
+aF-0.015098314606741563
+asS'" didn'
 p1094
 (lp1095
 I1
-aF0.0063291139240506224
-asS'glance stocks'
+aF-0.0044444444444443499
+asS'; googletag.cmd.push'
 p1096
 (lp1097
-I43
-aF0.25877235100216228
-asS'billion restricted'
+I5
+aF0.1588106388459081
+asS'home reits'
 p1098
 (lp1099
-I1
-aF-0.015337423312883396
-asS'cobalt hhr'
+I20
+aF0.11512762036800134
+asS'market worst'
 p1100
 (lp1101
 I1
-aF-0.052777777777777764
-asS'updates windows'
+aF0.025356283546178002
+asS'slowly surged'
 p1102
 (lp1103
 I1
-aF-0.013834507961367818
-asS'bb&t corp'
+aF-0.042688910696761409
+asS'boost 10'
 p1104
 (lp1105
-I2
-aF-0.014586566700890537
-asS'solar inc.'
+I9
+aF0.063055396376559991
+asS'newscast ukraine'
 p1106
 (lp1107
-I2
-aF-0.038899596986157331
-asS'push separate'
+I1
+aF0.0065939063210550593
+asS"'s called"
 p1108
 (lp1109
-I1
-aF-0.0078271226816403073
-asS'use google'
+I2
+aF-0.0096143372351269688
+asS'retailer said'
 p1110
 (lp1111
 I1
-aF-0.010660963270678267
-asS'expand bid'
+aF-0.015098314606741563
+asS'international lxk'
 p1112
 (lp1113
 I1
-aF-0.0044444444444443499
-asS'within united'
+aF0.028248587570621538
+asS'u.s. shares'
 p1114
 (lp1115
-I3
-aF0.066762383345298021
-asS'0.20% \xc2'
+I2
+aF0.0088256025018465366
+asS'saved aig'
 p1116
 (lp1117
-I1
-aF-0.011144883485308961
-asS'cook icahn'
+I4
+aF0.039241525733948263
+asS'poll economists.readings'
 p1118
 (lp1119
-I2
-aF-0.00069443755499005305
-asS'company\xe2\x80\x99s sale'
+I1
+aF-0.0071729957805906396
+asS'unacceptable protectionism'
 p1120
 (lp1121
 I1
-aF-0.016598508539812311
-asS'autodesk inc.'
+aF-0.015098314606741563
+asS'buy 51%'
 p1122
 (lp1123
-I1
-aF-0.015434451219512105
-asS'corp. /quotes/zigman/13139813/delayed/quotes/nls/scty'
+I4
+aF0.065456931664997706
+asS'banking reads'
 p1124
 (lp1125
-I1
-aF-0.020009416195856743
-asS'87% $47.3'
+I43
+aF0.25877235100216228
+asS'corporation.but kaplan'
 p1126
 (lp1127
 I1
-aF-0.020009416195856743
-asS'oil apple'
+aF-0.015098314606741563
+asS'non-fha-insured loan'
 p1128
 (lp1129
-I2
-aF-0.00069443755499005305
-asS'overall u.s.'
+I1
+aF-0.01486199575371556
+asS"'s annual"
 p1130
 (lp1131
-I1
-aF-0.042688910696761409
-asS'filing bankruptcy.'
+I2
+aF0.019620762866974131
+asS'leopard potential'
 p1132
 (lp1133
 I2
-aF-0.02972399150743112
-asS'bartash dollar'
+aF0.0094823222529492185
+asS'microsoft overseeing'
 p1134
 (lp1135
-I12
-aF0.069076572220800783
-asS'fell almost'
+I1
+aF-0.013834507961367818
+asS'buffett\xe2\x80\x99s berkshire'
 p1136
 (lp1137
 I1
-aF-0.025641025641025664
-asS'well running'
+aF0.00067980965329706225
+asS'biggest cellphone'
 p1138
 (lp1139
-I32
-aF0.18420419258880216
-asS'nadella appointed'
+I1
+aF-0.015098314606741563
+asS'expects european'
 p1140
 (lp1141
 I1
-aF-0.013834507961367818
-asS'previously. meanwhile'
+aF0.032987171655467266
+asS'att delta'
 p1142
 (lp1143
-I2
-aF-0.023970052699711648
-asS'24 p.m.'
+I4
+aF-0.047177815558848674
+asS'easing --'
 p1144
 (lp1145
-I9
-aF0.063055396376559991
-asS'agreement sunday'
-p1146
-(lp1147
-I3
-aF-0.024059813263408034
-asS'stole posted'
-p1148
-(lp1149
 I1
 aF-0.01486199575371556
-asS'stocks tumble'
+asS'columbia 12'
+p1146
+(lp1147
+I30
+aF0.78528042609589921
+asS'others --'
+p1148
+(lp1149
+I4
+aF0.010079537768633639
+asS'trade protectionism'
 p1150
 (lp1151
-I18
-aF0.040820045012349711
-asS'overturned them.'
+I1
+aF-0.015098314606741563
+asS'ikea sofas'
 p1152
 (lp1153
 I2
-aF-0.023970052699711648
-asS'stock market'
+aF-0.0063315831052970124
+asS'green mountain'
 p1154
 (lp1155
-I45
-aF0.25848760890731465
-asS'co gm.n'
+I8
+aF0.063949636551044159
+asS"'s sky"
 p1156
 (lp1157
-I1
-aF0.0095057034220531987
-asS'hertz global'
+I2
+aF0.033732486151840983
+asS'activist investor'
 p1158
 (lp1159
-I2
-aF-0.045650441836882411
-asS'changing frequent-flier'
+I5
+aF-0.0050279844255186629
+asS'fight country'
 p1160
 (lp1161
 I1
-aF0.022254127781766008
-asS'likely outperform'
+aF0.034482758620689689
+asS'/quotes/zigman/217978/delayed/quotes/nls/apc apc'
 p1162
 (lp1163
-I43
-aF0.25877235100216228
-asS'csco fortune'
+I2
+aF0.023622213537533625
+asS'whatever want'
 p1164
 (lp1165
-I6
-aF-0.05390200719883341
-asS'2009 less'
+I1
+aF-0.015098314606741563
+asS"'s fedex"
 p1166
 (lp1167
 I1
-aF-0.0078271226816403073
-asS'gallery said'
+aF0.022254127781766008
+asS'september 2008'
 p1168
 (lp1169
 I1
-aF-0.010660963270678267
-asS'direct access'
+aF-0.015098314606741563
+asS'pnc financial'
 p1170
 (lp1171
-I3
-aF-0.024059813263408034
-asS'comcast-twc deal'
+I2
+aF-0.0082949308755760238
+asS'reports dismal'
 p1172
 (lp1173
-I3
-aF-0.039832894544929484
-asS'" jaime'
+I30
+aF0.78528042609589921
+asS'- 2.24%'
 p1174
 (lp1175
-I1
-aF-0.01486199575371556
-asS'unnamed sources.bates'
+I2
+aF0.023622213537533625
+asS'rope popular'
 p1176
 (lp1177
-I1
-aF-0.013834507961367818
-asS'vetoes anti-gay'
+I2
+aF0.03185842475789831
+asS'sao paulo/new'
 p1178
 (lp1179
 I1
-aF0.0028884159318941583
-asS'jcp fortune'
+aF-0.015098314606741563
+asS'top executives'
 p1180
 (lp1181
-I2
-aF0.019043392929388579
-asS'biggest parcel'
+I1
+aF-0.013834507961367818
+asS'mobi market'
 p1182
 (lp1183
-I1
-aF0.022254127781766008
-asS'topping analysts'
+I2
+aF0.10801026392961874
+asS'bitcoin buzz'
 p1184
 (lp1185
-I1
-aF0.0063291139240506224
-asS'percent luxury'
+I9
+aF0.063055396376559991
+asS'resources didn'
 p1186
 (lp1187
 I1
-aF0.0095057034220531987
-asS'times reported'
+aF-0.0044444444444443499
+asS'giants amazon'
 p1188
 (lp1189
-I1
-aF-0.013834507961367818
-asS'cost fortune'
+I12
+aF0.023189645674656527
+asS'alleging chilean'
 p1190
 (lp1191
-I4
-aF-0.037111166550747227
-asS'percent toyota'
+I1
+aF-0.015098314606741563
+asS'sjolin 5'
 p1192
 (lp1193
-I1
-aF0.0095057034220531987
-asS'500 reported'
+I12
+aF0.069076572220800783
+asS'controlling shareholder'
 p1194
 (lp1195
 I1
-aF0.033296089385474903
-asS'bigger comcast'
+aF-0.015098314606741563
+asS'" omidyar'
 p1196
 (lp1197
 I2
-aF-0.023970052699711648
-asS'inc. /quotes/zigman/90481/delayed/quotes/nls/pcln'
+aF0.0050351650906114501
+asS'controller felt'
 p1198
 (lp1199
 I1
-aF-0.0078586044304735248
-asS'company united'
+aF0.0065939063210550593
+asS'newswire -'
 p1200
 (lp1201
-I1
-aF0.022254127781766008
-asS'touching record'
+I330
+aF8.6380846870548655
+asS'1 05'
 p1202
 (lp1203
-I1
-aF-0.025641025641025664
-asS'risks escalation'
+I30
+aF0.78528042609589921
+asS'early trading'
 p1204
 (lp1205
 I1
-aF-0.025641025641025664
-asS'york stole'
+aF0.0095057034220531987
+asS'radioshack appoints'
 p1206
 (lp1207
-I1
-aF-0.01486199575371556
-asS'corporate development'
+I30
+aF0.78528042609589921
+asS'11 min'
 p1208
 (lp1209
-I1
-aF0.0095057034220531987
-asS'funds hot'
+I12
+aF0.069076572220800783
+asS'media corp.'
 p1210
 (lp1211
-I2
-aF-0.00069443755499005305
-asS'apple inc'
+I4
+aF0.0010669424439089712
+asS'oil gas'
 p1212
 (lp1213
 I1
-aF0.0028884159318941583
-asS'raised rates'
+aF0.028248587570621538
+asS'readjust changes'
 p1214
 (lp1215
 I1
 aF0.022254127781766008
-asS'$3.68 million'
+asS'half century'
 p1216
 (lp1217
-I1
-aF-0.026623073330219536
-asS'market inc.'
+I2
+aF0.023269395998132755
+asS'bancorp fitb'
 p1218
 (lp1219
-I1
-aF-0.0096207215541164858
-asS'frequent-flier program'
+I2
+aF-0.0082949308755760238
+asS'sale securitization'
 p1220
 (lp1221
-I2
-aF0.044508255563532016
-asS'still shows'
+I1
+aF-0.01486199575371556
+asS'walmart wmt'
 p1222
 (lp1223
-I1
-aF0.023487602630611493
-asS'upgrade --'
+I4
+aF0.044781306879880148
+asS'tally. federal'
 p1224
 (lp1225
 I1
-aF0.0028884159318941583
-asS'world learn'
+aF-0.01486199575371556
+asS'in-line q3'
 p1226
 (lp1227
-I9
-aF0.063055396376559991
-asS'political catastrophe'
+I1
+aF0.0075437537718768856
+asS'500 facebook'
 p1228
 (lp1229
-I2
-aF-0.02972399150743112
-asS'back cutting'
+I18
+aF0.030812883599399276
+asS'group inc.'
 p1230
 (lp1231
-I1
-aF0.023487602630611493
-asS'units next'
+I5
+aF0.036270463462607302
+asS'9 07'
 p1232
 (lp1233
-I1
-aF-0.015337423312883396
-asS'unless specifically'
+I39
+aF0.8483358224724592
+asS'9 05'
 p1234
 (lp1235
-I2
-aF0.0073921320280504483
-asS'three weeks.citigroup'
+I30
+aF0.78528042609589921
+asS'9 00'
 p1236
 (lp1237
-I1
-aF-0.01486199575371556
-asS'reserves prop'
+I30
+aF0.78528042609589921
+asS'40 a.m.'
 p1238
 (lp1239
-I1
-aF-0.025641025641025664
-asS'expectations u.s.'
+I30
+aF0.78528042609589921
+asS'44 a.m.'
 p1240
 (lp1241
-I2
-aF0.011512762036800132
-asS'stocks slump'
+I9
+aF0.063055396376559991
+asS"'s g5"
 p1242
 (lp1243
-I14
-aF0.080589334257600925
-asS'battery factory'
+I2
+aF0.033732486151840983
+asS'bank new'
 p1244
 (lp1245
-I1
-aF0.023487602630611493
-asS'inc. /quotes/zigman/68719/delayed/quotes/nls/adsk'
+I2
+aF-0.02972399150743112
+asS'board 2007.gorder'
 p1246
 (lp1247
 I1
-aF-0.015434451219512105
-asS'corp. meoh'
+aF0.0095057034220531987
+asS'ruling bars'
 p1248
 (lp1249
-I2
-aF0.0063122470976729999
-asS'at&t att'
+I1
+aF-0.015098314606741563
+asS'10q 10k'
 p1250
 (lp1251
-I4
-aF-0.047177815558848674
-asS'\xc2 unwound'
+I30
+aF0.78528042609589921
+asS'news site'
 p1252
 (lp1253
 I1
-aF0.00067980965329706225
-asS'back basics'
+aF-0.013834507961367818
+asS'rates. federal'
 p1254
 (lp1255
 I1
-aF0.0028884159318941583
-asS"france 's"
+aF-0.01486199575371556
+asS'crux issue'
 p1256
 (lp1257
-I3
-aF-0.017581246670218344
-asS'meteoric rally'
+I1
+aF-0.015098314606741563
+asS'texas build'
 p1258
 (lp1259
-I9
-aF0.063055396376559991
-asS"'s deliberations"
+I2
+aF0.040569339539934614
+asS"'s tenure"
 p1260
 (lp1261
 I1
-aF-0.0078271226816403073
-asS'board average'
+aF0.0065939063210550593
+asS'already sold'
 p1262
 (lp1263
-I1
-aF0.022254127781766008
-asS'performance. "'
+I2
+aF-0.0005004065187305274
+asS'unit effective'
 p1264
 (lp1265
 I1
-aF-0.0078271226816403073
-asS'month. stocks'
+aF0.022254127781766008
+asS'facebook fb'
 p1266
 (lp1267
-I1
-aF-0.010861132660977546
-asS'$18.48 million'
+I35
+aF0.097824354461867866
+asS'yhoo fortune'
 p1268
 (lp1269
-I1
-aF-0.026623073330219536
-asS'also unveiled'
+I16
+aF0.046391384821821771
+asS'temperatures expected'
 p1270
 (lp1271
 I1
-aF-0.0078271226816403073
-asS'jeep models'
+aF-0.042688910696761409
+asS'close 1,100'
 p1272
 (lp1273
 I1
-aF0.0063291139240506224
-asS'fitb pnc'
+aF-0.015098314606741563
+asS'ebay spin'
 p1274
 (lp1275
 I2
-aF-0.0082949308755760238
-asS'close 1,321.60'
+aF0.0050351650906114501
+asS'china commodities'
 p1276
 (lp1277
-I12
-aF0.069076572220800783
-asS'rules many'
+I43
+aF0.25877235100216228
+asS'considering within'
 p1278
 (lp1279
-I1
-aF0.022254127781766008
-asS'says status'
+I3
+aF0.076043454879415551
+asS'5 reasons'
 p1280
 (lp1281
-I2
-aF-0.00069443755499005305
-asS'co 7201.t'
+I3
+aF-0.036479419703103984
+asS'proprietary medications'
 p1282
 (lp1283
 I1
-aF0.0063291139240506224
-asS'corp 7203.t'
+aF-0.015098314606741563
+asS'+2.25% \xc2'
 p1284
 (lp1285
 I1
-aF0.0095057034220531987
-asS'nearly 300,000'
+aF0.027218934911242658
+asS'" buffett'
 p1286
 (lp1287
-I1
-aF-0.01486199575371556
-asS'facebook inc.'
+I2
+aF-0.0096143372351269688
+asS'estimates first'
 p1288
 (lp1289
-I2
-aF0.0081501793177280978
-asS'chrysler automobiles'
+I1
+aF0.028248587570621538
+asS'swhc report'
 p1290
 (lp1291
 I1
-aF0.0063291139240506224
-asS'could end'
+aF0.015490533562822848
+asS'micron technology'
 p1292
 (lp1293
-I20
-aF0.11512762036800134
-asS'shares publicly'
+I2
+aF0.023622213537533625
+asS'property sharma'
 p1294
 (lp1295
 I1
-aF0.022254127781766008
-asS'lines changing'
+aF-0.015098314606741563
+asS'month. "'
 p1296
 (lp1297
 I1
-aF0.022254127781766008
-asS'fuels supply'
+aF-0.010660963270678267
+asS'help working'
 p1298
 (lp1299
-I12
-aF0.069076572220800783
-asS'.chrysler unit'
+I2
+aF0.007155813175024445
+asS'patch stormy'
 p1300
 (lp1301
 I1
-aF0.0063291139240506224
-asS'bureau economic'
+aF-0.015098314606741563
+asS'april 2011.january'
 p1302
 (lp1303
-I2
-aF0.0076523476523476276
-asS'become chief'
+I1
+aF-0.0071729957805906396
+asS'efficient cars'
 p1304
 (lp1305
-I2
-aF-0.027669015922735636
-asS'enterprises reports'
+I10
+aF0.065939063210550597
+asS'banks fail'
 p1306
 (lp1307
-I2
-aF0.011512762036800132
-asS'trimmed arco'
+I1
+aF-0.015098314606741563
+asS'among companies'
 p1308
 (lp1309
-I1
-aF0.01163378856853821
-asS'skype microsoft'
+I8
+aF-0.06064483092063825
+asS'week low'
 p1310
 (lp1311
-I1
-aF-0.013834507961367818
-asS'would lead'
+I15
+aF0.088858291183965946
+asS'say whatever'
 p1312
 (lp1313
 I1
-aF-0.01486199575371556
-asS'gm -'
+aF-0.015098314606741563
+asS"\xe2\x80\x94 's"
 p1314
 (lp1315
-I3
-aF0.029027283270916533
-asS'akzoy get'
+I1
+aF0.0065939063210550593
+asS'preview 2'
 p1316
 (lp1317
-I3
-aF0.0021474564628237813
-asS'could halted.'
+I30
+aF0.78528042609589921
+asS'19 2014'
 p1318
 (lp1319
-I2
-aF-0.051282051282051329
-asS'report suntrust'
+I30
+aF0.78528042609589921
+asS'month. jan'
 p1320
 (lp1321
-I2
-aF-0.014586566700890537
-asS'icahn revealed'
+I1
+aF-0.010500807754442712
+asS'19 2013'
 p1322
 (lp1323
-I1
-aF-0.0078271226816403073
-asS'inc. /quotes/zigman/62747/delayed/quotes/nls/ttwo'
+I30
+aF0.78528042609589921
+asS'loss ;'
 p1324
 (lp1325
-I2
-aF0.023622213537533625
-asS'fedex freight'
+I44
+aF0.87759511459066997
+asS'lenders comply'
 p1326
 (lp1327
-I2
-aF0.044508255563532016
-asS'long fed'
+I1
+aF-0.015098314606741563
+asS'johnson one-time'
 p1328
 (lp1329
-I1
-aF-0.01486199575371556
-asS'protection agency'
+I2
+aF0.0094823222529492185
+asS'loss 1'
 p1330
 (lp1331
 I1
-aF-0.01749999999999996
-asS'poland ready'
+aF0.028248587570621538
+asS'stimulus. ukraine'
 p1332
 (lp1333
-I9
-aF0.063055396376559991
-asS'2008 bailout'
+I1
+aF-0.01486199575371556
+asS'different way'
 p1334
 (lp1335
 I2
-aF-0.02972399150743112
-asS'january ruling'
+aF0.007155813175024445
+asS'entity.donziger leveled'
 p1336
 (lp1337
-I2
-aF-0.023970052699711648
-asS'related apple'
+I1
+aF-0.015098314606741563
+asS'new models'
 p1338
 (lp1339
 I1
-aF0.0028884159318941583
-asS'fbi monitors'
+aF-0.015098314606741563
+asS'31 according'
 p1340
 (lp1341
-I43
-aF0.25877235100216228
-asS'federal rules'
+I2
+aF0.0073921320280504483
+asS'prods che'
 p1342
 (lp1343
-I1
-aF-0.01486199575371556
-asS'u.s. refiner'
+I3
+aF0.0021474564628237813
+asS'filing monday.'
 p1344
 (lp1345
 I1
-aF-0.01749999999999996
-asS'street journal'
+aF-0.01486199575371556
+asS'water undercover'
 p1346
 (lp1347
-I180
-aF1.2611079275311989
-asS'corporate governance'
-p1348
-(lp1349
-I2
-aF0.0073921320280504483
-asS'per month.'
-p1350
-(lp1351
-I8
-aF-0.07254061158029762
-asS'data icahn'
-p1352
-(lp1353
-I2
-aF0.011512762036800132
-asS'production u.k.'
-p1354
-(lp1355
 I43
 aF0.25877235100216228
-asS'bankrate.com national'
+asS"coverage 'sell"
+p1348
+(lp1349
+I1
+aF0.0065939063210550593
+asS'new twentysomething'
+p1350
+(lp1351
+I2
+aF-0.0063315831052970124
+asS'northern technologies'
+p1352
+(lp1353
+I10
+aF0.080170432510115394
+asS'rost +1.16%'
+p1354
+(lp1355
+I1
+aF0.0022133075114123195
+asS'split whether'
 p1356
 (lp1357
-I33
-aF0.22370447524008044
-asS'; stocks'
+I1
+aF-0.015098314606741563
+asS'cost $5'
 p1358
 (lp1359
-I57
-aF0.33936168525976329
-asS'said tuesday'
+I2
+aF0.040569339539934614
+asS'? given'
 p1360
 (lp1361
 I1
-aF0.00016545334215751787
-asS'asian weakness'
+aF0.017951856385148825
+asS'electric co.'
 p1362
 (lp1363
-I9
-aF0.063055396376559991
-asS'fiber may'
+I1
+aF0.00067980965329706225
+asS'. northern'
 p1364
 (lp1365
-I1
-aF-0.010660963270678267
-asS'estimates 3'
+I2
+aF0.014895823661047334
+asS'indemnity erie'
 p1366
 (lp1367
-I1
-aF0.0095057034220531987
-asS'early trading'
+I2
+aF0.060087816422073489
+asS'investors may'
 p1368
 (lp1369
 I1
-aF0.0095057034220531987
-asS'international business'
+aF0.012706969580285016
+asS'german gold'
 p1370
 (lp1371
 I1
-aF0.022254127781766008
-asS'gauge long'
+aF-0.015098314606741563
+asS'soros took'
 p1372
 (lp1373
 I1
-aF-0.01486199575371556
-asS'shareholders getting'
+aF-0.015434451219512105
+asS'dan concludes'
 p1374
 (lp1375
 I1
-aF-0.016598508539812311
-asS'0.3 percent'
+aF0.022254127781766008
+asS'/quotes/zigman/146635/delayed/quotes/nls/gsk gsk'
 p1376
 (lp1377
-I3
-aF-0.014346998406732193
-asS'motors co.'
+I1
+aF0.00067980965329706225
+asS'gates suggests'
 p1378
 (lp1379
-I3
-aF0.029027283270916533
-asS'edition russian'
+I2
+aF0.007155813175024445
+asS'- 0.98%'
 p1380
 (lp1381
-I9
-aF0.063055396376559991
-asS'at&t also'
+I2
+aF0.046975205261222987
+asS'judgment.chevron accused'
 p1382
 (lp1383
 I1
-aF-0.010660963270678267
-asS'36 p.m.'
+aF-0.015098314606741563
+asS'trade wednesday\xe2\x80\x99s'
 p1384
 (lp1385
-I9
-aF0.063055396376559991
-asS'january corrected'
+I4
+aF-0.063050346459041007
+asS'many focused'
 p1386
 (lp1387
-I43
-aF0.25877235100216228
-asS'founded george'
+I1
+aF-0.01486199575371556
+asS'hold .\xc2'
 p1388
 (lp1389
 I1
-aF-0.015434451219512105
-asS'values welcomes'
+aF0.028248587570621538
+asS'shareholders thursday'
 p1390
 (lp1391
-I1
-aF-0.010500807754442712
-asS'ross stores'
+I2
+aF0.0050351650906114501
+asS'clinton family'
 p1392
 (lp1393
-I2
-aF-0.014010989010988762
-asS'percent effective'
+I1
+aF-0.013834507961367818
+asS'time emerging'
 p1394
 (lp1395
-I1
-aF0.022254127781766008
-asS'january court'
+I4
+aF0.039241525733948263
+asS"'s accused"
 p1396
 (lp1397
 I1
-aF-0.01486199575371556
-asS'1,000 acres'
+aF-0.01749999999999996
+asS'- sara'
 p1398
 (lp1399
-I1
-aF0.023487602630611493
-asS'commercial-airline pilots'
+I12
+aF0.069076572220800783
+asS'sector joins'
 p1400
 (lp1401
-I1
-aF-0.01486199575371556
-asS'sport zacks'
+I2
+aF0.013187812642110119
+asS'britain france.'
 p1402
 (lp1403
-I3
-aF0.015817950519726197
-asS'annual filing'
+I1
+aF-0.015098314606741563
+asS'international trade'
 p1404
 (lp1405
 I1
-aF-0.01486199575371556
-asS'8 2014'
+aF-0.015098314606741563
+asS'gm selling'
 p1406
 (lp1407
-I18
-aF0.12611079275312001
-asS'flaws go'
+I1
+aF-0.015434451219512105
+asS'headlines ukraine'
 p1408
 (lp1409
-I1
-aF0.0028884159318941583
-asS'- 1.14%'
+I2
+aF-0.010838394062078319
+asS"'s top-selling"
 p1410
 (lp1411
-I2
-aF-0.01571720886094705
-asS'14% related'
+I1
+aF-0.042688910696761409
+asS'u.s. dollar'
 p1412
 (lp1413
-I1
-aF-0.01486199575371556
-asS'thomson reuters'
+I9
+aF0.063055396376559991
+asS'spending climbs'
 p1414
 (lp1415
-I3
-aF-0.035296778668710962
-asS'slow federal'
+I55
+aF0.32784892322296316
+asS'specific products'
 p1416
 (lp1417
-I2
-aF-0.02972399150743112
-asS'fund management'
+I1
+aF-0.015098314606741563
+asS'assure greater'
 p1418
 (lp1419
 I1
-aF-0.015434451219512105
-asS'record lows'
+aF-0.015098314606741563
+asS'disclosed friday'
 p1420
 (lp1421
 I1
-aF-0.025641025641025664
-asS'citigroup said'
+aF-0.01486199575371556
+asS'j. casey'
 p1422
 (lp1423
-I1
-aF-0.01486199575371556
-asS'raise rates'
+I9
+aF0.063055396376559991
+asS'tsla +1.55%'
 p1424
 (lp1425
 I1
-aF0.022254127781766008
-asS'sue chang'
+aF0.01708173690932312
+asS'putin made'
 p1426
 (lp1427
-I5
-aF-0.054537389082536671
-asS"'s stock"
+I1
+aF0.017951856385148825
+asS'shares fall'
 p1428
 (lp1429
-I2
-aF-0.000284742094847662
-asS'luxury goods'
+I9
+aF0.063055396376559991
+asS"icahn 's"
 p1430
 (lp1431
-I9
-aF0.063055396376559991
-asS'buzz familiar'
+I6
+aF0.015105495271834348
+asS'rates across'
 p1432
 (lp1433
-I9
-aF0.063055396376559991
-asS'million 79'
+I1
+aF0.022254127781766008
+asS'/quotes/zigman/710745/delayed/quotes/nls/soda soda'
 p1434
 (lp1435
-I1
-aF0.023487602630611493
-asS'profit came'
+I2
+aF-0.00013053922301388583
+asS'corporation hun'
 p1436
 (lp1437
 I1
-aF-0.0078271226816403073
-asS'posted publicly'
+aF0.032987171655467266
+asS'interactive edition'
 p1438
 (lp1439
-I1
-aF-0.01486199575371556
-asS'started slowly'
+I210
+aF2.0463883536270986
+asS'u.s. manufacturers'
 p1440
 (lp1441
-I1
-aF-0.042688910696761409
-asS'federal housing'
+I55
+aF0.32784892322296316
+asS'34 analysts'
 p1442
 (lp1443
-I3
-aF-0.0074698637256651115
-asS'chase citigroup'
+I2
+aF-0.036359796772710784
+asS'reuters data.'
 p1444
 (lp1445
-I1
-aF-0.015434451219512105
-asS"won 't"
+I2
+aF0.0073921320280504483
+asS"'s malibu"
 p1446
 (lp1447
-I3
-aF0.019025920596588659
-asS'stratasys ssys'
+I1
+aF-0.042688910696761409
+asS'announced deal'
 p1448
 (lp1449
 I2
-aF-0.051049018886638195
-asS"'s plans."
+aF0.0052826627277634021
+asS'crimea conflict'
 p1450
 (lp1451
-I2
-aF-0.02972399150743112
-asS'2008 many'
+I9
+aF0.063055396376559991
+asS'flights first'
 p1452
 (lp1453
-I1
-aF-0.01486199575371556
-asS'week china'
+I2
+aF0.007155813175024445
+asS'say india'
 p1454
 (lp1455
-I43
-aF0.25877235100216228
-asS'things investors'
+I1
+aF-0.015098314606741563
+asS'einhorn\xe2\x80\x99s greenlight'
 p1456
 (lp1457
-I12
-aF0.069076572220800783
-asS'laundering fraud'
+I2
+aF0.023622213537533625
+asS'past four'
 p1458
 (lp1459
 I1
-aF0.022254127781766008
-asS"freddie 's"
+aF0.012706969580285016
+asS'result 27%'
 p1460
 (lp1461
 I2
-aF0.0073921320280504483
-asS'2011 $8.5'
+aF0.10801026392961874
+asS'chief strategy'
 p1462
 (lp1463
-I1
-aF-0.013834507961367818
-asS'fourth quarter.'
+I2
+aF-0.027669015922735636
+asS'trade practices.referring'
 p1464
 (lp1465
-I3
-aF-0.03845328640886115
-asS'citing person'
+I1
+aF-0.015098314606741563
+asS'ruble.ukraine said'
 p1466
 (lp1467
 I1
-aF-0.013834507961367818
-asS'falling peak.'
+aF-0.025641025641025664
+asS'drama ebay'
 p1468
 (lp1469
-I1
-aF-0.01486199575371556
-asS'economy growing'
+I2
+aF0.0050351650906114501
+asS'companies inc.'
 p1470
 (lp1471
 I2
-aF0.011512762036800132
-asS'potential target'
+aF0.060087816422073489
+asS'include zacks'
 p1472
 (lp1473
 I1
-aF0.0028884159318941583
-asS'spate mixed'
+aF0.028248587570621538
+asS'bitcoin\xe2\x80\x99s uncertain'
 p1474
 (lp1475
-I1
-aF-0.01486199575371556
-asS'\xc2 likely'
+I9
+aF0.063055396376559991
+asS'earlier raised'
 p1476
 (lp1477
-I5
-aF-0.010560818897732197
-asS'impact glance'
+I1
+aF0.022254127781766008
+asS'fred free'
 p1478
 (lp1479
-I43
-aF0.25877235100216228
-asS'ukraine events'
+I1
+aF0.0085513078470825805
+asS'+1.19% \xc2'
 p1480
 (lp1481
 I1
-aF-0.025641025641025664
-asS'sap sap'
+aF0.0022133075114123195
+asS'mandaro u.s.'
 p1482
 (lp1483
-I7
-aF-0.061600416238838308
-asS'factory could'
+I4
+aF0.026375625284220237
+asS'ebay paid'
 p1484
 (lp1485
-I1
-aF0.023487602630611493
-asS'program success'
+I2
+aF0.0050351650906114501
+asS'development strategic'
 p1486
 (lp1487
 I1
-aF0.022254127781766008
-asS'manage central'
+aF0.0095057034220531987
+asS'0.53% \xc2'
 p1488
 (lp1489
-I1
-aF-0.01486199575371556
-asS'market impact'
+I2
+aF-0.038899596986157331
+asS'5 14'
 p1490
 (lp1491
-I43
-aF0.25877235100216228
-asS'three mexican'
+I30
+aF0.78528042609589921
+asS'5 17'
 p1492
 (lp1493
-I1
-aF-0.01486199575371556
-asS'a.m. today10'
+I30
+aF0.78528042609589921
+asS'51 min'
 p1494
 (lp1495
-I42
-aF0.26426393719472163
-asS'could validate'
+I12
+aF0.069076572220800783
+asS'position xerox'
 p1496
 (lp1497
 I1
-aF-0.01486199575371556
-asS'solarcity corp.'
+aF0.0065939063210550593
+asS'loans mexican'
 p1498
 (lp1499
-I3
-aF-0.06565985803273916
-asS'inc appl.o'
+I1
+aF-0.01486199575371556
+asS'minimum amount'
 p1500
 (lp1501
 I1
-aF0.0028884159318941583
-asS'going far'
+aF-0.015098314606741563
+asS'verizon shares'
 p1502
 (lp1503
-I1
-aF-0.025641025641025664
-asS'accountability ebay'
+I2
+aF-0.0014321680310061119
+asS'hustle stock'
 p1504
 (lp1505
-I1
-aF-0.0078271226816403073
-asS'index national'
+I30
+aF0.78528042609589921
+asS'radioshack drops'
 p1506
 (lp1507
-I1
-aF-0.0071729957805906396
-asS'corp vlo.n'
+I44
+aF0.87759511459066997
+asS'hun said'
 p1508
 (lp1509
 I1
-aF-0.01749999999999996
-asS'42 min'
+aF0.032987171655467266
+asS'chinese tech'
 p1510
 (lp1511
-I12
-aF0.069076572220800783
-asS'looking sites'
+I14
+aF0.018081633883883088
+asS'analysts say'
 p1512
 (lp1513
-I1
-aF0.023487602630611493
-asS'shares companies'
+I2
+aF-0.030196629213483126
+asS'warning. company'
 p1514
 (lp1515
-I2
-aF-0.051049018886638195
-asS'private investment'
+I1
+aF0.022254127781766008
+asS'concerns use'
 p1516
 (lp1517
 I1
-aF0.0027342063606276006
-asS'sacramento kings'
+aF-0.015098314606741563
+asS"sa 's"
 p1518
 (lp1519
-I9
-aF0.063055396376559991
-asS'icahn enterprises'
+I1
+aF-0.015098314606741563
+asS'records "'
 p1520
 (lp1521
 I2
-aF0.011512762036800132
-asS'mexico banking'
+aF0.0050351650906114501
+asS"ftc 's"
 p1522
 (lp1523
-I43
-aF0.25877235100216228
-asS'u.s. mexico'
+I2
+aF0.019620762866974131
+asS'strong buy'
 p1524
 (lp1525
-I1
-aF0.022254127781766008
-asS'said entering'
+I8
+aF0.11545953689263815
+asS'records 6'
 p1526
 (lp1527
-I2
-aF-0.0096874231100129455
-asS'shows greed'
+I3
+aF0.019781718963165176
+asS'took hit'
 p1528
 (lp1529
-I1
-aF0.023487602630611493
-asS'investments new'
+I2
+aF0.0052826627277634021
+asS'competition pending'
 p1530
 (lp1531
 I1
-aF-0.013834507961367818
-asS'4 2013'
+aF0.0075437537718768856
+asS'\xc2 january'
 p1532
 (lp1533
-I9
-aF0.063055396376559991
-asS'inc. /quotes/zigman/54683/delayed/quotes/nls/gmcr'
+I1
+aF-0.015098314606741563
+asS'world economy'
 p1534
 (lp1535
-I2
-aF-0.0096874231100129455
-asS'react comcast-twc'
+I4
+aF-0.051577734309845545
+asS'wider drive'
 p1536
 (lp1537
-I3
-aF-0.039832894544929484
-asS'almost 11'
+I1
+aF-0.015098314606741563
+asS'years-long battle'
 p1538
 (lp1539
 I1
-aF-0.025641025641025664
-asS'company views'
+aF-0.015098314606741563
+asS'loss $3.68'
 p1540
 (lp1541
-I1
-aF0.022254127781766008
-asS'security firm'
+I2
+aF-0.01702614434749404
+asS'ahead wall'
 p1542
 (lp1543
-I7
-aF-0.061600416238838308
-asS'41 a.m.'
+I30
+aF0.78528042609589921
+asS'. activist'
 p1544
 (lp1545
-I27
-aF0.18916618912968003
-asS'seeing growth'
+I1
+aF0.012862287772251757
+asS'warned would'
 p1546
 (lp1547
-I4
-aF-0.059447983014862239
-asS'zone 2014'
+I1
+aF0
+asS'western europe'
 p1548
 (lp1549
 I1
-aF-0.025641025641025664
-asS'msft fortune'
+aF-0.015098314606741563
+asS'fb free'
 p1550
 (lp1551
-I19
-aF-0.19394452924679614
-asS'1,321.60 1,354.90'
+I2
+aF0.044429609850170595
+asS"'s succession"
 p1552
 (lp1553
 I2
-aF0.011512762036800132
-asS'pepsico inc.'
+aF0.037754290992674737
+asS'fears slap'
 p1554
 (lp1555
 I1
-aF-0.011144883485308961
-asS'co f.n'
+aF0.0065939063210550593
+asS'u.s. canada'
 p1556
 (lp1557
 I1
-aF-0.042688910696761409
-asS'. big'
+aF0.022254127781766008
+asS'letter ebay'
 p1558
 (lp1559
-I1
-aF-0.0089897260273972355
-asS'sporting goods'
+I4
+aF0.0100703301812229
+asS'cleaned site'
 p1560
 (lp1561
-I43
-aF0.25877235100216228
-asS'-- unnerving'
+I1
+aF-0.015098314606741563
+asS'roughly equal'
 p1562
 (lp1563
-I2
-aF-0.051282051282051329
-asS'bring cable'
+I1
+aF-0.015098314606741563
+asS'report loss'
 p1564
 (lp1565
 I2
-aF-0.023970052699711648
-asS'said expected'
+aF-0.027455969162467415
+asS'diagnosed stage'
 p1566
 (lp1567
-I1
-aF0.0063291139240506224
-asS'archer ihs'
+I2
+aF0.037754290992674737
+asS'whole bank'
 p1568
 (lp1569
 I1
-aF-0.025641025641025664
-asS'holdings 13-f'
+aF-0.01486199575371556
+asS'scty -'
 p1570
 (lp1571
-I1
-aF0.00067980965329706225
-asS'bad business'
+I2
+aF-0.040018832391713485
+asS'sites 500'
 p1572
 (lp1573
-I4
-aF-0.047177815558848674
-asS'corp amt'
+I2
+aF0.040569339539934614
+asS'ebay subsidiary'
 p1574
 (lp1575
-I1
-aF0.00082576383154416076
-asS'beatable consensus'
+I2
+aF0.0050351650906114501
+asS'europe respond.'
 p1576
 (lp1577
 I1
-aF0.0095057034220531987
-asS'attracted attention'
+aF-0.015098314606741563
+asS'1.32% \xc2'
 p1578
 (lp1579
 I2
-aF-0.0096874231100129455
-asS'region ukraine'
+aF-0.014010989010988762
+asS'united states.'
 p1580
 (lp1581
-I1
-aF-0.025641025641025664
-asS'garmin ltd.'
+I4
+aF-0.023040816038458679
+asS'927,762 euros'
 p1582
 (lp1583
-I1
-aF-0.0011181513231456424
-asS'500 target'
+I2
+aF0.033133788568538193
+asS'meanwhile biggest'
 p1584
 (lp1585
-I2
-aF0.019043392929388579
-asS'stock likely'
+I4
+aF-0.0075938299399980749
+asS'holdings one'
 p1586
 (lp1587
-I43
-aF0.25877235100216228
-asS'target.when adjusted'
+I1
+aF0.034482758620689689
+asS'tumble surprise'
 p1588
 (lp1589
-I2
-aF-0.036601126188498201
-asS'today6 00'
+I44
+aF0.87759511459066997
+asS'co. announced'
 p1590
 (lp1591
-I12
-aF0.069076572220800783
-asS'auto sales'
+I1
+aF-0.015098314606741563
+asS'prices 1.1'
 p1592
 (lp1593
-I1
-aF0.0063291139240506224
-asS'bigger hand'
+I2
+aF-0.036601126188498201
+asS'malibu cruze'
 p1594
 (lp1595
 I1
-aF-0.013834507961367818
-asS'russia deteriorate'
+aF-0.042688910696761409
+asS'europe expected'
 p1596
 (lp1597
 I1
-aF0.022254127781766008
-asS'list glassdoor'
+aF-0.015098314606741563
+asS'ukraine mobilized'
 p1598
 (lp1599
-I8
-aF-0.07254061158029762
-asS'deal acquire'
+I1
+aF-0.024283439490445837
+asS'bank josb'
 p1600
 (lp1601
-I1
-aF-0.015337423312883396
-asS'tally. federal'
+I5
+aF0.0030902965634086246
+asS'share. potbelly'
 p1602
 (lp1603
 I1
-aF-0.01486199575371556
-asS'property spg'
+aF-0.026623073330219536
+asS'apple pressure'
 p1604
 (lp1605
 I1
-aF-0.0096207215541164858
-asS'candidates succeed'
+aF0.0065939063210550593
+asS'product line'
 p1606
 (lp1607
-I1
-aF-0.013834507961367818
-asS'percent u.s.'
+I2
+aF0.007155813175024445
+asS'instead delivering'
 p1608
 (lp1609
-I1
-aF0.025356283546178002
-asS'yahoo inc.'
+I6
+aF0.013389593364884374
+asS'repatriate half'
 p1610
 (lp1611
-I3
-aF0.029027283270916533
-asS'atvi electronic'
+I1
+aF-0.015098314606741563
+asS'trader rbc'
 p1612
 (lp1613
-I7
-aF-0.061600416238838308
-asS'economically moscow'
+I2
+aF-0.010838394062078319
+asS'bilateral friendship.'
 p1614
 (lp1615
 I1
-aF-0.024283439490445837
-asS'a.m. today12'
+aF-0.015098314606741563
+asS'- foxbusiness'
 p1616
 (lp1617
-I9
-aF0.063055396376559991
-asS'they\xc2 begin'
+I30
+aF0.78528042609589921
+asS'sell analyst'
 p1618
 (lp1619
 I1
-aF-0.01486199575371556
-asS'closely monitoring'
+aF0.012706969580285016
+asS'india china'
 p1620
 (lp1621
 I9
 aF0.063055396376559991
-asS'back-dating trades'
+asS'wake-up call'
 p1622
 (lp1623
-I43
-aF0.25877235100216228
-asS'investor buy.'
+I1
+aF-0.025641025641025664
+asS'said nadella'
 p1624
 (lp1625
 I1
-aF0.022254127781766008
-asS'earnings 32'
+aF-0.013834507961367818
+asS'stop plate'
 p1626
 (lp1627
-I2
-aF-0.045650441836882411
-asS'euro rises'
+I43
+aF0.25877235100216228
+asS'homemade single-serve'
 p1628
 (lp1629
-I9
-aF0.063055396376559991
-asS'customers move'
+I1
+aF-0.012006549026741798
+asS'stuck federal'
 p1630
 (lp1631
-I1
-aF0.022254127781766008
-asS'amazon amzn'
+I2
+aF-0.036601126188498201
+asS'tony bates'
 p1632
 (lp1633
-I16
-aF-0.14067681133097312
-asS'hd fortune'
+I1
+aF-0.013834507961367818
+asS'company former'
 p1634
 (lp1635
-I2
-aF0.019043392929388579
-asS'vald\xc3\xa9s 200,000'
+I1
+aF-0.013834507961367818
+asS'" market'
 p1636
 (lp1637
 I1
-aF-0.010660963270678267
-asS'regulations "'
+aF-0.015098314606741563
+asS'\xc2 shareholders'
 p1638
 (lp1639
-I1
-aF-0.01486199575371556
-asS'stake fannie'
+I2
+aF-0.0014321680310061119
+asS'" said'
 p1640
 (lp1641
-I2
-aF0.0073921320280504483
-asS'bond buying'
+I14
+aF-0.14757738975451223
+asS'would bring'
 p1642
 (lp1643
-I1
-aF-0.01486199575371556
-asS'airlines aal'
+I4
+aF-0.0075938299399980749
+asS'force disclose'
 p1644
 (lp1645
 I4
-aF-0.047177815558848674
-asS'700,000 euros'
+aF0.010079537768633639
+asS'jaime gonzalez'
 p1646
 (lp1647
 I1
-aF0.01163378856853821
-asS'tuesday\xe2\x80\x99s closing'
+aF-0.01486199575371556
+asS'threats serious'
 p1648
 (lp1649
 I1
-aF-0.019449798493078665
-asS'co. /quotes/zigman/65095/delayed/quotes/nls/pnra'
+aF0.022254127781766008
+asS'1 million'
 p1650
 (lp1651
 I2
-aF0.00033090668431503574
-asS'nv akzoy'
+aF0.056497175141243076
+asS'reporters adding'
 p1652
 (lp1653
-I5
-aF0.0084597035604967799
-asS'members shareholders.'
+I1
+aF-0.015098314606741563
+asS'cap around'
 p1654
 (lp1655
 I1
-aF-0.0078271226816403073
-asS'bbry +3.40%'
+aF0.086510263929618747
+asS'security hole'
 p1656
 (lp1657
-I3
-aF0.029027283270916533
-asS"trades 'normal"
+I2
+aF0.0094823222529492185
+asS'hikes rates'
 p1658
 (lp1659
-I43
-aF0.25877235100216228
-asS'group inc.'
+I57
+aF0.33936168525976329
+asS'spending rose'
 p1660
 (lp1661
 I2
-aF-0.0082949308755760238
-asS'outperform stock'
+aF-0.036601126188498201
+asS'states arthur'
 p1662
 (lp1663
-I43
-aF0.25877235100216228
-asS'british police.'
+I1
+aF-0.015098314606741563
+asS'york stock'
 p1664
 (lp1665
-I1
-aF0.022254127781766008
-asS'/quotes/zigman/219651/delayed/quotes/nls/brk.a brk.a'
+I2
+aF0.031759831203819207
+asS'/quotes/zigman/19622165/delayed/quotes/nls/bbry bbry'
 p1666
 (lp1667
-I1
-aF0.00067980965329706225
-asS'15.4 million'
+I3
+aF0.029027283270916533
+asS'proposal urging'
 p1668
 (lp1669
-I1
-aF0.0063291139240506224
-asS'commodities corner'
+I2
+aF0.0050351650906114501
+asS'equity trader'
 p1670
 (lp1671
-I43
-aF0.25877235100216228
-asS'vice president'
+I2
+aF-0.010838394062078319
+asS'0.93% \xc2'
 p1672
 (lp1673
 I2
-aF-0.0043288045393146193
-asS'board member'
+aF-0.022566372361966354
+asS'guide fall'
 p1674
 (lp1675
 I2
-aF-0.00069443755499005305
-asS'took chief'
+aF0.038093405336004325
+asS'500 acres'
 p1676
 (lp1677
-I1
-aF-0.013834507961367818
-asS'blocked use'
+I2
+aF0.040569339539934614
+asS'models grand'
 p1678
 (lp1679
 I1
-aF-0.010660963270678267
-asS'government involvement'
+aF0.0063291139240506224
+asS'within mexico'
 p1680
 (lp1681
-I2
-aF0.0073921320280504483
-asS'bates tami'
+I1
+aF0.022254127781766008
+asS'shut 1,100'
 p1682
 (lp1683
-I1
-aF-0.013834507961367818
-asS'hertz /quotes/zigman/439823/delayed/quotes/nls/htz'
+I30
+aF0.78528042609589921
+asS'agency well'
 p1684
 (lp1685
-I2
-aF-0.045650441836882411
-asS'dreaded tapering'
+I1
+aF-0.01749999999999996
+asS'diplomacy though'
 p1686
 (lp1687
 I1
-aF-0.01486199575371556
-asS'following video'
+aF-0.015098314606741563
+asS'planned resume'
 p1688
 (lp1689
 I1
-aF0.022254127781766008
-asS'follow basic'
+aF-0.015098314606741563
+asS'john w.'
 p1690
 (lp1691
-I2
-aF0.0073921320280504483
-asS'win back-dating'
+I30
+aF0.78528042609589921
+asS'buffett announced'
 p1692
 (lp1693
-I43
-aF0.25877235100216228
-asS'research found'
+I2
+aF0.037754290992674737
+asS'end september'
 p1694
 (lp1695
-I2
-aF0.0076523476523476276
-asS'people familiar'
+I1
+aF0.0065939063210550593
+asS'ipad.the company'
 p1696
 (lp1697
 I1
-aF-0.01486199575371556
-asS'metre partners'
+aF0.0065939063210550593
+asS'width 630px'
 p1698
 (lp1699
-I1
-aF-0.0044444444444443499
-asS'temporarily take'
+I5
+aF0.1588106388459081
+asS'global grain'
 p1700
 (lp1701
-I1
-aF-0.013834507961367818
-asS'pro cnc'
+I4
+aF-0.021676788124156639
+asS'futures hit'
 p1702
 (lp1703
-I2
-aF-0.0088888888888886998
-asS"russia 's"
+I43
+aF0.25877235100216228
+asS'million will.'
 p1704
 (lp1705
-I2
-aF-0.000284742094847662
-asS'infiniti brand.analysts'
+I1
+aF0.028248587570621538
+asS'- paul'
 p1706
 (lp1707
-I1
-aF0.0095057034220531987
-asS'co. wednesday\xe2\x80\x99s'
+I9
+aF0.063055396376559991
+asS'try use'
 p1708
 (lp1709
 I1
-aF0.023487602630611493
-asS'cards 6'
+aF-0.015098314606741563
+asS'2014 +1.21%'
 p1710
 (lp1711
-I9
-aF0.063055396376559991
-asS'222,104 vehicles.'
+I1
+aF0.0065939063210550593
+asS'sold four'
 p1712
 (lp1713
-I1
-aF0.0095057034220531987
-asS'report sprint'
+I2
+aF-0.0005004065187305274
+asS'could also'
 p1714
 (lp1715
-I1
-aF0.00082576383154416076
-asS'slated report'
+I2
+aF-0.030196629213483126
+asS'board directors.'
 p1716
 (lp1717
-I1
-aF-0.0085193657805474349
-asS'quarterly results'
+I2
+aF0.0050351650906114501
+asS'/quotes/zigman/29728828/delayed/quotes/nls/vod vod'
 p1718
 (lp1719
-I1
-aF-0.019905850706119568
-asS'losing control'
+I2
+aF-0.0014321680310061119
+asS'weak government'
 p1720
 (lp1721
-I2
-aF-0.051282051282051329
-asS'really worth'
+I1
+aF-0.015098314606741563
+asS'content rules'
 p1722
 (lp1723
-I9
-aF0.063055396376559991
-asS'company planned'
+I1
+aF-0.015098314606741563
+asS'york deal'
 p1724
 (lp1725
 I1
-aF0.022254127781766008
-asS'recovery 5'
+aF-0.01486199575371556
+asS'penned yet'
 p1726
 (lp1727
-I9
-aF0.063055396376559991
-asS'member financial'
+I2
+aF0.0050351650906114501
+asS'gunmaker brings'
 p1728
 (lp1729
 I2
-aF-0.00069443755499005305
-asS'valero 27'
+aF0.03556487878640302
+asS'10 26'
 p1730
 (lp1731
-I1
-aF0.0095057034220531987
-asS'tuesday reported'
+I9
+aF0.063055396376559991
+asS'retreat apple'
 p1732
 (lp1733
 I1
-aF-0.047141424272818457
-asS'without upgrading'
+aF0.0065939063210550593
+asS'10 24'
 p1734
 (lp1735
-I1
-aF0.0028884159318941583
-asS'goods business'
+I12
+aF0.069076572220800783
+asS'edition market'
 p1736
 (lp1737
-I9
-aF0.063055396376559991
-asS'sales apple'
+I30
+aF0.78528042609589921
+asS'federal bureau'
 p1738
 (lp1739
-I45
-aF0.27028511303896241
-asS'street also'
+I3
+aF0.0047587671132585697
+asS'200,000 euros'
 p1740
 (lp1741
-I1
-aF0.025356283546178002
-asS'marriott international'
+I2
+aF-0.0005004065187305274
+asS'/quotes/zigman/87396/delayed/quotes/nls/swhc swhc'
 p1742
 (lp1743
 I1
-aF-0.017333579199704921
-asS'security flaw'
+aF0.015490533562822848
+asS'fund also'
 p1744
 (lp1745
-I1
-aF0.0028884159318941583
-asS'technology companies'
+I2
+aF0.0073921320280504483
+asS'today7 47'
 p1746
 (lp1747
-I8
-aF-0.07254061158029762
-asS'helped push'
+I12
+aF0.069076572220800783
+asS'thursday costco'
 p1748
 (lp1749
-I1
-aF0.0063291139240506224
-asS'shareholders reiterating'
+I8
+aF-0.020074526510182204
+asS'surely stock'
 p1750
 (lp1751
-I1
-aF-0.0078271226816403073
-asS'98 cents'
+I2
+aF0.011512762036800132
+asS'billions dollars'
 p1752
 (lp1753
 I1
-aF-0.019449798493078665
-asS'sink 18'
+aF0.034482758620689689
+asS'seizes border'
 p1754
 (lp1755
-I12
-aF0.069076572220800783
-asS'p.m. march'
+I9
+aF0.063055396376559991
+asS'pnc .'
 p1756
 (lp1757
-I18
-aF0.12611079275312001
-asS'" investors'
+I1
+aF-0.0082949308755760238
+asS'could get'
 p1758
 (lp1759
-I1
-aF-0.025641025641025664
-asS'far plain'
+I4
+aF-0.0075938299399980749
+asS'dish +1.44%'
 p1760
 (lp1761
 I1
-aF-0.025641025641025664
-asS'potential employees'
+aF0.011548913043478255
+asS'fields bought'
 p1762
 (lp1763
-I4
-aF-0.047177815558848674
-asS'edition russia'
+I1
+aF-0.0096207215541164858
+asS'workers factories'
 p1764
 (lp1765
-I9
-aF0.063055396376559991
-asS'prices 1.1'
+I2
+aF0.03556487878640302
+asS'related fear'
 p1766
 (lp1767
 I2
-aF-0.036601126188498201
-asS'come federal'
+aF0.040569339539934614
+asS'mu +1.03%'
 p1768
 (lp1769
-I1
-aF-0.01486199575371556
-asS'executive chris'
+I2
+aF0.023622213537533625
+asS'crew -'
 p1770
 (lp1771
 I1
-aF-0.013834507961367818
-asS'session carlyle'
+aF0.0065939063210550593
+asS'reina sof\xc3\xada'
 p1772
 (lp1773
-I1
-aF-0.021229666390956799
-asS'messaging service'
+I2
+aF0.033133788568538193
+asS'love snuck'
 p1774
 (lp1775
 I1
-aF-0.015337423312883396
-asS'national corporations'
+aF-0.01486199575371556
+asS'titans baidu'
 p1776
 (lp1777
-I4
-aF-0.047177815558848674
-asS'services provided'
+I14
+aF0.018081633883883088
+asS'net worth.'
 p1778
 (lp1779
 I1
 aF-0.01486199575371556
-asS'" complete'
+asS'reading 57'
 p1780
 (lp1781
 I1
-aF-0.0078271226816403073
-asS'business competitive'
+aF-0.0071729957805906396
+asS'contact information.'
 p1782
 (lp1783
 I1
-aF0.022254127781766008
-asS'cnc irish'
+aF-0.01486199575371556
+asS'? chesapeake'
 p1784
 (lp1785
 I1
-aF-0.0044444444444443499
-asS'500 closed'
+aF0.028248587570621538
+asS'2.6% london'
 p1786
 (lp1787
 I1
-aF-0.024283439490445837
-asS'agency u.s.'
+aF0.049303322615219622
+asS'easy average'
 p1788
 (lp1789
-I1
-aF-0.01749999999999996
-asS'month thanks'
+I2
+aF0.007155813175024445
+asS'google goog'
 p1790
 (lp1791
-I1
-aF-0.01486199575371556
-asS'said.gm said'
+I34
+aF0.077204268421221064
+asS'fhfa.fairholme 2.24'
 p1792
 (lp1793
-I1
-aF0.0063291139240506224
-asS'co. /quotes/zigman/227468/delayed/quotes/nls/ge'
+I2
+aF0.0073921320280504483
+asS'though equities'
 p1794
 (lp1795
 I1
-aF0.00067980965329706225
-asS'luxury infiniti'
+aF0.025356283546178002
+asS'/quotes/zigman/272085/delayed/quotes/nls/jpm jpm'
 p1796
 (lp1797
-I1
-aF0.0095057034220531987
-asS'hiked interest'
+I3
+aF0.029027283270916533
+asS'die wealth'
 p1798
 (lp1799
 I1
-aF0.022254127781766008
-asS'\xc2 work'
+aF-0.01486199575371556
+asS'vaishampayan u.s.'
 p1800
 (lp1801
-I2
-aF-0.0096874231100129455
-asS'trade thursday\xe2\x80\x99s'
+I12
+aF0.069076572220800783
+asS'said hoped'
 p1802
 (lp1803
 I1
-aF0.023487602630611493
-asS'saumya vaishampayan'
+aF-0.01486199575371556
+asS'yelp among'
 p1804
 (lp1805
-I12
-aF0.069076572220800783
-asS'bill. gox'
+I4
+aF-0.047177815558848674
+asS'express shipping'
 p1806
 (lp1807
 I1
-aF0.0028884159318941583
-asS'better together.'
+aF0.022254127781766008
+asS'$132.90 monday'
 p1808
 (lp1809
 I1
-aF-0.0078271226816403073
-asS'compared $81.1'
+aF0.022254127781766008
+asS'future vs.'
 p1810
 (lp1811
-I1
-aF0.016847172081828975
-asS'dollar tree'
+I9
+aF0.063055396376559991
+asS'2.45% \xc2'
 p1812
 (lp1813
 I1
-aF-0.00091290852656571587
-asS'conflict makes'
+aF-0.041690140845070334
+asS'obtain u.s.'
 p1814
 (lp1815
-I9
-aF0.063055396376559991
-asS'play monday'
+I1
+aF-0.015098314606741563
+asS'behavioral economics'
 p1816
 (lp1817
 I43
 aF0.25877235100216228
-asS'revival continues'
+asS'momentum "'
 p1818
 (lp1819
-I9
-aF0.063055396376559991
-asS'ukraine fuels'
+I1
+aF-0.042688910696761409
+asS'made three'
 p1820
 (lp1821
-I12
-aF0.069076572220800783
-asS'edition crimea'
+I1
+aF-0.01486199575371556
+asS'members marc'
 p1822
 (lp1823
-I9
-aF0.063055396376559991
-asS'biggest auto'
+I2
+aF0.0050351650906114501
+asS'shop said'
 p1824
 (lp1825
 I1
-aF-0.042688910696761409
-asS'- 0.53%'
+aF-0.0044444444444443499
+asS'11 41'
 p1826
 (lp1827
-I2
-aF-0.038899596986157331
-asS'financial data'
+I9
+aF0.063055396376559991
+asS'4 premarket'
 p1828
 (lp1829
-I2
-aF0.0074097938144331178
-asS'monday\xe2\x80\x99s closing'
+I30
+aF0.78528042609589921
+asS'voxeljet vjet'
 p1830
 (lp1831
-I1
-aF-0.020009416195856743
-asS'share year'
+I4
+aF-0.036225661420065031
+asS'target hackers.'
 p1832
 (lp1833
-I5
-aF-0.017301272005060077
-asS'44 a.m.'
+I2
+aF0.0094823222529492185
+asS'agency -'
 p1834
 (lp1835
-I9
-aF0.063055396376559991
-asS'slip stocks'
+I1
+aF-0.015098314606741563
+asS'22 cents'
 p1836
 (lp1837
-I9
-aF0.063055396376559991
-asS'shares trading'
+I2
+aF0.040569339539934614
+asS'report suntrust'
 p1838
 (lp1839
-I1
-aF0.022254127781766008
-asS'pcln fortune'
+I2
+aF-0.014586566700890537
+asS'states international'
 p1840
 (lp1841
-I7
-aF-0.061600416238838308
-asS'briefed change.penn'
+I1
+aF-0.015098314606741563
+asS'apparent crime.law'
 p1842
 (lp1843
 I1
-aF-0.013834507961367818
-asS"'t stomach"
+aF-0.01486199575371556
+asS'ceos jobs.'
 p1844
 (lp1845
-I1
-aF-0.0044444444444443499
-asS'also said'
+I2
+aF0.023269395998132755
+asS'drop 6'
 p1846
 (lp1847
 I1
-aF-0.01486199575371556
-asS'ttwo +0.46%'
+aF-0.042688910696761409
+asS'also factor.'
 p1848
 (lp1849
-I2
-aF0.023622213537533625
-asS'government kiev'
+I1
+aF0.034482758620689689
+asS'high uncontrollable'
 p1850
 (lp1851
-I2
-aF-0.051282051282051329
-asS'companies chemical'
+I1
+aF-0.01486199575371556
+asS'usitc -'
 p1852
 (lp1853
-I2
-aF0.0063122470976729999
-asS'" heading'
+I1
+aF-0.015098314606741563
+asS'loan origination'
 p1854
 (lp1855
 I1
-aF-0.042688910696761409
-asS'post fourth-quarter'
+aF-0.01486199575371556
+asS'hit fresh'
 p1856
 (lp1857
-I4
-aF-0.0099755118629449059
-asS'spain united'
+I43
+aF0.25877235100216228
+asS'/quotes/zigman/247026/delayed/quotes/nls/bp bp'
 p1858
 (lp1859
-I1
-aF0.022254127781766008
-asS'factset. related'
+I2
+aF0.023622213537533625
+asS'meat imports'
 p1860
 (lp1861
 I1
-aF-0.025641025641025664
-asS'petm fortune'
+aF-0.015098314606741563
+asS'highest close'
 p1862
 (lp1863
-I4
-aF-0.047177815558848674
-asS'stimulative bond'
+I57
+aF0.33936168525976329
+asS'new glass'
 p1864
 (lp1865
 I1
-aF-0.01486199575371556
-asS'1.3 percent'
+aF0.0028884159318941583
+asS'500 yelp'
 p1866
 (lp1867
-I1
-aF-0.025641025641025664
-asS'massachusetts.the company'
+I4
+aF-0.047177815558848674
+asS'total monthly'
 p1868
 (lp1869
 I1
-aF-0.01486199575371556
-asS'emerging market'
+aF0.0063291139240506224
+asS'internet service'
 p1870
 (lp1871
-I2
-aF-0.02972399150743112
-asS"believe 't"
+I4
+aF-0.0075938299399980749
+asS'2004 start'
 p1872
 (lp1873
-I2
-aF0.0073921320280504483
-asS'further. qualify'
+I1
+aF0.0065939063210550593
+asS'fail deal'
 p1874
 (lp1875
 I1
-aF0.022254127781766008
-asS'companies including'
+aF-0.015098314606741563
+asS'read crisis'
 p1876
 (lp1877
-I3
-aF-0.039832894544929484
-asS'soros fund'
+I1
+aF-0.015098314606741563
+asS'triple digits'
 p1878
 (lp1879
-I1
-aF-0.015434451219512105
-asS'5 47'
+I14
+aF0.080589334257600925
+asS'+1.25% buffett'
 p1880
 (lp1881
-I9
-aF0.063055396376559991
-asS'u.s. federal'
+I1
+aF0.0065939063210550593
+asS'500 starwood'
 p1882
 (lp1883
 I4
-aF-0.059447983014862239
-asS'ron johnson'
+aF-0.047177815558848674
+asS'dec. 19'
 p1884
 (lp1885
-I1
-aF0.0028884159318941583
-asS'shirts part'
+I30
+aF0.78528042609589921
+asS'ebay fortune'
 p1886
 (lp1887
-I1
-aF0.022254127781766008
-asS'already paid-connection'
+I24
+aF0.066541252771678314
+asS"aren 't"
 p1888
 (lp1889
-I3
-aF-0.039832894544929484
-asS'five months'
+I4
+aF-0.012663166210594025
+asS'3,155 4,352'
 p1890
 (lp1891
-I57
-aF0.33936168525976329
-asS'treasurys rise'
+I1
+aF0.0065939063210550593
+asS'states including'
 p1892
 (lp1893
-I14
-aF0.080589334257600925
-asS'7% hours.'
+I1
+aF0.022254127781766008
+asS'gain 17%.'
 p1894
 (lp1895
-I1
-aF-0.0069034107529398394
-asS'wallet app'
+I2
+aF0.040569339539934614
+asS'third point'
 p1896
 (lp1897
 I1
-aF-0.010660963270678267
-asS'said chief'
+aF0.036999999999999922
+asS'board feedback'
 p1898
 (lp1899
-I1
-aF-0.01749999999999996
-asS'0.05% blackberry'
+I2
+aF0.007155813175024445
+asS'stronger leverage'
 p1900
 (lp1901
-I3
-aF0.029027283270916533
-asS'mexico texas'
+I1
+aF-0.015098314606741563
+asS'national factory'
 p1902
 (lp1903
 I1
-aF0.023487602630611493
-asS'art fairs'
+aF-0.0071729957805906396
+asS'ptnrs exlp'
 p1904
 (lp1905
 I1
-aF-0.050196850393700768
-asS'half end'
+aF-0.0032679738562091968
+asS'congress monetary'
 p1906
 (lp1907
-I1
-aF0.00067980965329706225
-asS'2013 204,625'
+I2
+aF0.019620762866974131
+asS'currency chaos'
 p1908
 (lp1909
-I1
-aF0.01163378856853821
-asS'roughly 1.7%.'
+I9
+aF0.063055396376559991
+asS'trying readjust'
 p1910
 (lp1911
 I1
-aF-0.0058604155567394478
-asS'neighbor protect'
+aF0.022254127781766008
+asS'stock like'
 p1912
 (lp1913
 I1
-aF-0.025641025641025664
-asS'" diligent'
+aF0.028248587570621538
+asS'private contact'
 p1914
 (lp1915
 I1
-aF-0.0078271226816403073
-asS'planning.valero shares'
+aF-0.01486199575371556
+asS'session social'
 p1916
 (lp1917
-I1
-aF0.0095057034220531987
-asS'says ukraine'
+I2
+aF0.0052826627277634021
+asS'inc aapl.o'
 p1918
 (lp1919
-I9
-aF0.063055396376559991
-asS'potbelly fell'
+I2
+aF0.023269395998132755
+asS'system including'
 p1920
 (lp1921
-I1
-aF-0.026623073330219536
-asS'monday new'
+I2
+aF0.0094823222529492185
+asS'claims abroad.the'
 p1922
 (lp1923
 I1
-aF0.022254127781766008
-asS'nearly 12,000'
+aF-0.015098314606741563
+asS'issuing updates'
 p1924
 (lp1925
-I1
-aF-0.010500807754442712
-asS'inc. /quotes/zigman/94726/delayed/quotes/nls/dwa'
+I2
+aF0.0094823222529492185
+asS'2014 +0.53%'
 p1926
 (lp1927
-I2
-aF-0.094282848545636913
-asS"'ve heard"
+I1
+aF0.0065939063210550593
+asS'bks sti'
 p1928
 (lp1929
 I2
-aF-0.0096143372351269688
-asS'plans build'
+aF-0.014586566700890537
+asS'$1.05 share'
 p1930
 (lp1931
-I1
-aF0.0028884159318941583
-asS"capital 's"
+I4
+aF-0.019583789716164954
+asS'trade related'
 p1932
 (lp1933
-I43
-aF0.25877235100216228
-asS'economic research'
+I1
+aF-0.015098314606741563
+asS'co sedans'
 p1934
 (lp1935
-I2
-aF0.0076523476523476276
-asS"'s currency"
+I1
+aF0.034482758620689689
+asS'billion increased'
 p1936
 (lp1937
-I18
-aF0.12611079275312001
-asS'loans insured'
+I1
+aF-0.015098314606741563
+asS'russian markets'
 p1938
 (lp1939
-I1
-aF-0.01486199575371556
-asS'many economic'
+I10
+aF0.04795708176981843
+asS'briefing best'
 p1940
 (lp1941
-I1
-aF-0.01486199575371556
-asS'09 a.m.'
+I30
+aF0.78528042609589921
+asS'billion last'
 p1942
 (lp1943
-I12
-aF0.069076572220800783
-asS'effort weaken'
+I1
+aF-0.015098314606741563
+asS'verizon wireless'
 p1944
 (lp1945
-I9
-aF0.063055396376559991
-asS'vanke given'
+I2
+aF-0.0014321680310061119
+asS'russia etf'
 p1946
 (lp1947
-I2
-aF0.011512762036800132
-asS'26 a.m.'
+I1
+aF0.022254127781766008
+asS'/quotes/zigman/23609459/delayed/quotes/nls/mar mar'
 p1948
 (lp1949
-I18
-aF0.12611079275312001
-asS'despicable crime'
+I2
+aF-0.0072003459476876735
+asS'two three'
 p1950
 (lp1951
 I1
 aF-0.01486199575371556
-asS'corp. /quotes/zigman/13637761/delayed/quotes/nls/lmca'
+asS'resolved diplomacy'
 p1952
 (lp1953
-I2
-aF-0.022566372361966354
-asS'slides triple'
+I1
+aF-0.015098314606741563
+asS'capacity 440,000'
 p1954
 (lp1955
-I14
-aF0.080589334257600925
-asS'known snow'
+I1
+aF-0.0032679738562091968
+asS'begin tapering'
 p1956
 (lp1957
 I1
-aF0.0028884159318941583
-asS'vs. meteoric'
+aF-0.01486199575371556
+asS'expected moderate.a'
 p1958
 (lp1959
-I9
-aF0.063055396376559991
-asS'pare gains'
+I1
+aF-0.042688910696761409
+asS'stocks worst'
 p1960
 (lp1961
-I14
-aF0.080589334257600925
-asS'average investor'
+I4
+aF0.026375625284220237
+asS'ways could'
 p1962
 (lp1963
-I1
-aF0.022254127781766008
-asS'12 26'
+I2
+aF0.023269395998132755
+asS"january 's"
 p1964
 (lp1965
-I9
-aF0.063055396376559991
-asS'apple since'
+I1
+aF-0.0071729957805906396
+asS'bad state'
 p1966
 (lp1967
-I1
-aF0.0028884159318941583
-asS'/quotes/zigman/68719/delayed/quotes/nls/adsk adsk'
+I4
+aF-0.047177815558848674
+asS'report at&t'
 p1968
 (lp1969
 I1
-aF-0.015434451219512105
-asS'500 extends'
+aF0.00082576383154416076
+asS'called brewer'
 p1970
 (lp1971
-I9
-aF0.063055396376559991
-asS'two straight'
+I1
+aF0.0028884159318941583
+asS'investors seemed'
 p1972
 (lp1973
 I1
-aF-0.0071729957805906396
-asS'applies eligible'
+aF0.022254127781766008
+asS'members shareholders.'
 p1974
 (lp1975
-I1
-aF0.022254127781766008
-asS'paying internships'
+I2
+aF0.0050351650906114501
+asS'much depend'
 p1976
 (lp1977
-I8
-aF-0.07254061158029762
-asS'patches apple'
+I1
+aF-0.015098314606741563
+asS'marketwatch radioshack'
 p1978
 (lp1979
-I1
-aF0.0028884159318941583
-asS'1.5%. france'
+I30
+aF0.78528042609589921
+asS'glazer see'
 p1980
 (lp1981
-I1
-aF-0.0058604155567394478
-asS'+3.40% yahoo'
+I30
+aF0.78528042609589921
+asS'big oil'
 p1982
 (lp1983
-I3
-aF0.029027283270916533
-asS'futures slip'
+I33
+aF0.19079809890985722
+asS'4 45'
 p1984
 (lp1985
 I9
 aF0.063055396376559991
-asS'edition getting'
+asS'4 42'
 p1986
 (lp1987
-I9
-aF0.063055396376559991
-asS'used federal'
+I30
+aF0.78528042609589921
+asS'77.9. additionally'
 p1988
 (lp1989
 I1
-aF-0.01486199575371556
-asS'communications commission'
+aF0.0085513078470825805
+asS'thursday federal'
 p1990
 (lp1991
-I1
-aF-0.01486199575371556
-asS'said interview'
+I2
+aF0.019620762866974131
+asS"'s ftse"
 p1992
 (lp1993
-I1
-aF-0.01486199575371556
-asS'buy time'
+I4
+aF0.031722075945001274
+asS'president obama'
 p1994
 (lp1995
 I2
-aF-0.023970052699711648
-asS'federal deposit'
+aF0.033133788568538193
+asS'" inside'
 p1996
 (lp1997
 I1
 aF-0.01486199575371556
-asS'writes paulsen'
+asS'shareholders bailout'
 p1998
 (lp1999
-I1
-aF-0.01486199575371556
-asS'planned raise'
+I4
+aF0.039241525733948263
+asS'discovered security'
 p2000
 (lp2001
-I1
-aF0.022254127781766008
-asS'" ebay'
+I2
+aF0.0094823222529492185
+asS'? j.c.'
 p2002
 (lp2003
-I2
-aF-0.015654245363280615
-asS'less ebay'
+I1
+aF0.0065939063210550593
+asS'given ok'
 p2004
 (lp2005
-I1
-aF-0.0078271226816403073
-asS'guidance 4'
+I2
+aF0.011512762036800132
+asS'surge flight'
 p2006
 (lp2007
 I1
-aF0.0095057034220531987
-asS'arizona new'
+aF0.034482758620689689
+asS"idr 'ccc"
 p2008
 (lp2009
-I1
-aF0.023487602630611493
-asS'fresh fields'
+I30
+aF0.78528042609589921
+asS'newest concept'
 p2010
 (lp2011
-I1
-aF-0.0096207215541164858
-asS'" associated'
+I30
+aF0.78528042609589921
+asS'pimentel u.s.'
 p2012
 (lp2013
-I1
-aF-0.0078271226816403073
-asS'said fourth-quarter'
+I2
+aF0.013187812642110119
+asS'$4,000 per'
 p2014
 (lp2015
-I3
-aF-0.047317819119408931
-asS'third quarter'
+I16
+aF0.046391384821821771
+asS'move crimean'
 p2016
 (lp2017
 I1
-aF-0.01486199575371556
-asS'views international'
+aF0.017951856385148825
+asS'/quotes/zigman/97715/delayed/quotes/nls/bidu bidu'
 p2018
 (lp2019
-I1
-aF0.022254127781766008
-asS'said rules'
+I2
+aF0.0088256025018465366
+asS'paul singer'
 p2020
 (lp2021
-I2
-aF-0.014234192551842047
-asS'printing industry'
+I43
+aF0.25877235100216228
+asS'documentation provided'
 p2022
 (lp2023
-I2
-aF-0.051049018886638195
-asS'homebuilders prompted'
+I1
+aF-0.01486199575371556
+asS'sina sina'
 p2024
 (lp2025
-I1
-aF-0.01486199575371556
-asS'already reported'
+I14
+aF0.018081633883883088
+asS'ratio 3'
 p2026
 (lp2027
-I4
-aF-0.037111166550747227
-asS'certain non-fha-insured'
+I1
+aF-0.015098314606741563
+asS'- investorplace.com'
 p2028
 (lp2029
-I1
-aF-0.01486199575371556
-asS'ago11 19'
+I30
+aF0.78528042609589921
+asS'suspicion going'
 p2030
 (lp2031
-I12
-aF0.069076572220800783
-asS'analysts. analysts'
+I1
+aF-0.025641025641025664
+asS'reports financial'
 p2032
 (lp2033
-I1
-aF-0.020009416195856743
-asS'- 1.54%'
+I30
+aF0.78528042609589921
+asS'witness slump'
 p2034
 (lp2035
 I1
-aF-0.015434451219512105
-asS'stipulate commercial-airline'
+aF0.012706969580285016
+asS'radioshack corporation'
 p2036
 (lp2037
-I1
-aF-0.01486199575371556
-asS'arizona said'
+I60
+aF1.5705608521917984
+asS'campaign get'
 p2038
 (lp2039
 I1
-aF-0.010500807754442712
-asS'2015 budget'
+aF0.0028884159318941583
+asS'join market'
 p2040
 (lp2041
 I1
-aF0.01163378856853821
-asS'ago11 15'
+aF0.0065939063210550593
+asS'deal risk-weight'
 p2042
 (lp2043
-I9
-aF0.063055396376559991
-asS'ago11 16'
+I1
+aF-0.015098314606741563
+asS'cul de'
 p2044
 (lp2045
-I12
-aF0.069076572220800783
-asS'1.24% \xc2'
+I1
+aF0.017951856385148825
+asS'5 36'
 p2046
 (lp2047
-I1
-aF-0.015337423312883396
-asS'new federal'
+I30
+aF0.78528042609589921
+asS'buy. "'
 p2048
 (lp2049
 I1
-aF-0.01486199575371556
-asS'would bring'
+aF0.022254127781766008
+asS'associated sale'
 p2050
 (lp2051
 I2
-aF-0.023970052699711648
-asS'took new'
+aF0.0050351650906114501
+asS'last three'
 p2052
 (lp2053
-I2
-aF0.023622213537533625
-asS'ge -'
-p2054
-(lp2055
-I1
-aF0.00067980965329706225
-asS'- matthew'
-p2056
-(lp2057
-I18
-aF0.12611079275312001
-asS'30% american'
-p2058
-(lp2059
-I2
-aF-0.023970052699711648
-asS'partners including'
-p2060
-(lp2061
-I2
-aF0.019043392929388579
-asS'skype ebay'
-p2062
-(lp2063
-I1
-aF-0.0078271226816403073
-asS'security flaws'
-p2064
-(lp2065
 I1
 aF0.0028884159318941583
-asS'investor carl'
+asS"'t upgrade"
+p2054
+(lp2055
+I2
+aF0.0094823222529492185
+asS'data 10'
+p2056
+(lp2057
+I12
+aF0.069076572220800783
+asS'related hedge'
+p2058
+(lp2059
+I4
+aF0.044938893448227483
+asS'production halts'
+p2060
+(lp2061
+I1
+aF-0.015098314606741563
+asS'week ahead'
+p2062
+(lp2063
+I30
+aF0.78528042609589921
+asS'send rsh'
+p2064
+(lp2065
+I30
+aF0.78528042609589921
+asS'acquire messaging'
 p2066
 (lp2067
-I1
-aF-0.0078271226816403073
-asS'hole apple'
+I2
+aF0.0052826627277634021
+asS'2013.apple said'
 p2068
 (lp2069
 I1
-aF0.0028884159318941583
-asS'undercover visit'
+aF0.0065939063210550593
+asS'25 min'
 p2070
 (lp2071
-I43
-aF0.25877235100216228
-asS"analysts '"
+I24
+aF0.13815314444160159
+asS'52.0 reuters'
 p2072
 (lp2073
-I3
-aF-0.0040710333600157481
-asS'acquire tesla'
+I1
+aF-0.0071729957805906396
+asS'indication must'
 p2074
 (lp2075
 I1
-aF-0.010660963270678267
-asS'downturn 8'
+aF0.0065939063210550593
+asS'investments fbi'
 p2076
 (lp2077
-I12
-aF0.069076572220800783
-asS'- 0.34%'
+I43
+aF0.25877235100216228
+asS'oceanografia two-thirds'
 p2078
 (lp2079
-I2
-aF0.0013596193065941245
-asS'hedge-fund mogul'
+I1
+aF-0.01486199575371556
+asS'since cold'
 p2080
 (lp2081
-I1
-aF-0.0078271226816403073
-asS'worst hit'
+I2
+aF-0.0063315831052970124
+asS'states. rate'
 p2082
 (lp2083
 I1
-aF0.025356283546178002
-asS'made federal'
+aF0.022254127781766008
+asS'inc said'
 p2084
 (lp2085
 I1
-aF-0.01486199575371556
-asS'vlo.n said'
+aF0.0065939063210550593
+asS'reits well'
 p2086
 (lp2087
-I1
-aF-0.01749999999999996
-asS'500 google'
+I20
+aF0.11512762036800134
+asS'york reuters'
 p2088
 (lp2089
-I17
-aF-0.16627551332406051
-asS'months hedge'
+I2
+aF0.0028535417784072616
+asS'refiner valero'
 p2090
 (lp2091
-I43
-aF0.25877235100216228
-asS'change applies'
+I1
+aF-0.01749999999999996
+asS'median forecast'
 p2092
 (lp2093
 I1
-aF0.022254127781766008
-asS'investor apprehension'
+aF-0.0071729957805906396
+asS'07 a.m.'
 p2094
 (lp2095
-I1
-aF0.025356283546178002
-asS'hhr pontiac'
+I69
+aF1.6336162485683583
+asS'well imbedded'
 p2096
 (lp2097
 I1
-aF-0.052777777777777764
-asS"microsoft 's"
+aF0.086510263929618747
+asS'icahn least'
 p2098
 (lp2099
-I2
-aF-0.027669015922735636
-asS'cisco csco'
+I1
+aF0.0065939063210550593
+asS'stocks shares'
 p2100
 (lp2101
-I6
-aF-0.05390200719883341
-asS'david einhorn\xe2\x80\x99s'
+I2
+aF0.007155813175024445
+asS'animation skg'
 p2102
 (lp2103
-I2
-aF0.023622213537533625
-asS'stake nokia'
+I4
+aF-0.060598638019321097
+asS'steve ballmer'
 p2104
 (lp2105
-I1
-aF0.036999999999999922
-asS'defend ruble.the'
+I3
+aF0.009434888036764939
+asS'streaming speeds'
 p2106
 (lp2107
-I1
-aF0.022254127781766008
-asS'lawmakers weather'
+I6
+aF0.013389593364884374
+asS'cut judgment'
 p2108
 (lp2109
 I1
-aF-0.01486199575371556
-asS'deepens 8'
+aF-0.015098314606741563
+asS'investors already'
 p2110
 (lp2111
-I12
-aF0.069076572220800783
-asS"'t fragile"
+I3
+aF0.0047587671132585697
+asS'bad weather'
 p2112
 (lp2113
-I2
-aF-0.02972399150743112
-asS'see active'
+I1
+aF0.034482758620689689
+asS'board average'
 p2114
 (lp2115
-I5
-aF-0.054537389082536671
-asS'ukraine tensions'
+I1
+aF0.022254127781766008
+asS'ministry officials'
 p2116
 (lp2117
-I57
-aF0.33936168525976329
-asS'well certain'
+I1
+aF-0.015098314606741563
+asS'helmerich payne'
 p2118
 (lp2119
 I1
-aF-0.01486199575371556
-asS'islands canada'
+aF0.028248587570621538
+asS'states financial'
 p2120
 (lp2121
-I1
-aF0.022254127781766008
-asS'month backing'
+I10
+aF0.065939063210550597
+asS'. health'
 p2122
 (lp2123
 I1
-aF0.0028884159318941583
-asS'pieces juan'
+aF-0.0096207215541164858
+asS'west respond'
 p2124
 (lp2125
 I1
-aF-0.010660963270678267
-asS'advisers independent'
+aF0.017951856385148825
+asS'ebay shareholders'
 p2126
 (lp2127
 I2
-aF0.0073921320280504483
-asS'co 005380.ks'
+aF0.0050351650906114501
+asS'-- number'
 p2128
 (lp2129
 I1
-aF0.0095057034220531987
-asS"' madoff"
+aF-0.015098314606741563
+asS'icahn released'
 p2130
 (lp2131
-I43
-aF0.25877235100216228
-asS'weeks ago'
+I2
+aF0.0050351650906114501
+asS'seen likely'
 p2132
 (lp2133
-I1
-aF-0.0044444444444443499
-asS'designed attract'
+I2
+aF-0.0025576453686709114
+asS'southern district'
 p2134
 (lp2135
 I1
-aF-0.050196850393700768
-asS'tree inc.'
+aF-0.01486199575371556
+asS'mexican state-owned'
 p2136
 (lp2137
 I1
-aF-0.00091290852656571587
-asS'include bb&t'
+aF-0.01486199575371556
+asS'increase portfolio'
 p2138
 (lp2139
-I2
-aF-0.0082949308755760238
-asS'could hurt'
+I1
+aF0.021499999999999984
+asS'within months'
 p2140
 (lp2141
-I1
-aF-0.005373455131649536
-asS'digits 51'
+I30
+aF0.78528042609589921
+asS'- federal'
 p2142
 (lp2143
-I12
-aF0.069076572220800783
-asS'united parcel'
+I1
+aF0.034482758620689689
+asS'concept store'
 p2144
 (lp2145
-I1
-aF0.022254127781766008
-asS'fell 64'
+I90
+aF2.3558412782876994
+asS'cutting week'
 p2146
 (lp2147
-I1
-aF-0.019449798493078665
-asS'-- macs'
+I2
+aF0.040569339539934614
+asS'rising 23'
 p2148
 (lp2149
 I1
-aF0.0028884159318941583
-asS'russia hikes'
+aF0.025356283546178002
+asS'year ago'
 p2150
 (lp2151
-I57
-aF0.33936168525976329
-asS'$8.31 share'
+I2
+aF-0.036601126188498201
+asS'elm sheet'
 p2152
 (lp2153
-I1
-aF-0.0078586044304735248
-asS'high $1,182'
+I2
+aF-0.0063315831052970124
+asS'immediately technology'
 p2154
 (lp2155
-I12
-aF0.069076572220800783
-asS'000270.ks year'
+I1
+aF-0.013834507961367818
+asS'earnings fell'
 p2156
 (lp2157
-I1
-aF0.0095057034220531987
-asS'tesla tsla'
+I2
+aF0.01182253889076694
+asS'kollmeyer ukraine'
 p2158
 (lp2159
-I2
-aF0.046975205261222987
-asS'heavyweights sap'
+I12
+aF0.069076572220800783
+asS'investment. like'
 p2160
 (lp2161
-I7
-aF-0.061600416238838308
-asS'duties marketing'
+I1
+aF-0.013834507961367818
+asS'states. related'
 p2162
 (lp2163
 I1
-aF-0.013834507961367818
-asS'board members'
+aF-0.015098314606741563
+asS'share fourth'
 p2164
 (lp2165
-I2
-aF-0.015654245363280615
-asS'bid sodastream'
+I14
+aF0.01372483568838952
+asS'hours flight'
 p2166
 (lp2167
 I1
-aF-0.011144883485308961
-asS'reserved. j.c.'
+aF-0.01486199575371556
+asS'3d printing'
 p2168
 (lp2169
-I1
-aF0.0028884159318941583
-asS'" small'
+I4
+aF-0.036225661420065031
+asS'primary nissan'
 p2170
 (lp2171
-I2
-aF-0.011409976168524519
-asS'profit-taking expected'
+I1
+aF0.0095057034220531987
+asS'mmc free'
 p2172
 (lp2173
-I1
-aF-0.024283439490445837
-asS'glitch 6'
+I2
+aF0.060087816422073489
+asS'car yet'
 p2174
 (lp2175
-I9
-aF0.063055396376559991
-asS'comments issuing'
+I1
+aF-0.015098314606741563
+asS'household course'
 p2176
 (lp2177
-I1
-aF-0.010660963270678267
-asS'fortune 500'
+I2
+aF-0.0063315831052970124
+asS'citigroup analyst'
 p2178
 (lp2179
-I187
-aF-1.4559965954120155
-asS'sales trading'
+I1
+aF0.0065939063210550593
+asS'ajg free'
 p2180
 (lp2181
-I1
-aF-0.025641025641025664
-asS'ko -'
+I2
+aF0.060087816422073489
+asS'sale 45%'
 p2182
 (lp2183
 I2
-aF-0.0096874231100129455
-asS'$400 million'
+aF-0.0014321680310061119
+asS'francisco marketwatch'
 p2184
 (lp2185
-I2
-aF-0.02972399150743112
-asS'supply management'
+I10
+aF-0.060775370143652127
+asS'- andre'
 p2186
 (lp2187
-I1
-aF-0.0071729957805906396
-asS'earnings 22'
+I9
+aF0.063055396376559991
+asS'european union'
 p2188
 (lp2189
 I1
-aF0.023487602630611493
-asS"'s planned"
+aF-0.015098314606741563
+asS'state-controlled entity.donziger'
 p2190
 (lp2191
 I1
-aF-0.0078271226816403073
-asS'earnings 20'
+aF-0.015098314606741563
+asS'year weather'
 p2192
 (lp2193
-I1
-aF-0.047141424272818457
-asS'gs.n named'
+I2
+aF0.007155813175024445
+asS'concerns ukraine'
 p2194
 (lp2195
-I1
-aF0.0028884159318941583
-asS'websites force'
+I2
+aF0.011512762036800132
+asS'eastern regions'
 p2196
 (lp2197
-I2
-aF-0.014234192551842047
-asS'commission investigating'
+I3
+aF-0.036479419703103984
+asS'isps. verizon'
 p2198
 (lp2199
-I1
-aF-0.01486199575371556
-asS'plans buy'
+I2
+aF-0.0005004065187305274
+asS'- 1.24%'
 p2200
 (lp2201
-I2
-aF-0.023970052699711648
-asS'45 a.m.'
+I1
+aF-0.015337423312883396
+asS'morning buffett'
 p2202
 (lp2203
-I12
-aF0.069076572220800783
-asS'executives company'
+I2
+aF0.028662201270295298
+asS'risk profiles'
 p2204
 (lp2205
 I1
-aF-0.013834507961367818
-asS'insight. related'
+aF-0.015098314606741563
+asS'earnings 98'
 p2206
 (lp2207
-I1
-aF-0.025641025641025664
-asS'weidner china'
+I2
+aF0.01182253889076694
+asS'earnings 96'
 p2208
 (lp2209
-I9
-aF0.063055396376559991
-asS'virgin islands'
+I2
+aF-0.062919807236027137
+asS'andreessen "'
 p2210
 (lp2211
-I1
-aF0.022254127781766008
-asS'stock analysis'
+I2
+aF0.0050351650906114501
+asS'coca cola'
 p2212
 (lp2213
-I25
-aF-0.087083728305380081
-asS'sb 1062'
+I4
+aF0.074629264425503813
+asS'annualized basis'
 p2214
 (lp2215
-I4
-aF-0.047177815558848674
-asS'lovallo reiterated'
+I1
+aF0.0063291139240506224
+asS'? berkshire'
 p2216
 (lp2217
 I1
-aF0.023487602630611493
-asS'loss $81.2'
+aF0.028248587570621538
+asS'euros year.'
 p2218
 (lp2219
 I1
-aF0.016847172081828975
-asS'closest crimea'
+aF0.021499999999999984
+asS'rules would'
 p2220
 (lp2221
-I1
-aF-0.025641025641025664
-asS'2 million'
+I4
+aF0.010079537768633639
+asS'costco wholesale'
 p2222
 (lp2223
-I2
-aF0.022138004246284364
-asS'7 44'
+I1
+aF-0.0089897260273972355
+asS'deepens national'
 p2224
 (lp2225
-I9
-aF0.063055396376559991
-asS'7 47'
+I2
+aF0.011512762036800132
+asS'report reversed'
 p2226
 (lp2227
-I12
-aF0.069076572220800783
-asS'accused going'
+I1
+aF-0.0071729957805906396
+asS'goldman sachs'
 p2228
 (lp2229
 I1
-aF-0.01749999999999996
-asS'netflix nflx'
+aF0.0028884159318941583
+asS'major concerns'
 p2230
 (lp2231
-I3
-aF-0.024059813263408034
-asS'log sue'
+I10
+aF0.065939063210550597
+asS'spike 42'
 p2232
 (lp2233
-I5
-aF-0.054537389082536671
-asS'leave immediately'
+I12
+aF0.069076572220800783
+asS'threat war'
 p2234
 (lp2235
-I1
-aF-0.013834507961367818
-asS'live blog'
+I3
+aF-0.036479419703103984
+asS'massive loss'
 p2236
 (lp2237
-I43
-aF0.25877235100216228
-asS'observers certain'
+I30
+aF0.78528042609589921
+asS'february risen'
 p2238
 (lp2239
 I1
-aF-0.01486199575371556
-asS'within mexico.the'
+aF0.0095057034220531987
+asS'store area'
 p2240
 (lp2241
-I1
-aF0.022254127781766008
-asS'chase co.'
+I30
+aF0.78528042609589921
+asS'" rules.'
 p2242
 (lp2243
-I3
-aF0.029027283270916533
-asS'lows dollar'
+I2
+aF0.019620762866974131
+asS'01 a.m.'
 p2244
 (lp2245
-I1
-aF-0.025641025641025664
-asS'read article'
+I108
+aF2.4819520710408201
+asS'asset management'
 p2246
 (lp2247
-I7
-aF-0.021234067960639084
-asS'dollar falls'
+I2
+aF0.032728465832498853
+asS'projects director'
 p2248
 (lp2249
-I57
-aF0.33936168525976329
-asS'founder board'
+I2
+aF-0.0005004065187305274
+asS'push sale'
 p2250
 (lp2251
 I2
-aF-0.00069443755499005305
-asS'group nissan'
+aF0.0050351650906114501
+asS'" headlines'
 p2252
 (lp2253
-I1
-aF0.0063291139240506224
-asS'change +33.30'
+I2
+aF-0.010838394062078319
+asS'online bank'
 p2254
 (lp2255
 I2
-aF0.011512762036800132
-asS'numbers retirementors'
+aF0.0094823222529492185
+asS'hike could'
 p2256
 (lp2257
-I43
-aF0.25877235100216228
-asS'sodastream attracted'
+I2
+aF0.028662201270295298
+asS'fell 13.2'
 p2258
 (lp2259
-I2
-aF-0.0096874231100129455
-asS'crazy outerwall'
+I1
+aF-0.015098314606741563
+asS'software inc.'
 p2260
 (lp2261
-I43
-aF0.25877235100216228
-asS'kkr free'
+I2
+aF0.023622213537533625
+asS"'s rules"
 p2262
 (lp2263
 I1
-aF-0.0096207215541164858
-asS"fairholme 's"
+aF-0.015098314606741563
+asS'futures climb'
 p2264
 (lp2265
-I2
-aF0.0073921320280504483
-asS'coming city'
+I30
+aF0.78528042609589921
+asS'solar-panel maker'
 p2266
 (lp2267
-I1
-aF-0.010660963270678267
-asS'shoppers away'
+I2
+aF0.01182253889076694
+asS'federal communications'
 p2268
 (lp2269
-I1
-aF0.0063291139240506224
-asS'stake blackberry'
+I2
+aF0.019620762866974131
+asS'many fear'
 p2270
 (lp2271
 I1
-aF0.036999999999999922
-asS'market fell'
+aF0.022254127781766008
+asS'brands group'
 p2272
 (lp2273
-I1
-aF-0.025641025641025664
-asS'got boost'
+I2
+aF0.03185842475789831
+asS'decision withdraw'
 p2274
 (lp2275
-I1
-aF-0.01486199575371556
-asS'nonpublic information'
+I2
+aF0.007155813175024445
+asS'made clear'
 p2276
 (lp2277
 I1
-aF-0.0078271226816403073
-asS'grmn -'
+aF-0.015098314606741563
+asS'apple return'
 p2278
 (lp2279
 I1
-aF-0.0011181513231456424
-asS'capital took'
+aF0.0028884159318941583
+asS'information regarding'
 p2280
 (lp2281
 I2
-aF0.023622213537533625
-asS'filing. icahn'
+aF0.0050351650906114501
+asS'profits due'
 p2282
 (lp2283
 I1
-aF0.0028884159318941583
-asS'5 reasons'
+aF0
+asS'funding advising'
 p2284
 (lp2285
 I2
-aF-0.051282051282051329
-asS'system. analysts'
+aF0.0050351650906114501
+asS'raised share'
 p2286
 (lp2287
 I1
-aF-0.011144883485308961
-asS'deal loans'
+aF-0.015098314606741563
+asS'satya nadella'
 p2288
 (lp2289
 I1
-aF-0.01486199575371556
-asS'quarter raised'
+aF-0.013834507961367818
+asS'aviation administration'
 p2290
 (lp2291
 I1
-aF0.036999999999999922
-asS'greed index'
+aF0.034482758620689689
+asS'factory compared'
 p2292
 (lp2293
-I1
-aF0.023487602630611493
-asS'group /quotes/zigman/29728828/delayed/quotes/nls/vod'
+I2
+aF0.03556487878640302
+asS'sears shld'
 p2294
 (lp2295
-I1
-aF-0.016598508539812311
-asS'michael casey'
+I6
+aF0.069426877234213216
+asS'states die'
 p2296
 (lp2297
-I18
-aF0.12611079275312001
-asS'percent 222,104'
+I10
+aF0.065939063210550597
+asS'0.7 percent'
 p2298
 (lp2299
 I1
-aF0.0095057034220531987
-asS'provided mexican'
+aF0.0065939063210550593
+asS'maynard um'
 p2300
 (lp2301
 I1
-aF-0.01486199575371556
-asS'regions fear'
+aF0.0065939063210550593
+asS'goods kodak'
 p2302
 (lp2303
-I2
-aF-0.051282051282051329
-asS'month. facebook'
+I43
+aF0.25877235100216228
+asS'market live'
 p2304
 (lp2305
-I1
-aF-0.015337423312883396
-asS'rate increase'
+I92
+aF1.1693369971981076
+asS'- pr'
 p2306
 (lp2307
-I2
-aF0.044508255563532016
-asS'" \'ve'
+I450
+aF11.779206391438434
+asS'probes said.banamex'
 p2308
 (lp2309
-I2
-aF-0.0096143372351269688
-asS'function without'
+I1
+aF-0.01486199575371556
+asS'9 41'
 p2310
 (lp2311
-I2
-aF0.0073921320280504483
-asS'plans announce'
+I9
+aF0.063055396376559991
+asS'bank could'
 p2312
 (lp2313
 I1
-aF-0.013834507961367818
-asS'profit $18.48'
+aF0.034482758620689689
+asS'2 cents'
 p2314
 (lp2315
-I1
-aF-0.026623073330219536
-asS'working without'
+I3
+aF0.07231469456369316
+asS'rare retreat'
 p2316
 (lp2317
-I1
-aF0.0028884159318941583
-asS'jumps vs.'
+I2
+aF0.0094823222529492185
+asS'today10 11'
 p2318
 (lp2319
-I57
-aF0.33936168525976329
-asS'reserve arguing'
+I30
+aF0.78528042609589921
+asS'today10 12'
 p2320
 (lp2321
-I2
-aF-0.02972399150743112
-asS'recent peak'
+I9
+aF0.063055396376559991
+asS'market ukraine'
 p2322
 (lp2323
-I1
-aF-0.0071729957805906396
-asS'alleged conflicts'
+I4
+aF0.039241525733948263
+asS'advisors 11'
 p2324
 (lp2325
-I1
-aF-0.0078271226816403073
-asS'oil bonds'
+I30
+aF0.78528042609589921
+asS'parties find'
 p2326
 (lp2327
-I43
-aF0.25877235100216228
-asS'$132.90 monday'
+I1
+aF0.017951856385148825
+asS'administration well'
 p2328
 (lp2329
 I1
-aF0.022254127781766008
-asS'methanex corp'
+aF-0.01486199575371556
+asS'markets worldwide'
 p2330
 (lp2331
-I3
-aF0.0021474564628237813
-asS'loans banamex'
+I7
+aF0.044000292847206829
+asS'10 01'
 p2332
 (lp2333
-I2
-aF-0.02972399150743112
-asS"year 's"
+I90
+aF2.3558412782876994
+asS'. toyota'
 p2334
 (lp2335
 I1
-aF0.022254127781766008
-asS'pcln -'
+aF0.028248587570621538
+asS'cash dividend'
 p2336
 (lp2337
-I2
-aF-0.01571720886094705
-asS'1,500 hours'
+I1
+aF-0.015098314606741563
+asS'reactions moscow'
 p2338
 (lp2339
-I1
-aF-0.01486199575371556
-asS'discovered least'
+I9
+aF0.063055396376559991
+asS'home depot'
 p2340
 (lp2341
-I1
-aF-0.01486199575371556
-asS'weeks.citigroup disclosed'
+I4
+aF0.044781306879880148
+asS'one-time apple'
 p2342
 (lp2343
-I1
-aF-0.01486199575371556
-asS'percent domestic'
+I2
+aF0.0094823222529492185
+asS'27 years'
 p2344
 (lp2345
 I1
-aF0.022254127781766008
-asS'quarter. also'
+aF0.0095057034220531987
+asS'fiat chrysler'
 p2346
 (lp2347
 I1
-aF-0.0078586044304735248
-asS'hacking federal'
+aF0.0063291139240506224
+asS'- benzinga.com'
 p2348
 (lp2349
-I1
-aF-0.01486199575371556
-asS'volatility military'
+I30
+aF0.78528042609589921
+asS'chevron donziger'
 p2350
 (lp2351
 I1
-aF-0.025641025641025664
-asS'move towards'
+aF-0.015098314606741563
+asS'visas.he also'
 p2352
 (lp2353
 I1
-aF0.022254127781766008
-asS'figure topped'
+aF-0.015098314606741563
+asS'said return'
 p2354
 (lp2355
 I1
-aF-0.0071729957805906396
-asS'wfm free'
+aF0.0065939063210550593
+asS'$16.3 million'
 p2356
 (lp2357
-I1
-aF-0.0096207215541164858
-asS'-- 2008'
+I2
+aF0.040569339539934614
+asS'55 a.m.'
 p2358
 (lp2359
-I1
-aF-0.01486199575371556
-asS'. methanex'
+I168
+aF4.0525129232326211
+asS'ups.n fedex'
 p2360
 (lp2361
-I2
-aF0.0063122470976729999
-asS'law enforcement'
+I1
+aF0.022254127781766008
+asS'tesla motors'
 p2362
 (lp2363
-I1
-aF-0.01486199575371556
-asS'euro 10'
+I8
+aF0.058788211383776698
+asS'- 247wallst.com'
 p2364
 (lp2365
-I9
-aF0.063055396376559991
-asS'0.6% ;'
+I30
+aF0.78528042609589921
+asS'access nonpublic'
 p2366
 (lp2367
 I2
-aF0.011512762036800132
-asS'especially internationally.ups'
+aF0.0050351650906114501
+asS'healthy guidance'
 p2368
 (lp2369
-I1
-aF0.022254127781766008
-asS'according british'
+I2
+aF0.037754290992674737
+asS'prevent favoring'
 p2370
 (lp2371
-I1
-aF0.022254127781766008
-asS'believe healthy'
+I4
+aF0.010079537768633639
+asS'retirement spending'
 p2372
 (lp2373
-I1
-aF0.0095057034220531987
-asS'accused hacking'
+I45
+aF0.88418902091172502
+asS'van metre'
 p2374
 (lp2375
-I1
-aF-0.01486199575371556
-asS'auction business'
+I2
+aF-0.0088888888888886998
+asS'hot water'
 p2376
 (lp2377
-I1
-aF-0.0078271226816403073
-asS'major regional'
+I43
+aF0.25877235100216228
+asS'suspicion money'
 p2378
 (lp2379
-I2
-aF-0.0082949308755760238
-asS'build new'
+I1
+aF0.022254127781766008
+asS'fell 7'
 p2380
 (lp2381
 I1
-aF0.0028884159318941583
-asS'loonie 6'
+aF0.022254127781766008
+asS'muted expectations'
 p2382
 (lp2383
-I9
-aF0.063055396376559991
-asS'2014 high'
+I2
+aF0.037754290992674737
+asS'comment reports.'
 p2384
 (lp2385
-I9
-aF0.063055396376559991
-asS'sell-off may'
+I1
+aF-0.013834507961367818
+asS'" dynamic'
 p2386
 (lp2387
-I1
-aF-0.016598508539812311
-asS'p.m. nov.'
+I5
+aF0.1588106388459081
+asS'names private'
 p2388
 (lp2389
-I9
-aF0.063055396376559991
-asS'$1.75 share'
+I1
+aF-0.01486199575371556
+asS'. hedge-fund'
 p2390
 (lp2391
 I1
-aF0.00016545334215751787
-asS'24 a.m.'
+aF-0.0078271226816403073
+asS'record-breaking streak'
 p2392
 (lp2393
-I24
-aF0.13815314444160159
-asS'article zacks.com'
+I1
+aF0.014802631578947345
+asS'+0.92% \xc2'
 p2394
 (lp2395
-I7
-aF-0.021234067960639084
-asS'charged "'
+I1
+aF0.011014344262295075
+asS'energy information'
 p2396
 (lp2397
 I1
-aF-0.0078271226816403073
-asS'month. iphones'
+aF0.017811704834605556
+asS'russia-only equity'
 p2398
 (lp2399
 I1
-aF0.0028884159318941583
-asS'filings within'
+aF0.028248587570621538
+asS'$8 billion'
 p2400
 (lp2401
 I1
-aF0.00067980965329706225
-asS'500 executive'
+aF0.0065939063210550593
+asS'nothing people'
 p2402
 (lp2403
-I1
-aF0.0028884159318941583
-asS'crisis 2'
+I2
+aF-0.0096143372351269688
+asS'crimean region'
 p2404
 (lp2405
-I9
-aF0.063055396376559991
-asS'fourth-quarter revenue'
+I1
+aF-0.015098314606741563
+asS'zacks rank'
 p2406
 (lp2407
-I1
-aF-0.020009416195856743
-asS'51.3 weakest'
+I20
+aF0.26836668479199144
+asS'10-k radioshack'
 p2408
 (lp2409
-I1
-aF-0.0071729957805906396
-asS'said david'
+I30
+aF0.78528042609589921
+asS'fraud doctor'
 p2410
 (lp2411
-I1
-aF-0.025641025641025664
-asS'tami reller'
+I20
+aF0.11512762036800134
+asS'intends sell'
 p2412
 (lp2413
 I1
-aF-0.013834507961367818
-asS'former skype'
+aF0.017811704834605556
+asS'profitable growth'
 p2414
 (lp2415
 I1
-aF-0.013834507961367818
-asS'9 17'
+aF0.028248587570621538
+asS'complete disregard'
 p2416
 (lp2417
-I9
-aF0.063055396376559991
-asS'forecast report'
+I2
+aF0.0050351650906114501
+asS'ultimately resolved'
 p2418
 (lp2419
 I1
-aF-0.047141424272818457
-asS'struck "'
+aF-0.015098314606741563
+asS'left position'
 p2420
 (lp2421
 I1
-aF-0.01486199575371556
-asS'bell solarcity'
+aF0.0065939063210550593
+asS'stock plus'
 p2422
 (lp2423
-I1
-aF-0.020009416195856743
-asS'guarantees even'
+I2
+aF0.0052826627277634021
+asS'+0.06% \xc2'
 p2424
 (lp2425
-I1
-aF-0.0044444444444443499
-asS'analysts polled'
+I2
+aF-0.0096874231100129455
+asS'+1.11% tech'
 p2426
 (lp2427
 I1
-aF0.0063291139240506224
-asS'patterns many'
+aF0.0065939063210550593
+asS'courts chevron'
 p2428
 (lp2429
 I1
-aF0.022254127781766008
-asS'backing push'
+aF-0.015098314606741563
+asS'smaller last'
 p2430
 (lp2431
 I1
-aF0.0028884159318941583
-asS'even apple'
+aF0.022254127781766008
+asS'states.the crux'
 p2432
 (lp2433
 I1
-aF0.0028884159318941583
-asS'/quotes/zigman/75433/delayed/quotes/nls/mu mu'
+aF-0.015098314606741563
+asS'stocks bonds'
 p2434
 (lp2435
-I2
-aF0.023622213537533625
-asS'| metals'
+I1
+aF0.022254127781766008
+asS'speaking bitcoin'
 p2436
 (lp2437
-I2
-aF0.011512762036800132
-asS'origination sale'
+I1
+aF-0.015098314606741563
+asS'klesse step'
 p2438
 (lp2439
 I1
-aF-0.01486199575371556
-asS'army health'
+aF-0.01749999999999996
+asS'verizon comm'
 p2440
 (lp2441
 I1
-aF-0.01749999999999996
-asS'valuing business'
+aF0.00082576383154416076
+asS'group possesses'
 p2442
 (lp2443
 I1
-aF0.0027342063606276006
-asS'friday liberty'
+aF0.012706969580285016
+asS"holdings '"
 p2444
 (lp2445
-I2
-aF-0.022566372361966354
-asS'paulsen currently'
+I1
+aF0.032987171655467266
+asS'said icahn'
 p2446
 (lp2447
-I1
-aF-0.01486199575371556
-asS'buy akzo'
+I2
+aF0.0050351650906114501
+asS'starbucks corp'
 p2448
 (lp2449
 I3
-aF0.015817950519726197
-asS'meoh free'
+aF0.019851875731156512
+asS'previously planned'
 p2450
 (lp2451
-I3
-aF0.0021474564628237813
-asS'target /quotes/zigman/253872/delayed/quotes/nls/tgt'
+I1
+aF-0.015098314606741563
+asS'andreessen funding'
 p2452
 (lp2453
-I1
-aF-0.011144883485308961
-asS'5. log'
+I2
+aF0.0050351650906114501
+asS'disclosed took'
 p2454
 (lp2455
 I1
-aF-0.025641025641025664
-asS'armh leaders'
+aF0.036999999999999922
+asS'provisions.indian analysts'
 p2456
 (lp2457
-I7
-aF-0.061600416238838308
-asS'russia seizes'
+I1
+aF-0.015098314606741563
+asS"'s one"
 p2458
 (lp2459
-I9
-aF0.063055396376559991
-asS'strategic planning.valero'
-p2460
-(lp2461
 I1
 aF0.0095057034220531987
-asS'shareholders publicly'
+asS'ukraine 8'
+p2460
+(lp2461
+I9
+aF0.063055396376559991
+asS"'s cob.sn"
 p2462
 (lp2463
 I1
-aF0.0028884159318941583
-asS'investors seek'
+aF-0.015098314606741563
+asS'public campaign'
 p2464
 (lp2465
-I9
-aF0.063055396376559991
-asS'005380.ks kia'
+I1
+aF0.0028884159318941583
+asS'sales year'
 p2466
 (lp2467
-I1
-aF0.0095057034220531987
-asS'two employees'
+I2
+aF0.019620762866974131
+asS'warner cable'
 p2468
 (lp2469
-I1
-aF-0.0078271226816403073
-asS'determine possible'
+I4
+aF-0.0075938299399980749
+asS'previously. meanwhile'
 p2470
 (lp2471
-I1
-aF-0.01486199575371556
-asS'faster ebay'
+I4
+aF-0.0075938299399980749
+asS'ukraine -'
 p2472
 (lp2473
-I2
-aF-0.014234192551842047
-asS'investors manage'
+I30
+aF0.78528042609589921
+asS'$3 billion'
 p2474
 (lp2475
-I1
-aF0.00067980965329706225
-asS'report read'
+I2
+aF0.0052826627277634021
+asS'percent earlier'
 p2476
 (lp2477
-I7
-aF-0.021234067960639084
-asS'foods mkt'
+I1
+aF-0.025641025641025664
+asS'l.l.c. sell'
 p2478
 (lp2479
 I1
-aF-0.0096207215541164858
-asS'potentially creating'
+aF-0.0032679738562091968
+asS'discipline "'
 p2480
 (lp2481
-I2
-aF-0.023970052699711648
-asS'budget 927,762'
+I1
+aF-0.015098314606741563
+asS'long stewardship'
 p2482
 (lp2483
-I1
-aF0.01163378856853821
-asS'despite drama'
+I2
+aF0.023269395998132755
+asS'oil day'
 p2484
 (lp2485
 I1
-aF-0.0078271226816403073
-asS'3.9 percent'
+aF-0.015098314606741563
+asS'another angry'
 p2486
 (lp2487
-I1
-aF0.022254127781766008
-asS'investors need'
+I2
+aF0.0050351650906114501
+asS'ariz. related'
 p2488
 (lp2489
-I12
-aF0.069076572220800783
-asS'49 cents'
+I2
+aF0.03556487878640302
+asS'confrontation west'
 p2490
 (lp2491
 I1
-aF-0.017333579199704921
-asS'fear imminent'
+aF-0.024283439490445837
+asS'trading.maestri 50-year-old'
 p2492
 (lp2493
-I2
-aF-0.051282051282051329
-asS'toyota motor'
+I1
+aF0.0065939063210550593
+asS'500 .'
 p2494
 (lp2495
-I1
-aF0.0095057034220531987
-asS'lauri love'
+I21
+aF0.083766715225969235
+asS'added would'
 p2496
 (lp2497
 I1
-aF-0.01486199575371556
-asS'late thursday'
+aF0.028248587570621538
+asS'stock 2014'
 p2498
 (lp2499
 I1
-aF0.016847172081828975
-asS'sofas west'
+aF0.0095057034220531987
+asS'edition poland'
 p2500
 (lp2501
-I1
-aF-0.024283439490445837
-asS'operating performance.'
+I9
+aF0.063055396376559991
+asS'$531.22 early'
 p2502
 (lp2503
 I1
-aF-0.0078271226816403073
-asS'rose 53.2'
+aF0.0065939063210550593
+asS'remain stuck'
 p2504
 (lp2505
-I1
-aF-0.0071729957805906396
-asS'spls fortune'
+I2
+aF-0.036601126188498201
+asS'indemnity company'
 p2506
 (lp2507
-I4
-aF-0.037111166550747227
-asS'said companies'
+I2
+aF0.060087816422073489
+asS'machine shop'
 p2508
 (lp2509
-I2
-aF0.0073921320280504483
-asS'system including'
+I1
+aF-0.0044444444444443499
+asS'0.84% \xc2'
 p2510
 (lp2511
-I1
-aF0.0028884159318941583
-asS'russia massing'
+I2
+aF-0.00099220476444672294
+asS'faced safety'
 p2512
 (lp2513
 I1
-aF-0.025641025641025664
-asS'12 min'
+aF-0.015098314606741563
+asS'500 extends'
 p2514
 (lp2515
 I9
 aF0.063055396376559991
-asS'chair janet'
+asS'chk intends'
 p2516
 (lp2517
-I2
-aF-0.02972399150743112
-asS'- biggest'
+I1
+aF0.017811704834605556
+asS'cool stock'
 p2518
 (lp2519
-I1
-aF-0.013834507961367818
-asS'- 0.40%'
+I44
+aF0.87759511459066997
+asS'analyst maynard'
 p2520
 (lp2521
 I1
-aF-0.0069034107529398394
-asS'gold nba\xe2\x80\x99s'
+aF0.0065939063210550593
+asS'sector include'
 p2522
 (lp2523
-I9
-aF0.063055396376559991
-asS"'s allegations"
+I3
+aF0.076043454879415551
+asS'17 2014'
 p2524
 (lp2525
-I1
-aF-0.0078271226816403073
-asS'starwood hot'
+I30
+aF0.78528042609589921
+asS'slides weak'
 p2526
 (lp2527
-I4
-aF-0.047177815558848674
-asS'auto company'
+I45
+aF0.27028511303896241
+asS'loss $81.2'
 p2528
 (lp2529
-I1
-aF-0.042688910696761409
-asS'bill gates'
+I2
+aF0.044066106993071633
+asS'netflix nflx'
 p2530
 (lp2531
-I1
-aF0.022254127781766008
-asS'rose all-time'
+I6
+aF0.013389593364884374
+asS'founder board'
 p2532
 (lp2533
-I1
-aF-0.0078271226816403073
-asS'technology news'
+I4
+aF0.044938893448227483
+asS'recall 1.6'
 p2534
 (lp2535
 I1
-aF-0.013834507961367818
-asS'mahmudova treasurys'
+aF0.034482758620689689
+asS'radioshack corp'
 p2536
 (lp2537
-I12
-aF0.069076572220800783
-asS'eases economic'
+I31
+aF0.77018211148915761
+asS'repurchase authorization'
 p2538
 (lp2539
-I4
-aF-0.059447983014862239
-asS'12 52'
+I1
+aF-0.015098314606741563
+asS"peter 's"
 p2540
 (lp2541
-I9
-aF0.063055396376559991
-asS'edition ukraine'
+I1
+aF0.0065939063210550593
+asS'stimulus --'
 p2542
 (lp2543
-I27
-aF0.18916618912968003
-asS'aal at&t'
+I1
+aF-0.01486199575371556
+asS'monday sales'
 p2544
 (lp2545
-I4
-aF-0.047177815558848674
-asS'name few.'
+I1
+aF0.0095057034220531987
+asS'trying\xc2 gauge'
 p2546
 (lp2547
 I1
-aF0.033296089385474903
-asS'february would'
+aF-0.01486199575371556
+asS'sell-off may'
 p2548
 (lp2549
-I1
-aF-0.042688910696761409
-asS'crimea says'
+I2
+aF-0.0014321680310061119
+asS'crisis 2'
 p2550
 (lp2551
 I9
 aF0.063055396376559991
-asS'yhoo -'
+asS'management founded'
 p2552
 (lp2553
-I3
-aF0.029027283270916533
-asS'million 12'
+I1
+aF-0.015434451219512105
+asS'gold stashes'
 p2554
 (lp2555
-I3
-aF0.057181946794269446
-asS'reuters -'
+I1
+aF0.034482758620689689
+asS'involvement flawed'
 p2556
 (lp2557
-I3
-aF-0.028446092029473621
-asS'effective jan'
+I2
+aF0.0073921320280504483
+asS'crisis "'
 p2558
 (lp2559
 I1
-aF0.022254127781766008
-asS'11 19'
+aF0.0065939063210550593
+asS'leroy said'
 p2560
 (lp2561
-I9
-aF0.063055396376559991
-asS'related story'
+I1
+aF0.028248587570621538
+asS'shares move'
 p2562
 (lp2563
-I2
-aF-0.051282051282051329
-asS'reiterated $65'
+I30
+aF0.78528042609589921
+asS'looking past'
 p2564
 (lp2565
-I1
-aF0.023487602630611493
-asS'percent year'
+I30
+aF0.78528042609589921
+asS'analysts expected'
 p2566
 (lp2567
-I3
-aF-0.07929003688525961
-asS'. akzo'
+I1
+aF-0.042688910696761409
+asS'500 stores'
 p2568
 (lp2569
-I2
-aF0.0063122470976729999
-asS'day high'
+I30
+aF0.78528042609589921
+asS'advantage big'
 p2570
 (lp2571
-I12
-aF0.069076572220800783
-asS"co 's"
+I1
+aF0.022254127781766008
+asS'foreign central'
 p2572
 (lp2573
 I1
-aF0.0095057034220531987
-asS'inc. safeway'
+aF0.034482758620689689
+asS'500 committed'
 p2574
 (lp2575
-I1
-aF-0.021229666390956799
-asS'setback front'
+I4
+aF-0.0075938299399980749
+asS'familiar doubts'
 p2576
 (lp2577
-I1
-aF-0.01486199575371556
-asS'shares 2'
+I9
+aF0.063055396376559991
+asS'familiar probes'
 p2578
 (lp2579
 I1
-aF0.036999999999999922
-asS'talks possible'
+aF-0.01486199575371556
+asS'00 a.m.'
 p2580
 (lp2581
-I2
-aF0.0074097938144331178
-asS'4.7 million'
+I198
+aF4.202708419362704
+asS'ukraine worries'
 p2582
 (lp2583
-I1
-aF0.0028884159318941583
-asS'moving tesla'
+I50
+aF0.91715855251700029
+asS'twtr really'
 p2584
 (lp2585
 I1
-aF0.023487602630611493
-asS'bugs security'
+aF0.020620086040646798
+asS'g asset'
 p2586
 (lp2587
-I1
-aF0.0028884159318941583
-asS'providers could'
+I4
+aF0.065456931664997706
+asS'honors new'
 p2588
 (lp2589
-I2
-aF-0.023970052699711648
-asS'three new'
+I30
+aF0.78528042609589921
+asS'matthew lynn'
 p2590
 (lp2591
-I1
-aF0.0028884159318941583
-asS'proposal dismissed'
+I18
+aF0.12611079275312001
+asS'two manolo'
 p2592
 (lp2593
-I1
-aF-0.0078271226816403073
-asS'ago11 09'
+I2
+aF-0.0005004065187305274
+asS'phone makers.'
 p2594
 (lp2595
-I12
-aF0.069076572220800783
-asS'gold jumps'
+I1
+aF0.086510263929618747
+asS'$3 call'
 p2596
 (lp2597
-I57
-aF0.33936168525976329
-asS'basis payments'
+I30
+aF0.78528042609589921
+asS'climbs 0.4%'
 p2598
 (lp2599
-I1
-aF-0.01486199575371556
-asS'raise dollar'
+I55
+aF0.32784892322296316
+asS'trade advantages'
 p2600
 (lp2601
-I9
-aF0.063055396376559991
-asS'mar fortune'
+I1
+aF-0.015098314606741563
+asS'chill. "'
 p2602
 (lp2603
-I4
-aF-0.047177815558848674
-asS'ago11 02'
+I1
+aF-0.024283439490445837
+asS'ukraine might'
 p2604
 (lp2605
-I24
-aF0.13815314444160159
-asS'marketwatch san'
+I12
+aF0.069076572220800783
+asS'percent stake'
 p2606
 (lp2607
-I5
-aF-0.054537389082536671
-asS'penney co.'
+I4
+aF0.014784264056100897
+asS'brk.b -'
 p2608
 (lp2609
 I1
-aF-0.011144883485308961
-asS'move leads'
+aF0.00067980965329706225
+asS'markets strategy'
 p2610
 (lp2611
-I9
-aF0.063055396376559991
-asS"'t resources"
+I1
+aF-0.015098314606741563
+asS'sharply.market volatility'
 p2612
 (lp2613
 I1
-aF-0.0044444444444443499
-asS'$1.01 share.'
+aF0.025356283546178002
+asS'throughout united'
 p2614
 (lp2615
 I1
-aF-0.0070054945054943809
-asS'economic observers'
+aF-0.015098314606741563
+asS'say man'
 p2616
 (lp2617
 I1
 aF-0.01486199575371556
-asS'rising 1.2'
+asS'ko free'
 p2618
 (lp2619
-I2
-aF-0.036601126188498201
-asS'bell solar-panel'
+I3
+aF0.019851875731156512
+asS'helm succeeded'
 p2620
 (lp2621
 I1
-aF-0.019449798493078665
-asS'canada within'
+aF-0.01749999999999996
+asS'morgan chase'
 p2622
 (lp2623
-I2
-aF0.044508255563532016
-asS'tower corp'
+I4
+aF0.013592832051404428
+asS'mmc cninsure'
 p2624
 (lp2625
-I1
-aF0.00082576383154416076
-asS'media inc.'
+I2
+aF0.060087816422073489
+asS'inc. aeis'
 p2626
 (lp2627
-I1
-aF-0.015434451219512105
-asS'according consensus'
+I3
+aF0.076043454879415551
+asS'two top-selling'
 p2628
 (lp2629
-I6
-aF-0.10059136407511454
-asS'" didn'
+I1
+aF0.0063291139240506224
+asS'terms bailout'
 p2630
 (lp2631
-I1
-aF-0.0044444444444443499
-asS'management last'
+I4
+aF0.039241525733948263
+asS'products markets.the'
 p2632
 (lp2633
 I1
-aF0.0027342063606276006
-asS'subpoenas u.s.'
+aF-0.015098314606741563
+asS'year. take'
 p2634
 (lp2635
-I2
-aF-0.02972399150743112
-asS'bailout saved'
+I1
+aF0.021499999999999984
+asS'acquired chevron'
 p2636
 (lp2637
-I2
-aF-0.02972399150743112
-asS'group andreesen'
+I1
+aF-0.015098314606741563
+asS'penn become'
 p2638
 (lp2639
 I1
-aF-0.0078271226816403073
-asS'goes changes'
+aF-0.013834507961367818
+asS'future.makearticlead ;'
 p2640
 (lp2641
 I1
 aF0.022254127781766008
-asS'8 53'
+asS'euro-zone recovery'
 p2642
 (lp2643
-I12
-aF0.069076572220800783
-asS'jinko beats'
+I9
+aF0.063055396376559991
+asS'group selma'
 p2644
 (lp2645
-I57
-aF0.33936168525976329
-asS'law would'
+I1
+aF-0.015098314606741563
+asS'average 4.9'
 p2646
 (lp2647
-I4
-aF-0.047177815558848674
-asS'like snow'
+I1
+aF0.022254127781766008
+asS'region could'
 p2648
 (lp2649
 I1
-aF-0.013834507961367818
-asS'home reits'
+aF-0.015098314606741563
+asS'company. icahn'
 p2650
 (lp2651
-I20
-aF0.11512762036800134
-asS'market worst'
+I2
+aF0.0050351650906114501
+asS'weights could'
 p2652
 (lp2653
 I1
-aF0.025356283546178002
-asS'analysis report'
+aF-0.015098314606741563
+asS'group inc'
 p2654
 (lp2655
-I25
-aF-0.087083728305380081
-asS'8 59'
+I1
+aF0.0028884159318941583
+asS'1062 national'
 p2656
 (lp2657
-I9
-aF0.063055396376559991
-asS'russian interests'
+I4
+aF-0.047177815558848674
+asS'officials entertain'
 p2658
 (lp2659
 I1
-aF-0.025641025641025664
-asS'corp. "'
+aF-0.015098314606741563
+asS'42 p.m.'
 p2660
 (lp2661
-I1
-aF-0.01486199575371556
-asS'$1.74 share'
+I60
+aF1.5705608521917984
+asS'tops 1,865'
 p2662
 (lp2663
-I1
-aF-0.019449798493078665
-asS'mexico said'
+I2
+aF0.013187812642110119
+asS'percent falling'
 p2664
 (lp2665
-I1
-aF-0.01486199575371556
-asS'96 cents'
+I2
+aF-0.036601126188498201
+asS'additives titanium'
 p2666
 (lp2667
 I1
-aF-0.021229666390956799
-asS'said ryan'
+aF0.032987171655467266
+asS'carl icahn'
 p2668
 (lp2669
-I1
-aF-0.025641025641025664
-asS'founded presided'
+I6
+aF0.019552652434172119
+asS'top stock'
 p2670
 (lp2671
-I1
-aF-0.0096207215541164858
-asS'boost 10'
+I43
+aF0.25877235100216228
+asS'like. "'
 p2672
 (lp2673
-I9
-aF0.063055396376559991
-asS'motley fool'
+I2
+aF-0.0063315831052970124
+asS'deals worth'
 p2674
 (lp2675
 I1
-aF0.022254127781766008
-asS'exchange confidential'
+aF0.017811704834605556
+asS'received subpoena'
 p2676
 (lp2677
-I2
-aF0.0074097938144331178
-asS'4q13 numbers'
+I1
+aF-0.01486199575371556
+asS'+2.05% \xc2'
 p2678
 (lp2679
 I1
-aF0.0095057034220531987
-asS'leopard microsoft'
+aF0.025746268656716333
+asS'pnc free'
 p2680
 (lp2681
-I1
-aF-0.013834507961367818
-asS'formula.gonzalez said'
+I2
+aF-0.014586566700890537
+asS'commercial sheds'
 p2682
 (lp2683
-I1
-aF-0.01486199575371556
-asS'number competitors'
+I30
+aF0.78528042609589921
+asS'die best'
 p2684
 (lp2685
-I1
-aF-0.0078271226816403073
-asS'least $400'
+I10
+aF0.065939063210550597
+asS'biggest confrontation'
 p2686
 (lp2687
 I1
-aF-0.01486199575371556
-asS'measures remain'
+aF-0.024283439490445837
+asS'pieces juan'
 p2688
 (lp2689
 I2
-aF-0.036601126188498201
-asS'report earnings'
+aF-0.0005004065187305274
+asS'citigroup book'
 p2690
 (lp2691
-I2
-aF-0.0020310598497113581
-asS'stocks may'
+I1
+aF-0.01486199575371556
+asS'bidu -'
 p2692
 (lp2693
-I43
-aF0.25877235100216228
-asS'district new'
+I1
+aF-0.0069034107529398394
+asS'+0.46% \xc2'
 p2694
 (lp2695
 I1
-aF-0.01486199575371556
-asS'report simon'
+aF0.00705817480011029
+asS'saefong russia'
 p2696
 (lp2697
-I1
-aF-0.0096207215541164858
-asS"'s push"
+I12
+aF0.069076572220800783
+asS'alabama-based benefit'
 p2698
 (lp2699
 I1
-aF-0.0078271226816403073
-asS'twc fortune'
+aF-0.015098314606741563
+asS'tumble 5.'
 p2700
 (lp2701
-I2
-aF-0.023970052699711648
-asS"'s called"
+I3
+aF-0.036479419703103984
+asS'service 30%'
 p2702
 (lp2703
-I2
-aF-0.0096143372351269688
-asS'outdoor deck'
+I4
+aF-0.0075938299399980749
+asS'guaranteed federal'
 p2704
 (lp2705
 I1
-aF-0.019905850706119568
-asS'inc. facebook'
+aF-0.01486199575371556
+asS'within sector'
 p2706
 (lp2707
-I1
-aF0.023487602630611493
-asS'follows missive'
+I3
+aF0.076043454879415551
+asS'- jeff'
 p2708
 (lp2709
-I1
-aF-0.0078271226816403073
-asS'u.s. shares'
+I12
+aF0.069076572220800783
+asS'safely shipping'
 p2710
 (lp2711
 I1
-aF-0.0069034107529398394
-asS"fool 's"
+aF0.034482758620689689
+asS'feb 14'
 p2712
 (lp2713
 I1
-aF0.022254127781766008
-asS'among shares'
+aF-0.015098314606741563
+asS'feel high'
 p2714
 (lp2715
 I1
-aF-0.011144883485308961
-asS'42 a.m.'
+aF-0.015098314606741563
+asS'tumble ;'
 p2716
 (lp2717
-I9
-aF0.063055396376559991
-asS'survey factset.'
+I14
+aF0.080589334257600925
+asS'rates defend'
 p2718
 (lp2719
-I3
-aF-0.056795325322191371
-asS'poll economists.readings'
+I1
+aF0.022254127781766008
+asS'tougher rules'
 p2720
 (lp2721
 I1
-aF-0.0071729957805906396
-asS'jobs boeing.so'
+aF-0.015098314606741563
+asS'third-quarter earnings'
 p2722
 (lp2723
 I1
-aF-0.0044444444444443499
-asS'- ben'
+aF0.015490533562822848
+asS'market hustle'
 p2724
 (lp2725
-I12
-aF0.069076572220800783
-asS'sheet sets'
+I60
+aF1.5705608521917984
+asS'better compete'
 p2726
 (lp2727
-I1
-aF-0.024283439490445837
-asS'buy 51%'
+I2
+aF-0.00013053922301388583
+asS'new set'
 p2728
 (lp2729
 I2
-aF0.0054684127212552011
-asS'solarcity /quotes/zigman/13139813/delayed/quotes/nls/scty'
+aF-0.0005004065187305274
+asS'accusations bias'
 p2730
 (lp2731
 I1
-aF-0.020009416195856743
-asS'0.37% \xc2'
+aF-0.015098314606741563
+asS'inflation. writes'
 p2732
 (lp2733
 I1
-aF0.00067980965329706225
-asS'banking reads'
+aF-0.01486199575371556
+asS'national bureau'
 p2734
 (lp2735
-I43
-aF0.25877235100216228
-asS'318,999 euros'
+I4
+aF0.10298968128032032
+asS'bitcoin fever'
 p2736
 (lp2737
-I1
-aF0.01163378856853821
-asS'company oceanografia'
+I9
+aF0.063055396376559991
+asS'decision. chevron'
 p2738
 (lp2739
 I1
-aF-0.01486199575371556
-asS"didn 't"
+aF-0.015098314606741563
+asS'+73.53 +1.72%'
 p2740
 (lp2741
-I2
-aF-0.0088888888888886998
-asS'russia etf'
+I1
+aF0.0065939063210550593
+asS'ago11 20'
 p2742
 (lp2743
-I1
-aF0.022254127781766008
-asS'delivering traffic'
+I3
+aF0.019781718963165176
+asS'government kiev'
 p2744
 (lp2745
 I3
-aF-0.024059813263408034
-asS"bank 's"
+aF-0.036479419703103984
+asS'change +33.40'
 p2746
 (lp2747
-I1
-aF-0.01486199575371556
-asS'myra p.'
+I10
+aF0.057563810184000648
+asS'instant messages'
 p2748
 (lp2749
-I36
-aF0.20722971666240242
-asS'paul van'
+I2
+aF0.0094823222529492185
+asS'became ceo'
 p2750
 (lp2751
 I1
-aF-0.0044444444444443499
-asS"'s annual"
+aF0.0095057034220531987
+asS'disclose holdings'
 p2752
 (lp2753
 I1
-aF-0.01486199575371556
-asS'revise shipping'
+aF0.00067980965329706225
+asS'stopped issuing'
 p2754
 (lp2755
-I1
-aF0.022254127781766008
-asS'fell 3.4%'
+I2
+aF0.0094823222529492185
+asS'hun free'
 p2756
 (lp2757
-I1
-aF-0.020009416195856743
-asS'leopard potential'
+I3
+aF0.026538188304429285
+asS'domestic express'
 p2758
 (lp2759
 I1
-aF0.0028884159318941583
-asS'investigating transactions'
+aF0.022254127781766008
+asS'named peter'
 p2760
 (lp2761
 I1
-aF-0.01486199575371556
-asS'microsoft overseeing'
+aF0.0028884159318941583
+asS'\xc2 expected'
 p2762
 (lp2763
-I1
-aF-0.013834507961367818
-asS'said bill'
+I7
+aF0.042207396202476072
+asS'certain would'
 p2764
 (lp2765
 I1
-aF-0.010500807754442712
-asS'buffett\xe2\x80\x99s berkshire'
+aF-0.01486199575371556
+asS"2013.february 's"
 p2766
 (lp2767
 I1
-aF0.00067980965329706225
-asS'energy department'
+aF-0.0071729957805906396
+asS'blog recap'
 p2768
 (lp2769
-I1
-aF-0.01749999999999996
-asS'release results'
+I2
+aF0.013187812642110119
+asS'want "'
 p2770
 (lp2771
-I4
-aF-0.037111166550747227
-asS'inc. /quotes/zigman/121019/delayed/quotes/nls/chtr'
+I1
+aF-0.015098314606741563
+asS'proposal 2015'
 p2772
 (lp2773
-I1
-aF-0.0085193657805474349
-asS'spin paypal'
+I2
+aF0.033133788568538193
+asS'- brett'
 p2774
 (lp2775
-I1
-aF-0.0078271226816403073
-asS'ukraine suggest'
+I12
+aF0.069076572220800783
+asS'02 a.m.'
 p2776
 (lp2777
-I1
-aF-0.025641025641025664
-asS'succeeded chief'
+I42
+aF0.26426393719472163
+asS'rally led'
 p2778
 (lp2779
 I1
-aF-0.01749999999999996
-asS'mix industry'
+aF0.0065939063210550593
+asS'vehicles. sales'
 p2780
 (lp2781
-I6
-aF-0.05390200719883341
-asS'announced april'
-p2782
-(lp2783
 I1
 aF0.0095057034220531987
-asS'mountain lion'
+asS'unnerving messages'
+p2782
+(lp2783
+I3
+aF-0.036479419703103984
+asS'warned last'
 p2784
 (lp2785
 I1
-aF0.0028884159318941583
-asS'surged euro'
+aF-0.015098314606741563
+asS'today7 00'
 p2786
 (lp2787
-I1
-aF0.025356283546178002
-asS'shares rose'
+I30
+aF0.78528042609589921
+asS'2 beatable'
 p2788
 (lp2789
-I1
-aF-0.0078271226816403073
-asS"'s biggest"
+I2
+aF0.037754290992674737
+asS'american follow'
 p2790
 (lp2791
 I1
-aF-0.024283439490445837
-asS'otherwise known'
+aF0.022254127781766008
+asS'store penn'
 p2792
 (lp2793
-I1
-aF-0.01486199575371556
-asS'identity theft'
+I30
+aF0.78528042609589921
+asS'factory activity'
 p2794
 (lp2795
 I1
-aF-0.01486199575371556
-asS'att delta'
+aF-0.0071729957805906396
+asS'. dan'
 p2796
 (lp2797
-I4
-aF-0.047177815558848674
-asS"'s unwinding"
+I2
+aF0.059254127781765933
+asS'roc free'
 p2798
 (lp2799
-I1
-aF-0.01486199575371556
-asS'easing --'
+I3
+aF0.026538188304429285
+asS'running dry'
 p2800
 (lp2801
-I1
-aF-0.01486199575371556
-asS'cancel 22,000'
+I33
+aF0.19079809890985722
+asS'west would'
 p2802
 (lp2803
 I1
-aF0.022254127781766008
-asS'familiar doubts'
+aF0.017951856385148825
+asS'selloff month'
 p2804
 (lp2805
-I9
-aF0.063055396376559991
-asS'others --'
+I3
+aF0.019781718963165176
+asS'monitoring ukraine'
 p2806
 (lp2807
-I2
-aF-0.014234192551842047
-asS'500 novo'
+I52
+aF0.32182774737872233
+asS'learn love'
 p2808
 (lp2809
-I2
-aF0.019043392929388579
-asS'said.the pro'
+I9
+aF0.063055396376559991
+asS'reller leave'
 p2810
 (lp2811
 I1
-aF-0.0044444444444443499
-asS'institute supply'
+aF-0.013834507961367818
+asS'director new'
 p2812
 (lp2813
-I1
-aF-0.0071729957805906396
-asS'ikea sofas'
+I2
+aF-0.0005004065187305274
+asS'sifi "'
 p2814
 (lp2815
-I1
-aF-0.024283439490445837
-asS'green mountain'
+I2
+aF-0.0096143372351269688
+asS'reasons inflation'
 p2816
 (lp2817
-I2
-aF-0.0096874231100129455
-asS'british man'
+I1
+aF0.034482758620689689
+asS'tapering quantitative'
 p2818
 (lp2819
 I1
 aF-0.01486199575371556
-asS'slightly beat'
+asS'escalates 12'
 p2820
 (lp2821
-I1
-aF-0.042688910696761409
-asS'vip programs'
+I9
+aF0.063055396376559991
+asS'paris.president vladimir'
 p2822
 (lp2823
 I1
-aF-0.050196850393700768
-asS'4 shares'
+aF-0.025641025641025664
+asS'$5.79 share'
 p2824
 (lp2825
-I1
-aF0.0095057034220531987
-asS'nobel holds'
+I2
+aF0.014618679165891798
+asS'voc energy'
 p2826
 (lp2827
-I3
-aF0.015817950519726197
-asS'hyundai motor'
+I1
+aF0.029542097488921743
+asS'shares u.k.'
 p2828
 (lp2829
-I1
-aF0.0095057034220531987
-asS'target corp.'
+I2
+aF-0.0014321680310061119
+asS'percent $531.22'
 p2830
 (lp2831
 I1
-aF-0.011144883485308961
-asS'blame recent'
+aF0.0065939063210550593
+asS'edward taylor'
 p2832
 (lp2833
 I1
-aF-0.01486199575371556
-asS"'s sky"
+aF0.014802631578947345
+asS'year earlier.'
 p2834
 (lp2835
 I1
-aF-0.052777777777777764
-asS'months 11'
+aF0.0095057034220531987
+asS'lnkd facebook'
 p2836
 (lp2837
-I12
-aF0.069076572220800783
-asS'vz free'
+I16
+aF0.046391384821821771
+asS'edition indian'
 p2838
 (lp2839
-I1
-aF0.00082576383154416076
-asS'edges higher'
+I9
+aF0.063055396376559991
+asS'comcast netflix'
 p2840
 (lp2841
-I45
-aF0.27028511303896241
-asS'potential impact'
+I6
+aF0.013389593364884374
+asS'- 2.37%'
 p2842
 (lp2843
 I1
-aF0.022254127781766008
-asS'moderate.a poll'
+aF-0.047141424272818457
+asS'combined capacity'
 p2844
 (lp2845
 I1
-aF-0.042688910696761409
-asS'fx markets'
+aF-0.0032679738562091968
+asS'" "'
 p2846
 (lp2847
-I9
-aF0.063055396376559991
-asS'2012 318,999'
+I7
+aF0.16384580393651951
+asS'report air'
 p2848
 (lp2849
-I1
-aF0.01163378856853821
-asS'amzn fortune'
+I3
+aF0.0021474564628237813
+asS'2013 problems'
 p2850
 (lp2851
-I16
-aF-0.14067681133097312
-asS'/quotes/zigman/217978/delayed/quotes/nls/apc apc'
+I1
+aF-0.01486199575371556
+asS'fixes security'
 p2852
 (lp2853
 I2
-aF0.023622213537533625
-asS'jan. 31'
+aF0.0094823222529492185
+asS'greenlight capital'
 p2854
 (lp2855
-I9
-aF0.063055396376559991
-asS'national averages'
+I2
+aF0.023622213537533625
+asS'emulate success'
 p2856
 (lp2857
-I44
-aF0.29827263365344059
-asS'$1.07 share'
+I1
+aF0.0065939063210550593
+asS'7203.t hyundai'
 p2858
 (lp2859
 I1
-aF-0.0070054945054943809
-asS'500 kroger'
+aF0.0095057034220531987
+asS"'s gain"
 p2860
 (lp2861
-I4
-aF-0.037111166550747227
-asS'500 staples'
+I2
+aF0.040569339539934614
+asS"november 's"
 p2862
 (lp2863
-I4
-aF-0.037111166550747227
-asS"'s fedex"
+I1
+aF-0.0071729957805906396
+asS'radioshack miss'
 p2864
 (lp2865
-I1
-aF0.022254127781766008
-asS'warrant look'
+I30
+aF0.78528042609589921
+asS'stocks open'
 p2866
 (lp2867
-I2
-aF-0.0082949308755760238
-asS'saefong stock'
+I3
+aF0.019781718963165176
+asS'million shares'
 p2868
 (lp2869
-I12
-aF0.069076572220800783
-asS'pnc financial'
+I2
+aF0.039888415931894079
+asS'. general'
 p2870
 (lp2871
-I2
-aF-0.0082949308755760238
-asS'factset. sodastream'
+I1
+aF0.0095057034220531987
+asS'see future'
 p2872
 (lp2873
-I1
-aF-0.011144883485308961
-asS'likely post'
+I30
+aF0.78528042609589921
+asS'close 4,277.30'
 p2874
 (lp2875
-I3
-aF-0.026289839656415528
-asS'at&t inc'
+I1
+aF0.0065939063210550593
+asS'prohibit isps'
 p2876
 (lp2877
-I1
-aF0.00082576383154416076
-asS'tesla marcia'
+I4
+aF0.010079537768633639
+asS'escalation ukraine'
 p2878
 (lp2879
 I1
-aF-0.010660963270678267
-asS'howard archer'
+aF-0.025641025641025664
+asS'results fourth'
 p2880
 (lp2881
-I1
-aF-0.025641025641025664
-asS'weakness came'
+I30
+aF0.78528042609589921
+asS'yuan move'
 p2882
 (lp2883
-I1
-aF-0.0071729957805906396
-asS'plans. core'
+I9
+aF0.063055396376559991
+asS'weakness 6'
 p2884
 (lp2885
-I1
-aF-0.01486199575371556
-asS'2014 "'
+I9
+aF0.063055396376559991
+asS'+0.66% vodafone'
 p2886
 (lp2887
 I1
-aF-0.025641025641025664
-asS'3.12% \xc2'
+aF0.0065939063210550593
+asS'august would'
 p2888
 (lp2889
-I2
-aF-0.045650441836882411
-asS'-- shows'
+I1
+aF-0.013834507961367818
+asS'liquidity boost'
 p2890
 (lp2891
-I1
-aF0.0028884159318941583
-asS'executive officer'
+I9
+aF0.063055396376559991
+asS'report fifth'
 p2892
 (lp2893
-I1
-aF-0.01486199575371556
-asS'top executives'
+I2
+aF-0.014586566700890537
+asS'yet unveiled'
 p2894
 (lp2895
 I1
-aF-0.013834507961367818
-asS'past analysts'
+aF-0.015098314606741563
+asS'1.7%. france'
 p2896
 (lp2897
 I1
-aF0.0095057034220531987
-asS'assis oil'
+aF-0.0058604155567394478
+asS'since beginning'
 p2898
 (lp2899
-I12
-aF0.069076572220800783
-asS'media reports.'
+I1
+aF0.0028884159318941583
+asS'small companies.'
 p2900
 (lp2901
-I1
-aF-0.013834507961367818
-asS'500 apple'
+I2
+aF0.0050351650906114501
+asS'polled reuters.also'
 p2902
 (lp2903
-I14
-aF-0.12644261877913104
-asS'2014 -'
+I1
+aF0.0063291139240506224
+asS'} models'
 p2904
 (lp2905
-I414
-aF2.6755888891025594
-asS'bitcoin buzz'
+I1
+aF0.086510263929618747
+asS'oil stocks'
 p2906
 (lp2907
-I9
-aF0.063055396376559991
-asS'added "'
+I43
+aF0.25877235100216228
+asS'compromise. russia'
 p2908
 (lp2909
-I2
-aF-0.011409976168524519
-asS'resources didn'
+I1
+aF0.017951856385148825
+asS'shipping patterns'
 p2910
 (lp2911
 I1
-aF-0.0044444444444443499
-asS'2014 6'
+aF0.022254127781766008
+asS'ago sold'
 p2912
 (lp2913
-I9
-aF0.063055396376559991
-asS'giants amazon'
+I1
+aF-0.0044444444444443499
+asS"'prepackaged bankruptcy"
 p2914
 (lp2915
-I6
-aF-0.05390200719883341
-asS'full list'
+I44
+aF0.87759511459066997
+asS'nasdaq composite'
 p2916
 (lp2917
-I8
-aF-0.07254061158029762
-asS'poll 34'
+I1
+aF0.0065939063210550593
+asS'federal deposit'
 p2918
 (lp2919
 I1
-aF-0.042688910696761409
-asS"households '"
+aF-0.01486199575371556
+asS'jerusalem week'
 p2920
 (lp2921
-I1
-aF-0.01486199575371556
-asS'sjolin 5'
+I43
+aF0.25877235100216228
+asS'jitters driving'
 p2922
 (lp2923
-I12
-aF0.069076572220800783
-asS"state 's"
+I9
+aF0.063055396376559991
+asS'june maestri'
 p2924
 (lp2925
-I4
-aF-0.047177815558848674
-asS'xp april'
+I1
+aF0.0065939063210550593
+asS'west elm'
 p2926
 (lp2927
-I1
-aF-0.013834507961367818
-asS'" omidyar'
+I2
+aF-0.0063315831052970124
+asS'specifically directed'
 p2928
 (lp2929
-I1
-aF-0.0078271226816403073
-asS'paid-connection deals'
+I2
+aF0.0073921320280504483
+asS'earnings $1.94'
 p2930
 (lp2931
-I3
-aF-0.039832894544929484
-asS'month half'
+I1
+aF0.00016545334215751787
+asS'billion potentially'
 p2932
 (lp2933
-I1
-aF0.00067980965329706225
-asS'letter follows'
+I4
+aF-0.0075938299399980749
+asS'month icahn'
 p2934
 (lp2935
-I1
-aF-0.0078271226816403073
-asS'. priceline.com'
+I2
+aF0.0050351650906114501
+asS'\xc2 projected'
 p2936
 (lp2937
-I1
-aF-0.0078586044304735248
-asS'11 min'
+I13
+aF-0.12690084056989731
+asS'said regulatory'
 p2938
 (lp2939
-I12
-aF0.069076572220800783
-asS'500 amazon'
+I1
+aF-0.01486199575371556
+asS'share. dreamworks'
 p2940
 (lp2941
-I8
-aF-0.07254061158029762
-asS'u.s. market.while'
+I2
+aF-0.030299319009660548
+asS'3 percent'
 p2942
 (lp2943
 I1
-aF-0.042688910696761409
-asS'/quotes/zigman/238082/delayed/quotes/nls/pep pep'
+aF-0.015098314606741563
+asS'here.zacks investment'
 p2944
 (lp2945
-I1
-aF-0.011144883485308961
-asS'media corp.'
+I3
+aF0.050800374916289345
+asS'clear conflict.'
 p2946
 (lp2947
-I2
-aF-0.022566372361966354
-asS'usa received'
+I4
+aF0.044938893448227483
+asS'radioshack reports'
 p2948
 (lp2949
-I1
-aF-0.01486199575371556
-asS'cac 40'
+I60
+aF1.5705608521917984
+asS'since may'
 p2950
 (lp2951
-I3
-aF-0.017581246670218344
-asS'0.50% \xc2'
+I1
+aF-0.0071729957805906396
+asS'workers employed'
 p2952
 (lp2953
-I1
-aF0.00067980965329706225
-asS'plc /quotes/zigman/146635/delayed/quotes/nls/gsk'
+I2
+aF0.03556487878640302
+asS'huntsman corp'
 p2954
 (lp2955
-I1
-aF0.00067980965329706225
-asS'lilit gevorgyan'
+I3
+aF0.026538188304429285
+asS'two-thirds invoices'
 p2956
 (lp2957
 I1
-aF-0.025641025641025664
-asS'bancorp fitb'
+aF-0.01486199575371556
+asS'hit new'
 p2958
 (lp2959
-I2
-aF-0.0082949308755760238
-asS'sale securitization'
+I47
+aF0.89737683355383513
+asS'- 0.92%'
 p2960
 (lp2961
 I1
-aF-0.01486199575371556
-asS'reshuffle microsoft'
+aF0.036999999999999922
+asS'cruze sonic'
 p2962
 (lp2963
 I1
-aF-0.013834507961367818
-asS'dow triple-digit'
+aF-0.042688910696761409
+asS'making computers'
 p2964
 (lp2965
-I43
-aF0.25877235100216228
-asS'walmart wmt'
+I2
+aF0.0094823222529492185
+asS'nok -'
 p2966
 (lp2967
-I2
-aF0.019043392929388579
-asS'comcast cmcsa'
+I1
+aF0.036999999999999922
+asS'crisis united'
 p2968
 (lp2969
-I2
-aF-0.023970052699711648
-asS'plate production'
+I1
+aF-0.015098314606741563
+asS'carlyle group'
 p2970
 (lp2971
-I43
-aF0.25877235100216228
-asS'work in-home'
+I2
+aF-0.062919807236027137
+asS'skype. part'
 p2972
 (lp2973
 I2
-aF-0.0096874231100129455
-asS'500 facebook'
+aF0.0050351650906114501
+asS'rally s&p'
 p2974
 (lp2975
-I9
-aF-0.093734901743762894
-asS'forecast wall'
+I1
+aF0.0065939063210550593
+asS'f.n slightly'
 p2976
 (lp2977
 I1
-aF-0.020009416195856743
-asS'region send'
+aF-0.042688910696761409
+asS'internet "'
 p2978
 (lp2979
-I1
-aF-0.025641025641025664
-asS'hcn free'
+I2
+aF0.019620762866974131
+asS'jackson currency'
 p2980
 (lp2981
-I1
-aF-0.0096207215541164858
-asS'9 07'
-p2982
-(lp2983
 I9
 aF0.063055396376559991
-asS'stimulus. ukraine'
+asS'loofbourrow board'
+p2982
+(lp2983
+I30
+aF0.78528042609589921
+asS'masflight says'
 p2984
 (lp2985
 I1
-aF-0.01486199575371556
-asS'network corp.'
+aF0.034482758620689689
+asS'transactions --'
 p2986
 (lp2987
 I2
-aF0.0013596193065941245
-asS'-- example'
+aF0.0094823222529492185
+asS"london 's"
 p2988
 (lp2989
-I2
-aF-0.014234192551842047
-asS'$1.94 share.'
+I4
+aF0.031722075945001274
+asS'stocks s&p'
 p2990
 (lp2991
-I1
-aF0.00016545334215751787
-asS'0.98% reported'
+I47
+aF0.89737683355383513
+asS"'s political"
 p2992
 (lp2993
-I1
-aF0.023487602630611493
-asS'wealth numbers'
+I3
+aF0.0047587671132585697
+asS'say obama'
 p2994
 (lp2995
 I1
-aF-0.01486199575371556
-asS'- 0.16%'
+aF-0.015098314606741563
+asS'man accused'
 p2996
 (lp2997
 I1
-aF0.00067980965329706225
-asS'hire advisers'
+aF-0.01486199575371556
+asS'} "'
 p2998
 (lp2999
-I2
-aF0.0073921320280504483
-asS'shares jumped'
+I5
+aF0.1588106388459081
+asS'state. marriott'
 p3000
 (lp3001
 I1
-aF-0.0069034107529398394
-asS'last week'
+aF-0.017333579199704921
+asS'point disclosed'
 p3002
 (lp3003
 I1
-aF0.0027342063606276006
-asS'- barbara'
+aF0.036999999999999922
+asS'dal fortune'
 p3004
 (lp3005
-I24
-aF0.13815314444160159
-asS'demand two'
+I4
+aF-0.047177815558848674
+asS'call ;'
 p3006
 (lp3007
-I1
-aF0.0063291139240506224
-asS'year. 2'
+I30
+aF0.78528042609589921
+asS'stock buyback'
 p3008
 (lp3009
-I1
-aF-0.01486199575371556
-asS'percent ruble'
+I2
+aF0.0094823222529492185
+asS'4 09'
 p3010
 (lp3011
 I1
-aF-0.025641025641025664
-asS'sink dollar'
+aF0.0065939063210550593
+asS'reuters. buffett'
 p3012
 (lp3013
-I2
-aF0.011512762036800132
-asS'european stocks'
+I1
+aF-0.015098314606741563
+asS'crimean peninsula'
 p3014
 (lp3015
-I14
-aF0.080589334257600925
-asS'leopard. apple'
+I1
+aF0.017951856385148825
+asS'units radioshack'
 p3016
 (lp3017
-I1
-aF0.0028884159318941583
-asS"'s g5"
+I44
+aF0.87759511459066997
+asS'4 01'
 p3018
 (lp3019
 I1
-aF-0.052777777777777764
-asS'bank new'
+aF0.0065939063210550593
+asS'loss wider'
 p3020
 (lp3021
-I2
-aF-0.02972399150743112
-asS'cheaper shipping'
+I30
+aF0.78528042609589921
+asS'} ;'
 p3022
 (lp3023
-I1
-aF0.022254127781766008
-asS"'s recent"
+I5
+aF0.1588106388459081
+asS'probably kept'
 p3024
 (lp3025
 I1
-aF-0.0071729957805906396
-asS'economy properly'
+aF0.0063291139240506224
+asS'; following'
 p3026
 (lp3027
-I2
-aF0.0073921320280504483
-asS'board 2007.gorder'
+I1
+aF0.022254127781766008
+asS'hot fortune'
 p3028
 (lp3029
-I1
-aF0.0095057034220531987
-asS'regulations. related'
+I4
+aF-0.047177815558848674
+asS'beno\xc3\xaet anne'
 p3030
 (lp3031
 I1
-aF-0.010660963270678267
-asS'worldwide seeing'
+aF-0.015098314606741563
+asS'weather probably'
 p3032
 (lp3033
-I4
-aF-0.059447983014862239
-asS'$1.02 share'
+I2
+aF0.019620762866974131
+asS'german central'
 p3034
 (lp3035
 I1
-aF-0.0070054945054943809
-asS'across board'
+aF-0.015098314606741563
+asS'slowing growth'
 p3036
 (lp3037
 I1
-aF0.022254127781766008
-asS'staff changes'
+aF-0.0071729957805906396
+asS'control eastern'
 p3038
 (lp3039
-I1
-aF-0.013834507961367818
-asS'news site'
+I3
+aF-0.036479419703103984
+asS'major art'
 p3040
 (lp3041
-I1
-aF-0.013834507961367818
-asS'texas build'
+I2
+aF-0.032580270082819947
+asS'additionally voc'
 p3042
 (lp3043
 I1
-aF0.023487602630611493
-asS'4.9 percent'
+aF0.029542097488921743
+asS'farm single-family'
 p3044
 (lp3045
-I1
-aF0.022254127781766008
-asS'inc. /quotes/zigman/68270/delayed/quotes/nls/aapl'
+I20
+aF0.11512762036800134
+asS'share year-earlier'
 p3046
 (lp3047
-I3
-aF0.029027283270916533
-asS'already sold'
+I2
+aF-0.01702614434749404
+asS'site russia'
 p3048
 (lp3049
-I1
-aF-0.010660963270678267
-asS'unit effective'
+I43
+aF0.25877235100216228
+asS'glaxosmithkline plc'
 p3050
 (lp3051
 I1
-aF0.022254127781766008
-asS'europe. rate'
+aF0.00067980965329706225
+asS'equities paris.president'
 p3052
 (lp3053
 I1
-aF0.022254127781766008
-asS'also included'
+aF-0.025641025641025664
+asS'prentice capital'
 p3054
 (lp3055
-I7
-aF-0.061600416238838308
-asS'facebook fb'
+I43
+aF0.25877235100216228
+asS'collateral loans.in'
 p3056
 (lp3057
-I17
-aF-0.16627551332406051
-asS'named chairman'
+I1
+aF-0.01486199575371556
+asS'pennsylvania west'
 p3058
 (lp3059
 I1
-aF0.0095057034220531987
-asS'yhoo fortune'
+aF0.017951856385148825
+asS"won 't"
 p3060
 (lp3061
-I8
-aF-0.07254061158029762
-asS'launched stimulative'
+I4
+aF0.040525920596588647
+asS'way "'
 p3062
 (lp3063
-I1
-aF-0.01486199575371556
-asS'mac operating'
+I30
+aF0.78528042609589921
+asS'depot hd'
 p3064
 (lp3065
-I1
-aF0.0028884159318941583
-asS'temperatures expected'
+I4
+aF0.044781306879880148
+asS"1992.ecuador 's"
 p3066
 (lp3067
 I1
-aF-0.042688910696761409
-asS'financial officer'
+aF-0.015098314606741563
+asS'attorney general'
 p3068
 (lp3069
 I1
-aF0.0028884159318941583
-asS'ebay spin'
+aF-0.01486199575371556
+asS'class worst'
 p3070
 (lp3071
-I1
-aF-0.0078271226816403073
-asS'inc gs.n'
+I10
+aF0.065939063210550597
+asS'announced plans'
 p3072
 (lp3073
-I1
-aF0.0028884159318941583
-asS'months year'
+I5
+aF-0.0047054140081039175
+asS'outperformance delivered'
 p3074
 (lp3075
-I1
-aF0.022254127781766008
-asS'amotz asa-el'
+I2
+aF0.023269395998132755
+asS'year still'
 p3076
 (lp3077
-I12
-aF0.069076572220800783
-asS'kingdom serbia'
+I1
+aF-0.015098314606741563
+asS'inc. /quotes/zigman/59898/delayed/quotes/nls/yhoo'
 p3078
 (lp3079
-I1
-aF0.022254127781766008
-asS'near fcc'
+I3
+aF0.029027283270916533
+asS'related jan'
 p3080
 (lp3081
 I1
-aF-0.010660963270678267
-asS'china commodities'
+aF0.0028884159318941583
+asS'ultra clean'
 p3082
 (lp3083
-I43
-aF0.25877235100216228
-asS'kkr co'
+I6
+aF0.1520869097588311
+asS"2011.january 's"
 p3084
 (lp3085
 I1
-aF-0.0096207215541164858
-asS'500 home'
+aF-0.0071729957805906396
+asS'set initial'
 p3086
 (lp3087
 I2
-aF0.019043392929388579
-asS'including american'
+aF0.10801026392961874
+asS'proposed improvements'
 p3088
 (lp3089
-I4
-aF-0.047177815558848674
-asS'missive earlier'
+I1
+aF-0.015098314606741563
+asS'. gallagher'
 p3090
 (lp3091
-I1
-aF-0.0078271226816403073
-asS'court struck'
+I2
+aF0.060087816422073489
+asS'newswire radioshack'
 p3092
 (lp3093
-I1
-aF-0.01486199575371556
-asS'2007.gorder valero'
+I30
+aF0.78528042609589921
+asS'compared $81.1'
 p3094
 (lp3095
-I1
-aF0.0095057034220531987
-asS'- jeffry'
+I2
+aF0.044066106993071633
+asS'network instead'
 p3096
 (lp3097
-I24
-aF0.13815314444160159
-asS'arte reina'
+I6
+aF0.013389593364884374
+asS'nadella took'
 p3098
 (lp3099
 I1
-aF0.01163378856853821
-asS'report pnc'
+aF-0.013834507961367818
+asS'ntic akzo'
 p3100
 (lp3101
 I2
-aF-0.014586566700890537
-asS'company trulife'
+aF0.0063122470976729999
+asS'funds last'
 p3102
 (lp3103
 I1
-aF-0.0044444444444443499
-asS'rising number'
+aF0.014802631578947345
+asS'airways jblu'
 p3104
 (lp3105
 I1
-aF-0.0044444444444443499
-asS'invade neighbor'
+aF0
+asS'- howard'
 p3106
 (lp3107
-I1
-aF-0.025641025641025664
-asS'" buffett'
+I9
+aF0.063055396376559991
+asS'retailers like'
 p3108
 (lp3109
-I2
-aF-0.0096143372351269688
-asS'state-owned oil'
+I1
+aF-0.0089897260273972355
+asS'remained foreign'
 p3110
 (lp3111
 I1
-aF-0.01486199575371556
-asS'dish network'
+aF0.034482758620689689
+asS"'s sporting"
 p3112
 (lp3113
-I2
-aF0.0013596193065941245
-asS'erupts ukraine'
+I43
+aF0.25877235100216228
+asS'million oceanografia'
 p3114
 (lp3115
-I43
-aF0.25877235100216228
-asS"'s 2"
+I1
+aF-0.01486199575371556
+asS"isn 't"
 p3116
 (lp3117
-I2
-aF-0.036601126188498201
-asS'missile defense'
+I4
+aF0.039241525733948263
+asS'include bb&t'
 p3118
 (lp3119
-I1
-aF-0.01749999999999996
-asS'jerusalem week'
+I2
+aF-0.0082949308755760238
+asS'espresso makers'
 p3120
 (lp3121
-I43
-aF0.25877235100216228
-asS'blatant ever'
+I2
+aF-0.0063315831052970124
+asS'25 highest'
 p3122
 (lp3123
-I1
-aF-0.0078271226816403073
-asS'events weekend'
+I16
+aF0.046391384821821771
+asS'halts 3-week'
 p3124
 (lp3125
 I1
-aF-0.025641025641025664
-asS'tsla shares'
+aF0.0065939063210550593
+asS'motors co'
 p3126
 (lp3127
 I1
-aF0.023487602630611493
-asS'micron technology'
+aF0.0095057034220531987
+asS'18 straight'
 p3128
 (lp3129
-I2
-aF0.023622213537533625
-asS'boost streaming'
+I1
+aF0.014802631578947345
+asS'ism said'
 p3130
 (lp3131
-I3
-aF-0.024059813263408034
-asS'deposit insurance'
+I1
+aF-0.0071729957805906396
+asS'fslr -'
 p3132
 (lp3133
-I1
-aF-0.01486199575371556
-asS'surveyed factset'
+I2
+aF-0.038899596986157331
+asS'valores cnbv'
 p3134
 (lp3135
 I1
-aF-0.020009416195856743
-asS'$1.05 share'
+aF-0.01486199575371556
+asS'apple inc'
 p3136
 (lp3137
-I2
-aF-0.027535981856785251
-asS'mexico within'
+I4
+aF0.032751718251081974
+asS'supportive radioshack'
 p3138
 (lp3139
-I1
-aF0.022254127781766008
-asS'12 percent.ford'
+I44
+aF0.87759511459066997
+asS'development leave'
 p3140
 (lp3141
 I1
-aF-0.042688910696761409
-asS'month. "'
+aF-0.013834507961367818
+asS'0.48% apple'
 p3142
 (lp3143
-I1
-aF-0.010660963270678267
-asS'fhfa .fairholme'
+I3
+aF0.029027283270916533
+asS'federal aviation'
 p3144
 (lp3145
-I2
-aF0.0073921320280504483
-asS'push total'
+I1
+aF0.034482758620689689
+asS'february 4'
 p3146
 (lp3147
 I1
-aF0.0063291139240506224
-asS'worth considering'
+aF-0.013834507961367818
+asS'property.india furious'
 p3148
 (lp3149
-I2
-aF0.0063122470976729999
-asS'provided operation'
+I1
+aF-0.015098314606741563
+asS'p -'
 p3150
 (lp3151
 I1
-aF-0.01486199575371556
-asS'april 2011.january'
+aF-0.015434451219512105
+asS'low $22.16'
 p3152
 (lp3153
 I1
-aF-0.0071729957805906396
-asS'well puerto'
+aF0.022254127781766008
+asS'trade organization'
 p3154
 (lp3155
 I1
-aF0.022254127781766008
-asS'inc.\xe2\x80\x99s /quotes/zigman/97715/delayed/quotes/nls/bidu'
+aF-0.015098314606741563
+asS'trulife makes'
 p3156
 (lp3157
 I1
-aF-0.0069034107529398394
-asS'big retailers'
+aF-0.0044444444444443499
+asS'full list'
 p3158
 (lp3159
-I1
-aF-0.0089897260273972355
-asS'cash hoard'
+I16
+aF0.046391384821821771
+asS'markets. reuters'
 p3160
 (lp3161
 I1
-aF0.0028884159318941583
-asS'district massachusetts.the'
+aF0.034482758620689689
+asS'partners bellingham'
 p3162
 (lp3163
 I1
-aF-0.01486199575371556
-asS'among companies'
+aF-0.0044444444444443499
+asS'2.98 percent'
 p3164
 (lp3165
-I4
-aF-0.04339250559722771
-asS'remains november'
+I2
+aF0.0073921320280504483
+asS'affordable medicines.'
 p3166
 (lp3167
 I1
-aF-0.0071729957805906396
-asS'filing monday'
+aF-0.015098314606741563
+asS'sanctions russia'
 p3168
 (lp3169
 I1
-aF-0.01486199575371556
-asS'week low'
+aF0.022254127781766008
+asS'expectations u.s.'
 p3170
 (lp3171
-I12
-aF0.069076572220800783
-asS'billion investment.'
+I2
+aF0.011512762036800132
+asS'percent december.both'
 p3172
 (lp3173
-I1
-aF-0.013834507961367818
-asS'google fiber'
+I2
+aF-0.036601126188498201
+asS'big setback'
 p3174
 (lp3175
-I1
-aF-0.010660963270678267
-asS'officer get'
+I2
+aF0.019620762866974131
+asS'? crew'
 p3176
 (lp3177
 I1
-aF-0.013834507961367818
-asS"paypal 's"
+aF0.0065939063210550593
+asS'probably blame'
 p3178
 (lp3179
-I1
-aF-0.0078271226816403073
-asS'around 100,000'
+I2
+aF0.019620762866974131
+asS'said gallery'
 p3180
 (lp3181
-I1
-aF-0.010660963270678267
-asS'percent stake'
+I2
+aF-0.0005004065187305274
+asS'value 72.1.'
 p3182
 (lp3183
-I4
-aF0.014784264056100897
-asS'police. "'
+I1
+aF0.012706969580285016
+asS'hathaway inc.'
 p3184
 (lp3185
 I1
-aF0.022254127781766008
-asS'inside banamex'
+aF0.00067980965329706225
+asS'billion annual'
 p3186
 (lp3187
 I1
-aF-0.01486199575371556
-asS'without core'
+aF0.017811704834605556
+asS'roi view'
 p3188
 (lp3189
-I2
-aF0.0073921320280504483
-asS'1,321.60 1,355.00'
+I43
+aF0.25877235100216228
+asS'; writing'
 p3190
 (lp3191
-I10
-aF0.057563810184000648
-asS'stomach borrowing'
+I1
+aF0.014802631578947345
+asS'aide become'
 p3192
 (lp3193
 I1
-aF-0.0044444444444443499
-asS'chief strategy'
+aF-0.013834507961367818
+asS'dividends share'
 p3194
 (lp3195
-I2
-aF-0.027669015922735636
-asS'state. marriott'
+I1
+aF0.0065939063210550593
+asS'inc. /quotes/zigman/102025/delayed/quotes/nls/fslr'
 p3196
 (lp3197
-I1
-aF-0.017333579199704921
-asS'profit warning.'
+I4
+aF0.02364507778153388
+asS'record highs'
 p3198
 (lp3199
-I1
-aF0.022254127781766008
-asS'500 yahoo'
-p3200
-(lp3201
-I8
-aF-0.07254061158029762
-asS'johnson one-time'
-p3202
-(lp3203
-I1
-aF0.0028884159318941583
-asS'u.s. won'
-p3204
-(lp3205
 I9
 aF0.063055396376559991
-asS'subsidiary paypal'
+asS'dunkin brands'
+p3200
+(lp3201
+I3
+aF0.019851875731156512
+asS'rsh 11'
+p3202
+(lp3203
+I30
+aF0.78528042609589921
+asS'reports profit'
+p3204
+(lp3205
+I2
+aF0.011512762036800132
+asS'maker first'
 p3206
 (lp3207
-I1
-aF-0.0078271226816403073
-asS'verizon at&t'
+I2
+aF0.01182253889076694
+asS'could toothbrush'
 p3208
 (lp3209
 I1
-aF-0.010660963270678267
-asS'billion cash'
+aF0.0065939063210550593
+asS'crisis escalates'
 p3210
 (lp3211
-I1
-aF-0.015337423312883396
-asS'visit dick'
+I23
+aF0.14364473063416094
+asS'/quotes/zigman/94726/delayed/quotes/nls/dwa dwa'
 p3212
 (lp3213
-I43
-aF0.25877235100216228
-asS'different way'
+I4
+aF-0.060598638019321097
+asS'department environmental'
 p3214
 (lp3215
 I1
-aF0.022254127781766008
-asS'expectations chrysler'
+aF-0.01749999999999996
+asS'governance unless'
 p3216
 (lp3217
-I1
-aF0.0063291139240506224
-asS'water closest'
+I2
+aF0.0073921320280504483
+asS'18 p.m.'
 p3218
 (lp3219
 I1
-aF-0.025641025641025664
-asS'ukraine pare'
+aF0.0065939063210550593
+asS'less frenetic'
 p3220
 (lp3221
-I14
-aF0.080589334257600925
-asS'known quantitative'
+I1
+aF-0.015098314606741563
+asS'. 12'
 p3222
 (lp3223
-I1
-aF-0.01486199575371556
-asS'number acquisitions'
+I3
+aF0.063091081462298138
+asS'500 online'
 p3224
 (lp3225
-I1
-aF-0.0044444444444443499
-asS'31 according'
+I14
+aF0.018081633883883088
+asS'2013 earnings'
 p3226
 (lp3227
-I2
-aF0.0073921320280504483
-asS'prods che'
+I30
+aF0.78528042609589921
+asS'spirit 6'
 p3228
 (lp3229
-I3
-aF0.0021474564628237813
-asS'enforcement consumer'
+I30
+aF0.78528042609589921
+asS'regardless asset'
 p3230
 (lp3231
 I1
-aF-0.01486199575371556
-asS'sodastream /quotes/zigman/710745/delayed/quotes/nls/soda'
+aF-0.015098314606741563
+asS'threatened isolate'
 p3232
 (lp3233
 I1
-aF-0.011144883485308961
-asS'$48.63 early'
+aF-0.024283439490445837
+asS'ipo skype.'
 p3234
 (lp3235
-I1
-aF0.0095057034220531987
-asS'canada puerto'
+I2
+aF0.0050351650906114501
+asS'ingves said.there'
 p3236
 (lp3237
 I1
-aF0.022254127781766008
-asS'yen jumps'
+aF-0.015098314606741563
+asS'iphones could'
 p3238
 (lp3239
-I57
-aF0.33936168525976329
-asS'snuck servers'
+I20
+aF0.11512762036800134
+asS'" putin'
 p3240
 (lp3241
 I1
-aF-0.01486199575371556
-asS'loss narrowed'
+aF0.017951856385148825
+asS"'s real"
 p3242
 (lp3243
 I1
-aF0.023487602630611493
-asS'appl.o independent'
+aF0.021499999999999984
+asS'+0.22% \xc2'
 p3244
 (lp3245
-I1
-aF0.0028884159318941583
-asS'filing monday.'
+I2
+aF0.00033090668431503574
+asS'fifth third'
 p3246
 (lp3247
-I1
-aF-0.01486199575371556
-asS'considered one'
+I4
+aF-0.022881497576466563
+asS'bonds wheat'
 p3248
 (lp3249
-I1
-aF-0.013834507961367818
-asS"'s program"
+I43
+aF0.25877235100216228
+asS"'s read"
 p3250
 (lp3251
 I1
-aF0.022254127781766008
-asS'year falling'
+aF-0.0071729957805906396
+asS'current workers'
 p3252
 (lp3253
-I1
-aF-0.01486199575371556
-asS'pnc said'
+I4
+aF-0.047177815558848674
+asS'younger mutual'
 p3254
 (lp3255
-I1
-aF-0.01486199575371556
-asS'; earnings'
+I4
+aF0.10298968128032032
+asS'spent 20'
 p3256
 (lp3257
-I2
-aF0.011512762036800132
-asS'new orders'
+I1
+aF0.0065939063210550593
+asS'europe. "'
 p3258
 (lp3259
 I1
-aF-0.0071729957805906396
-asS'said gallery'
+aF0.0065939063210550593
+asS'12,000 employees'
 p3260
 (lp3261
 I1
-aF-0.010660963270678267
-asS'water undercover'
+aF-0.010500807754442712
+asS'stretch water'
 p3262
 (lp3263
-I43
-aF0.25877235100216228
-asS'high friday'
+I1
+aF-0.025641025641025664
+asS"'s inc."
 p3264
 (lp3265
 I1
-aF-0.024283439490445837
-asS'report whole'
+aF0.0085513078470825805
+asS'says ecb'
 p3266
 (lp3267
-I1
-aF-0.0096207215541164858
-asS'limited edition'
+I43
+aF0.25877235100216228
+asS'fiscal 2014'
 p3268
 (lp3269
 I1
-aF0.022254127781766008
-asS'crimes deviations'
+aF0.028248587570621538
+asS'pre-empting "'
 p3270
 (lp3271
-I1
-aF-0.01486199575371556
-asS'month. related'
+I2
+aF0.0050351650906114501
+asS'/quotes/zigman/5065548/delayed/quotes/nls/c c'
 p3272
 (lp3273
 I1
-aF-0.013834507961367818
-asS'0.80% \xc2'
+aF-0.015434451219512105
+asS'1,512 1,871'
 p3274
 (lp3275
-I1
-aF-0.0011181513231456424
-asS'working poor.'
+I2
+aF0.013187812642110119
+asS'ballmer announced'
 p3276
 (lp3277
 I1
-aF0.022254127781766008
-asS'vehicles february'
+aF-0.013834507961367818
+asS'cross told'
 p3278
 (lp3279
 I1
-aF0.0063291139240506224
-asS'due political'
+aF0.0065939063210550593
+asS'front january'
 p3280
 (lp3281
-I1
-aF-0.024283439490445837
-asS'new twentysomething'
+I2
+aF0.019620762866974131
+asS'survey factset'
 p3282
 (lp3283
-I1
-aF-0.024283439490445837
-asS'replace reller'
+I4
+aF0.0010669424439089712
+asS'grmn +2.05%'
 p3284
 (lp3285
 I1
-aF-0.013834507961367818
-asS'casey world'
+aF0.025746268656716333
+asS'bank hiked'
 p3286
 (lp3287
-I9
-aF0.063055396376559991
-asS'northern technologies'
+I1
+aF0.022254127781766008
+asS'protection proprietary'
 p3288
 (lp3289
-I5
-aF0.022130197617399195
-asS'bellingham washington'
+I1
+aF-0.015098314606741563
+asS'say extent'
 p3290
 (lp3291
 I1
-aF-0.0044444444444443499
-asS'billion reserves'
+aF-0.015098314606741563
+asS'stake blackberry'
 p3292
 (lp3293
 I1
-aF-0.025641025641025664
-asS'fourth-quarter loss'
+aF0.036999999999999922
+asS'value 77.9.'
 p3294
 (lp3295
-I3
-aF0.013711701382220932
-asS'bell tesla'
+I1
+aF0.0085513078470825805
+asS'federal reserve'
 p3296
 (lp3297
-I1
-aF0.023487602630611493
-asS'" books'
+I29
+aF0.1049172865796395
+asS'-- repelling'
 p3298
 (lp3299
-I1
-aF-0.0078271226816403073
-asS'despite january'
+I4
+aF-0.047177815558848674
+asS'branded pods'
 p3300
 (lp3301
-I2
-aF-0.023970052699711648
-asS'continental american'
+I1
+aF0.054777388694347298
+asS'states due'
 p3302
 (lp3303
 I1
-aF0.022254127781766008
-asS'cost $5'
+aF-0.015098314606741563
+asS'internationally.ups said'
 p3304
 (lp3305
 I1
-aF0.023487602630611493
-asS'said couldn'
+aF0.022254127781766008
+asS'russia rest'
 p3306
 (lp3307
 I1
-aF-0.0044444444444443499
-asS'today8 13'
+aF-0.015098314606741563
+asS'rose $1.96'
 p3308
 (lp3309
-I12
-aF0.069076572220800783
-asS'consensus estimates'
+I2
+aF0.0072236281422678079
+asS'1.69% investors'
 p3310
 (lp3311
 I1
-aF0.0095057034220531987
-asS'ago10 36'
+aF0.00067980965329706225
+asS'ratio sets'
 p3312
 (lp3313
-I12
-aF0.069076572220800783
-asS'corp bbt'
+I1
+aF-0.015098314606741563
+asS'oppenheimer chief'
 p3314
 (lp3315
-I2
-aF-0.014586566700890537
-asS'state. meanwhile'
+I1
+aF0.0028884159318941583
+asS'sbux free'
 p3316
 (lp3317
-I1
-aF-0.010500807754442712
-asS'electric co.'
+I3
+aF0.019851875731156512
+asS'triple-digit loss'
 p3318
 (lp3319
-I1
-aF0.00067980965329706225
-asS'josb companies'
+I43
+aF0.25877235100216228
+asS'could result'
 p3320
 (lp3321
 I2
-aF0.0074097938144331178
-asS'aig filing'
+aF0.10801026392961874
+asS'\xc2 google'
 p3322
 (lp3323
 I2
-aF-0.02972399150743112
-asS'irish company'
+aF-0.0005004065187305274
+asS'10 42'
 p3324
 (lp3325
-I1
-aF-0.0044444444444443499
-asS'expected wall'
+I9
+aF0.063055396376559991
+asS'publicly names'
 p3326
 (lp3327
 I1
-aF-0.024283439490445837
-asS'mkt wfm'
+aF-0.01486199575371556
+asS"'s cfo"
 p3328
 (lp3329
 I1
-aF-0.0096207215541164858
-asS'soros took'
+aF0.0065939063210550593
+asS'percent target.when'
 p3330
 (lp3331
-I1
-aF-0.015434451219512105
-asS'23 percent'
+I2
+aF-0.036601126188498201
+asS"greed 's"
 p3332
 (lp3333
-I1
-aF0.025356283546178002
-asS'first solar'
+I2
+aF0.040569339539934614
+asS'ukraine moves'
 p3334
 (lp3335
-I2
-aF-0.038899596986157331
-asS'min previous'
+I1
+aF-0.015098314606741563
+asS'jump hedge'
 p3336
 (lp3337
-I12
-aF0.069076572220800783
-asS'trade commission'
+I43
+aF0.25877235100216228
+asS'sti free'
 p3338
 (lp3339
-I1
-aF-0.01486199575371556
-asS'appointed ceo'
+I2
+aF-0.014586566700890537
+asS'thursday\xe2\x80\x99s session'
 p3340
 (lp3341
-I1
-aF-0.013834507961367818
-asS'2% ukraine'
+I2
+aF0.040569339539934614
+asS'inc costco'
 p3342
 (lp3343
-I57
-aF0.33936168525976329
-asS'wal-mart stores'
+I1
+aF-0.0089897260273972355
+asS'- 1.19%'
 p3344
 (lp3345
-I2
-aF0.014497876603214258
-asS'competitors ebay'
+I3
+aF0.029027283270916533
+asS'bankruptcy. hiring'
 p3346
 (lp3347
 I1
-aF-0.0078271226816403073
-asS'unwinding stimulus'
+aF-0.01486199575371556
+asS'monthly sales'
 p3348
 (lp3349
 I1
-aF-0.01486199575371556
-asS'done previously.'
+aF0.0063291139240506224
+asS"'s grain"
 p3350
 (lp3351
-I2
-aF-0.023970052699711648
-asS'ruble.the market'
+I1
+aF0.014802631578947345
+asS'luca maestri'
 p3352
 (lp3353
 I1
-aF0.022254127781766008
-asS'fifer said'
+aF0.0065939063210550593
+asS'reported latest'
 p3354
 (lp3355
-I1
-aF0.0062801932367149279
-asS'street due'
+I8
+aF-0.020074526510182204
+asS'mavericks. related'
 p3356
 (lp3357
-I1
-aF-0.024283439490445837
-asS"comcast 's"
+I2
+aF0.0094823222529492185
+asS'prosecutors say'
 p3358
 (lp3359
-I3
-aF-0.024059813263408034
-asS"insight 's"
+I1
+aF-0.01486199575371556
+asS'flaw macs'
 p3360
 (lp3361
 I2
-aF-0.051282051282051329
-asS'- 0.98%'
+aF0.0094823222529492185
+asS'may 2013.february'
 p3362
 (lp3363
-I2
-aF0.046975205261222987
-asS'ben eisen'
+I1
+aF-0.0071729957805906396
+asS'tech titans'
 p3364
 (lp3365
-I12
-aF0.069076572220800783
-asS'percent biggest'
+I14
+aF0.018081633883883088
+asS'round heavy'
 p3366
 (lp3367
-I1
-aF-0.042688910696761409
-asS'companies activision'
+I2
+aF0.024645570354333065
+asS"'s popular"
 p3368
 (lp3369
-I7
-aF-0.061600416238838308
-asS'trade wednesday\xe2\x80\x99s'
+I1
+aF-0.012006549026741798
+asS'invade neighbor'
 p3370
 (lp3371
-I2
-aF-0.032374549876265757
-asS"'normal '"
+I1
+aF-0.025641025641025664
+asS'entering partnership'
 p3372
 (lp3373
-I43
-aF0.25877235100216228
-asS'worked cisco'
+I4
+aF-0.010679627874459668
+asS'revenue risen'
 p3374
 (lp3375
 I1
-aF-0.013834507961367818
-asS'target tesla'
+aF0.0065939063210550593
+asS'view jerusalem'
 p3376
 (lp3377
-I1
-aF0.023487602630611493
-asS'time warner'
+I43
+aF0.25877235100216228
+asS'possible crimes'
 p3378
 (lp3379
-I2
-aF-0.023970052699711648
-asS'shareholders thursday'
+I1
+aF-0.01486199575371556
+asS'pilots minimum'
 p3380
 (lp3381
 I1
-aF-0.0078271226816403073
-asS'clinton family'
+aF-0.01486199575371556
+asS'fortune --'
 p3382
 (lp3383
 I1
-aF-0.013834507961367818
-asS'time emerging'
+aF-0.01486199575371556
+asS'companies whose'
 p3384
 (lp3385
-I2
-aF-0.02972399150743112
-asS"'s accused"
+I8
+aF-0.06064483092063825
+asS'users. dunkin'
 p3386
 (lp3387
 I1
-aF-0.01749999999999996
-asS'core businesses'
+aF-0.012006549026741798
+asS'overlap intuit'
 p3388
 (lp3389
-I2
-aF0.0073921320280504483
-asS'cancer. gox'
+I4
+aF0.040491736285889715
+asS'cover exposures'
 p3390
 (lp3391
 I1
-aF0.0095057034220531987
-asS'airlines group'
+aF-0.015098314606741563
+asS'cisco systems'
 p3392
 (lp3393
 I1
-aF0.022254127781766008
-asS'- sara'
+aF-0.013834507961367818
+asS'cisg erie'
 p3394
 (lp3395
-I12
-aF0.069076572220800783
-asS'kodak stop'
+I2
+aF0.060087816422073489
+asS'chris capossela'
 p3396
 (lp3397
-I43
-aF0.25877235100216228
-asS'- 1.63%'
+I1
+aF-0.013834507961367818
+asS'erie free'
 p3398
 (lp3399
 I2
-aF-0.053246146660439073
-asS'used collateral'
+aF0.060087816422073489
+asS'states canada'
 p3400
 (lp3401
 I1
-aF-0.01486199575371556
-asS'thursday federal'
+aF0.022254127781766008
+asS'2011 tsunami'
 p3402
 (lp3403
 I1
-aF-0.01486199575371556
-asS'tumble concerns'
+aF-0.015098314606741563
+asS'ukraine russia'
 p3404
 (lp3405
-I2
-aF0.011512762036800132
-asS'ukraine isn'
+I1
+aF0.017951856385148825
+asS'sales market'
 p3406
 (lp3407
-I2
-aF-0.02972399150743112
-asS'markets including'
+I1
+aF-0.015098314606741563
+asS'analysts said.gm'
 p3408
 (lp3409
 I1
-aF0.025356283546178002
-asS'poland think'
+aF0.0063291139240506224
+asS'would retire.'
 p3410
 (lp3411
-I9
-aF0.063055396376559991
-asS'29 cents'
+I1
+aF0.0065939063210550593
+asS'overseeing advertising'
 p3412
 (lp3413
 I1
-aF-0.047141424272818457
-asS'headlines ukraine'
+aF-0.013834507961367818
+asS'stakes glaxosmithkline'
 p3414
 (lp3415
 I1
-aF-0.025641025641025664
-asS"'s top-selling"
+aF0.00067980965329706225
+asS'8 00'
 p3416
 (lp3417
-I1
-aF-0.042688910696761409
-asS'u.s. dollar'
+I72
+aF1.6396374244125993
+asS"2014 's"
 p3418
 (lp3419
-I9
-aF0.063055396376559991
-asS'late last'
+I1
+aF0.0095057034220531987
+asS'orderly succession'
 p3420
 (lp3421
 I1
-aF0.022254127781766008
-asS'spending climbs'
+aF0.0065939063210550593
+asS'hedge fund'
 p3422
 (lp3423
-I55
-aF0.32784892322296316
-asS'sales 15.4'
+I43
+aF0.25877235100216228
+asS'vodafone group'
 p3424
 (lp3425
-I1
-aF0.0063291139240506224
-asS'snow leopard.'
+I2
+aF-0.0014321680310061119
+asS'creating combined'
 p3426
 (lp3427
-I1
-aF0.0028884159318941583
-asS'intel intc'
+I4
+aF-0.0075938299399980749
+asS'500 stopped'
 p3428
 (lp3429
-I12
-aF-0.11971842713914631
-asS'help transition.the'
+I2
+aF0.0094823222529492185
+asS'rates every'
 p3430
 (lp3431
 I1
-aF-0.013834507961367818
-asS'legendary activist'
+aF0.022254127781766008
+asS'according thomson'
 p3432
 (lp3433
-I1
-aF-0.0078271226816403073
-asS'j. casey'
+I2
+aF0.0073921320280504483
+asS'inspect "'
 p3434
 (lp3435
-I9
-aF0.063055396376559991
-asS'citing unnamed'
+I2
+aF0.0050351650906114501
+asS"' internal"
 p3436
 (lp3437
 I1
-aF-0.013834507961367818
-asS'help working'
+aF-0.015098314606741563
+asS'corp famous'
 p3438
 (lp3439
 I1
-aF0.022254127781766008
-asS'0.92% \xc2'
+aF-0.0089897260273972355
+asS'way. country'
 p3440
 (lp3441
 I1
-aF0.036999999999999922
-asS'ukraine market'
+aF-0.015098314606741563
+asS'earnings estimates'
 p3442
 (lp3443
-I43
-aF0.25877235100216228
-asS'rose 0.3'
+I1
+aF0.028248587570621538
+asS'earnings 4'
 p3444
 (lp3445
-I2
-aF-0.036601126188498201
-asS'worth india'
+I1
+aF-0.026623073330219536
+asS'said russia'
 p3446
 (lp3447
-I9
-aF0.063055396376559991
-asS'corp. bbt'
+I1
+aF-0.025641025641025664
+asS'thing emulate'
 p3448
 (lp3449
-I2
-aF-0.0082949308755760238
-asS'welcomes diversity'
+I1
+aF0.0065939063210550593
+asS'including alaska'
 p3450
 (lp3451
 I1
-aF-0.010500807754442712
-asS"week 's"
+aF0.022254127781766008
+asS'price target'
 p3452
 (lp3453
-I1
-aF0.023487602630611493
-asS'blackberry ltd.'
+I4
+aF0.14857960346955335
+asS'apple devices'
 p3454
 (lp3455
-I3
-aF0.029027283270916533
-asS"icahn 's"
+I2
+aF0.0094823222529492185
+asS'agreement widen'
 p3456
 (lp3457
-I3
-aF-0.023481368044920924
-asS'president comision'
+I1
+aF-0.012006549026741798
+asS'earnings estimate'
 p3458
 (lp3459
-I1
-aF-0.01486199575371556
-asS'flawed idea'
+I2
+aF0.038093405336004325
+asS'hog futures'
 p3460
 (lp3461
-I2
-aF0.0073921320280504483
-asS'share loss'
+I43
+aF0.25877235100216228
+asS'coffe gmcr'
 p3462
 (lp3463
-I1
-aF0.023487602630611493
-asS'$81.1 million'
+I3
+aF0.019851875731156512
+asS"'s director"
 p3464
 (lp3465
 I1
-aF0.016847172081828975
-asS'. take'
+aF0.022254127781766008
+asS'previously blocked'
 p3466
 (lp3467
-I1
-aF0.01163378856853821
-asS'rates across'
+I2
+aF-0.0005004065187305274
+asS"'s board"
 p3468
 (lp3469
-I1
-aF0.022254127781766008
-asS'market roared'
+I4
+aF0.0100703301812229
+asS'international inc.'
 p3470
 (lp3471
-I1
-aF-0.01486199575371556
-asS'/quotes/zigman/710745/delayed/quotes/nls/soda soda'
+I2
+aF-0.0072003459476876735
+asS'finally take'
 p3472
 (lp3473
 I1
-aF-0.011144883485308961
-asS'500 microsoft'
+aF0.034482758620689689
+asS'5 things'
 p3474
 (lp3475
-I14
-aF-0.12644261877913104
-asS'interactive edition'
+I12
+aF0.069076572220800783
+asS'google acquire'
 p3476
 (lp3477
-I180
-aF1.2611079275311989
-asS'u.s. manufacturers'
+I2
+aF-0.0005004065187305274
+asS'rules. ukraine'
 p3478
 (lp3479
-I55
-aF0.32784892322296316
-asS'female executives'
+I2
+aF0.019620762866974131
+asS'resume pork'
 p3480
 (lp3481
 I1
-aF-0.013834507961367818
-asS'34 analysts'
+aF-0.015098314606741563
+asS'cnbv said'
 p3482
 (lp3483
-I2
-aF-0.036359796772710784
-asS'wheeler said'
+I1
+aF-0.01486199575371556
+asS'electronic arts'
 p3484
 (lp3485
-I2
-aF-0.014234192551842047
-asS'$100,000. \xc2'
+I14
+aF0.018081633883883088
+asS'amer tower'
 p3486
 (lp3487
 I1
-aF-0.01486199575371556
-asS'operation whole'
+aF0.00082576383154416076
+asS'highs.one problem'
 p3488
 (lp3489
-I1
-aF-0.01486199575371556
-asS'reuters data.'
+I2
+aF0.023269395998132755
+asS'leaps toward'
 p3490
 (lp3491
-I2
-aF0.0073921320280504483
-asS'rates. federal'
+I57
+aF0.33936168525976329
+asS'original plan'
 p3492
 (lp3493
 I1
-aF-0.01486199575371556
-asS'carlo santarelli'
+aF0.034482758620689689
+asS'consideration "'
 p3494
 (lp3495
-I1
-aF0.0095057034220531987
-asS"'s malibu"
+I2
+aF0.0050351650906114501
+asS'ukraine 25'
 p3496
 (lp3497
-I1
-aF-0.042688910696761409
-asS'shares fell'
+I12
+aF0.069076572220800783
+asS'ceo last'
 p3498
 (lp3499
-I1
-aF-0.020009416195856743
-asS'announced deal'
+I2
+aF0.0094823222529492185
+asS'rsh falling'
 p3500
 (lp3501
-I1
-aF-0.015337423312883396
-asS'crimea conflict'
+I30
+aF0.78528042609589921
+asS'prices retreat'
 p3502
 (lp3503
-I9
-aF0.063055396376559991
-asS"couldn 't"
+I44
+aF0.87759511459066997
+asS'- 1.43%'
 p3504
 (lp3505
-I1
-aF-0.0044444444444443499
-asS'company co-head'
+I3
+aF0.029027283270916533
+asS'cheaper shipping'
 p3506
 (lp3507
 I1
-aF-0.013834507961367818
-asS'lmca -'
+aF0.022254127781766008
+asS'45% stake'
 p3508
 (lp3509
 I2
-aF-0.022566372361966354
-asS'" berkowitz'
+aF-0.0014321680310061119
+asS'corp. /quotes/zigman/217978/delayed/quotes/nls/apc'
 p3510
 (lp3511
 I2
-aF0.0073921320280504483
-asS'fedex ups'
+aF0.023622213537533625
+asS'mouton bitcoin\xe2\x80\x99s'
 p3512
 (lp3513
-I1
-aF0.022254127781766008
-asS'einhorn\xe2\x80\x99s greenlight'
+I9
+aF0.063055396376559991
+asS'month 5'
 p3514
 (lp3515
-I2
-aF0.023622213537533625
-asS'0.20% seen'
+I3
+aF0.019781718963165176
+asS'u.s. courts'
 p3516
 (lp3517
 I1
-aF-0.00091290852656571587
-asS'ariz. bring'
+aF-0.015098314606741563
+asS'deal \xe2\x80\x94'
 p3518
 (lp3519
 I1
-aF0.0028884159318941583
-asS'dollar 2014'
+aF0.0065939063210550593
+asS'begins raising'
 p3520
 (lp3521
-I9
-aF0.063055396376559991
-asS'expected industrywide'
+I1
+aF-0.01486199575371556
+asS'environmental protection'
 p3522
 (lp3523
 I1
-aF0.0063291139240506224
-asS'future.makearticlead ;'
+aF-0.01749999999999996
+asS'carplay jinko'
 p3524
 (lp3525
-I1
-aF0.022254127781766008
-asS"modell 's"
+I2
+aF0.011512762036800132
+asS'together "'
 p3526
 (lp3527
-I43
-aF0.25877235100216228
-asS'dec. 3'
+I30
+aF0.78528042609589921
+asS'worst u.s.'
 p3528
 (lp3529
-I9
-aF0.063055396376559991
-asS'dec. 4'
+I10
+aF0.065939063210550597
+asS'cook described'
 p3530
 (lp3531
-I9
-aF0.063055396376559991
-asS'withdraw product'
+I1
+aF0.0065939063210550593
+asS'euro rates'
 p3532
 (lp3533
-I1
-aF0.022254127781766008
-asS'" blatant'
+I9
+aF0.063055396376559991
+asS'2011 diagnosed'
 p3534
 (lp3535
-I1
-aF-0.0078271226816403073
-asS'european heavyweights'
+I2
+aF0.037754290992674737
+asS'big isps.'
 p3536
 (lp3537
-I7
-aF-0.061600416238838308
-asS'united states.'
+I6
+aF0.0076232379247427508
+asS'infusion share'
 p3538
 (lp3539
-I1
-aF0.022254127781766008
-asS'drama ebay'
+I60
+aF1.5705608521917984
+asS"year.kaplan 's"
 p3540
 (lp3541
 I1
-aF-0.0078271226816403073
-asS'earnings rose'
+aF-0.015098314606741563
+asS'expectations posting'
 p3542
 (lp3543
-I2
-aF-0.0076931510883160069
-asS'omidyar said'
+I1
+aF-0.042688910696761409
+asS'mark potter'
 p3544
 (lp3545
-I2
-aF-0.015654245363280615
-asS'human services'
+I1
+aF0.014802631578947345
+asS'put greater'
 p3546
 (lp3547
 I1
-aF-0.01749999999999996
-asS'bitcoin\xe2\x80\x99s uncertain'
+aF-0.015098314606741563
+asS'chang marketwatch'
 p3548
 (lp3549
-I9
-aF0.063055396376559991
-asS'. bb&t'
+I10
+aF-0.060775370143652127
+asS'previous close'
 p3550
 (lp3551
-I1
-aF-0.0082949308755760238
-asS'earlier raised'
+I15
+aF0.088858291183965946
+asS'1.3% 4,332'
 p3552
 (lp3553
 I1
-aF0.022254127781766008
-asS'sold firm'
+aF0.0065939063210550593
+asS'properly function'
 p3554
 (lp3555
-I1
-aF-0.0044444444444443499
-asS'active trade'
+I2
+aF0.0073921320280504483
+asS'store lynwood'
 p3556
 (lp3557
-I5
-aF-0.054537389082536671
-asS'get gun'
+I30
+aF0.78528042609589921
+asS'energy trust'
 p3558
 (lp3559
 I1
-aF-0.01486199575371556
-asS'2.24 percent'
+aF0.029542097488921743
+asS'+1.55% \xc2'
 p3560
 (lp3561
-I2
-aF0.0073921320280504483
-asS'though remains'
+I1
+aF0.015490533562822848
+asS'downturn oil'
 p3562
 (lp3563
-I1
-aF-0.0071729957805906396
-asS'arco budget'
+I2
+aF0.011512762036800132
+asS'juan genov\xc3\xa9s'
 p3564
 (lp3565
-I1
-aF0.01163378856853821
-asS'52 week'
+I2
+aF-0.0005004065187305274
+asS'making harder'
 p3566
 (lp3567
-I24
-aF0.13815314444160159
-asS'0.4% january'
+I1
+aF-0.015098314606741563
+asS'health human'
 p3568
 (lp3569
-I55
-aF0.32784892322296316
-asS'complaints made'
+I1
+aF-0.01749999999999996
+asS'yet another'
 p3570
 (lp3571
-I1
-aF-0.01486199575371556
-asS'tuesday. take'
+I2
+aF0.0050351650906114501
+asS'commission faced'
 p3572
 (lp3573
-I1
-aF0.01163378856853821
-asS'ebay paid'
+I2
+aF0.019620762866974131
+asS'- 1.85%'
 p3574
 (lp3575
 I1
-aF-0.0078271226816403073
-asS'wfm .'
+aF-0.016598508539812311
+asS'" values'
 p3576
 (lp3577
 I1
-aF-0.0096207215541164858
-asS'development strategic'
+aF-0.010500807754442712
+asS'possesses zacks'
 p3578
 (lp3579
 I1
-aF0.0095057034220531987
-asS'0.53% \xc2'
+aF0.012706969580285016
+asS'exposures specific'
 p3580
 (lp3581
-I2
-aF-0.038899596986157331
-asS'jobs state'
+I1
+aF-0.015098314606741563
+asS'related italian'
 p3582
 (lp3583
-I1
-aF0.0028884159318941583
-asS'saying law'
+I2
+aF0.03556487878640302
+asS'amounts oil'
 p3584
 (lp3585
-I4
-aF-0.047177815558848674
-asS'stock ;'
+I1
+aF0.017951856385148825
+asS'markets united'
 p3586
 (lp3587
-I43
-aF0.25877235100216228
-asS'business development'
+I1
+aF-0.015098314606741563
+asS'corp 000270.ks'
 p3588
 (lp3589
 I1
-aF-0.013834507961367818
-asS'/quotes/zigman/1466682/delayed/quotes/nls/gm gm'
+aF0.0095057034220531987
+asS'symc fortune'
 p3590
 (lp3591
-I3
-aF0.029027283270916533
-asS'lynn ecb'
+I14
+aF0.018081633883883088
+asS'32 cents'
 p3592
 (lp3593
-I9
-aF0.063055396376559991
-asS'march 2'
+I4
+aF-0.038294363224545734
+asS'/quotes/zigman/253872/delayed/quotes/nls/tgt tgt'
 p3594
 (lp3595
-I18
-aF0.12611079275312001
-asS'march 3'
+I2
+aF-0.00013053922301388583
+asS'group .'
 p3596
 (lp3597
-I279
-aF1.7297579434541734
-asS'exports ukraine'
+I1
+aF0.022254127781766008
+asS'united continental'
 p3598
 (lp3599
 I2
-aF-0.051282051282051329
-asS'post loss'
+aF0.007155813175024445
+asS'" together'
 p3600
 (lp3601
-I1
-aF-0.020009416195856743
-asS'china steps'
+I30
+aF0.78528042609589921
+asS'hammered country'
 p3602
 (lp3603
-I9
-aF0.063055396376559991
-asS'global asset'
+I1
+aF-0.015098314606741563
+asS'plans. stocks'
 p3604
 (lp3605
 I1
-aF-0.025641025641025664
-asS'suggested pepsico'
+aF0.034482758620689689
+asS'trade oil'
 p3606
 (lp3607
 I1
-aF-0.011144883485308961
-asS'growing slowly'
+aF0.017811704834605556
+asS'passenger cars'
 p3608
 (lp3609
-I2
-aF0.011512762036800132
-asS'servers used'
+I1
+aF-0.042688910696761409
+asS'holds zacks'
 p3610
 (lp3611
-I1
-aF-0.01486199575371556
-asS'bought whole'
+I7
+aF0.087210949322016604
+asS'return much'
 p3612
 (lp3613
 I1
-aF-0.0096207215541164858
-asS'also fell'
+aF0.0065939063210550593
+asS'sale paypal'
 p3614
 (lp3615
-I1
-aF0.025356283546178002
-asS'leaders specialized'
+I2
+aF0.0050351650906114501
+asS'states economy'
 p3616
 (lp3617
-I7
-aF-0.061600416238838308
-asS'tgt fortune'
+I2
+aF0.0073921320280504483
+asS'spg free'
 p3618
 (lp3619
-I2
-aF0.019043392929388579
-asS'outerwall jinko'
+I1
+aF-0.0096207215541164858
+asS'aapl.o ceo'
 p3620
 (lp3621
-I43
-aF0.25877235100216228
-asS"'s lilit"
+I2
+aF0.023269395998132755
+asS'ok move'
 p3622
 (lp3623
 I2
-aF-0.051282051282051329
-asS'ea security'
+aF0.011512762036800132
+asS'benefiting controlling'
 p3624
 (lp3625
-I7
-aF-0.061600416238838308
-asS'coca-cola co.'
+I1
+aF-0.015098314606741563
+asS'u.s. lean'
 p3626
 (lp3627
-I2
-aF-0.0096874231100129455
-asS'office district'
+I43
+aF0.25877235100216228
+asS'insight. "'
 p3628
 (lp3629
 I1
-aF-0.01486199575371556
-asS'500 committed'
+aF-0.025641025641025664
+asS'general motors'
 p3630
 (lp3631
-I2
-aF-0.023970052699711648
-asS'10 2014'
+I5
+aF0.04512689301402479
+asS'partnership coca-cola'
 p3632
 (lp3633
-I9
-aF0.063055396376559991
-asS'change.penn executive'
+I4
+aF-0.010679627874459668
+asS'clean holdings'
 p3634
 (lp3635
-I1
-aF-0.013834507961367818
-asS'stock futures'
+I3
+aF0.076043454879415551
+asS'field northeastern'
 p3636
 (lp3637
-I14
-aF0.080589334257600925
-asS'whatsapp inc.'
+I1
+aF-0.015098314606741563
+asS'program --'
 p3638
 (lp3639
 I1
-aF-0.015337423312883396
-asS'planning became'
+aF-0.01486199575371556
+asS'set stop-loss'
 p3640
 (lp3641
-I1
-aF0.0095057034220531987
-asS'corp. hertz'
+I2
+aF0.10801026392961874
+asS'subsidiary midcon'
 p3642
 (lp3643
-I2
-aF-0.045650441836882411
-asS"ftc 's"
+I1
+aF-0.0032679738562091968
+asS'dollar rises'
 p3644
 (lp3645
-I1
-aF-0.01486199575371556
-asS'company. icahn'
+I46
+aF0.89078292723278008
+asS'higher iphone'
 p3646
 (lp3647
 I1
-aF-0.0078271226816403073
-asS'fedex said.'
+aF0.0065939063210550593
+asS'gains data'
 p3648
 (lp3649
-I1
-aF0.022254127781766008
-asS'strong buy'
+I14
+aF0.080589334257600925
+asS'mac os'
 p3650
 (lp3651
-I3
-aF0.015817950519726197
-asS'recent spate'
+I4
+aF0.018964644505898437
+asS'high.investors pulling'
 p3652
 (lp3653
 I1
-aF-0.01486199575371556
-asS'took hit'
+aF0.028248587570621538
+asS'kollmeyer consumer'
 p3654
 (lp3655
-I1
-aF-0.015337423312883396
-asS'rise ukraine'
+I12
+aF0.069076572220800783
+asS'sailing euro'
 p3656
 (lp3657
-I14
-aF0.080589334257600925
-asS'+0.46% .'
+I1
+aF-0.025641025641025664
+asS'service inc'
 p3658
 (lp3659
 I1
-aF0.01163378856853821
-asS'noting shirts'
+aF0.022254127781766008
+asS'unfair existing'
 p3660
 (lp3661
-I1
-aF0.022254127781766008
-asS'world economy'
+I4
+aF0.039241525733948263
+asS'states u.s.'
 p3662
 (lp3663
-I2
-aF-0.051282051282051329
-asS'$81.2 million'
+I1
+aF0.022254127781766008
+asS'unless specifically'
 p3664
 (lp3665
-I1
-aF0.016847172081828975
-asS'reported fourth-quarter'
+I2
+aF0.0073921320280504483
+asS"'s operating"
 p3666
 (lp3667
-I3
-aF-0.006806649560377985
-asS'forecast post'
+I2
+aF0.0050351650906114501
+asS'absolutely 100'
 p3668
 (lp3669
-I3
-aF-0.01385539276495017
-asS'boost thursday'
+I1
+aF0.0065939063210550593
+asS'solstice saturn'
 p3670
 (lp3671
-I1
-aF-0.01486199575371556
-asS"'re used"
+I2
+aF0.033732486151840983
+asS'bank believes'
 p3672
 (lp3673
 I1
-aF0.022254127781766008
-asS'software firm'
+aF-0.01486199575371556
+asS'sharply central'
 p3674
 (lp3675
-I2
-aF-0.00069443755499005305
-asS'information regarding'
+I1
+aF0.022254127781766008
+asS'major struggles'
 p3676
 (lp3677
-I1
-aF-0.0078271226816403073
-asS'loss $3.68'
+I2
+aF0.023269395998132755
+asS'planning.valero shares'
 p3678
 (lp3679
 I1
-aF-0.026623073330219536
-asS'reported citing'
+aF0.0095057034220531987
+asS'friendship. "'
 p3680
 (lp3681
 I1
-aF-0.013834507961367818
-asS'fraudulent loans'
+aF-0.015098314606741563
+asS'investor charged'
 p3682
 (lp3683
-I1
-aF-0.01486199575371556
-asS'markets microsoft'
+I2
+aF0.0050351650906114501
+asS'2010 leroy'
 p3684
 (lp3685
 I1
-aF-0.013834507961367818
-asS'data. fortune'
+aF-0.015098314606741563
+asS'+0.53% market'
 p3686
 (lp3687
 I1
-aF-0.01486199575371556
-asS'data. two'
+aF0.0065939063210550593
+asS'voluminous. russian'
 p3688
 (lp3689
 I1
-aF-0.01486199575371556
-asS'rank 1'
+aF-0.015098314606741563
+asS'safeway inc.'
 p3690
 (lp3691
-I3
-aF0.015817950519726197
-asS'- wu'
+I2
+aF-0.062919807236027137
+asS'outperformed seasoned'
 p3692
 (lp3693
-I9
-aF0.063055396376559991
-asS'risk won'
+I4
+aF0.10298968128032032
+asS'hawaii well'
 p3694
 (lp3695
 I1
 aF0.022254127781766008
-asS'non-discrimination policy'
+asS'icahn return'
 p3696
 (lp3697
 I1
-aF-0.010500807754442712
-asS'100 1.5%.'
+aF0.0065939063210550593
+asS'took chief'
 p3698
 (lp3699
 I1
-aF-0.0058604155567394478
-asS'vetoes sb'
+aF-0.013834507961367818
+asS'flow regardless'
 p3700
 (lp3701
-I4
-aF-0.047177815558848674
-asS'chtr -'
+I1
+aF0.017951856385148825
+asS'tightened grip'
 p3702
 (lp3703
 I1
-aF-0.0085193657805474349
-asS'said ihs'
+aF-0.025641025641025664
+asS'automaker faced'
 p3704
 (lp3705
-I2
-aF-0.051282051282051329
-asS"'s succession"
+I1
+aF-0.015098314606741563
+asS"banks '"
 p3706
 (lp3707
 I1
-aF0.0095057034220531987
-asS'gained 6'
+aF-0.015098314606741563
+asS'finds radioshack'
 p3708
 (lp3709
-I1
-aF0.0095057034220531987
-asS'expect solarcity'
+I30
+aF0.78528042609589921
+asS'new stakes'
 p3710
 (lp3711
-I1
-aF-0.020009416195856743
-asS'include controversial'
+I2
+aF0.023622213537533625
+asS'said. investors'
 p3712
 (lp3713
 I1
-aF0.01163378856853821
-asS'u.s. canada'
+aF0.022254127781766008
+asS'dominated list'
 p3714
 (lp3715
-I1
-aF0.022254127781766008
-asS'1062 national'
+I16
+aF0.046391384821821771
+asS'ukraine turmoil'
 p3716
 (lp3717
-I4
-aF-0.047177815558848674
-asS'" related'
+I43
+aF0.25877235100216228
+asS'yelp yelp'
 p3718
 (lp3719
-I3
-aF-0.01135540082566832
-asS'seats board'
+I4
+aF-0.047177815558848674
+asS'running mac'
 p3720
 (lp3721
-I1
-aF-0.0078271226816403073
-asS'letter ebay'
+I2
+aF0.0094823222529492185
+asS'due release'
 p3722
 (lp3723
-I2
-aF-0.015654245363280615
-asS'relations united'
+I8
+aF-0.020074526510182204
+asS'ita\xc3\xba unibanco'
 p3724
 (lp3725
 I1
-aF0.022254127781766008
-asS'g5 solstice'
+aF-0.015098314606741563
+asS'certain non-fha-insured'
 p3726
 (lp3727
 I1
-aF-0.052777777777777764
-asS'concluded "'
+aF-0.01486199575371556
+asS'mahmudova ukraine'
 p3728
 (lp3729
 I1
-aF-0.0078271226816403073
-asS'workers live'
+aF0.0065939063210550593
+asS'chevrolet cobalt'
 p3730
 (lp3731
-I4
-aF-0.047177815558848674
-asS'\xc2 forecast'
+I2
+aF0.033732486151840983
+asS'investor carl'
 p3732
 (lp3733
-I4
-aF-0.060996817037768623
-asS'reasons ukraine'
+I2
+aF0.0050351650906114501
+asS'lxk free'
 p3734
 (lp3735
 I2
-aF-0.051282051282051329
-asS'report loss'
+aF0.044429609850170595
+asS'serbia united'
 p3736
 (lp3737
 I1
-aF-0.020009416195856743
-asS'diagnosed stage'
+aF0.022254127781766008
+asS'board members'
 p3738
 (lp3739
-I1
-aF0.0095057034220531987
-asS'whole bank'
+I4
+aF0.0100703301812229
+asS'supply management'
 p3740
 (lp3741
 I1
-aF-0.01486199575371556
-asS'scty -'
+aF-0.0071729957805906396
+asS'lows dollar'
 p3742
 (lp3743
-I2
-aF-0.040018832391713485
-asS'profit fell'
+I1
+aF-0.025641025641025664
+asS'tech companies'
 p3744
 (lp3745
-I1
-aF-0.0070054945054943809
-asS'$1,331 $1,355'
+I6
+aF0.0076232379247427508
+asS'hold talks'
 p3746
 (lp3747
-I12
-aF0.069076572220800783
-asS'yellen manage'
+I4
+aF-0.00061460034380793511
+asS'also used'
 p3748
 (lp3749
 I1
-aF-0.01486199575371556
-asS'shipments within'
+aF-0.015098314606741563
+asS'radioshack opens'
 p3750
 (lp3751
-I2
-aF0.044508255563532016
-asS'sites 500'
+I30
+aF0.78528042609589921
+asS'luca knew'
 p3752
 (lp3753
 I1
-aF0.023487602630611493
-asS'ebay subsidiary'
+aF0.0065939063210550593
+asS'months company'
 p3754
 (lp3755
-I1
-aF-0.0078271226816403073
-asS'free stock'
+I2
+aF0.023269395998132755
+asS'bankrate.com home'
 p3756
 (lp3757
-I25
-aF-0.087083728305380081
-asS'rose 87%'
+I2
+aF0.011512762036800132
+asS'intraday records'
 p3758
 (lp3759
-I1
-aF-0.020009416195856743
-asS'- 1.03%'
+I47
+aF0.89737683355383513
+asS'new delhi'
 p3760
 (lp3761
 I1
-aF-0.0085193657805474349
-asS'lion mountain'
+aF-0.015098314606741563
+asS'one top'
 p3762
 (lp3763
 I1
-aF0.0028884159318941583
-asS'inc. /quotes/zigman/77604/delayed/quotes/nls/rost'
+aF-0.013834507961367818
+asS'results would'
 p3764
 (lp3765
 I1
-aF-0.0070054945054943809
-asS'ceo 2005'
+aF-0.015098314606741563
+asS'friday profit-taking'
 p3766
 (lp3767
 I1
-aF0.0095057034220531987
-asS'according media'
+aF-0.024283439490445837
+asS'today6 29'
 p3768
 (lp3769
-I1
-aF-0.013834507961367818
-asS'expectations caught'
+I9
+aF0.063055396376559991
+asS'rates record'
 p3770
 (lp3771
-I57
-aF0.33936168525976329
-asS'macs running'
+I9
+aF0.063055396376559991
+asS'500 recently'
 p3772
 (lp3773
 I1
 aF0.0028884159318941583
-asS'one stocks'
+asS'british man'
 p3774
 (lp3775
 I1
-aF0.0095057034220531987
-asS'senior vice'
+aF-0.01486199575371556
+asS'big show'
 p3776
 (lp3777
-I1
-aF0.0095057034220531987
-asS'michael j.'
+I30
+aF0.78528042609589921
+asS'wants drones'
 p3778
 (lp3779
-I9
-aF0.063055396376559991
-asS'rates 3.9'
+I44
+aF0.87759511459066997
+asS'falling 0.1'
 p3780
 (lp3781
-I1
-aF0.022254127781766008
-asS'high $1,331'
+I2
+aF-0.036601126188498201
+asS'month probably'
 p3782
 (lp3783
-I12
-aF0.069076572220800783
-asS'ago11 25'
+I1
+aF0.0063291139240506224
+asS'forecast wall'
 p3784
 (lp3785
-I9
-aF0.063055396376559991
-asS'amt free'
+I2
+aF-0.027455969162467415
+asS'curbed ingves'
 p3786
 (lp3787
 I1
-aF0.00082576383154416076
-asS'street analysts.'
+aF-0.015098314606741563
+asS'entertain request'
 p3788
 (lp3789
 I1
-aF-0.020009416195856743
-asS'ssys exone'
+aF-0.015098314606741563
+asS'dfrg shares'
 p3790
 (lp3791
-I2
-aF-0.051049018886638195
-asS'gsk -'
+I1
+aF0.012706969580285016
+asS'continued cold'
 p3792
 (lp3793
 I1
-aF0.00067980965329706225
-asS'million $1.93'
+aF0.0063291139240506224
+asS'maestri joined'
 p3794
 (lp3795
 I1
-aF-0.026623073330219536
-asS'purchases stock'
+aF0.0065939063210550593
+asS'economist ihs'
 p3796
 (lp3797
-I1
-aF0.0028884159318941583
-asS'" taken'
+I2
+aF-0.010838394062078319
+asS'consumer spending'
 p3798
 (lp3799
-I1
-aF0.022254127781766008
-asS'share $288.7'
+I57
+aF0.29124779703446496
+asS'due skepticism'
 p3800
 (lp3801
 I1
-aF-0.0078586044304735248
-asS'gevorgyan senior'
+aF-0.015098314606741563
+asS'one newest'
 p3802
 (lp3803
-I1
-aF-0.025641025641025664
-asS'new mexico'
+I30
+aF0.78528042609589921
+asS'pressure grain'
 p3804
 (lp3805
-I1
-aF0.023487602630611493
-asS'1.54% boosted'
+I12
+aF0.069076572220800783
+asS'earns country'
 p3806
 (lp3807
 I1
-aF-0.015434451219512105
-asS'global insight.'
+aF0.017811704834605556
+asS'year ago.'
 p3808
 (lp3809
-I2
-aF-0.051282051282051329
-asS'bank determine'
+I3
+aF0.051909526019020304
+asS'1,864 9'
 p3810
 (lp3811
-I1
-aF-0.01486199575371556
-asS'chevy silverado'
+I2
+aF0.013187812642110119
+asS'one rising'
 p3812
 (lp3813
 I1
-aF-0.042688910696761409
-asS'2005 named'
+aF-0.0044444444444443499
+asS'vod -'
 p3814
 (lp3815
 I1
-aF0.0095057034220531987
-asS'/quotes/zigman/146635/delayed/quotes/nls/gsk gsk'
+aF-0.016598508539812311
+asS'stop-loss $5.26'
 p3816
 (lp3817
-I1
-aF0.00067980965329706225
-asS'company alleged'
+I2
+aF0.10801026392961874
+asS'sets minimum'
 p3818
 (lp3819
 I1
-aF-0.0078271226816403073
-asS'declared weekend'
+aF-0.015098314606741563
+asS'code increase'
 p3820
 (lp3821
 I1
-aF-0.025641025641025664
-asS'personal guarantees'
+aF0.021499999999999984
+asS'priceline pcln'
 p3822
 (lp3823
-I1
-aF-0.0044444444444443499
-asS'blizzard atvi'
+I14
+aF0.018081633883883088
+asS'mobilized war'
 p3824
 (lp3825
-I7
-aF-0.061600416238838308
-asS'two top'
+I1
+aF-0.024283439490445837
+asS'services company'
 p3826
 (lp3827
 I1
-aF-0.013834507961367818
-asS'late wednesday'
+aF-0.01486199575371556
+asS'caesars czr'
 p3828
 (lp3829
-I1
-aF0.023487602630611493
-asS'malibu cruze'
+I4
+aF0.044781306879880148
+asS'inc free'
 p3830
 (lp3831
 I1
-aF-0.042688910696761409
-asS'march temperatures'
+aF0.00082576383154416076
+asS'inc fred'
 p3832
 (lp3833
 I1
-aF-0.042688910696761409
-asS'february january'
+aF0.0085513078470825805
+asS'texaco cleaned'
 p3834
 (lp3835
 I1
-aF-0.0071729957805906396
-asS'ukraine mobilized'
+aF-0.015098314606741563
+asS'four weeks'
 p3836
 (lp3837
 I1
-aF-0.024283439490445837
-asS"york 's"
+aF0.012706969580285016
+asS'rommel dionisio'
 p3838
 (lp3839
 I1
-aF-0.010660963270678267
-asS'ntic free'
+aF0.0075437537718768856
+asS'; dow'
 p3840
 (lp3841
-I3
-aF0.0021474564628237813
-asS'twice year.'
+I14
+aF0.080589334257600925
+asS'- apple'
 p3842
 (lp3843
 I1
-aF-0.01486199575371556
-asS'bank josb'
+aF0.0065939063210550593
+asS'ended u.s.'
 p3844
 (lp3845
-I3
-aF0.011114690721649678
-asS'share. potbelly'
+I1
+aF0.017951856385148825
+asS'theft according'
 p3846
 (lp3847
-I1
-aF-0.026623073330219536
-asS'- 0.37%'
+I2
+aF0.019620762866974131
+asS'hoard shareholders'
 p3848
 (lp3849
 I1
-aF0.00067980965329706225
-asS'intc fortune'
+aF0.0028884159318941583
+asS'report rockwood'
 p3850
 (lp3851
-I12
-aF-0.11971842713914631
-asS'1 stock'
+I3
+aF0.026538188304429285
+asS'official patch'
 p3852
 (lp3853
 I1
-aF0.0095057034220531987
-asS'monday u.s.'
+aF-0.015098314606741563
+asS'40 cents'
 p3854
 (lp3855
-I1
-aF-0.01486199575371556
-asS'earnings 60'
+I2
+aF0.012228722696775317
+asS'+1.35% tax-friendly'
 p3856
 (lp3857
 I1
-aF-0.0011181513231456424
-asS'trader rbc'
+aF0.0065939063210550593
+asS'exchange confidential'
 p3858
 (lp3859
-I1
-aF-0.025641025641025664
-asS'move shenzhen'
+I4
+aF-0.00061460034380793511
+asS'ingves added.britain'
 p3860
 (lp3861
-I2
-aF0.011512762036800132
-asS'next four'
+I1
+aF-0.015098314606741563
+asS'quasi-judicial federal'
 p3862
 (lp3863
 I1
-aF-0.015337423312883396
-asS'vladimir putin'
+aF-0.015098314606741563
+asS'high radioshack'
 p3864
 (lp3865
-I1
-aF-0.025641025641025664
-asS'pressures russian'
+I44
+aF0.87759511459066997
+asS'lawyer argued'
 p3866
 (lp3867
-I9
-aF0.063055396376559991
-asS'inc. /quotes/zigman/75433/delayed/quotes/nls/mu'
+I1
+aF-0.015098314606741563
+asS'also said'
 p3868
 (lp3869
 I2
-aF0.023622213537533625
-asS'shipping patterns'
+aF-0.029960310360457123
+asS'internships technology'
 p3870
 (lp3871
-I1
-aF0.022254127781766008
-asS'latest earnings'
+I16
+aF0.046391384821821771
+asS'mysterious case'
 p3872
 (lp3873
-I4
-aF-0.037111166550747227
-asS'russia united'
+I1
+aF-0.015098314606741563
+asS'return $100'
 p3874
 (lp3875
 I1
-aF0.022254127781766008
-asS'nissan brand'
+aF0.0065939063210550593
+asS'volume hitting'
 p3876
 (lp3877
 I1
-aF0.0095057034220531987
-asS'week legendary'
+aF0.022254127781766008
+asS'inc. /quotes/zigman/62747/delayed/quotes/nls/ttwo'
 p3878
 (lp3879
-I1
-aF-0.0078271226816403073
-asS'share $1.74'
+I2
+aF0.023622213537533625
+asS'online video'
 p3880
 (lp3881
-I1
-aF-0.019449798493078665
-asS'india china'
+I6
+aF0.013389593364884374
+asS"glassdoor 's"
 p3882
 (lp3883
-I9
-aF0.063055396376559991
-asS'united states'
+I16
+aF0.046391384821821771
+asS'independent federal'
 p3884
 (lp3885
-I10
-aF0.18542515428217851
-asS'wake-up call'
+I2
+aF0.0073921320280504483
+asS'family aide'
 p3886
 (lp3887
 I1
-aF-0.025641025641025664
-asS'canadian oil'
+aF-0.013834507961367818
+asS'incident "'
 p3888
 (lp3889
-I43
-aF0.25877235100216228
-asS'said nadella'
+I1
+aF-0.01486199575371556
+asS'shares jumped'
 p3890
 (lp3891
-I1
-aF-0.013834507961367818
-asS'want put'
+I2
+aF0.0088256025018465366
+asS'hit extended'
 p3892
 (lp3893
-I1
-aF-0.0044444444444443499
-asS'stop plate'
+I2
+aF0.0052826627277634021
+asS'think euro'
 p3894
 (lp3895
-I43
-aF0.25877235100216228
-asS'economy "'
+I9
+aF0.063055396376559991
+asS'methanex corp.'
 p3896
 (lp3897
-I2
-aF-0.051282051282051329
-asS'co lp'
+I4
+aF0.021208070758720332
+asS'brewer vetoes'
 p3898
 (lp3899
-I1
-aF-0.0096207215541164858
-asS'parcel delivery'
+I5
+aF-0.044289399626954516
+asS'gathering systems'
 p3900
 (lp3901
 I1
-aF0.022254127781766008
-asS'disclose manage'
+aF0.017951856385148825
+asS'lmca +1.52%'
 p3902
 (lp3903
 I2
-aF-0.014234192551842047
-asS'airlines ual'
+aF0.023633314805875324
+asS'gonzalez president'
 p3904
 (lp3905
 I1
-aF0.022254127781766008
-asS'stuck federal'
+aF-0.01486199575371556
+asS'panera bread'
 p3906
 (lp3907
-I2
-aF-0.036601126188498201
-asS'$65 per'
+I3
+aF0.0073890814844253258
+asS'8 24'
 p3908
 (lp3909
-I1
-aF0.023487602630611493
-asS'company former'
+I9
+aF0.063055396376559991
+asS'executive vice'
 p3910
 (lp3911
 I1
 aF-0.013834507961367818
-asS'\xc2 shareholders'
+asS'government instructed'
 p3912
 (lp3913
 I1
-aF-0.016598508539812311
-asS'" said'
+aF-0.015098314606741563
+asS'stepped ceo'
 p3914
 (lp3915
-I7
-aF-0.131592026064388
-asS'brewer veto'
+I2
+aF0.0094823222529492185
+asS'- 0.09%'
 p3916
 (lp3917
-I5
-aF-0.044289399626954516
-asS'threatened isolate'
+I1
+aF0.016847172081828975
+asS'$45 billion'
 p3918
 (lp3919
-I1
-aF-0.024283439490445837
-asS'ago10 48'
+I4
+aF-0.0075938299399980749
+asS'p.m. jan.'
 p3920
 (lp3921
-I12
-aF0.069076572220800783
-asS'force disclose'
+I150
+aF3.9264021304795018
+asS'j.p. morgan'
 p3922
 (lp3923
-I2
-aF-0.014234192551842047
-asS'ftse 100'
+I4
+aF0.013592832051404428
+asS'massive breakout'
 p3924
 (lp3925
-I3
-aF-0.017581246670218344
-asS'jaime gonzalez'
+I2
+aF0.10801026392961874
+asS"conn 's"
 p3926
 (lp3927
-I1
-aF-0.01486199575371556
-asS'ago10 45'
+I30
+aF0.78528042609589921
+asS'26 2014'
 p3928
 (lp3929
-I12
-aF0.069076572220800783
-asS'today8 00'
+I30
+aF0.78528042609589921
+asS'26 2013'
 p3930
 (lp3931
-I12
-aF0.069076572220800783
-asS'communications inc.'
+I30
+aF0.78528042609589921
+asS'3.4% after-hours'
 p3932
 (lp3933
-I1
-aF-0.0085193657805474349
-asS'ual fortune'
+I2
+aF-0.027455969162467415
+asS'industrywide u.s.'
 p3934
 (lp3935
 I1
-aF0.022254127781766008
-asS'proposed buy'
+aF0.0063291139240506224
+asS'500 already'
 p3936
 (lp3937
-I1
-aF0.0027342063606276006
-asS'\xc2\xa9 2014'
+I6
+aF0.0076232379247427508
+asS'funds. 12'
 p3938
 (lp3939
-I43
-aF0.25877235100216228
-asS'; dow'
+I1
+aF0.028248587570621538
+asS'years previously'
 p3940
 (lp3941
-I14
-aF0.080589334257600925
-asS'increased freight'
+I1
+aF0.0095057034220531987
+asS'factset. solarcity'
 p3942
 (lp3943
-I1
-aF0.022254127781766008
-asS'tourists potential'
+I2
+aF-0.027455969162467415
+asS'kr fortune'
 p3944
 (lp3945
-I4
-aF-0.047177815558848674
-asS'rejected proposal'
+I8
+aF-0.020074526510182204
+asS'- 0.32%'
 p3946
 (lp3947
 I1
-aF-0.0078271226816403073
-asS'charge microsoft'
+aF-0.015434451219512105
+asS'giant chesapeake'
 p3948
 (lp3949
 I1
-aF-0.013834507961367818
-asS'analysts surveyed'
+aF0.017811704834605556
+asS'week offered'
 p3950
 (lp3951
-I1
-aF-0.020009416195856743
-asS'stores inc'
+I2
+aF0.032728465832498853
+asS'disregard accountability'
 p3952
 (lp3953
-I1
-aF-0.0089897260273972355
-asS'security hole'
+I2
+aF0.0050351650906114501
+asS'flak ;'
 p3954
 (lp3955
 I1
-aF0.0028884159318941583
-asS'hikes rates'
+aF0.014802631578947345
+asS'oil leaps'
 p3956
 (lp3957
 I57
 aF0.33936168525976329
-asS'co-head microsoft'
+asS'markets.the ability'
 p3958
 (lp3959
 I1
-aF-0.013834507961367818
-asS'stocks cash-rich'
+aF-0.015098314606741563
+asS'paulo/new york'
 p3960
 (lp3961
-I2
-aF0.011512762036800132
-asS'york stock'
+I1
+aF-0.015098314606741563
+asS'few. sears'
 p3962
 (lp3963
 I2
-aF0.031759831203819207
-asS'stage 1'
+aF0.024645570354333065
+asS'andreesen purchased'
 p3964
 (lp3965
-I1
-aF0.0095057034220531987
-asS'22,000 flights'
+I2
+aF0.0050351650906114501
+asS'radioshack honors'
 p3966
 (lp3967
-I1
-aF0.022254127781766008
-asS'publicly tuesday.microsoft'
+I30
+aF0.78528042609589921
+asS'today7 11'
 p3968
 (lp3969
-I1
-aF-0.013834507961367818
-asS'/quotes/zigman/19622165/delayed/quotes/nls/bbry bbry'
+I30
+aF0.78528042609589921
+asS'mexico.the world'
 p3970
 (lp3971
-I3
-aF0.029027283270916533
-asS'stocks sink'
-p3972
-(lp3973
-I57
-aF0.33936168525976329
-asS'follow suit'
-p3974
-(lp3975
 I1
 aF0.022254127781766008
-asS'casey bitcoin'
+asS'time companies'
+p3972
+(lp3973
+I1
+aF0.022254127781766008
+asS'renewing attacks'
+p3974
+(lp3975
+I2
+aF0.0050351650906114501
+asS'run 8'
 p3976
 (lp3977
 I9
 aF0.063055396376559991
-asS"moscow 's"
+asS'fitb free'
 p3978
 (lp3979
-I1
-aF-0.024283439490445837
-asS'today12 52'
+I2
+aF-0.014586566700890537
+asS'friday discovered'
 p3980
 (lp3981
-I9
-aF0.063055396376559991
-asS'inc ups.n'
+I1
+aF-0.01486199575371556
+asS'oil -'
 p3982
 (lp3983
 I1
-aF0.022254127781766008
-asS'proposal urging'
+aF0.0065939063210550593
+asS'offerings. related'
 p3984
 (lp3985
 I1
-aF-0.0078271226816403073
-asS'equity trader'
+aF0.01016055675194774
+asS'borrowing money'
 p3986
 (lp3987
 I1
-aF-0.025641025641025664
-asS'caplinger motley'
+aF-0.0044444444444443499
+asS'oil 6'
 p3988
 (lp3989
-I1
-aF0.022254127781766008
-asS'0.93% \xc2'
+I12
+aF0.069076572220800783
+asS'ruble traded'
 p3990
 (lp3991
-I2
-aF-0.022566372361966354
-asS'line "'
+I1
+aF-0.025641025641025664
+asS'relationship russia'
 p3992
 (lp3993
-I1
-aF0.022254127781766008
-asS'51% stake'
+I4
+aF-0.012663166210594025
+asS'2.24% micron'
 p3994
 (lp3995
-I1
-aF0.0027342063606276006
-asS'7 13'
+I2
+aF0.023622213537533625
+asS'expand faster'
 p3996
 (lp3997
-I9
-aF0.063055396376559991
-asS'positions including'
+I55
+aF0.32784892322296316
+asS'oil wheat'
 p3998
 (lp3999
-I1
-aF0.0095057034220531987
-asS'stretch water'
+I43
+aF0.25877235100216228
+asS'dollar euro.'
 p4000
 (lp4001
 I1
 aF-0.025641025641025664
-asS'1 prostate'
+asS'$22.16 lowest'
 p4002
 (lp4003
 I1
-aF0.0095057034220531987
-asS'500 acres'
+aF0.022254127781766008
+asS'organization wto'
 p4004
 (lp4005
 I1
-aF0.023487602630611493
-asS'edition investors'
+aF-0.015098314606741563
+asS'itub4.sa launch'
 p4006
 (lp4007
-I9
-aF0.063055396376559991
-asS'threatens euro-zone'
+I1
+aF-0.015098314606741563
+asS'richest man'
 p4008
 (lp4009
-I9
-aF0.063055396376559991
-asS'models grand'
+I2
+aF0.007155813175024445
+asS'expand bid'
 p4010
 (lp4011
 I1
-aF0.0063291139240506224
-asS'buy. "'
+aF-0.0044444444444443499
+asS'cook icahn'
 p4012
 (lp4013
-I1
-aF0.022254127781766008
-asS'within mexico'
+I4
+aF0.044938893448227483
+asS'autodesk inc.'
 p4014
 (lp4015
 I1
-aF0.022254127781766008
-asS'reported sunday'
+aF-0.015434451219512105
+asS'including gm'
 p4016
 (lp4017
 I1
-aF-0.013834507961367818
-asS'planning goes'
+aF0.0065939063210550593
+asS'would lose'
 p4018
 (lp4019
 I1
-aF0.022254127781766008
-asS'surveys households'
+aF-0.015098314606741563
+asS'filing bankruptcy.'
 p4020
 (lp4021
-I1
-aF-0.01486199575371556
-asS'agency well'
+I3
+aF0.0047587671132585697
+asS'bartash dollar'
 p4022
 (lp4023
-I1
-aF-0.01749999999999996
-asS'marlborough gallery'
+I12
+aF0.069076572220800783
+asS'well running'
 p4024
 (lp4025
-I1
-aF-0.010660963270678267
-asS'concludes delta'
+I33
+aF0.19079809890985722
+asS'nadella appointed'
 p4026
 (lp4027
 I1
-aF0.022254127781766008
-asS'return cash'
+aF-0.013834507961367818
+asS'units related'
 p4028
 (lp4029
 I1
-aF0.0028884159318941583
-asS'flat year'
+aF0.017811704834605556
+asS'stole posted'
 p4030
 (lp4031
 I1
-aF-0.042688910696761409
-asS'competes offerings.'
+aF-0.01486199575371556
+asS'stocks tumble'
 p4032
 (lp4033
-I1
-aF-0.010660963270678267
-asS'euro stoxx'
+I20
+aF0.070425308170244394
+asS'overturned them.'
 p4034
 (lp4035
-I1
-aF0.025356283546178002
-asS'found younger'
+I4
+aF-0.0075938299399980749
+asS'noted apple'
 p4036
 (lp4037
-I2
-aF0.0076523476523476276
-asS'10-million-share stake'
+I1
+aF0.0065939063210550593
+asS'including canada'
 p4038
 (lp4039
 I1
-aF0.036999999999999922
-asS'buffett announced'
+aF-0.015098314606741563
+asS'" jaime'
 p4040
 (lp4041
 I1
-aF0.0095057034220531987
-asS'many focused'
+aF-0.01486199575371556
+asS'biggest parcel'
 p4042
 (lp4043
 I1
-aF-0.01486199575371556
-asS'data hold'
+aF0.022254127781766008
+asS'topping analysts'
 p4044
 (lp4045
-I2
-aF0.0074097938144331178
-asS'/quotes/zigman/109619/delayed/quotes/nls/dltr dltr'
+I1
+aF0.0063291139240506224
+asS'announced buyout'
 p4046
 (lp4047
 I1
-aF-0.00091290852656571587
-asS'bitcoin glitch'
+aF0.032987171655467266
+asS'31 a.m.'
 p4048
 (lp4049
-I9
-aF0.063055396376559991
-asS'coffee roasters'
+I6
+aF0.03956343792633036
+asS'billion $7.8'
 p4050
 (lp4051
-I2
-aF-0.0096874231100129455
-asS'third parties'
+I1
+aF-0.015098314606741563
+asS'signups ...'
 p4052
 (lp4053
-I3
-aF-0.024059813263408034
-asS'motors corp'
+I10
+aF0.065939063210550597
+asS'risks escalation'
 p4054
 (lp4055
 I1
-aF0.0095057034220531987
-asS'global grain'
+aF-0.025641025641025664
+asS'york stole'
 p4056
 (lp4057
-I2
-aF-0.051282051282051329
-asS'bonds wheat'
+I1
+aF-0.01486199575371556
+asS'corporate development'
 p4058
 (lp4059
-I43
-aF0.25877235100216228
-asS'jan. 16'
+I1
+aF0.0095057034220531987
+asS'market inc.'
 p4060
 (lp4061
-I9
-aF0.063055396376559991
-asS'stakes glaxosmithkline'
+I1
+aF-0.0096207215541164858
+asS'states activist'
 p4062
 (lp4063
 I1
-aF0.00067980965329706225
-asS"'s read"
+aF-0.015098314606741563
+asS'back cutting'
 p4064
 (lp4065
-I1
-aF-0.0071729957805906396
-asS'futures hit'
+I2
+aF0.040569339539934614
+asS'units next'
 p4066
 (lp4067
-I43
-aF0.25877235100216228
-asS'site re/code'
+I2
+aF0.0052826627277634021
+asS'third bk'
 p4068
 (lp4069
-I1
-aF-0.013834507961367818
-asS'- paul'
+I2
+aF-0.014586566700890537
+asS'stocks slump'
 p4070
 (lp4071
-I9
-aF0.063055396376559991
-asS'hog futures'
+I14
+aF0.080589334257600925
+asS'launch new'
 p4072
 (lp4073
-I43
-aF0.25877235100216228
-asS'. carl'
+I1
+aF-0.015098314606741563
+asS'million vehicles'
 p4074
 (lp4075
 I1
-aF0.0028884159318941583
-asS'difficult time'
+aF0.0063291139240506224
+asS'bbt free'
 p4076
 (lp4077
 I2
-aF-0.02972399150743112
-asS'board directors.'
+aF-0.014586566700890537
+asS'month. stocks'
 p4078
 (lp4079
 I1
-aF-0.0078271226816403073
-asS'juan genov\xc3\xa9s'
+aF-0.010861132660977546
+asS'500 pushes'
 p4080
 (lp4081
-I1
-aF-0.010660963270678267
-asS'markets safe-havens'
+I2
+aF0.013187812642110119
+asS'fitb pnc'
 p4082
 (lp4083
-I9
-aF0.063055396376559991
-asS'kept many'
+I2
+aF-0.0082949308755760238
+asS'close 1,321.60'
 p4084
 (lp4085
-I1
-aF0.0063291139240506224
-asS'company pemex.but'
+I12
+aF0.069076572220800783
+asS'officials say'
 p4086
 (lp4087
 I1
-aF-0.01486199575371556
-asS'current workers'
+aF-0.015098314606741563
+asS'says status'
 p4088
 (lp4089
 I4
-aF-0.047177815558848674
-asS'matching forecast'
+aF0.044938893448227483
+asS'air lines'
 p4090
 (lp4091
 I1
-aF0.0063291139240506224
-asS'cost $100,000.'
+aF0.022254127781766008
+asS'high 1,512'
 p4092
 (lp4093
-I1
-aF-0.01486199575371556
-asS'prop ruble.ukraine'
+I2
+aF0.013187812642110119
+asS'halts march'
 p4094
 (lp4095
 I1
-aF-0.025641025641025664
-asS'caesars czr'
+aF-0.015098314606741563
+asS'ford motor'
 p4096
 (lp4097
-I2
-aF0.019043392929388579
-asS'said banamex'
+I1
+aF0.034482758620689689
+asS'\xc2 5'
 p4098
 (lp4099
 I1
 aF-0.01486199575371556
-asS'wheat jump'
+asS'greg mahlich'
 p4100
 (lp4101
-I43
-aF0.25877235100216228
-asS'corp since'
+I1
+aF0.014802631578947345
+asS'enterprises reports'
 p4102
 (lp4103
-I1
-aF-0.013834507961367818
-asS'tuesday fourth-quarter'
+I2
+aF0.011512762036800132
+asS'would lead'
 p4104
 (lp4105
 I1
-aF0.00016545334215751787
-asS'apple cook'
+aF-0.01486199575371556
+asS'akzoy get'
 p4106
 (lp4107
-I2
-aF-0.00069443755499005305
-asS'ceo hot'
+I3
+aF0.0021474564628237813
+asS'$100 billion'
 p4108
 (lp4109
-I43
-aF0.25877235100216228
-asS'facetime investing'
+I1
+aF0.0065939063210550593
+asS'" anything'
 p4110
 (lp4111
-I20
-aF0.11512762036800134
-asS'seen. activist'
+I1
+aF-0.015098314606741563
+asS'vs. euro'
 p4112
 (lp4113
-I1
-aF-0.0078271226816403073
-asS'wireless verizon'
+I46
+aF0.89078292723278008
+asS'+0.20% ukraine'
 p4114
 (lp4115
 I1
-aF-0.016598508539812311
-asS'last month'
+aF0.0065939063210550593
+asS'kinds traffic'
 p4116
 (lp4117
-I3
-aF-0.00017477502929267967
-asS'penned yet'
+I4
+aF0.010079537768633639
+asS'2008 bailout'
 p4118
 (lp4119
-I1
-aF-0.0078271226816403073
-asS'favoring kinds'
+I4
+aF0.039241525733948263
+asS'average investor'
 p4120
 (lp4121
 I2
-aF-0.014234192551842047
-asS'500 ebay'
+aF0.007155813175024445
+asS'veto bill'
 p4122
 (lp4123
-I8
-aF-0.07254061158029762
-asS'gunmaker brings'
+I4
+aF-0.047177815558848674
+asS'october 18th'
 p4124
 (lp4125
-I1
-aF0.0062801932367149279
-asS'hedge funds'
+I30
+aF0.78528042609589921
+asS'strength numbers'
 p4126
 (lp4127
-I45
-aF0.25807791344717224
-asS'said andreessen'
+I43
+aF0.25877235100216228
+asS'data icahn'
 p4128
 (lp4129
-I1
-aF-0.0078271226816403073
-asS'10 24'
+I2
+aF0.011512762036800132
+asS'said tuesday'
 p4130
 (lp4131
-I12
-aF0.069076572220800783
-asS'53 a.m.'
+I3
+aF0.041706386762957501
+asS'information risk'
 p4132
 (lp4133
-I24
-aF0.13815314444160159
-asS'10 22'
+I1
+aF-0.015098314606741563
+asS'motors co.'
 p4134
 (lp4135
-I12
-aF0.069076572220800783
-asS'federal bureau'
+I3
+aF0.029027283270916533
+asS'edition russian'
 p4136
 (lp4137
-I2
-aF-0.02972399150743112
-asS'ceo fresh'
+I9
+aF0.063055396376559991
+asS'percent effective'
 p4138
 (lp4139
 I1
-aF-0.0096207215541164858
-asS'put personal'
+aF0.022254127781766008
+asS'2013 xerox'
 p4140
 (lp4141
 I1
-aF-0.0044444444444443499
-asS'united continental'
+aF0.0065939063210550593
+asS'stores united'
 p4142
 (lp4143
 I1
-aF0.022254127781766008
-asS'200,000 euros'
+aF-0.015098314606741563
+asS'region year'
 p4144
 (lp4145
 I1
-aF-0.010660963270678267
-asS'president microsoft'
+aF-0.015098314606741563
+asS'/quotes/zigman/439823/delayed/quotes/nls/htz htz'
 p4146
 (lp4147
-I1
-aF-0.013834507961367818
-asS'years helm'
+I4
+aF-0.038294363224545734
+asS'taper massive'
 p4148
 (lp4149
 I1
-aF-0.01749999999999996
-asS'cnc sale'
+aF0.017811704834605556
+asS'buffett said'
 p4150
 (lp4151
-I1
-aF-0.0044444444444443499
-asS'thursday costco'
+I4
+aF0.019047864035168331
+asS'shares past'
 p4152
 (lp4153
-I4
-aF-0.037111166550747227
-asS'12,000 employees'
+I1
+aF0.0065939063210550593
+asS'forcing lenders'
 p4154
 (lp4155
 I1
-aF-0.010500807754442712
-asS'gold oil'
+aF-0.015098314606741563
+asS'2008 many'
 p4156
 (lp4157
-I86
-aF0.51754470200432456
-asS'surely stock'
+I1
+aF-0.01486199575371556
+asS'may related'
 p4158
 (lp4159
 I2
-aF0.011512762036800132
-asS'faced big'
+aF-0.0014321680310061119
+asS'tim cook'
 p4160
 (lp4161
-I1
-aF-0.01486199575371556
-asS'dan loeb\xe2\x80\x99s'
+I3
+aF0.029863302319187816
+asS'year earlier.john'
 p4162
 (lp4163
 I1
-aF0.036999999999999922
-asS'unwound stakes'
+aF-0.042688910696761409
+asS'market analyst'
 p4164
 (lp4165
-I1
-aF0.00067980965329706225
-asS'quantitative sales'
+I30
+aF0.78528042609589921
+asS'\xc2 likely'
 p4166
 (lp4167
-I1
-aF-0.025641025641025664
-asS'seizes border'
+I9
+aF0.075890029565484712
+asS'impact glance'
 p4168
 (lp4169
-I9
-aF0.063055396376559991
-asS'pnc .'
+I43
+aF0.25877235100216228
+asS'factory could'
 p4170
 (lp4171
-I1
-aF-0.0082949308755760238
-asS'ebay added'
+I2
+aF0.040569339539934614
+asS'market impact'
 p4172
 (lp4173
-I2
-aF-0.011409976168524519
-asS'could get'
+I43
+aF0.25877235100216228
+asS'shares edged'
 p4174
 (lp4175
-I2
-aF-0.023970052699711648
-asS'said. investors'
+I1
+aF0.0065939063210550593
+asS'solarcity corp.'
 p4176
 (lp4177
-I1
-aF0.022254127781766008
-asS'announced discontinue'
+I6
+aF-0.065750332387013152
+asS'going far'
 p4178
 (lp4179
 I1
-aF-0.013834507961367818
-asS'lead high'
+aF-0.025641025641025664
+asS'accountability ebay'
 p4180
 (lp4181
-I1
-aF-0.01486199575371556
-asS'fields bought'
+I2
+aF0.0050351650906114501
+asS'4q sales'
 p4182
 (lp4183
-I1
-aF-0.0096207215541164858
-asS'workers factories'
+I30
+aF0.78528042609589921
+asS'broadside coincided'
 p4184
 (lp4185
 I1
-aF0.0062801932367149279
-asS'million complaints'
+aF-0.015098314606741563
+asS'agencies nearly'
 p4186
 (lp4187
-I1
-aF-0.01486199575371556
-asS'related fear'
+I2
+aF0.019620762866974131
+asS'u.s. mexico'
 p4188
 (lp4189
 I1
-aF0.023487602630611493
-asS'prompted citigroup'
+aF0.022254127781766008
+asS'10 22'
 p4190
 (lp4191
-I1
-aF-0.01486199575371556
-asS'full benefits'
+I12
+aF0.069076572220800783
+asS'kings accept'
 p4192
 (lp4193
-I1
-aF0.022254127781766008
-asS'j.c. penney'
+I9
+aF0.063055396376559991
+asS'gail levine'
 p4194
 (lp4195
 I2
-aF-0.0082564675534148035
-asS'- 3.12%'
+aF-0.0005004065187305274
+asS'subpoena u.s.'
 p4196
 (lp4197
-I2
-aF-0.045650441836882411
-asS'spend $10'
+I1
+aF-0.01486199575371556
+asS'zone 2014'
 p4198
 (lp4199
 I1
 aF-0.025641025641025664
-asS'staged rare'
+asS'profitabletrading.com $7'
 p4200
 (lp4201
-I1
-aF0.0028884159318941583
-asS'officer joe'
+I2
+aF0.10801026392961874
+asS'fixed higher'
 p4202
 (lp4203
 I1
-aF-0.01749999999999996
-asS'reina sof\xc3\xada'
+aF-0.015098314606741563
+asS'favorable zacks'
 p4204
 (lp4205
-I1
-aF0.01163378856853821
-asS'pemex owed'
+I2
+aF0.014895823661047334
+asS'tons gold'
 p4206
 (lp4207
 I1
-aF-0.01486199575371556
-asS'love snuck'
+aF0.034482758620689689
+asS'sporting goods'
 p4208
 (lp4209
-I1
-aF-0.01486199575371556
-asS'cents share'
+I43
+aF0.25877235100216228
+asS'bring cable'
 p4210
 (lp4211
-I16
-aF-0.17905646874383713
-asS'remains sluggish'
+I4
+aF-0.0075938299399980749
+asS'pandora media'
 p4212
 (lp4213
-I2
-aF-0.02972399150743112
-asS'west since'
+I1
+aF-0.015434451219512105
+asS'repurchase.the company'
 p4214
 (lp4215
 I1
-aF-0.024283439490445837
-asS'40 cents'
+aF0.0065939063210550593
+asS'days article'
 p4216
 (lp4217
-I1
-aF0.00067980965329706225
-asS'titans baidu'
+I2
+aF0.10801026392961874
+asS'stock likely'
 p4218
 (lp4219
-I7
-aF-0.061600416238838308
-asS'net worth.'
+I43
+aF0.25877235100216228
+asS'today6 00'
 p4220
 (lp4221
-I1
-aF-0.01486199575371556
-asS'- wall'
+I12
+aF0.069076572220800783
+asS'stores within'
 p4222
 (lp4223
-I180
-aF1.2611079275311989
-asS'announced august'
+I30
+aF0.78528042609589921
+asS'auto sales'
 p4224
 (lp4225
 I1
-aF-0.013834507961367818
-asS'suntrust bks'
+aF0.0063291139240506224
+asS'bigger hand'
 p4226
 (lp4227
-I2
-aF-0.014586566700890537
-asS'management founded'
+I1
+aF-0.013834507961367818
+asS'clear }'
 p4228
 (lp4229
-I1
-aF-0.015434451219512105
-asS'reading 57'
+I5
+aF0.1588106388459081
+asS'atvi electronic'
 p4230
 (lp4231
-I1
-aF-0.0071729957805906396
-asS'contact information.'
+I14
+aF0.018081633883883088
+asS'do-it-together spirit'
 p4232
 (lp4233
-I1
-aF-0.01486199575371556
-asS'ltd. target'
+I30
+aF0.78528042609589921
+asS'york heritage'
 p4234
 (lp4235
-I1
-aF-0.011144883485308961
-asS'after-hours trading.'
+I30
+aF0.78528042609589921
+asS'rally usesaad'
 p4236
 (lp4237
-I1
-aF-0.020009416195856743
-asS'trade monday\xe2\x80\x99s'
+I2
+aF0.10801026392961874
+asS'world trade'
 p4238
 (lp4239
-I2
-aF-0.045650441836882411
-asS'snow leopard'
+I1
+aF-0.015098314606741563
+asS'note del'
 p4240
 (lp4241
-I3
-aF-0.0080576760975795015
-asS'novo nordisk'
+I1
+aF0.012706969580285016
+asS'700,000 euros'
 p4242
 (lp4243
 I2
-aF0.019043392929388579
-asS'said probe'
+aF0.033133788568538193
+asS'tuesday\xe2\x80\x99s closing'
 p4244
 (lp4245
-I1
-aF-0.01486199575371556
-asS'also proposed'
+I2
+aF0.01182253889076694
+asS'pepsico inc.'
 p4246
 (lp4247
-I1
-aF0.0027342063606276006
-asS'easy average'
+I2
+aF-0.00013053922301388583
+asS'extent nature'
 p4248
 (lp4249
 I1
-aF0.022254127781766008
-asS'google goog'
+aF-0.015098314606741563
+asS"said.apple 's"
 p4250
 (lp4251
-I17
-aF-0.16627551332406051
-asS'delivery company'
+I1
+aF0.0065939063210550593
+asS'share repurchase'
 p4252
 (lp4253
 I1
-aF0.022254127781766008
-asS'fhfa.fairholme 2.24'
+aF-0.015098314606741563
+asS'vice president'
 p4254
 (lp4255
-I2
-aF0.0073921320280504483
-asS'though equities'
+I3
+aF0.03015395408137507
+asS'board member'
 p4256
 (lp4257
-I1
-aF0.025356283546178002
-asS'raised stake'
+I4
+aF0.044938893448227483
+asS'imbedded space'
 p4258
 (lp4259
-I2
-aF0.039888415931894079
-asS'die wealth'
+I1
+aF0.086510263929618747
+asS'hertz /quotes/zigman/439823/delayed/quotes/nls/htz'
 p4260
 (lp4261
-I1
-aF-0.01486199575371556
-asS'blocking websites'
+I4
+aF-0.038294363224545734
+asS'follow basic'
 p4262
 (lp4263
 I2
-aF-0.014234192551842047
-asS'vaishampayan u.s.'
+aF0.0073921320280504483
+asS'win back-dating'
 p4264
 (lp4265
-I12
-aF0.069076572220800783
-asS'wall street'
+I43
+aF0.25877235100216228
+asS'relations united'
 p4266
 (lp4267
-I183
-aF1.2421713553910743
-asS'said hoped'
+I1
+aF0.022254127781766008
+asS'country next.\xc2'
 p4268
 (lp4269
 I1
-aF-0.01486199575371556
-asS're/code reported'
+aF0.034482758620689689
+asS'2015 budget'
 p4270
 (lp4271
-I1
-aF-0.013834507961367818
-asS'yelp among'
+I2
+aF0.033133788568538193
+asS'? steve'
 p4272
 (lp4273
-I4
-aF-0.047177815558848674
-asS'journal interactive'
+I1
+aF0.0065939063210550593
+asS'222,104 vehicles.'
 p4274
 (lp4275
-I180
-aF1.2611079275311989
-asS'/quotes/zigman/54683/delayed/quotes/nls/gmcr gmcr'
+I1
+aF0.0095057034220531987
+asS'report sprint'
 p4276
 (lp4277
-I2
-aF-0.0096874231100129455
-asS'bureau investigation'
+I1
+aF0.00082576383154416076
+asS'23 p.m.'
 p4278
 (lp4279
-I2
-aF-0.02972399150743112
-asS'inflation threatens'
+I30
+aF0.78528042609589921
+asS'company planned'
 p4280
 (lp4281
-I9
-aF0.063055396376559991
-asS'armored vehicles'
+I1
+aF0.022254127781766008
+asS'whose shares'
 p4282
 (lp4283
-I1
-aF-0.025641025641025664
-asS'banks include'
+I8
+aF-0.06064483092063825
+asS'radio shack'
 p4284
 (lp4285
-I2
-aF-0.0082949308755760238
-asS'future vs.'
+I30
+aF0.78528042609589921
+asS'shareholders reiterating'
 p4286
 (lp4287
-I9
-aF0.063055396376559991
-asS'roared back'
+I2
+aF0.0050351650906114501
+asS'98 cents'
 p4288
 (lp4289
-I1
-aF-0.01486199575371556
-asS"'s moving"
+I2
+aF0.01182253889076694
+asS'potential employees'
 p4290
 (lp4291
-I1
-aF0.023487602630611493
-asS'default --'
+I4
+aF-0.047177815558848674
+asS'investors need'
 p4292
 (lp4293
-I2
-aF-0.051282051282051329
-asS'plain sailing'
+I12
+aF0.069076572220800783
+asS'inspired collaborative'
 p4294
 (lp4295
-I1
-aF-0.025641025641025664
-asS'raced past'
+I30
+aF0.78528042609589921
+asS'amt free'
 p4296
 (lp4297
 I1
-aF0.0095057034220531987
-asS'news president'
+aF0.00082576383154416076
+asS'" complete'
 p4298
 (lp4299
-I1
-aF0.01163378856853821
-asS'shenzhen shares'
+I2
+aF0.0050351650906114501
+asS'cnc irish'
 p4300
 (lp4301
-I2
-aF0.011512762036800132
-asS'trying readjust'
+I1
+aF-0.0044444444444443499
+asS'march 2011'
 p4302
 (lp4303
 I1
-aF0.022254127781766008
-asS'diversify. "'
+aF-0.015098314606741563
+asS'agency u.s.'
 p4304
 (lp4305
 I1
-aF-0.0044444444444443499
-asS'behavioral economics'
+aF-0.01749999999999996
+asS'- prf'
 p4306
 (lp4307
-I43
-aF0.25877235100216228
-asS'comcast recently'
+I330
+aF8.6380846870548655
+asS'regardless situation'
 p4308
 (lp4309
-I2
-aF-0.023970052699711648
-asS'pre-empting "'
+I1
+aF0.017951856385148825
+asS'report ultra'
 p4310
 (lp4311
-I1
-aF-0.0078271226816403073
-asS'increase fedex'
+I3
+aF0.076043454879415551
+asS'opens pop-up'
 p4312
 (lp4313
-I1
-aF0.022254127781766008
-asS's&p 500'
+I30
+aF0.78528042609589921
+asS'said bill'
 p4314
 (lp4315
-I10
-aF0.038771956886114144
-asS"'s top"
+I1
+aF-0.010500807754442712
+asS'play monday'
 p4316
 (lp4317
 I43
 aF0.25877235100216228
-asS'successfully. starr'
+asS'revival continues'
 p4318
 (lp4319
-I1
-aF-0.01486199575371556
-asS'paypal "'
+I9
+aF0.063055396376559991
+asS'ukraine fuels'
 p4320
 (lp4321
-I2
-aF-0.015654245363280615
-asS'expense ebay'
+I12
+aF0.069076572220800783
+asS'edition crimea'
 p4322
 (lp4323
-I1
-aF-0.0078271226816403073
-asS'corp free'
+I9
+aF0.063055396376559991
+asS'biggest auto'
 p4324
 (lp4325
 I1
-aF0.00082576383154416076
-asS'chemical space'
+aF-0.042688910696761409
+asS'report huntsman'
 p4326
 (lp4327
-I2
-aF0.0063122470976729999
-asS'500 marriott'
+I3
+aF0.026538188304429285
+asS'sourcing provisions.indian'
 p4328
 (lp4329
-I4
-aF-0.047177815558848674
-asS'andreessen recused'
+I1
+aF-0.015098314606741563
+asS'tulinda larsen'
 p4330
 (lp4331
 I1
-aF-0.0078271226816403073
-asS'highs 12'
+aF0.034482758620689689
+asS"citizens.russia 's"
 p4332
 (lp4333
-I9
-aF0.063055396376559991
-asS'forces tightened'
-p4334
-(lp4335
 I1
 aF-0.025641025641025664
-asS'60 cents'
+asS'u.s. federal'
+p4334
+(lp4335
+I5
+aF-0.02496522439417255
+asS'1.6 million'
 p4336
 (lp4337
 I1
-aF-0.0011181513231456424
-asS'business --'
+aF0.034482758620689689
+asS'five months'
 p4338
 (lp4339
-I4
-aF-0.047177815558848674
-asS'members marc'
+I57
+aF0.33936168525976329
+asS'0.05% blackberry'
 p4340
 (lp4341
-I1
-aF-0.0078271226816403073
-asS'shop said'
+I3
+aF0.029027283270916533
+asS'neighbor protect'
 p4342
 (lp4343
 I1
-aF-0.0044444444444443499
-asS'gm selling'
+aF-0.025641025641025664
+asS'+1.16% \xc2'
 p4344
 (lp4345
 I1
-aF-0.015434451219512105
-asS'11 41'
+aF0.0022133075114123195
+asS'cfo oppenheimer'
 p4346
 (lp4347
-I9
-aF0.063055396376559991
-asS'wheat corn'
+I44
+aF0.87759511459066997
+asS'monday new'
 p4348
 (lp4349
-I12
-aF0.069076572220800783
-asS'voxeljet vjet'
+I1
+aF0.022254127781766008
+asS'nearly 12,000'
 p4350
 (lp4351
-I2
-aF-0.051049018886638195
-asS'weak sales'
+I1
+aF-0.010500807754442712
+asS"'ve heard"
 p4352
 (lp4353
-I45
-aF0.27028511303896241
-asS'64 cents'
+I2
+aF-0.0096143372351269688
+asS'federal trade'
 p4354
 (lp4355
-I1
-aF-0.019449798493078665
-asS'expected see'
+I2
+aF0.019620762866974131
+asS'servers used'
 p4356
 (lp4357
-I5
-aF-0.054537389082536671
-asS'officer michael'
+I1
+aF-0.01486199575371556
+asS'reported fourth-quarter'
 p4358
 (lp4359
-I1
-aF-0.01486199575371556
-asS'target hackers.'
+I6
+aF0.054336127523345698
+asS'known snow'
 p4360
 (lp4361
-I1
-aF0.0028884159318941583
-asS'22 cents'
+I2
+aF0.0094823222529492185
+asS'vs. meteoric'
 p4362
 (lp4363
-I1
-aF0.023487602630611493
-asS'a.m. today8'
+I9
+aF0.063055396376559991
+asS'apple since'
 p4364
 (lp4365
-I45
-aF0.27028511303896241
-asS'a.m. today9'
+I2
+aF0.0094823222529492185
+asS'1.5%. france'
 p4366
 (lp4367
-I9
-aF0.063055396376559991
-asS'need know'
+I1
+aF-0.0058604155567394478
+asS'vladimir putin'
 p4368
 (lp4369
-I12
-aF0.069076572220800783
-asS'company boost'
+I1
+aF-0.025641025641025664
+asS'7 2014'
 p4370
 (lp4371
-I3
-aF-0.024059813263408034
-asS'mixed economic'
+I31
+aF0.79187433241695426
+asS'" ebay'
 p4372
 (lp4373
-I1
-aF-0.01486199575371556
-asS'a.m. today6'
+I4
+aF0.0100703301812229
+asS'seen since'
 p4374
 (lp4375
-I30
-aF0.19518736497392083
-asS'a.m. today7'
+I1
+aF0.017951856385148825
+asS'" associated'
 p4376
 (lp4377
-I21
-aF0.13213196859736082
-asS'a.m. today5'
+I2
+aF0.0050351650906114501
+asS'said fourth-quarter'
 p4378
 (lp4379
-I9
-aF0.063055396376559991
-asS"china 's"
+I6
+aF-0.0010147511058086747
+asS'- zacks.com'
 p4380
 (lp4381
-I18
-aF0.12611079275312001
-asS'posts crimea'
+I90
+aF2.3558412782876994
+asS'january ruling'
 p4382
 (lp4383
-I9
-aF0.063055396376559991
-asS'apparent crime.law'
+I4
+aF-0.0075938299399980749
+asS'ago11 18'
 p4384
 (lp4385
-I1
-aF-0.01486199575371556
-asS'1.01% late'
+I30
+aF0.78528042609589921
+asS'ago11 19'
 p4386
 (lp4387
-I1
-aF0.023487602630611493
-asS'broadband providers'
+I12
+aF0.069076572220800783
+asS'sell earnings'
 p4388
 (lp4389
 I2
-aF-0.023970052699711648
-asS'december. obama'
+aF0.038093405336004325
+asS'stipulate commercial-airline'
 p4390
 (lp4391
 I1
 aF-0.01486199575371556
-asS'sale andreessen'
+asS'ebay added'
 p4392
 (lp4393
-I1
-aF-0.0078271226816403073
-asS"'t include"
+I4
+aF0.040491736285889715
+asS'ago11 15'
 p4394
 (lp4395
-I1
-aF0.01163378856853821
-asS'oceanografia basis'
+I9
+aF0.063055396376559991
+asS'ago11 16'
 p4396
 (lp4397
-I1
-aF-0.01486199575371556
-asS'board concluded'
+I12
+aF0.069076572220800783
+asS'pnra +0.46%'
 p4398
 (lp4399
 I1
-aF-0.0078271226816403073
-asS'drop 6'
+aF0.00705817480011029
+asS'struggles past'
 p4400
 (lp4401
-I1
-aF-0.042688910696761409
-asS'maker australian'
+I2
+aF0.023269395998132755
+asS'gas west'
 p4402
 (lp4403
 I1
-aF-0.019905850706119568
-asS'wmt fortune'
+aF0.017951856385148825
+asS'30% american'
 p4404
 (lp4405
-I2
-aF0.019043392929388579
-asS'arends well'
+I4
+aF-0.0075938299399980749
+asS'penn station'
 p4406
 (lp4407
-I12
-aF0.069076572220800783
-asS'edition europe'
+I30
+aF0.78528042609589921
+asS'skype ebay'
 p4408
 (lp4409
-I9
-aF0.063055396376559991
-asS'high uncontrollable'
+I2
+aF0.0050351650906114501
+asS'- 0.34%'
 p4410
 (lp4411
-I1
-aF-0.01486199575371556
-asS'service paypal.'
+I2
+aF0.0013596193065941245
+asS'106 smartphone'
 p4412
 (lp4413
 I1
-aF-0.0078271226816403073
-asS'index 12'
+aF0.086510263929618747
+asS'worst hit'
 p4414
 (lp4415
 I1
 aF0.025356283546178002
-asS'said.reller one'
+asS'made federal'
 p4416
 (lp4417
-I1
-aF-0.013834507961367818
-asS'loan origination'
+I2
+aF0.019620762866974131
+asS'records radioshack'
 p4418
 (lp4419
-I1
-aF-0.01486199575371556
-asS'probe includes'
+I44
+aF0.87759511459066997
+asS'hhr pontiac'
 p4420
 (lp4421
-I1
-aF-0.01486199575371556
-asS'inc. /quotes/zigman/219651/delayed/quotes/nls/brk.a'
+I2
+aF0.033732486151840983
+asS"microsoft 's"
 p4422
 (lp4423
-I1
-aF0.00067980965329706225
-asS'hit fresh'
+I2
+aF-0.027669015922735636
+asS'lawmakers weather'
 p4424
 (lp4425
-I43
-aF0.25877235100216228
-asS'/quotes/zigman/247026/delayed/quotes/nls/bp bp'
+I2
+aF0.019620762866974131
+asS'deepens 8'
 p4426
 (lp4427
-I2
-aF0.023622213537533625
-asS'access emails'
+I12
+aF0.069076572220800783
+asS'deck maker'
 p4428
 (lp4429
-I1
-aF0.0028884159318941583
-asS'including microsoft'
+I2
+aF-0.00055632415198211133
+asS'reserve chairman'
 p4430
 (lp4431
-I3
-aF-0.039832894544929484
-asS'send negative'
+I1
+aF0.034482758620689689
+asS'judgment united'
 p4432
 (lp4433
 I1
-aF-0.025641025641025664
-asS'advanced strategy'
+aF-0.015098314606741563
+asS'facebook inc-a'
 p4434
 (lp4435
-I1
-aF-0.013834507961367818
-asS'percent $48.63'
+I2
+aF0.044429609850170595
+asS'islands canada'
 p4436
 (lp4437
 I1
-aF0.0095057034220531987
-asS'highest close'
+aF0.022254127781766008
+asS'financial crisis'
 p4438
 (lp4439
-I57
-aF0.33936168525976329
-asS'lose relations'
+I1
+aF0.034482758620689689
+asS'stores largo'
 p4440
 (lp4441
-I1
-aF0.022254127781766008
-asS'likely report'
+I30
+aF0.78528042609589921
+asS'tree inc.'
 p4442
 (lp4443
-I3
-aF0.014816112232117616
-asS'sink u.s.'
+I2
+aF-0.0025576453686709114
+asS'+1.55% late'
 p4444
 (lp4445
-I43
-aF0.25877235100216228
-asS'peak reading'
+I1
+aF0.01708173690932312
+asS'united parcel'
 p4446
 (lp4447
 I1
-aF-0.0071729957805906396
-asS'new glass'
+aF0.022254127781766008
+asS'1.43% .'
 p4448
 (lp4449
-I1
-aF0.0028884159318941583
-asS'500 yelp'
+I2
+aF0.039888415931894079
+asS'asset differences'
 p4450
 (lp4451
-I4
-aF-0.047177815558848674
-asS'war unfolded.the'
+I1
+aF-0.015098314606741563
+asS'bid sodastream'
 p4452
 (lp4453
-I1
-aF-0.024283439490445837
-asS"industry 's"
+I2
+aF-0.00013053922301388583
+asS'shows strength'
 p4454
 (lp4455
-I6
-aF-0.05390200719883341
-asS'total monthly'
+I9
+aF0.063055396376559991
+asS'profit-taking expected'
 p4456
 (lp4457
 I1
-aF0.0063291139240506224
-asS'citi fraud'
+aF-0.024283439490445837
+asS'glitch 6'
 p4458
 (lp4459
-I43
-aF0.25877235100216228
-asS'internet service'
+I9
+aF0.063055396376559991
+asS"'s original"
 p4460
 (lp4461
-I2
-aF-0.023970052699711648
-asS'" first'
+I1
+aF0.034482758620689689
+asS'htz +1.65%'
 p4462
 (lp4463
-I1
-aF-0.01486199575371556
-asS'related global'
+I2
+aF0.0073560786123366738
+asS'sales trading'
 p4464
 (lp4465
-I2
-aF-0.051282051282051329
-asS'sunday online'
+I1
+aF-0.025641025641025664
+asS'ko -'
 p4466
 (lp4467
-I3
-aF-0.024059813263408034
-asS"'t leveled"
+I2
+aF-0.0096874231100129455
+asS'manage central'
 p4468
 (lp4469
-I2
-aF-0.048566878980891674
-asS'bartash gold'
+I1
+aF-0.01486199575371556
+asS'coming overbought'
 p4470
 (lp4471
-I12
-aF0.069076572220800783
-asS"'t follow"
+I2
+aF0.038093405336004325
+asS'weidner china'
 p4472
 (lp4473
-I2
-aF0.0073921320280504483
-asS'service 30%'
+I9
+aF0.063055396376559991
+asS'market discipline'
 p4474
 (lp4475
-I2
-aF-0.023970052699711648
-asS'core prices'
+I1
+aF-0.015098314606741563
+asS'7 44'
 p4476
 (lp4477
-I2
-aF-0.036601126188498201
-asS'triple digits'
+I9
+aF0.063055396376559991
+asS'7 47'
 p4478
 (lp4479
-I14
-aF0.080589334257600925
-asS'attract attention'
+I12
+aF0.069076572220800783
+asS'petsmart petm'
 p4480
 (lp4481
-I3
-aF0.029027283270916533
-asS'gun bill'
+I4
+aF-0.047177815558848674
+asS'tax code'
 p4482
 (lp4483
 I1
-aF-0.01486199575371556
-asS'500 starwood'
+aF0.021499999999999984
+asS'log sue'
 p4484
 (lp4485
-I4
-aF-0.047177815558848674
-asS'carplay u.s.'
+I10
+aF-0.060775370143652127
+asS'6 min'
 p4486
 (lp4487
-I2
-aF0.011512762036800132
-asS'bank hiked'
+I3
+aF0.019781718963165176
+asS'answers -'
 p4488
 (lp4489
-I1
-aF0.022254127781766008
-asS'cold war'
+I30
+aF0.78528042609589921
+asS'economy properly'
 p4490
 (lp4491
-I1
-aF-0.024283439490445837
-asS'apprehension surged'
+I2
+aF0.0073921320280504483
+asS'20 percent.shares'
 p4492
 (lp4493
 I1
-aF0.025356283546178002
-asS'adjusted inflation'
+aF-0.015098314606741563
+asS'inc. hewlett-packard'
 p4494
 (lp4495
 I2
-aF-0.036601126188498201
-asS'first disclosed'
+aF0.040569339539934614
+asS'agreements rope'
 p4496
 (lp4497
-I1
-aF-0.01486199575371556
-asS'ebay fortune'
+I2
+aF0.03185842475789831
+asS'<^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^graphic -'
 p4498
 (lp4499
-I12
-aF-0.10242904949542028
-asS'angry letter'
+I1
+aF0.014802631578947345
+asS'system. analysts'
 p4500
 (lp4501
-I1
-aF-0.0078271226816403073
-asS"aren 't"
+I2
+aF-0.00013053922301388583
+asS'quarter raised'
 p4502
 (lp4503
-I2
-aF-0.048566878980891674
-asS'share according'
+I1
+aF0.036999999999999922
+asS'greed index'
 p4504
 (lp4505
-I6
-aF-0.10059136407511454
-asS'due tuesday.'
+I2
+aF0.040569339539934614
+asS'michael casey'
 p4506
 (lp4507
-I1
-aF0.01163378856853821
-asS'states including'
+I18
+aF0.12611079275312001
+asS'report earnings'
 p4508
 (lp4509
-I1
-aF0.022254127781766008
-asS'crime.law enforcers'
+I5
+aF0.037561005527722624
+asS'end 2015'
 p4510
 (lp4511
 I1
-aF-0.01486199575371556
-asS'king priceline'
+aF0.0065939063210550593
+asS'reserve arguing'
 p4512
 (lp4513
-I7
-aF-0.061600416238838308
-asS'gain 17%.'
+I4
+aF0.039241525733948263
+asS'oil bonds'
 p4514
 (lp4515
-I1
-aF0.023487602630611493
-asS'fairs vip'
+I43
+aF0.25877235100216228
+asS'blow generic'
 p4516
 (lp4517
 I1
-aF-0.050196850393700768
-asS'akzoy .'
+aF-0.015098314606741563
+asS"year 's"
 p4518
 (lp4519
-I2
-aF0.0063122470976729999
-asS'sale one'
+I1
+aF0.022254127781766008
+asS'quarter. also'
 p4520
 (lp4521
 I1
-aF-0.0044444444444443499
-asS'1.43% .'
+aF-0.0078586044304735248
+asS'leading gains'
 p4522
 (lp4523
-I2
-aF0.039888415931894079
-asS'corporations including'
+I1
+aF0.0085513078470825805
+asS'investigating transactions'
 p4524
 (lp4525
-I4
-aF-0.047177815558848674
-asS'percent.ford motor'
+I1
+aF-0.01486199575371556
+asS'figure topped'
 p4526
 (lp4527
 I1
-aF-0.042688910696761409
-asS'jan. 8'
+aF-0.0071729957805906396
+asS'ago. groupon'
 p4528
 (lp4529
-I18
-aF0.12611079275312001
-asS'board feedback'
+I1
+aF0.027218934911242658
+asS'. methanex'
 p4530
 (lp4531
-I1
-aF0.022254127781766008
-asS'beginning year.'
+I2
+aF0.0063122470976729999
+asS'corp. chk'
 p4532
 (lp4533
 I1
-aF0.0028884159318941583
-asS'jan. 1'
+aF0.017811704834605556
+asS'" brand'
 p4534
 (lp4535
-I9
-aF0.063055396376559991
-asS'today8 35'
+I30
+aF0.78528042609589921
+asS'klac free'
 p4536
 (lp4537
-I9
-aF0.063055396376559991
-asS'interactive software'
+I3
+aF0.076043454879415551
+asS'accused hacking'
 p4538
 (lp4539
-I2
-aF0.023622213537533625
-asS'models affected'
+I1
+aF-0.01486199575371556
+asS'- 0.50%'
 p4540
 (lp4541
 I1
-aF-0.052777777777777764
-asS'inc. hewlett-packard'
+aF0.00067980965329706225
+asS'first custom'
 p4542
 (lp4543
-I1
-aF0.023487602630611493
-asS'/quotes/zigman/77604/delayed/quotes/nls/rost rost'
+I30
+aF0.78528042609589921
+asS'fourth-quarter revenue'
 p4544
 (lp4545
 I2
-aF-0.014010989010988762
-asS'48 a.m.'
+aF-0.027455969162467415
+asS'51.3 weakest'
 p4546
 (lp4547
-I12
-aF0.069076572220800783
-asS'" russian'
-p4548
-(lp4549
-I1
-aF0.022254127781766008
-asS'8 min'
-p4550
-(lp4551
-I12
-aF0.069076572220800783
-asS'national factory'
-p4552
-(lp4553
 I1
 aF-0.0071729957805906396
-asS'mountain coffee'
+asS'follows missive'
+p4548
+(lp4549
+I2
+aF0.0050351650906114501
+asS'klac ultra'
+p4550
+(lp4551
+I3
+aF0.076043454879415551
+asS'backing push'
+p4552
+(lp4553
+I2
+aF0.0094823222529492185
+asS'close 1,000'
 p4554
 (lp4555
-I2
-aF-0.0096874231100129455
-asS'congress monetary'
+I30
+aF0.78528042609589921
+asS'/quotes/zigman/75433/delayed/quotes/nls/mu mu'
 p4556
 (lp4557
-I1
-aF-0.01486199575371556
-asS'call market'
+I2
+aF0.023622213537533625
+asS'valuing business'
 p4558
 (lp4559
-I1
-aF-0.025641025641025664
-asS'-- otherwise'
+I2
+aF0.032728465832498853
+asS'retail sales'
 p4560
 (lp4561
 I1
-aF-0.01486199575371556
-asS'feedback made'
+aF0.0075437537718768856
+asS'stewardship berkshire'
 p4562
 (lp4563
-I1
-aF0.022254127781766008
-asS'currency chaos'
+I2
+aF0.023269395998132755
+asS'2 percent'
 p4564
 (lp4565
-I9
-aF0.063055396376559991
-asS"2014 's"
+I2
+aF-0.036601126188498201
+asS'george soros'
 p4566
 (lp4567
 I1
-aF0.0095057034220531987
-asS"'s revival"
+aF-0.015434451219512105
+asS'strategic planning.valero'
 p4568
 (lp4569
-I9
-aF0.063055396376559991
-asS'messages online'
+I1
+aF0.0095057034220531987
+asS'cob.sn board'
 p4570
 (lp4571
 I1
-aF0.0028884159318941583
-asS'reits well'
+aF-0.015098314606741563
+asS'report read'
 p4572
 (lp4573
-I20
-aF0.11512762036800134
-asS'whose shares'
+I21
+aF0.20244890337039712
+asS'success iphone'
 p4574
 (lp4575
-I4
-aF-0.04339250559722771
-asS'open internet'
+I1
+aF0.0065939063210550593
+asS'potentially creating'
 p4576
 (lp4577
-I1
-aF-0.01486199575371556
-asS'mario draghi'
+I4
+aF-0.0075938299399980749
+asS'mobile market.'
 p4578
 (lp4579
-I43
-aF0.25877235100216228
-asS'escalation ukraine'
+I1
+aF0.086510263929618747
+asS'late thursday'
 p4580
 (lp4581
-I1
-aF-0.025641025641025664
-asS'private contact'
+I2
+aF0.044066106993071633
+asS'consensus estimates'
 p4582
 (lp4583
-I1
-aF-0.01486199575371556
-asS'session social'
+I2
+aF0.037754290992674737
+asS'operating performance.'
 p4584
 (lp4585
-I1
-aF-0.015337423312883396
-asS'attacks company'
+I2
+aF0.0050351650906114501
+asS'gm europe.'
 p4586
 (lp4587
 I1
-aF-0.0078271226816403073
-asS'dry big'
+aF0.0065939063210550593
+asS'drop sales'
 p4588
 (lp4589
-I32
-aF0.18420419258880216
-asS'issuing updates'
+I1
+aF-0.015098314606741563
+asS'12 min'
 p4590
 (lp4591
-I1
-aF0.0028884159318941583
-asS'it. companies'
+I9
+aF0.063055396376559991
+asS'executive chris'
 p4592
 (lp4593
 I1
-aF-0.0089897260273972355
-asS'sources.bates also'
+aF-0.013834507961367818
+asS'donziger fraud'
 p4594
 (lp4595
 I1
-aF-0.013834507961367818
-asS'bks sti'
+aF-0.015098314606741563
+asS'gold nba\xe2\x80\x99s'
 p4596
 (lp4597
-I2
-aF-0.014586566700890537
-asS'leopard users'
+I9
+aF0.063055396376559991
+asS'investment officer'
 p4598
 (lp4599
 I1
-aF0.0028884159318941583
-asS'- saumya'
+aF-0.015098314606741563
+asS'right way'
 p4600
 (lp4601
-I12
-aF0.069076572220800783
-asS'intuit intu'
+I1
+aF0.034482758620689689
+asS'cuts shares'
 p4602
 (lp4603
-I2
-aF-0.00069443755499005305
-asS'confidential financial'
+I30
+aF0.78528042609589921
+asS'feed additive'
 p4604
 (lp4605
-I2
-aF0.0074097938144331178
-asS'1 muted'
+I1
+aF-0.015098314606741563
+asS'nasdaq. tech'
 p4606
 (lp4607
 I1
-aF0.0095057034220531987
-asS'russian markets'
+aF0.0065939063210550593
+asS'late 8'
 p4608
 (lp4609
-I9
-aF0.063055396376559991
-asS'shares fall'
+I30
+aF0.78528042609589921
+asS'drop month'
 p4610
 (lp4611
-I9
-aF0.063055396376559991
-asS'/quotes/zigman/109220/delayed/quotes/nls/dish dish'
+I1
+aF0.0065939063210550593
+asS'reuters -'
 p4612
 (lp4613
-I2
-aF0.0013596193065941245
-asS'- myra'
+I9
+aF0.034868558704626518
+asS'effective jan'
 p4614
 (lp4615
-I36
-aF0.20722971666240242
-asS'7 02'
+I1
+aF0.022254127781766008
+asS'vehicle sales'
 p4616
 (lp4617
-I9
-aF0.063055396376559991
-asS'also founded'
+I2
+aF0.02960526315789469
+asS'percent year'
 p4618
 (lp4619
-I1
-aF-0.0096207215541164858
-asS'/quotes/zigman/23609459/delayed/quotes/nls/mar mar'
+I3
+aF-0.07929003688525961
+asS'pitting company'
 p4620
 (lp4621
 I1
-aF-0.017333579199704921
-asS'year. reuters'
+aF-0.015098314606741563
+asS'time apple'
 p4622
 (lp4623
 I1
-aF0.0028884159318941583
-asS'two three'
+aF0.0065939063210550593
+asS'talks possible'
 p4624
 (lp4625
-I1
-aF-0.01486199575371556
-asS'protect russian'
+I4
+aF-0.00061460034380793511
+asS'according documents'
 p4626
 (lp4627
 I1
-aF-0.025641025641025664
-asS'retirementors behavioral'
+aF-0.015098314606741563
+asS'\xc2 shares'
 p4628
 (lp4629
-I43
-aF0.25877235100216228
-asS'x 10.6'
+I2
+aF0.0052826627277634021
+asS'" blatant'
 p4630
 (lp4631
 I2
-aF0.0057768318637883165
-asS'andreessen scott'
+aF0.0050351650906114501
+asS'three new'
 p4632
 (lp4633
-I1
-aF-0.0078271226816403073
-asS'begin tapering'
+I2
+aF0.0094823222529492185
+asS'> --'
 p4634
 (lp4635
-I1
-aF-0.01486199575371556
-asS'deck maker'
+I2
+aF0.10801026392961874
+asS'cents $1.09'
 p4636
 (lp4637
 I1
-aF-0.019905850706119568
-asS'plus $3'
+aF0.028248587570621538
+asS'reversed two'
 p4638
 (lp4639
 I1
-aF-0.015337423312883396
-asS'forcing russia'
+aF-0.0071729957805906396
+asS'penney co.'
 p4640
 (lp4641
-I1
-aF-0.025641025641025664
-asS'weather prompting'
+I2
+aF-0.00013053922301388583
+asS'collectors. tech'
 p4642
 (lp4643
 I1
-aF0.022254127781766008
-asS'inc. $16'
+aF0.01016055675194774
+asS'; editing'
 p4644
 (lp4645
 I1
-aF-0.015337423312883396
-asS"january 's"
+aF0.014802631578947345
+asS'bell solar-panel'
 p4646
 (lp4647
-I1
-aF-0.0071729957805906396
-asS'many customers'
+I2
+aF0.01182253889076694
+asS'tower corp'
 p4648
 (lp4649
 I1
-aF0.022254127781766008
-asS'carlyle group'
+aF0.00082576383154416076
+asS'rises \xc2\xa5102'
 p4650
 (lp4651
-I1
-aF-0.021229666390956799
-asS'bad state'
+I46
+aF0.89078292723278008
+asS'inds aeis'
 p4652
 (lp4653
-I4
-aF-0.047177815558848674
-asS'report at&t'
+I3
+aF0.076043454879415551
+asS'jinko beats'
 p4654
 (lp4655
-I1
-aF0.00082576383154416076
-asS'declined comment'
+I57
+aF0.33936168525976329
+asS'law would'
 p4656
 (lp4657
-I1
-aF-0.013834507961367818
-asS'53.2 february'
+I4
+aF-0.047177815558848674
+asS'2.34% \xc2'
 p4658
 (lp4659
 I1
-aF-0.0071729957805906396
-asS'mutual funds'
+aF-0.047141424272818457
+asS'96 cents'
 p4660
 (lp4661
 I2
-aF0.0076523476523476276
-asS'idea united'
+aF-0.062919807236027137
+asS'motley fool'
 p4662
 (lp4663
-I2
-aF0.0073921320280504483
-asS'called brewer'
+I1
+aF0.022254127781766008
+asS'formula.gonzalez said'
 p4664
 (lp4665
 I1
-aF0.0028884159318941583
-asS'grpn -'
+aF-0.01486199575371556
+asS'competitive advantage'
 p4666
 (lp4667
-I2
-aF0.033694344163657949
-asS'new iterations'
+I1
+aF0.022254127781766008
+asS'greater emphasis'
 p4668
 (lp4669
 I1
-aF0.0028884159318941583
-asS'getting back'
+aF-0.015098314606741563
+asS'stocks may'
 p4670
 (lp4671
-I1
-aF0.0028884159318941583
-asS'study released'
-p4672
-(lp4673
-I2
-aF0.0076523476523476276
-asS'earlier week'
-p4674
-(lp4675
-I1
-aF-0.0078271226816403073
-asS'apple last'
-p4676
-(lp4677
-I1
-aF0.0028884159318941583
-asS'barnes noble'
-p4678
-(lp4679
-I1
-aF0.0027342063606276006
-asS'averages bankrate.com'
-p4680
-(lp4681
-I44
-aF0.29827263365344059
-asS'also accused'
-p4682
-(lp4683
-I1
-aF-0.0078271226816403073
-asS'wheat play'
-p4684
-(lp4685
 I43
 aF0.25877235100216228
-asS'1.19% j.p.'
+asS'stashes many'
+p4672
+(lp4673
+I1
+aF0.034482758620689689
+asS"'s push"
+p4674
+(lp4675
+I2
+aF0.0050351650906114501
+asS'twc fortune'
+p4676
+(lp4677
+I4
+aF-0.0075938299399980749
+asS'galaxy smartphone'
+p4678
+(lp4679
+I30
+aF0.78528042609589921
+asS'outdoor deck'
+p4680
+(lp4681
+I2
+aF-0.00055632415198211133
+asS'among shares'
+p4682
+(lp4683
+I2
+aF-0.00013053922301388583
+asS'heavy gold'
+p4684
+(lp4685
+I1
+aF0.034482758620689689
+asS'electronics market'
 p4686
 (lp4687
-I3
-aF0.029027283270916533
-asS'reeves cash-rich'
+I30
+aF0.78528042609589921
+asS'jobs boeing.so'
 p4688
 (lp4689
-I12
-aF0.069076572220800783
-asS'volume hitting'
+I1
+aF-0.0044444444444443499
+asS'argue 16'
 p4690
 (lp4691
 I1
-aF0.022254127781766008
-asS'rules despite'
+aF-0.015098314606741563
+asS'... 2014\xe2\x80\x99s'
 p4692
 (lp4693
-I2
-aF-0.023970052699711648
-asS'rates every'
+I10
+aF0.065939063210550597
+asS'energy department'
 p4694
 (lp4695
 I1
-aF0.022254127781766008
-asS'london markets'
+aF-0.01749999999999996
+asS'release results'
 p4696
 (lp4697
-I2
-aF0.011512762036800132
-asS'monday\xe2\x80\x99s session'
+I8
+aF-0.020074526510182204
+asS'bailout saved'
 p4698
 (lp4699
-I2
-aF-0.045650441836882411
-asS'already rejected'
+I4
+aF0.039241525733948263
+asS'otherwise known'
 p4700
 (lp4701
 I1
-aF-0.0078271226816403073
-asS'czr fortune'
+aF-0.01486199575371556
+asS'coffee aims'
 p4702
 (lp4703
 I2
-aF0.019043392929388579
-asS'get free'
+aF0.03185842475789831
+asS'expectations saying'
 p4704
 (lp4705
-I3
-aF0.0021474564628237813
-asS"'s central"
+I1
+aF0.0095057034220531987
+asS'annual export'
 p4706
 (lp4707
 I1
-aF-0.025641025641025664
-asS'among urging'
+aF0.017811704834605556
+asS'+0.22% seen'
 p4708
 (lp4709
-I4
-aF-0.047177815558848674
-asS'big oil'
+I1
+aF-0.0016447368421051956
+asS'4 shares'
 p4710
 (lp4711
-I32
-aF0.18420419258880216
-asS'fannie freddie'
+I2
+aF0.037754290992674737
+asS"paypal 's"
 p4712
 (lp4713
 I2
-aF0.0073921320280504483
-asS'4 45'
+aF0.0050351650906114501
+asS'amzn fortune'
 p4714
 (lp4715
-I9
-aF0.063055396376559991
-asS'factset releases'
+I32
+aF0.079660568265111892
+asS'hit nrf'
 p4716
 (lp4717
-I2
-aF-0.022566372361966354
-asS'companies. omidyar'
+I30
+aF0.78528042609589921
+asS'$1.07 share'
 p4718
 (lp4719
-I1
-aF-0.0078271226816403073
-asS'- 0.90%'
+I2
+aF-0.0047921869940820618
+asS'helm microsoft'
 p4720
 (lp4721
-I1
-aF-0.011144883485308961
-asS'intel nearly'
+I2
+aF0.023269395998132755
+asS'ben bernanke'
 p4722
 (lp4723
 I1
-aF-0.010500807754442712
-asS'restricted stock'
+aF0.034482758620689689
+asS'1,845.73 1,870.76'
 p4724
 (lp4725
-I1
-aF-0.015337423312883396
-asS"'s ftse"
+I2
+aF0.013187812642110119
+asS'brokers worth'
 p4726
 (lp4727
-I3
-aF-0.017581246670218344
-asS'businesses "'
+I2
+aF0.060087816422073489
+asS'howard archer'
 p4728
 (lp4729
-I2
-aF0.0073921320280504483
-asS'miles might'
+I1
+aF-0.025641025641025664
+asS'weakness came'
 p4730
 (lp4731
 I1
-aF0.022254127781766008
-asS'10 19'
+aF-0.0071729957805906396
+asS'0.6 percent'
 p4732
 (lp4733
-I9
-aF0.063055396376559991
-asS'final week'
+I1
+aF0.0065939063210550593
+asS'2014 "'
 p4734
 (lp4735
 I1
-aF-0.042688910696761409
-asS'president obama'
+aF-0.025641025641025664
+asS'ukraine fears'
 p4736
 (lp4737
-I1
-aF0.01163378856853821
-asS'strength u.s.'
+I45
+aF0.88418902091172502
+asS'earnings,\xe2\x80\x9d analyst'
 p4738
 (lp4739
-I9
-aF0.063055396376559991
-asS'10 12'
+I1
+aF0.0075437537718768856
+asS'500 apple'
 p4740
 (lp4741
-I9
-aF0.063055396376559991
-asS'" inside'
+I28
+aF0.069581030496478291
+asS'2014 -'
 p4742
 (lp4743
-I1
-aF-0.01486199575371556
-asS'sprint corp'
+I1644
+aF34.284623122570309
+asS'added "'
 p4744
 (lp4745
-I1
-aF0.00082576383154416076
-asS'$1,182 $1,623'
+I4
+aF0.040491736285889715
+asS'combined company'
 p4746
 (lp4747
-I12
-aF0.069076572220800783
-asS'shareholders bailout'
+I4
+aF-0.0075938299399980749
+asS'2014 6'
 p4748
 (lp4749
-I2
-aF-0.02972399150743112
-asS'discovered security'
+I9
+aF0.063055396376559991
+asS'column 6'
 p4750
 (lp4751
-I1
-aF0.0028884159318941583
-asS'internationally.ups said'
+I30
+aF0.78528042609589921
+asS'inc. pnc'
 p4752
 (lp4753
-I1
-aF0.022254127781766008
-asS'given ok'
+I2
+aF-0.0082949308755760238
+asS'500 amazon'
 p4754
 (lp4755
-I2
-aF0.011512762036800132
-asS'report verizon'
+I16
+aF0.046391384821821771
+asS'u.s. market.while'
 p4756
 (lp4757
 I1
-aF0.00082576383154416076
-asS'means ikea'
+aF-0.042688910696761409
+asS'tuesday closed'
 p4758
 (lp4759
 I1
-aF-0.024283439490445837
-asS'including wall'
+aF0.034482758620689689
+asS'many years'
 p4760
 (lp4761
 I1
-aF0.025356283546178002
-asS'consistently outperformed'
+aF0.034482758620689689
+asS'cac 40'
 p4762
 (lp4763
-I2
-aF0.0076523476523476276
-asS'$4,000 per'
+I4
+aF0.031722075945001274
+asS'plc /quotes/zigman/146635/delayed/quotes/nls/gsk'
 p4764
 (lp4765
-I8
-aF-0.07254061158029762
-asS'/quotes/zigman/97715/delayed/quotes/nls/bidu bidu'
+I1
+aF0.00067980965329706225
+asS'inc. dfrg'
 p4766
 (lp4767
 I1
-aF-0.0069034107529398394
-asS'interests citizens.russia'
+aF0.012706969580285016
+asS'comcast cmcsa'
 p4768
 (lp4769
-I1
-aF-0.025641025641025664
-asS'record run'
+I4
+aF-0.0075938299399980749
+asS'plate production'
 p4770
 (lp4771
-I9
-aF0.063055396376559991
-asS'n.h. prescott'
+I43
+aF0.25877235100216228
+asS'network corp.'
 p4772
 (lp4773
-I1
-aF0.0062801932367149279
-asS'succeed steve'
+I3
+aF0.012908532350072379
+asS'0.98% reported'
 p4774
 (lp4775
 I1
-aF-0.013834507961367818
-asS'paul singer'
+aF0.023487602630611493
+asS'zacks.com u.s.'
 p4776
 (lp4777
-I43
-aF0.25877235100216228
-asS'singer betting'
+I30
+aF0.78528042609589921
+asS'fourth-quarter profit'
 p4778
 (lp4779
-I43
-aF0.25877235100216228
-asS'ukraine jitters'
+I2
+aF-0.0047921869940820618
+asS'hire advisers'
 p4780
 (lp4781
-I9
-aF0.063055396376559991
-asS'time investors'
+I2
+aF0.0073921320280504483
+asS'moscow west'
 p4782
 (lp4783
-I2
-aF-0.02972399150743112
-asS'300,000 14%'
+I1
+aF0.017951856385148825
+asS'- barbara'
 p4784
 (lp4785
-I1
-aF-0.01486199575371556
-asS'2% london'
+I26
+aF0.1513409570837117
+asS'year. 2'
 p4786
 (lp4787
 I1
-aF-0.0058604155567394478
-asS'earnings three'
+aF-0.01486199575371556
+asS'local sourcing'
 p4788
 (lp4789
-I4
-aF-0.037111166550747227
-asS'documentation provided'
+I2
+aF-0.030196629213483126
+asS'percent ruble'
 p4790
 (lp4791
 I1
-aF-0.01486199575371556
-asS'would bad'
+aF-0.025641025641025664
+asS'ceo february'
 p4792
 (lp4793
-I4
-aF-0.047177815558848674
-asS'inc. carlyle'
+I1
+aF-0.013834507961367818
+asS'states villagers'
 p4794
 (lp4795
 I1
-aF-0.021229666390956799
-asS'sina sina'
+aF-0.015098314606741563
+asS'64 cents'
 p4796
 (lp4797
-I7
-aF-0.061600416238838308
-asS'friday company'
+I2
+aF0.01182253889076694
+asS'$1.02 share'
 p4798
 (lp4799
-I1
-aF-0.013834507961367818
-asS'expected attract'
+I2
+aF-0.0047921869940820618
+asS'outerwall jinko'
 p4800
 (lp4801
-I3
-aF0.029027283270916533
-asS'suspicion going'
+I43
+aF0.25877235100216228
+asS'$2.36 struggling'
 p4802
 (lp4803
 I1
-aF-0.025641025641025664
-asS'2013 -'
+aF-0.015098314606741563
+asS'mac operating'
 p4804
 (lp4805
-I36
-aF0.25222158550624002
-asS'end credit-card'
+I2
+aF0.0094823222529492185
+asS'conflict cools'
 p4806
 (lp4807
-I20
-aF0.11512762036800134
-asS'take-two interactive'
+I3
+aF0.019781718963165176
+asS'found evidence'
 p4808
 (lp4809
-I2
-aF0.023622213537533625
-asS'10 min'
+I1
+aF-0.015098314606741563
+asS'amotz asa-el'
 p4810
 (lp4811
 I12
 aF0.069076572220800783
-asS'" van'
+asS'near fcc'
 p4812
 (lp4813
-I1
-aF-0.0044444444444443499
-asS'changes shipping'
+I2
+aF-0.0005004065187305274
+asS'including american'
 p4814
 (lp4815
-I1
-aF0.022254127781766008
-asS'tuesday said'
+I4
+aF-0.047177815558848674
+asS"'s still"
 p4816
 (lp4817
 I1
-aF-0.026623073330219536
-asS'campaign get'
+aF0.0065939063210550593
+asS'2007.gorder valero'
 p4818
 (lp4819
 I1
-aF0.0028884159318941583
-asS'competitive advantage'
+aF0.0095057034220531987
+asS'+1.72% day'
 p4820
 (lp4821
 I1
-aF0.022254127781766008
-asS'13-f filings'
+aF0.0065939063210550593
+asS'report pnc'
 p4822
 (lp4823
-I1
-aF0.00067980965329706225
-asS'determining markets'
+I2
+aF-0.014586566700890537
+asS"'t fragile"
 p4824
 (lp4825
-I1
-aF-0.013834507961367818
-asS'80 cents'
+I4
+aF0.039241525733948263
+asS'mounting competition'
 p4826
 (lp4827
 I1
-aF-0.011144883485308961
-asS'reserve launched'
+aF0.0075437537718768856
+asS'undisclosed amount.'
 p4828
 (lp4829
 I1
-aF-0.01486199575371556
-asS'indicate expansion'
+aF-0.015098314606741563
+asS'fed -'
 p4830
 (lp4831
 I1
-aF-0.0071729957805906396
-asS'last three'
+aF-0.015098314606741563
+asS'february fitness'
 p4832
 (lp4833
-I1
-aF0.0028884159318941583
-asS'fannie 2.98'
+I30
+aF0.78528042609589921
+asS'events weekend'
 p4834
 (lp4835
-I2
-aF0.0073921320280504483
-asS'500 slid'
+I1
+aF-0.025641025641025664
+asS'street scare'
 p4836
 (lp4837
 I1
-aF0.022254127781766008
-asS'states suspicion'
+aF0.0065939063210550593
+asS'cash hoard'
 p4838
 (lp4839
 I1
-aF0.022254127781766008
-asS"'t upgrade"
+aF0.0028884159318941583
+asS'remains november'
 p4840
 (lp4841
 I1
-aF0.0028884159318941583
-asS'data 10'
+aF-0.0071729957805906396
+asS'318,999 euros'
 p4842
 (lp4843
-I12
-aF0.069076572220800783
-asS'ltd. /quotes/zigman/118648/delayed/quotes/nls/grmn'
+I2
+aF0.033133788568538193
+asS'nook unit'
 p4844
 (lp4845
-I1
-aF-0.0011181513231456424
-asS'related hedge'
+I2
+aF0.032728465832498853
+asS'massive store'
 p4846
 (lp4847
-I2
-aF-0.00069443755499005305
-asS'online auction'
+I30
+aF0.78528042609589921
+asS'google fiber'
 p4848
 (lp4849
-I1
-aF-0.0078271226816403073
-asS'steps effort'
+I2
+aF-0.0005004065187305274
+asS'officer get'
 p4850
 (lp4851
-I9
-aF0.063055396376559991
-asS'upgrading mavericks.'
+I1
+aF-0.013834507961367818
+asS'announced first'
 p4852
 (lp4853
 I1
-aF0.0028884159318941583
-asS'\xe2\x80\x9cwe buyers'
+aF-0.015098314606741563
+asS'without core'
 p4854
 (lp4855
-I1
-aF0.0095057034220531987
-asS'inc. solarcity'
+I2
+aF0.0073921320280504483
+asS'tesla marcia'
 p4856
 (lp4857
 I2
-aF-0.045650441836882411
-asS'suit soon.'
+aF-0.0005004065187305274
+asS'higher ;'
 p4858
 (lp4859
-I1
-aF0.022254127781766008
-asS'acquire messaging'
+I30
+aF0.78528042609589921
+asS'january jetblue'
 p4860
 (lp4861
 I1
-aF-0.015337423312883396
-asS'consumer protection'
+aF0
+asS'u.s. won'
 p4862
 (lp4863
-I1
-aF-0.01486199575371556
-asS'weaken yuan'
-p4864
-(lp4865
 I9
 aF0.063055396376559991
-asS'25 min'
+asS'minister anand'
+p4864
+(lp4865
+I1
+aF-0.015098314606741563
+asS'going final'
 p4866
 (lp4867
-I24
-aF0.13815314444160159
-asS'since satya'
+I10
+aF0.065939063210550597
+asS'$1.96 share'
 p4868
 (lp4869
-I1
-aF-0.013834507961367818
-asS'aapl fortune'
+I2
+aF0.0072236281422678079
+asS'expectations chrysler'
 p4870
 (lp4871
-I18
-aF-0.11488895505155441
-asS'52.0 reuters'
+I1
+aF0.0063291139240506224
+asS'bankruptcy. federal'
 p4872
 (lp4873
 I1
-aF-0.0071729957805906396
-asS'thursday fourth-quarter'
+aF0.034482758620689689
+asS'ukraine pare'
 p4874
 (lp4875
-I1
-aF-0.0070054945054943809
-asS'devices --'
+I14
+aF0.080589334257600925
+asS'known quantitative'
 p4876
 (lp4877
 I1
-aF0.0028884159318941583
-asS'allowed outsiders'
+aF-0.01486199575371556
+asS'canada puerto'
 p4878
 (lp4879
 I1
-aF0.0028884159318941583
-asS'new set'
+aF0.022254127781766008
+asS'snuck servers'
 p4880
 (lp4881
 I1
-aF-0.010660963270678267
-asS'recently announced'
+aF-0.01486199575371556
+asS'loss narrowed'
 p4882
 (lp4883
-I3
-aF-0.021081636767817491
-asS'gevorgyan. global'
+I2
+aF0.040569339539934614
+asS'year falling'
 p4884
 (lp4885
 I2
-aF-0.051282051282051329
-asS'investments fbi'
+aF0.019620762866974131
+asS'; earnings'
 p4886
 (lp4887
-I43
-aF0.25877235100216228
-asS'oceanografia two-thirds'
+I2
+aF0.011512762036800132
+asS'new orders'
 p4888
 (lp4889
 I1
-aF-0.01486199575371556
-asS'since cold'
+aF-0.0071729957805906396
+asS'report whole'
 p4890
 (lp4891
 I1
-aF-0.024283439490445837
-asS'declining 2.3%'
+aF-0.0096207215541164858
+asS'delivery company'
 p4892
 (lp4893
-I2
-aF-0.011720831113478896
-asS'session tesla'
+I1
+aF0.022254127781766008
+asS'crimes deviations'
 p4894
 (lp4895
 I1
-aF0.023487602630611493
-asS'states. rate'
+aF-0.01486199575371556
+asS'month. related'
 p4896
 (lp4897
 I1
-aF0.022254127781766008
-asS'linkedin lnkd'
+aF-0.013834507961367818
+asS'0.80% \xc2'
 p4898
 (lp4899
-I8
-aF-0.07254061158029762
-asS'july.while fedex'
+I1
+aF-0.0011181513231456424
+asS'due political'
 p4900
 (lp4901
 I1
-aF0.022254127781766008
-asS'quarter. dish'
+aF-0.024283439490445837
+asS'show 10'
 p4902
 (lp4903
-I1
-aF0.00067980965329706225
-asS'accused andreessen'
+I30
+aF0.78528042609589921
+asS'fourth-quarter loss'
 p4904
 (lp4905
-I2
-aF-0.015654245363280615
-asS'corp. /quotes/zigman/21306639/delayed/quotes/nls/pbpb'
+I6
+aF0.067609302185512199
+asS'19% radioshack'
 p4906
 (lp4907
-I2
-aF-0.053246146660439073
-asS'ordan also'
+I44
+aF0.87759511459066997
+asS'$171 billion'
 p4908
 (lp4909
 I1
-aF-0.0096207215541164858
-asS'500 sears'
+aF0.0065939063210550593
+asS'corp bbt'
 p4910
 (lp4911
 I2
-aF0.019043392929388579
-asS'suggests different'
+aF-0.014586566700890537
+asS'josb companies'
 p4912
 (lp4913
-I1
-aF0.022254127781766008
-asS'game 10'
+I4
+aF-0.00061460034380793511
+asS'take best'
 p4914
 (lp4915
-I9
-aF0.063055396376559991
-asS'$47.3 million'
+I1
+aF0.021499999999999984
+asS'profit $18.48'
 p4916
 (lp4917
-I1
-aF-0.020009416195856743
-asS'refiner valero'
+I2
+aF-0.01702614434749404
+asS'32 a.m.'
 p4918
 (lp4919
-I1
-aF-0.01749999999999996
-asS'stake apple'
+I64
+aF1.5969364774760186
+asS'23 percent'
 p4920
 (lp4921
 I1
-aF0.0028884159318941583
-asS'median forecast'
+aF0.025356283546178002
+asS"asset 's"
 p4922
 (lp4923
 I1
-aF-0.0071729957805906396
-asS'four years.'
+aF-0.015098314606741563
+asS'california concept'
 p4924
 (lp4925
-I1
-aF-0.015337423312883396
-asS'07 a.m.'
+I30
+aF0.78528042609589921
+asS'trade commission'
 p4926
 (lp4927
-I9
-aF0.063055396376559991
-asS'corrected dollar'
+I3
+aF0.0045224482602325682
+asS'appointed ceo'
 p4928
 (lp4929
-I43
-aF0.25877235100216228
-asS'general electric'
+I1
+aF-0.013834507961367818
+asS'wal-mart stores'
 p4930
 (lp4931
-I1
-aF0.00067980965329706225
-asS'reserved. 1'
+I3
+aF0.03157961351253738
+asS'inked 10-year'
 p4932
 (lp4933
 I1
-aF0.0095057034220531987
-asS'stocks shares'
+aF0.054777388694347298
+asS'issue analysts'
 p4934
 (lp4935
 I1
-aF0.022254127781766008
-asS'inflation measures'
+aF-0.015098314606741563
+asS'fifer said'
 p4936
 (lp4937
 I2
-aF-0.036601126188498201
-asS'related vodafone'
+aF0.03556487878640302
+asS'street due'
 p4938
 (lp4939
 I1
-aF-0.016598508539812311
-asS'animation skg'
+aF-0.024283439490445837
+asS"insight 's"
 p4940
 (lp4941
-I2
-aF-0.094282848545636913
-asS'symantec symc'
+I3
+aF-0.036479419703103984
+asS'ben eisen'
 p4942
 (lp4943
-I7
-aF-0.061600416238838308
-asS'said thursday'
+I12
+aF0.069076572220800783
+asS'fedex earlier'
 p4944
 (lp4945
 I1
-aF-0.0070054945054943809
-asS'steve ballmer'
+aF0.022254127781766008
+asS'worked cisco'
 p4946
 (lp4947
 I1
 aF-0.013834507961367818
-asS'streaming speeds'
+asS'target tesla'
 p4948
 (lp4949
-I3
-aF-0.024059813263408034
-asS'reserved. "'
+I2
+aF0.040569339539934614
+asS'coverage radioshack'
 p4950
 (lp4951
-I1
-aF0.0028884159318941583
-asS'mesa ariz.'
+I30
+aF0.78528042609589921
+asS'several strategic'
 p4952
 (lp4953
-I1
-aF0.0028884159318941583
-asS'investors already'
+I2
+aF0.03185842475789831
+asS"'t come"
 p4954
 (lp4955
-I2
-aF-0.02972399150743112
-asS'delayed 10'
+I1
+aF0.0065939063210550593
+asS'continental ual'
 p4956
 (lp4957
-I12
-aF0.069076572220800783
-asS'well missile'
+I1
+aF-0.015098314606741563
+asS'core businesses'
 p4958
 (lp4959
-I1
-aF-0.01749999999999996
-asS'rate change'
+I2
+aF0.0073921320280504483
+asS'airlines group'
 p4960
 (lp4961
 I1
 aF0.022254127781766008
-asS'technology inc.'
+asS'29 cents'
 p4962
 (lp4963
-I2
-aF0.023622213537533625
-asS'grip crimea'
+I3
+aF-0.014808785446837697
+asS'jan. 21'
 p4964
 (lp4965
-I1
-aF-0.025641025641025664
-asS'committed abiding'
+I30
+aF0.78528042609589921
+asS'sales 15.4'
 p4966
 (lp4967
-I2
-aF-0.023970052699711648
-asS'500 announced'
+I1
+aF0.0063291139240506224
+asS'jan. 27'
 p4968
 (lp4969
-I1
-aF-0.013834507961367818
-asS'isolate russia'
+I60
+aF1.5705608521917984
+asS'jan. 28'
 p4970
 (lp4971
-I1
-aF-0.024283439490445837
-asS'policy twice'
+I30
+aF0.78528042609589921
+asS'later acquired'
 p4972
 (lp4973
 I1
-aF-0.01486199575371556
-asS'catches bitcoin'
+aF-0.015098314606741563
+asS'help transition.the'
 p4974
 (lp4975
-I9
-aF0.063055396376559991
-asS'global equities'
+I1
+aF-0.013834507961367818
+asS'legendary activist'
 p4976
 (lp4977
-I1
-aF-0.025641025641025664
-asS'. health'
+I2
+aF0.0050351650906114501
+asS'smart device'
 p4978
 (lp4979
 I1
-aF-0.0096207215541164858
-asS'meanwhile intel'
+aF0.0065939063210550593
+asS'rose 0.3'
 p4980
 (lp4981
-I1
-aF-0.010500807754442712
-asS"'s 7267.t"
+I2
+aF-0.036601126188498201
+asS'function {'
 p4982
 (lp4983
-I1
-aF0.0095057034220531987
-asS'group flipped'
+I5
+aF0.1588106388459081
+asS'corp. bbt'
 p4984
 (lp4985
-I1
-aF-0.013834507961367818
-asS'ebay shareholders'
+I2
+aF-0.0082949308755760238
+asS'gold remained'
 p4986
 (lp4987
 I1
-aF-0.0078271226816403073
-asS'microsoft making'
+aF0.034482758620689689
+asS'report starbucks'
 p4988
 (lp4989
-I1
-aF-0.013834507961367818
-asS'icahn released'
+I3
+aF0.019851875731156512
+asS'share loss'
 p4990
 (lp4991
-I1
-aF-0.0078271226816403073
-asS'underestimated risks'
+I2
+aF0.040569339539934614
+asS'corpbanca sa'
 p4992
 (lp4993
 I1
-aF-0.025641025641025664
-asS'executive stepped'
+aF-0.015098314606741563
+asS'current favorites'
 p4994
 (lp4995
 I1
-aF0.0028884159318941583
-asS'- 1.01%'
+aF0.086510263929618747
+asS'popularize single-cup'
 p4996
 (lp4997
-I1
-aF0.023487602630611493
-asS'seen likely'
+I2
+aF0.03185842475789831
+asS'away u.s.'
 p4998
 (lp4999
 I1
-aF-0.00091290852656571587
-asS'peers,\xe2\x80\x9d said'
+aF-0.015098314606741563
+asS'realmoney.com radioshack'
 p5000
 (lp5001
-I1
-aF0.0095057034220531987
-asS'target tgt'
+I30
+aF0.78528042609589921
+asS"couldn 't"
 p5002
 (lp5003
-I2
-aF0.019043392929388579
-asS'expected report'
+I1
+aF-0.0044444444444443499
+asS'insured guaranteed'
 p5004
 (lp5005
 I1
-aF0.00067980965329706225
-asS'quarter 2013'
+aF-0.01486199575371556
+asS'compliant rules'
 p5006
 (lp5007
 I1
-aF-0.01486199575371556
-asS'southern district'
+aF-0.015098314606741563
+asS'0.20% seen'
 p5008
 (lp5009
 I1
-aF-0.01486199575371556
-asS'says profit'
+aF-0.00091290852656571587
+asS"nrf 's"
 p5010
 (lp5011
-I1
-aF-0.0078271226816403073
-asS'mexican state-owned'
+I30
+aF0.78528042609589921
+asS'500 shares'
 p5012
 (lp5013
 I1
-aF-0.01486199575371556
-asS'directors. also'
+aF0.0065939063210550593
+asS'dec. 3'
 p5014
 (lp5015
-I1
-aF-0.0078271226816403073
-asS'report said'
-p5016
-(lp5017
-I1
-aF-0.013834507961367818
-asS'regional banks'
-p5018
-(lp5019
-I2
-aF-0.0082949308755760238
-asS'abandoned prominent'
-p5020
-(lp5021
-I2
-aF0.019043392929388579
-asS'fear greed'
-p5022
-(lp5023
-I1
-aF0.023487602630611493
-asS'chief operating'
-p5024
-(lp5025
-I1
-aF-0.01749999999999996
-asS'stocks could'
-p5026
-(lp5027
-I2
-aF0.031759831203819207
-asS'think euro'
-p5028
-(lp5029
 I9
 aF0.063055396376559991
-asS'potbelly corp.'
+asS'dec. 4'
+p5016
+(lp5017
+I9
+aF0.063055396376559991
+asS'european heavyweights'
+p5018
+(lp5019
+I14
+aF0.018081633883883088
+asS'states russia'
+p5020
+(lp5021
+I1
+aF0.022254127781766008
+asS'active trade'
+p5022
+(lp5023
+I10
+aF-0.060775370143652127
+asS'get gun'
+p5024
+(lp5025
+I2
+aF0.019620762866974131
+asS'- global'
+p5026
+(lp5027
+I1
+aF0.014802631578947345
+asS'arco budget'
+p5028
+(lp5029
+I2
+aF0.033133788568538193
+asS'0.4% january'
 p5030
 (lp5031
-I2
-aF-0.053246146660439073
-asS'corn rally'
+I55
+aF0.32784892322296316
+asS'complaints made'
 p5032
 (lp5033
-I12
-aF0.069076572220800783
-asS'cmcsa fortune'
+I2
+aF0.019620762866974131
+asS'tuesday. take'
 p5034
 (lp5035
 I2
-aF-0.023970052699711648
-asS'/quotes/zigman/102025/delayed/quotes/nls/fslr fslr'
+aF0.033133788568538193
+asS'city near'
 p5036
 (lp5037
 I2
-aF-0.038899596986157331
-asS'problems government'
+aF-0.0005004065187305274
+asS'/quotes/zigman/1466682/delayed/quotes/nls/gm gm'
 p5038
 (lp5039
-I2
-aF0.0073921320280504483
-asS'abiding 2010'
+I3
+aF0.029027283270916533
+asS'march 4'
 p5040
 (lp5041
-I2
-aF-0.023970052699711648
-asS'cutting week'
+I535
+aF13.5146149016566
+asS'march 2'
 p5042
 (lp5043
-I1
-aF0.023487602630611493
-asS'stake barnes'
+I49
+aF0.91798512517007425
+asS'march 3'
 p5044
 (lp5045
-I1
-aF0.0027342063606276006
-asS'russia west'
+I294
+aF1.8286665382700009
+asS'3 04'
 p5046
 (lp5047
-I2
-aF-0.048566878980891674
-asS'percent primary'
+I30
+aF0.78528042609589921
+asS'patent protection'
 p5048
 (lp5049
 I1
-aF0.0095057034220531987
-asS'rising 23'
+aF-0.015098314606741563
+asS'growing slowly'
 p5050
 (lp5051
-I1
-aF0.025356283546178002
-asS'-- dreaded'
+I2
+aF0.011512762036800132
+asS'4.5 percent'
 p5052
 (lp5053
 I1
-aF-0.01486199575371556
-asS'year ago'
+aF0.022254127781766008
+asS'also fell'
 p5054
 (lp5055
-I2
-aF-0.036601126188498201
-asS'currency recovers'
+I1
+aF0.025356283546178002
+asS'leaders specialized'
 p5056
 (lp5057
-I9
-aF0.063055396376559991
-asS'stock exchange'
+I14
+aF0.018081633883883088
+asS'tgt fortune'
 p5058
 (lp5059
-I1
-aF0.0095057034220531987
-asS'weekend right'
+I4
+aF0.044781306879880148
+asS"'s lilit"
 p5060
 (lp5061
-I1
-aF-0.025641025641025664
-asS'added shares'
+I3
+aF-0.036479419703103984
+asS'" cook'
 p5062
 (lp5063
 I1
-aF0.00067980965329706225
-asS'p.m. feb.'
+aF0.0065939063210550593
+asS'increase comes'
 p5064
 (lp5065
-I27
-aF0.18916618912968003
-asS'elm sheet'
+I1
+aF0.022254127781766008
+asS'office district'
 p5066
 (lp5067
 I1
-aF-0.024283439490445837
-asS'immediately technology'
+aF-0.01486199575371556
+asS'change.penn executive'
 p5068
 (lp5069
 I1
 aF-0.013834507961367818
-asS'casey u.s.'
+asS'stock futures'
 p5070
 (lp5071
-I9
-aF0.063055396376559991
-asS'earnings fell'
+I46
+aF0.87905757299561016
+asS'whatsapp inc.'
 p5072
 (lp5073
-I1
-aF-0.019449798493078665
-asS'weakest reading'
+I2
+aF0.0052826627277634021
+asS'alpha october'
 p5074
 (lp5075
-I1
-aF-0.0071729957805906396
-asS'che apd'
+I30
+aF0.78528042609589921
+asS'rejected proposal'
 p5076
 (lp5077
-I3
-aF0.0021474564628237813
-asS'kollmeyer ukraine'
+I2
+aF0.0050351650906114501
+asS'expected post'
 p5078
 (lp5079
-I12
-aF0.069076572220800783
-asS'potentially access'
+I5
+aF0.029978673505700763
+asS'single-cup brewing'
 p5080
 (lp5081
-I1
-aF-0.0078271226816403073
-asS'investment. like'
+I2
+aF0.03185842475789831
+asS'year would'
 p5082
 (lp5083
 I1
-aF-0.013834507961367818
-asS'soda -'
+aF-0.015098314606741563
+asS'reported citing'
 p5084
 (lp5085
 I1
-aF-0.011144883485308961
-asS'weekend wake-up'
+aF-0.013834507961367818
+asS'fraudulent loans'
 p5086
 (lp5087
 I1
-aF-0.025641025641025664
-asS'share fourth'
+aF-0.01486199575371556
+asS'data. fortune'
 p5088
 (lp5089
-I7
-aF-0.077827341654134186
-asS'acres 1,000'
+I1
+aF-0.01486199575371556
+asS'non-discrimination policy'
 p5090
 (lp5091
 I1
-aF0.023487602630611493
-asS'hours flight'
+aF-0.010500807754442712
+asS'system america'
 p5092
 (lp5093
-I1
-aF-0.01486199575371556
-asS'sales dipped'
+I2
+aF0.03185842475789831
+asS'vetoes sb'
 p5094
 (lp5095
-I1
-aF0.0095057034220531987
-asS'ruble.ukraine said'
+I4
+aF-0.047177815558848674
+asS'chtr -'
 p5096
 (lp5097
 I1
-aF-0.025641025641025664
-asS'3d printing'
+aF-0.0085193657805474349
+asS'best advantage'
 p5098
 (lp5099
-I2
-aF-0.051049018886638195
-asS'\xc2 /quotes/zigman/583979/delayed/quotes/nls/brk.b'
+I1
+aF0.021499999999999984
+asS'" related'
 p5100
 (lp5101
-I1
-aF0.00067980965329706225
-asS'practices pnc'
+I6
+aF0.044438486929496951
+asS'g5 solstice'
 p5102
 (lp5103
-I1
-aF-0.01486199575371556
-asS'became ceo'
+I2
+aF0.033732486151840983
+asS'workers live'
 p5104
 (lp5105
-I1
-aF0.0095057034220531987
-asS'related full'
+I4
+aF-0.047177815558848674
+asS'air prods'
 p5106
 (lp5107
-I8
-aF-0.07254061158029762
-asS'trading. log'
+I3
+aF0.0021474564628237813
+asS'motors worked'
 p5108
 (lp5109
 I1
-aF-0.020009416195856743
-asS'sign investor'
+aF0.0065939063210550593
+asS'yellen manage'
 p5110
 (lp5111
 I1
-aF0.025356283546178002
-asS'household course'
+aF-0.01486199575371556
+asS'free stock'
 p5112
 (lp5113
-I1
-aF-0.024283439490445837
-asS'month started'
+I87
+aF0.8849867202394841
+asS'ceo 2005'
 p5114
 (lp5115
 I1
-aF-0.042688910696761409
-asS'close currencies'
+aF0.0095057034220531987
+asS'according media'
 p5116
 (lp5117
-I2
-aF0.011512762036800132
-asS'people arrested'
+I1
+aF-0.013834507961367818
+asS'one stocks'
 p5118
 (lp5119
 I1
-aF0.022254127781766008
-asS'sale 45%'
+aF0.0095057034220531987
+asS'rates 3.9'
 p5120
 (lp5121
 I1
-aF-0.016598508539812311
-asS'francisco marketwatch'
+aF0.022254127781766008
+asS'wanted diversify.'
 p5122
 (lp5123
-I5
-aF-0.054537389082536671
-asS'earlier touching'
+I1
+aF-0.0044444444444443499
+asS'spokesman also'
 p5124
 (lp5125
 I1
-aF-0.025641025641025664
-asS'1.14% \xc2'
+aF-0.015098314606741563
+asS'million $1.93'
 p5126
 (lp5127
 I2
-aF-0.01571720886094705
-asS'free report'
+aF-0.01702614434749404
+asS'new mexico'
 p5128
 (lp5129
-I3
-aF0.0021474564628237813
-asS'today9 41'
+I2
+aF0.040569339539934614
+asS'1.54% boosted'
 p5130
 (lp5131
-I9
-aF0.063055396376559991
-asS'exchange monday.'
+I1
+aF-0.015434451219512105
+asS'chevy silverado'
 p5132
 (lp5133
 I1
-aF0.0095057034220531987
-asS'a.m. jan.'
+aF-0.042688910696761409
+asS'company alleged'
 p5134
 (lp5135
-I45
-aF0.31527698188280007
-asS'offered buy'
+I2
+aF0.0050351650906114501
+asS'warren buffett'
 p5136
 (lp5137
-I1
-aF0.0027342063606276006
-asS'said employees'
-p5138
-(lp5139
-I1
-aF-0.01486199575371556
-asS'deals big'
-p5140
-(lp5141
-I3
-aF-0.039832894544929484
-asS'year weather'
-p5142
-(lp5143
-I1
-aF0.022254127781766008
-asS'concerns ukraine'
-p5144
-(lp5145
 I2
 aF0.011512762036800132
-asS'2.3% london'
+asS'" ;'
+p5138
+(lp5139
+I5
+aF0.1588106388459081
+asS'power shares'
+p5140
+(lp5141
+I44
+aF0.87759511459066997
+asS"york 's"
+p5142
+(lp5143
+I2
+aF-0.0005004065187305274
+asS'percent early'
+p5144
+(lp5145
+I1
+aF0.0065939063210550593
+asS'39 a.m.'
 p5146
 (lp5147
-I2
-aF-0.011720831113478896
-asS'eastern regions'
+I60
+aF1.5705608521917984
+asS'" -'
 p5148
 (lp5149
 I2
-aF-0.051282051282051329
-asS'isps. verizon'
+aF-0.0085044082856865037
+asS'monday u.s.'
 p5150
 (lp5151
 I1
-aF-0.010660963270678267
-asS'said fairholme'
+aF-0.01486199575371556
+asS'speak freely'
 p5152
 (lp5153
-I2
-aF0.0073921320280504483
-asS'matters world'
+I1
+aF-0.015098314606741563
+asS'controller luca'
 p5154
 (lp5155
-I2
-aF-0.051282051282051329
-asS'- 1.24%'
+I1
+aF0.0065939063210550593
+asS'record lows'
 p5156
 (lp5157
 I1
-aF-0.015337423312883396
-asS'morning buffett'
+aF-0.025641025641025664
+asS'week legendary'
 p5158
 (lp5159
-I1
-aF-0.005373455131649536
-asS'earnings 49'
+I2
+aF0.0050351650906114501
+asS'believes isolated'
 p5160
 (lp5161
 I1
-aF-0.017333579199704921
-asS'beyond cold'
+aF-0.01486199575371556
+asS'new intraday'
 p5162
 (lp5163
-I2
-aF-0.02972399150743112
-asS'canada u.s.'
+I49
+aF0.91056464619594524
+asS'boards.the fund'
 p5164
 (lp5165
-I1
-aF0.022254127781766008
-asS'rights reserved.'
+I2
+aF0.0073921320280504483
+asS'co lp'
 p5166
 (lp5167
-I40
-aF0.23775388554330898
-asS'earnings 96'
+I1
+aF-0.0096207215541164858
+asS'parcel delivery'
 p5168
 (lp5169
 I1
-aF-0.021229666390956799
-asS'results beat'
+aF0.022254127781766008
+asS'programs designed'
 p5170
 (lp5171
-I1
-aF-0.019905850706119568
-asS'andreessen "'
+I2
+aF-0.032580270082819947
+asS'$65 per'
 p5172
 (lp5173
-I1
-aF-0.0078271226816403073
-asS'spanish american'
+I2
+aF0.040569339539934614
+asS'radioshack beefs'
 p5174
 (lp5175
-I1
-aF-0.010660963270678267
-asS'new idea'
+I30
+aF0.78528042609589921
+asS'limited edition'
 p5176
 (lp5177
-I1
-aF-0.0078271226816403073
-asS'health cr'
+I2
+aF0.007155813175024445
+asS'ago10 48'
 p5178
 (lp5179
-I1
-aF-0.0096207215541164858
-asS'lilit gevorgyan.'
+I12
+aF0.069076572220800783
+asS'horsepower exterran'
 p5180
 (lp5181
-I2
-aF-0.051282051282051329
-asS'corp. /quotes/zigman/162154/delayed/quotes/nls/nok'
+I1
+aF-0.0032679738562091968
+asS'ago10 45'
 p5182
 (lp5183
-I1
-aF0.036999999999999922
-asS'programs designed'
+I12
+aF0.069076572220800783
+asS'today8 00'
 p5184
 (lp5185
-I1
-aF-0.050196850393700768
-asS'futures |'
+I12
+aF0.069076572220800783
+asS'outlook hike'
 p5186
 (lp5187
-I2
-aF0.011512762036800132
-asS'betting stock'
+I44
+aF0.87759511459066997
+asS'company erie'
 p5188
 (lp5189
-I43
-aF0.25877235100216228
-asS'goog fortune'
+I2
+aF0.060087816422073489
+asS'short-term\xc2 interest'
 p5190
 (lp5191
-I17
-aF-0.16627551332406051
-asS'rules would'
+I1
+aF-0.01486199575371556
+asS'" van'
 p5192
 (lp5193
-I2
-aF-0.014234192551842047
-asS'motor corp'
+I1
+aF-0.0044444444444443499
+asS'charge microsoft'
 p5194
 (lp5195
 I1
-aF0.0095057034220531987
-asS'may eight'
+aF-0.013834507961367818
+asS'similar problems'
 p5196
 (lp5197
-I1
-aF-0.01749999999999996
-asS'costco wholesale'
+I2
+aF0.023269395998132755
+asS'stocks cash-rich'
 p5198
 (lp5199
-I1
-aF-0.0089897260273972355
-asS'0.40% \xc2'
-p5200
-(lp5201
-I1
-aF-0.0069034107529398394
-asS'deepens national'
-p5202
-(lp5203
 I2
 aF0.011512762036800132
-asS'| futures'
+asS'stocks sink'
+p5200
+(lp5201
+I57
+aF0.33936168525976329
+asS'solutions complete'
+p5202
+(lp5203
+I30
+aF0.78528042609589921
+asS'1,868 9'
 p5204
 (lp5205
 I2
-aF0.011512762036800132
-asS'- claudia'
+aF0.013187812642110119
+asS'lmca -'
 p5206
 (lp5207
-I12
-aF0.069076572220800783
-asS'6 percent'
+I2
+aF-0.022566372361966354
+asS'wider ests'
 p5208
 (lp5209
-I3
-aF-0.075872117971469616
-asS'owed $400'
+I30
+aF0.78528042609589921
+asS'2008 collapse'
 p5210
 (lp5211
 I1
-aF-0.01486199575371556
-asS'goldman sachs'
+aF-0.015098314606741563
+asS'positions including'
 p5212
 (lp5213
 I1
-aF0.0028884159318941583
-asS'edition national'
+aF0.0095057034220531987
+asS'bill directly'
 p5214
 (lp5215
-I9
-aF0.063055396376559991
-asS'reported another'
+I1
+aF-0.010500807754442712
+asS'selloff standard'
 p5216
 (lp5217
 I1
-aF0.033296089385474903
-asS'co. sodastream'
+aF0.028248587570621538
+asS'available radioshack'
 p5218
 (lp5219
-I1
-aF-0.011144883485308961
-asS'spike 42'
+I30
+aF0.78528042609589921
+asS'done profitably.'
 p5220
 (lp5221
-I12
-aF0.069076572220800783
-asS'loading amazon'
+I1
+aF0.028248587570621538
+asS'competes offerings.'
 p5222
 (lp5223
 I2
-aF-0.014234192551842047
-asS"'s office"
+aF-0.0005004065187305274
+asS'cremer edward'
 p5224
 (lp5225
-I3
-aF-0.044585987261146681
-asS'simon property'
+I1
+aF0.014802631578947345
+asS'expected losses.citigroup'
 p5226
 (lp5227
 I1
-aF-0.0096207215541164858
-asS'sap arm'
+aF-0.01486199575371556
+asS'enough investors'
 p5228
 (lp5229
-I7
-aF-0.061600416238838308
-asS'demanding inspect'
+I1
+aF0.012706969580285016
+asS'ahead $43.4'
 p5230
 (lp5231
-I1
-aF-0.0078271226816403073
-asS'threat war'
+I2
+aF-0.027455969162467415
+asS'data hold'
 p5232
 (lp5233
-I2
-aF-0.051282051282051329
-asS'fall asian'
+I4
+aF-0.00061460034380793511
+asS'0.98% \xc2'
 p5234
 (lp5235
-I9
-aF0.063055396376559991
-asS"pontiac 's"
+I1
+aF0.023487602630611493
+asS'rivals facebook'
 p5236
 (lp5237
 I1
-aF-0.052777777777777764
-asS'picks modell'
+aF0.020620086040646798
+asS'third parties'
 p5238
 (lp5239
-I43
-aF0.25877235100216228
-asS'swung fourth-quarter'
+I6
+aF0.013389593364884374
+asS'financial results'
 p5240
 (lp5241
-I1
-aF-0.026623073330219536
-asS'acres arizona'
+I30
+aF0.78528042609589921
+asS'arrested spain'
 p5242
 (lp5243
 I1
-aF0.023487602630611493
-asS'director investment'
+aF0.022254127781766008
+asS'. apathy'
 p5244
 (lp5245
 I1
-aF0.022254127781766008
-asS'$288.7 million'
+aF0.0065939063210550593
+asS'lowest 4-1/2'
 p5246
 (lp5247
 I1
-aF-0.0078586044304735248
-asS'february risen'
+aF0.022254127781766008
+asS'earlier.john felice'
 p5248
 (lp5249
 I1
-aF0.0095057034220531987
-asS'share. g'
+aF-0.042688910696761409
+asS"'s revenue"
 p5250
 (lp5251
 I1
-aF0.0027342063606276006
-asS'wu hongyuran'
+aF0.0065939063210550593
+asS'cost $100,000.'
 p5252
 (lp5253
-I9
-aF0.063055396376559991
-asS'shares potbelly'
+I1
+aF-0.01486199575371556
+asS'percent primary'
 p5254
 (lp5255
 I1
-aF-0.026623073330219536
-asS'annual tally.'
+aF0.0095057034220531987
+asS'done fight'
 p5256
 (lp5257
 I1
-aF-0.01486199575371556
-asS'earnings $1.01'
+aF0.034482758620689689
+asS'4,352 52'
 p5258
 (lp5259
 I1
-aF-0.0070054945054943809
-asS'shares took'
+aF0.0065939063210550593
+asS'corp since'
 p5260
 (lp5261
 I1
-aF-0.015337423312883396
-asS'january 25'
+aF-0.013834507961367818
+asS'last month'
 p5262
 (lp5263
-I12
-aF0.069076572220800783
-asS'peak. ukraine'
+I6
+aF0.10802484637093179
+asS'500 ebay'
 p5264
 (lp5265
-I1
-aF-0.01486199575371556
-asS'executives tony'
+I16
+aF0.046391384821821771
+asS'hedge funds'
 p5266
 (lp5267
-I1
-aF-0.013834507961367818
-asS'transactions people'
+I47
+aF0.30371124445038977
+asS'53 a.m.'
 p5268
 (lp5269
-I1
-aF-0.01486199575371556
-asS'01 a.m.'
+I54
+aF0.92343357053750075
+asS'get access'
 p5270
 (lp5271
-I18
-aF0.12611079275312001
-asS'share profit'
+I1
+aF-0.015098314606741563
+asS'potentially dealing'
 p5272
 (lp5273
 I1
-aF-0.026623073330219536
-asS'million required'
+aF-0.015098314606741563
+asS'president microsoft'
 p5274
 (lp5275
 I1
-aF0.00067980965329706225
-asS'u.s. cboe'
+aF-0.013834507961367818
+asS'years helm'
 p5276
 (lp5277
 I1
-aF0.025356283546178002
-asS'priceline.com inc.'
+aF-0.01749999999999996
+asS'said research'
 p5278
 (lp5279
 I1
-aF-0.0078586044304735248
-asS'running snow'
+aF0.0065939063210550593
+asS'claimed texaco'
 p5280
 (lp5281
 I1
-aF0.0028884159318941583
-asS'told lawmakers'
+aF-0.015098314606741563
+asS'million complaints'
 p5282
 (lp5283
-I1
-aF-0.01486199575371556
-asS'nba\xe2\x80\x99s sacramento'
+I2
+aF0.019620762866974131
+asS'full benefits'
 p5284
 (lp5285
-I9
-aF0.063055396376559991
-asS'/quotes/zigman/90481/delayed/quotes/nls/pcln pcln'
+I1
+aF0.022254127781766008
+asS'levels cover'
 p5286
 (lp5287
-I2
-aF-0.01571720886094705
-asS'uncontrollable inflation.'
+I1
+aF-0.015098314606741563
+asS'staged rare'
 p5288
 (lp5289
-I1
-aF-0.01486199575371556
-asS'myths won'
+I2
+aF0.0094823222529492185
+asS'office united'
 p5290
 (lp5291
 I1
-aF-0.01486199575371556
-asS'57 highest'
+aF-0.015098314606741563
+asS'sedans crossover'
 p5292
 (lp5293
 I1
-aF-0.0071729957805906396
-asS'" headlines'
+aF0.034482758620689689
+asS'officer joe'
 p5294
 (lp5295
 I1
-aF-0.025641025641025664
-asS'numbers given'
+aF-0.01749999999999996
+asS'- russia'
 p5296
 (lp5297
 I1
-aF0.0095057034220531987
-asS'19 a.m.'
+aF0.017951856385148825
+asS'cents share'
 p5298
 (lp5299
-I30
-aF0.19518736497392083
-asS'online bank'
+I32
+aF0.011610808058675169
+asS'shipping billions'
 p5300
 (lp5301
 I1
-aF0.0028884159318941583
-asS'truck fell'
+aF0.034482758620689689
+asS'\xe2\x80\x9cwe buyers'
 p5302
 (lp5303
-I1
-aF-0.042688910696761409
-asS'manufacturers expand'
+I2
+aF0.037754290992674737
+asS'gun maker'
 p5304
 (lp5305
-I55
-aF0.32784892322296316
-asS'hike could'
+I1
+aF0.015490533562822848
+asS'said probe'
 p5306
 (lp5307
 I1
-aF-0.005373455131649536
-asS'going nasa'
+aF-0.01486199575371556
+asS'crisis struggled'
 p5308
 (lp5309
 I1
-aF-0.01749999999999996
-asS'customers react'
+aF0.034482758620689689
+asS'situation reach'
 p5310
 (lp5311
-I3
-aF-0.039832894544929484
-asS'software inc.'
+I1
+aF0.017951856385148825
+asS'currently collecting'
 p5312
 (lp5313
 I2
-aF0.023622213537533625
-asS'ukraine china'
+aF-0.0005004065187305274
+asS'record 1,868'
 p5314
 (lp5315
 I2
-aF0.011512762036800132
-asS'china 7'
+aF0.013187812642110119
+asS'raised stake'
 p5316
 (lp5317
-I9
-aF0.063055396376559991
-asS'including lion'
+I2
+aF0.039888415931894079
+asS'/quotes/zigman/54683/delayed/quotes/nls/gmcr gmcr'
 p5318
 (lp5319
-I1
-aF0.0028884159318941583
-asS'bank spend'
+I4
+aF-0.010679627874459668
+asS'bureau investigation'
 p5320
 (lp5321
-I1
-aF-0.025641025641025664
-asS'plant mesa'
+I3
+aF0.0047587671132585697
+asS"'s moving"
 p5322
 (lp5323
-I1
-aF0.0028884159318941583
-asS'consensus survey'
+I2
+aF0.040569339539934614
+asS'default --'
 p5324
 (lp5325
-I6
-aF-0.10059136407511454
-asS'economists.readings 50'
+I3
+aF-0.036479419703103984
+asS'plain sailing'
 p5326
 (lp5327
 I1
-aF-0.0071729957805906396
-asS'funds consistently'
+aF-0.025641025641025664
+asS'raced past'
 p5328
 (lp5329
-I2
-aF0.0076523476523476276
-asS'motor co'
+I1
+aF0.0095057034220531987
+asS'get full'
 p5330
 (lp5331
-I4
-aF-0.01734838992860439
-asS'ryan larson'
+I1
+aF0.022254127781766008
+asS'- matthew'
 p5332
 (lp5333
-I1
-aF-0.025641025641025664
-asS'1.51% \xc2'
+I18
+aF0.12611079275312001
+asS'diversify. "'
 p5334
 (lp5335
 I1
-aF-0.017333579199704921
-asS'1 strong'
+aF-0.0044444444444443499
+asS"'s top"
 p5336
 (lp5337
-I3
-aF0.015817950519726197
-asS'housing administration'
+I43
+aF0.25877235100216228
+asS'\xc2 slated'
 p5338
 (lp5339
-I1
-aF-0.01486199575371556
-asS'many fear'
+I2
+aF0.011609522754737799
+asS'144% 2013'
 p5340
 (lp5341
-I1
-aF0.022254127781766008
-asS'foods market'
+I2
+aF0.011512762036800132
+asS'60 cents'
 p5342
 (lp5343
-I1
-aF-0.0096207215541164858
-asS'500 cisco'
+I2
+aF0.02462811733357069
+asS'expected see'
 p5344
 (lp5345
-I6
-aF-0.05390200719883341
-asS'reasons beyond'
+I10
+aF-0.060775370143652127
+asS'] investments'
 p5346
 (lp5347
 I2
-aF-0.02972399150743112
-asS'inc. /quotes/zigman/118681/delayed/quotes/nls/tsla'
+aF-0.010838394062078319
+asS'military stand'
 p5348
 (lp5349
-I1
-aF0.023487602630611493
-asS'conflicts board'
+I2
+aF-0.010838394062078319
+asS'jblu fortune'
 p5350
 (lp5351
-I2
-aF-0.015654245363280615
-asS'market "'
+I1
+aF0
+asS'mixed economic'
 p5352
 (lp5353
-I1
-aF-0.025641025641025664
-asS'apple return'
+I2
+aF0.019620762866974131
+asS'related apple'
 p5354
 (lp5355
-I1
-aF0.0028884159318941583
-asS'nordisk nonof'
+I2
+aF0.0094823222529492185
+asS'users maopao'
 p5356
 (lp5357
-I2
-aF0.019043392929388579
-asS'affected include'
+I1
+aF0.086510263929618747
+asS"'s plans."
 p5358
 (lp5359
-I1
-aF-0.052777777777777764
-asS'/quotes/zigman/9872907/delayed/quotes/nls/cg cg'
+I4
+aF0.039241525733948263
+asS'broadband providers'
 p5360
 (lp5361
-I1
-aF-0.021229666390956799
-asS'funds crazy'
+I4
+aF-0.0075938299399980749
+asS'falling peak.'
 p5362
 (lp5363
-I43
-aF0.25877235100216228
-asS'. apple'
+I2
+aF0.019620762866974131
+asS"'t include"
 p5364
 (lp5365
-I1
-aF0.0028884159318941583
-asS'$218 million'
+I2
+aF0.033133788568538193
+asS'maker australian'
 p5366
 (lp5367
-I1
-aF-0.0070054945054943809
-asS'10.6 known'
+I2
+aF-0.00055632415198211133
+asS'private investment'
 p5368
 (lp5369
-I1
-aF0.0028884159318941583
-asS'honda motor'
+I2
+aF0.032728465832498853
+asS'edition europe'
 p5370
 (lp5371
-I1
-aF0.0095057034220531987
-asS'- 0.80%'
+I9
+aF0.063055396376559991
+asS'index 12'
 p5372
 (lp5373
 I1
-aF-0.0011181513231456424
-asS'could impact'
+aF0.025356283546178002
+asS'said.reller one'
 p5374
 (lp5375
-I2
-aF-0.02972399150743112
-asS'stake verizon'
+I1
+aF-0.013834507961367818
+asS'garmin ltd.'
 p5376
 (lp5377
-I1
-aF-0.016598508539812311
-asS'end quarter.'
+I2
+aF0.02462811733357069
+asS'deal acquire'
 p5378
 (lp5379
-I1
-aF0.00067980965329706225
-asS'scott cook.'
+I2
+aF0.0052826627277634021
+asS'including microsoft'
 p5380
 (lp5381
-I1
-aF-0.0078271226816403073
-asS'satya nadella'
+I6
+aF0.0076232379247427508
+asS'advanced strategy'
 p5382
 (lp5383
 I1
 aF-0.013834507961367818
-asS'u.s. attorney'
+asS'- earnings'
 p5384
 (lp5385
-I2
-aF-0.02972399150743112
-asS'edition gold'
+I30
+aF0.78528042609589921
+asS'marriott international'
 p5386
 (lp5387
-I9
-aF0.063055396376559991
-asS'51 min'
+I2
+aF-0.0072003459476876735
+asS'likely report'
 p5388
 (lp5389
-I12
-aF0.069076572220800783
-asS'monday war'
+I6
+aF0.066136578957971412
+asS'peak reading'
 p5390
 (lp5391
-I43
-aF0.25877235100216228
-asS'factory compared'
+I1
+aF-0.0071729957805906396
+asS"industry 's"
 p5392
 (lp5393
-I1
-aF0.0062801932367149279
-asS'australian sheepskin'
+I12
+aF0.023189645674656527
+asS'citi fraud'
 p5394
 (lp5395
-I1
-aF-0.019905850706119568
-asS'nflx announced'
+I43
+aF0.25877235100216228
+asS'related global'
 p5396
 (lp5397
-I3
-aF-0.024059813263408034
-asS'expected losses.citigroup'
+I4
+aF-0.021676788124156639
+asS'bartash gold'
 p5398
 (lp5399
-I1
-aF-0.01486199575371556
-asS'look better-ranked'
+I12
+aF0.069076572220800783
+asS'officer peter'
 p5400
 (lp5401
 I2
-aF-0.0082949308755760238
-asS'sears shld'
+aF0.013187812642110119
+asS'attract attention'
 p5402
 (lp5403
 I3
-aF0.052339482314863482
-asS'u.s. auto'
+aF0.029027283270916533
+asS'could disrupt'
 p5404
 (lp5405
 I1
-aF0.0063291139240506224
-asS'stake ebay'
+aF0.014802631578947345
+asS'agree tougher'
 p5406
 (lp5407
 I1
-aF-0.0078271226816403073
-asS'gm.n raced'
+aF-0.015098314606741563
+asS'+1.59% \xc2'
 p5408
 (lp5409
-I1
-aF0.0095057034220531987
-asS'receiving future.makearticlead'
+I2
+aF0.044954567192730645
+asS'donziger pitting'
 p5410
 (lp5411
 I1
-aF0.022254127781766008
-asS'copyright \xc2\xa9'
+aF-0.015098314606741563
+asS'buy mobi'
 p5412
 (lp5413
-I43
-aF0.25877235100216228
-asS'petsmart petm'
+I2
+aF0.10801026392961874
+asS'share according'
 p5414
 (lp5415
-I4
-aF-0.047177815558848674
-asS'baidu inc.\xe2\x80\x99s'
+I12
+aF-0.1002777672396778
+asS'due tuesday.'
 p5416
 (lp5417
-I1
-aF-0.0069034107529398394
-asS'four pieces'
+I2
+aF0.033133788568538193
+asS'acquire tesla'
 p5418
 (lp5419
-I1
-aF-0.010660963270678267
-asS'goods kodak'
+I2
+aF-0.0005004065187305274
+asS'king priceline'
 p5420
 (lp5421
-I43
-aF0.25877235100216228
-asS'kegerators like.'
+I14
+aF0.018081633883883088
+asS'500 warned'
 p5422
 (lp5423
-I1
-aF-0.024283439490445837
-asS'ebay "'
+I2
+aF-0.015098314606741563
+asS'today9 30'
 p5424
 (lp5425
-I1
-aF-0.0078271226816403073
-asS'market live'
+I30
+aF0.78528042609589921
+asS'today9 31'
 p5426
 (lp5427
-I43
-aF0.25877235100216228
-asS'probes said.banamex'
+I3
+aF0.019781718963165176
+asS'today9 32'
 p5428
 (lp5429
-I1
-aF-0.01486199575371556
-asS'sparking plunge'
+I2
+aF0.013187812642110119
+asS'today9 33'
 p5430
 (lp5431
-I1
-aF-0.025641025641025664
-asS'nasa army'
+I30
+aF0.78528042609589921
+asS'today9 34'
 p5432
 (lp5433
-I1
-aF-0.01749999999999996
-asS'corp. ntic'
+I3
+aF0.019781718963165176
+asS'today9 36'
 p5434
 (lp5435
-I2
-aF0.0063122470976729999
-asS'monday morning'
+I3
+aF0.019781718963165176
+asS'jan. 8'
 p5436
 (lp5437
-I1
-aF-0.005373455131649536
-asS'attention green'
+I78
+aF1.6966716449449184
+asS'jan. 1'
 p5438
 (lp5439
-I2
-aF-0.0096874231100129455
-asS'9 41'
-p5440
-(lp5441
 I9
 aF0.063055396376559991
-asS'dish -'
+asS'depend united'
+p5440
+(lp5441
+I1
+aF-0.015098314606741563
+asS'jan. 7'
 p5442
 (lp5443
-I2
-aF0.0013596193065941245
-asS'earnings $1.94'
+I30
+aF0.78528042609589921
+asS'48 a.m.'
 p5444
 (lp5445
-I1
-aF0.00016545334215751787
-asS'monthly sales'
+I12
+aF0.069076572220800783
+asS'feedback made'
 p5446
 (lp5447
-I1
-aF0.0063291139240506224
-asS'charter communications'
+I2
+aF0.007155813175024445
+asS"'s revival"
 p5448
 (lp5449
-I1
-aF-0.0085193657805474349
-asS'unit fiat'
+I9
+aF0.063055396376559991
+asS'friday liberty'
 p5450
 (lp5451
-I1
-aF0.0063291139240506224
-asS'larson senior'
+I4
+aF0.0010669424439089712
+asS'financial professionals'
 p5452
 (lp5453
 I1
-aF-0.025641025641025664
-asS'year rate'
+aF-0.015098314606741563
+asS'it. companies'
 p5454
 (lp5455
 I1
-aF0.022254127781766008
-asS'loans mexican'
+aF-0.0089897260273972355
+asS'edg ='
 p5456
 (lp5457
-I1
-aF-0.01486199575371556
-asS'2 cents'
+I30
+aF0.78528042609589921
+asS'role time'
 p5458
 (lp5459
 I1
-aF0.016847172081828975
-asS'rare retreat'
+aF0.0065939063210550593
+asS'leopard microsoft'
 p5460
 (lp5461
-I1
-aF0.0028884159318941583
-asS'aig federal'
+I2
+aF0.0028409817157098796
+asS'year. ukraine'
 p5462
 (lp5463
-I2
-aF-0.02972399150743112
-asS'today10 12'
+I1
+aF0.034482758620689689
+asS'7 00'
 p5464
 (lp5465
-I9
-aF0.063055396376559991
-asS'fund prentice'
+I60
+aF1.5705608521917984
+asS'7 02'
 p5466
 (lp5467
-I43
-aF0.25877235100216228
-asS'narrow stretch'
+I9
+aF0.063055396376559991
+asS'2014 +0.66%'
 p5468
 (lp5469
 I1
-aF-0.025641025641025664
-asS'market ukraine'
+aF0.0065939063210550593
+asS'x 10.6'
 p5470
 (lp5471
-I2
-aF-0.02972399150743112
-asS'administration well'
+I4
+aF0.018964644505898437
+asS'andreessen scott'
 p5472
 (lp5473
-I1
-aF-0.01486199575371556
-asS'comes difficult'
+I2
+aF0.0050351650906114501
+asS'forcing russia'
 p5474
 (lp5475
-I2
-aF-0.02972399150743112
-asS'26 p.m.'
+I1
+aF-0.025641025641025664
+asS'inc. $16'
 p5476
 (lp5477
-I9
-aF0.063055396376559991
-asS'arrested spain'
+I2
+aF0.0052826627277634021
+asS'gold holdings'
 p5478
 (lp5479
-I1
-aF0.022254127781766008
-asS'markets worldwide'
+I2
+aF0.019384444013948128
+asS'currently split'
 p5480
 (lp5481
-I4
-aF-0.059447983014862239
-asS'/quotes/zigman/9962609/delayed/quotes/nls/fb fb'
+I1
+aF-0.015098314606741563
+asS'53.2 february'
 p5482
 (lp5483
 I1
-aF-0.015337423312883396
-asS'reportedly called'
+aF-0.0071729957805906396
+asS'new iterations'
 p5484
 (lp5485
-I1
-aF0.0028884159318941583
-asS'economic myths'
+I2
+aF0.0094823222529492185
+asS'getting back'
 p5486
 (lp5487
-I1
-aF-0.01486199575371556
-asS'iterations mac'
+I2
+aF0.0094823222529492185
+asS'treasurys sink'
 p5488
 (lp5489
-I1
-aF0.0028884159318941583
-asS'marcia gail'
+I44
+aF0.87759511459066997
+asS'economic stimulus.'
 p5490
 (lp5491
-I1
-aF-0.010660963270678267
-asS'us momentum'
+I7
+aF0.044000292847206829
+asS'averages bankrate.com'
 p5492
 (lp5493
-I1
-aF-0.042688910696761409
-asS'ebay shares'
+I164
+aF3.439394338037042
+asS'wheat play'
 p5494
 (lp5495
-I1
-aF-0.0078271226816403073
-asS'forecast 52.0'
+I43
+aF0.25877235100216228
+asS'european commission'
 p5496
 (lp5497
 I1
-aF-0.0071729957805906396
-asS'reactions moscow'
+aF0.032987171655467266
+asS'23 2013'
 p5498
 (lp5499
-I9
-aF0.063055396376559991
-asS'home depot'
+I30
+aF0.78528042609589921
+asS'ability national'
 p5500
 (lp5501
-I2
-aF0.019043392929388579
-asS'one-time apple'
+I1
+aF-0.015098314606741563
+asS'get free'
 p5502
 (lp5503
-I1
-aF0.0028884159318941583
-asS'security proposal'
+I3
+aF0.0021474564628237813
+asS"'s central"
 p5504
 (lp5505
 I1
-aF0.01163378856853821
-asS'levine special'
+aF-0.025641025641025664
+asS'among urging'
 p5506
 (lp5507
-I1
-aF-0.010660963270678267
-asS'claudia assis'
+I4
+aF-0.047177815558848674
+asS'said couldn'
 p5508
 (lp5509
-I12
-aF0.069076572220800783
-asS'27 years'
+I1
+aF-0.0044444444444443499
+asS'million ford'
 p5510
 (lp5511
 I1
-aF0.0095057034220531987
-asS'apple inc.'
+aF0.034482758620689689
+asS'regional banks'
 p5512
 (lp5513
-I3
-aF0.029027283270916533
-asS'hlt ahead'
+I2
+aF-0.0082949308755760238
+asS'companies. omidyar'
 p5514
 (lp5515
-I1
-aF0.0095057034220531987
-asS'fiat chrysler'
+I2
+aF0.0050351650906114501
+asS'paste browser'
 p5516
 (lp5517
 I1
-aF0.0063291139240506224
-asS'revenue rose'
+aF0.014802631578947345
+asS'businesses "'
 p5518
 (lp5519
-I1
-aF-0.020009416195856743
-asS'blog ukraine'
+I2
+aF0.0073921320280504483
+asS'ests -'
 p5520
 (lp5521
-I43
-aF0.25877235100216228
-asS'0.1 percent'
+I30
+aF0.78528042609589921
+asS'strength u.s.'
 p5522
 (lp5523
-I2
-aF-0.036601126188498201
-asS'liberty media'
+I9
+aF0.063055396376559991
+asS'$1,182 $1,623'
 p5524
 (lp5525
-I2
-aF-0.022566372361966354
-asS'people charge'
+I12
+aF0.069076572220800783
+asS"'trips-plus '"
 p5526
 (lp5527
-I2
-aF-0.0096143372351269688
-asS'previously held'
+I1
+aF-0.015098314606741563
+asS'currently many'
 p5528
 (lp5529
 I1
-aF0.0095057034220531987
-asS'2 beatable'
+aF-0.01486199575371556
+asS'n.h. prescott'
 p5530
 (lp5531
-I1
-aF0.0095057034220531987
-asS'$1,355 52'
+I2
+aF0.03556487878640302
+asS'300,000 14%'
 p5532
 (lp5533
-I12
-aF0.069076572220800783
-asS"' net"
+I2
+aF0.019620762866974131
+asS'2% london'
 p5534
 (lp5535
 I1
-aF-0.01486199575371556
-asS'stimulus. federal'
+aF-0.0058604155567394478
+asS'earnings three'
 p5536
 (lp5537
-I1
-aF-0.01486199575371556
-asS'$16.3 million'
+I8
+aF-0.020074526510182204
+asS'many car'
 p5538
 (lp5539
 I1
-aF0.023487602630611493
-asS'holdings inc.'
+aF0.0063291139240506224
+asS'inc. carlyle'
 p5540
 (lp5541
 I2
-aF-0.045650441836882411
-asS'\xc2 dish'
+aF-0.062919807236027137
+asS'expected attract'
 p5542
 (lp5543
-I1
-aF0.00067980965329706225
-asS'55 a.m.'
+I3
+aF0.029027283270916533
+asS'super bowl'
 p5544
 (lp5545
-I18
-aF0.12611079275312001
-asS'ukraine matters'
+I30
+aF0.78528042609589921
+asS'500 rises'
 p5546
 (lp5547
 I2
-aF-0.051282051282051329
-asS'ups.n fedex'
+aF0.013187812642110119
+asS'delayed 10'
 p5548
 (lp5549
-I1
-aF0.022254127781766008
-asS'tesla motors'
+I12
+aF0.069076572220800783
+asS'closures send'
 p5550
 (lp5551
-I4
-aF0.049233141500877681
-asS'nokia corp.'
+I30
+aF0.78528042609589921
+asS'space contracts'
 p5552
 (lp5553
 I1
-aF0.036999999999999922
-asS'behind bill'
+aF0.086510263929618747
+asS'target $9.14'
 p5554
 (lp5555
-I1
-aF0.022254127781766008
-asS'$1.93 share'
+I2
+aF0.10801026392961874
+asS'plenty data'
 p5556
 (lp5557
-I1
-aF-0.026623073330219536
-asS'access nonpublic'
+I30
+aF0.78528042609589921
+asS'since satya'
 p5558
 (lp5559
 I1
-aF-0.0078271226816403073
-asS'freight shipments'
+aF-0.013834507961367818
+asS'aapl fortune'
 p5560
 (lp5561
-I2
-aF0.044508255563532016
-asS'healthy guidance'
+I36
+aF0.10751031950827514
+asS'rules set'
 p5562
 (lp5563
 I1
-aF0.0095057034220531987
-asS'worries 10'
+aF-0.015098314606741563
+asS'devices --'
 p5564
 (lp5565
-I12
-aF0.069076572220800783
-asS'primary nissan'
+I2
+aF0.0094823222529492185
+asS'u.s. central'
 p5566
 (lp5567
 I1
-aF0.0095057034220531987
-asS'threats serious'
+aF0.034482758620689689
+asS'gevorgyan. global'
 p5568
 (lp5569
-I1
-aF0.022254127781766008
-asS'reserved. tech'
+I3
+aF-0.036479419703103984
+asS'start following'
 p5570
 (lp5571
-I1
-aF0.0028884159318941583
-asS'0.34% \xc2'
+I2
+aF0.023269395998132755
+asS'declining 2.3%'
 p5572
 (lp5573
 I2
-aF0.0013596193065941245
-asS'prevent favoring'
+aF-0.011720831113478896
+asS'linkedin lnkd'
 p5574
 (lp5575
-I2
-aF-0.014234192551842047
-asS'considering include'
+I16
+aF0.046391384821821771
+asS'july.while fedex'
 p5576
 (lp5577
-I2
-aF0.0063122470976729999
-asS'profit 144%'
+I1
+aF0.022254127781766008
+asS'bankruptcy "'
 p5578
 (lp5579
-I2
-aF0.011512762036800132
-asS'hot water'
+I88
+aF1.7551902291813399
+asS'stake apple'
 p5580
 (lp5581
-I43
-aF0.25877235100216228
-asS'rico.fedex shares'
+I1
+aF0.0028884159318941583
+asS'showcase big'
 p5582
 (lp5583
-I1
-aF0.022254127781766008
-asS'suspicion money'
+I30
+aF0.78528042609589921
+asS'in-adr cisg'
 p5584
 (lp5585
-I1
-aF0.022254127781766008
-asS'offerings. tech'
+I2
+aF0.060087816422073489
+asS'related vodafone'
 p5586
 (lp5587
-I1
-aF-0.010660963270678267
-asS'reads u.s.'
+I2
+aF-0.0014321680310061119
+asS'symantec symc'
 p5588
 (lp5589
-I43
-aF0.25877235100216228
-asS'fell 7'
+I14
+aF0.018081633883883088
+asS'said thursday'
 p5590
 (lp5591
-I1
-aF0.022254127781766008
-asS'reuters showed'
+I2
+aF-0.0047921869940820618
+asS'corporation sets'
 p5592
 (lp5593
-I1
-aF-0.042688910696761409
-asS'chinese tech'
+I30
+aF0.78528042609589921
+asS'cancer. 12'
 p5594
 (lp5595
-I7
-aF-0.061600416238838308
-asS'urging brewer'
+I1
+aF0.028248587570621538
+asS'facebook wants'
 p5596
 (lp5597
-I4
-aF-0.047177815558848674
-asS'big banks'
+I44
+aF0.87759511459066997
+asS'isolate russia'
 p5598
 (lp5599
 I1
-aF0.022254127781766008
-asS'nacional centro'
+aF-0.024283439490445837
+asS'losing control'
 p5600
 (lp5601
-I1
-aF0.01163378856853821
-asS'comment reports.'
+I3
+aF-0.036479419703103984
+asS'peers,\xe2\x80\x9d said'
 p5602
 (lp5603
-I1
-aF-0.013834507961367818
-asS'cnbc monday'
+I2
+aF0.037754290992674737
+asS'expected report'
 p5604
 (lp5605
-I1
-aF-0.005373455131649536
-asS'wary emerging'
+I2
+aF0.012228722696775317
+asS'+0.91% stocks'
 p5606
 (lp5607
-I2
-aF-0.02972399150743112
-asS"gm 's"
+I1
+aF0.0065939063210550593
+asS'conduct in-depth'
 p5608
 (lp5609
 I1
-aF-0.042688910696761409
-asS'comm vz'
+aF0.032987171655467266
+asS'directors. also'
 p5610
 (lp5611
-I1
-aF0.00082576383154416076
-asS'statistics federal'
+I2
+aF0.0050351650906114501
+asS'report said'
 p5612
 (lp5613
 I1
-aF-0.01486199575371556
-asS'3 2014'
+aF-0.013834507961367818
+asS'report quarterly'
 p5614
 (lp5615
-I279
-aF1.7297579434541734
-asS'revealed 0.82%'
+I2
+aF0.011609522754737799
+asS'0.90% \xc2'
 p5616
 (lp5617
 I1
-aF-0.0078271226816403073
-asS'names private'
+aF-0.011144883485308961
+asS'problems government'
 p5618
 (lp5619
-I1
-aF-0.01486199575371556
-asS'3 2013'
+I2
+aF0.0073921320280504483
+asS'abiding 2010'
 p5620
 (lp5621
-I9
-aF0.063055396376559991
-asS'. hedge-fund'
+I4
+aF-0.0075938299399980749
+asS'1.51% \xc2'
 p5622
 (lp5623
 I1
-aF-0.0078271226816403073
-asS'looking documentation'
+aF-0.017333579199704921
+asS'adjusted inflation'
 p5624
 (lp5625
-I1
-aF-0.01486199575371556
-asS'records "'
+I2
+aF-0.036601126188498201
+asS'nominated two'
 p5626
 (lp5627
-I1
-aF-0.0078271226816403073
-asS'currencies |'
+I2
+aF0.0050351650906114501
+asS'weekend wake-up'
 p5628
 (lp5629
-I2
-aF0.011512762036800132
-asS'kiev losing'
+I1
+aF-0.025641025641025664
+asS'bank sold'
 p5630
 (lp5631
-I2
-aF-0.051282051282051329
-asS'intuit ebay'
+I1
+aF-0.015098314606741563
+asS'head emerging'
 p5632
 (lp5633
-I2
-aF-0.011409976168524519
-asS'payment service'
+I1
+aF-0.015098314606741563
+asS'sign investor'
 p5634
 (lp5635
 I1
-aF-0.0078271226816403073
-asS'nothing people'
+aF0.025356283546178002
+asS'court cut'
 p5636
 (lp5637
-I2
-aF-0.0096143372351269688
-asS'revenue $204.3'
+I1
+aF-0.015098314606741563
+asS'howard gold'
 p5638
 (lp5639
-I1
-aF-0.047141424272818457
-asS'earnings 56'
+I9
+aF0.063055396376559991
+asS'part wider'
 p5640
 (lp5641
-I2
-aF-0.022566372361966354
-asS'zacks rank'
+I1
+aF-0.015098314606741563
+asS'1.14% \xc2'
 p5642
 (lp5643
-I6
-aF0.031635901039452394
-asS'warning. company'
+I2
+aF-0.01571720886094705
+asS'free report'
 p5644
 (lp5645
-I1
-aF0.022254127781766008
-asS'earnings $8.31'
+I3
+aF0.0021474564628237813
+asS'russia banned'
 p5646
 (lp5647
 I1
-aF-0.0078586044304735248
-asS'services especially'
+aF-0.015098314606741563
+asS'stocks include'
 p5648
 (lp5649
 I1
-aF0.022254127781766008
-asS'euro zone'
+aF0.028248587570621538
+asS'2.3% london'
 p5650
 (lp5651
-I1
-aF-0.025641025641025664
-asS'business partners'
+I2
+aF-0.011720831113478896
+asS'least now.apple'
 p5652
 (lp5653
-I2
-aF0.019043392929388579
-asS'fraud doctor'
+I1
+aF0.0065939063210550593
+asS'brings first'
 p5654
 (lp5655
-I20
-aF0.11512762036800134
-asS'3 believe'
+I60
+aF1.5705608521917984
+asS'data late'
 p5656
 (lp5657
-I1
-aF0.0095057034220531987
-asS'projected post'
+I30
+aF0.78528042609589921
+asS'group andreesen'
 p5658
 (lp5659
-I1
-aF-0.026623073330219536
-asS'turmoil slaps'
+I2
+aF0.0050351650906114501
+asS'ceo tim'
 p5660
 (lp5661
-I43
-aF0.25877235100216228
-asS'urging ebay'
+I2
+aF0.023269395998132755
+asS'new idea'
 p5662
 (lp5663
-I1
-aF-0.0078271226816403073
-asS'dan caplinger'
+I2
+aF0.0050351650906114501
+asS'price well'
 p5664
 (lp5665
-I1
-aF0.022254127781766008
-asS'oil company'
+I2
+aF0.023269395998132755
+asS'stand region'
 p5666
 (lp5667
-I1
-aF-0.01486199575371556
-asS'soon. buffett'
+I2
+aF-0.010838394062078319
+asS'wells fargo'
 p5668
 (lp5669
 I1
-aF0.022254127781766008
-asS'+1.03% take-two'
+aF0.0065939063210550593
+asS'2014 +0.85%'
 p5670
 (lp5671
-I2
-aF0.023622213537533625
-asS'- 0.12%'
+I1
+aF0.0065939063210550593
+asS'chief operating'
 p5672
 (lp5673
 I1
-aF0.016847172081828975
-asS"'s figure"
+aF-0.01749999999999996
+asS'sap arm'
 p5674
 (lp5675
-I1
-aF-0.0071729957805906396
-asS'states russia'
+I14
+aF0.018081633883883088
+asS'fall asian'
 p5676
 (lp5677
-I1
-aF0.022254127781766008
-asS'steep drop'
-p5678
-(lp5679
-I1
-aF-0.0071729957805906396
-asS'report northern'
-p5680
-(lp5681
-I3
-aF0.0021474564628237813
-asS'paul jackson'
-p5682
-(lp5683
 I9
 aF0.063055396376559991
-asS'thanks hopes'
+asS"pontiac 's"
+p5678
+(lp5679
+I2
+aF0.033732486151840983
+asS'picks modell'
+p5680
+(lp5681
+I43
+aF0.25877235100216228
+asS'70% $515'
+p5682
+(lp5683
+I1
+aF0.017811704834605556
+asS'january 25'
 p5684
 (lp5685
-I1
-aF-0.01486199575371556
-asS'$10 billion'
-p5686
-(lp5687
-I1
-aF-0.025641025641025664
-asS'reserve chair'
-p5688
-(lp5689
-I2
-aF-0.02972399150743112
-asS'sara sjolin'
-p5690
-(lp5691
 I12
 aF0.069076572220800783
-asS'stock plus'
+asS'idea united'
+p5686
+(lp5687
+I2
+aF0.0073921320280504483
+asS'sac parties'
+p5688
+(lp5689
+I1
+aF0.017951856385148825
+asS'running snow'
+p5690
+(lp5691
+I2
+aF0.0094823222529492185
+asS'conclude individual'
 p5692
 (lp5693
 I1
-aF-0.015337423312883396
-asS'made three'
+aF0.017951856385148825
+asS'duck cover.'
 p5694
 (lp5695
 I1
-aF-0.01486199575371556
-asS'nissan motor'
+aF0.017951856385148825
+asS'19 a.m.'
 p5696
 (lp5697
-I1
-aF0.0063291139240506224
-asS'space worth'
+I30
+aF0.19518736497392083
+asS'manufacturers expand'
 p5698
 (lp5699
-I2
-aF0.0063122470976729999
-asS'+0.06% \xc2'
+I55
+aF0.32784892322296316
+asS'including lion'
 p5700
 (lp5701
 I2
-aF-0.0096874231100129455
-asS'china catches'
+aF0.0094823222529492185
+asS'new gear'
 p5702
 (lp5703
-I9
-aF0.063055396376559991
-asS'crime "'
+I30
+aF0.78528042609589921
+asS'india would'
 p5704
 (lp5705
 I1
-aF-0.01486199575371556
-asS'specialized industries'
+aF-0.015098314606741563
+asS'plant mesa'
 p5706
 (lp5707
-I7
-aF-0.061600416238838308
-asS'pre-crisis problems'
+I1
+aF0.0028884159318941583
+asS'ryan larson'
 p5708
 (lp5709
 I2
-aF0.0073921320280504483
-asS'finds bitcoin'
+aF-0.010838394062078319
+asS'risen $171'
 p5710
 (lp5711
-I9
-aF0.063055396376559991
-asS'smaller last'
+I1
+aF0.0065939063210550593
+asS'housing administration'
 p5712
 (lp5713
 I1
-aF0.022254127781766008
-asS'stocks bonds'
+aF-0.01486199575371556
+asS'foods market'
 p5714
 (lp5715
 I1
-aF0.022254127781766008
-asS'ecb hold'
+aF-0.0096207215541164858
+asS'inc. /quotes/zigman/118681/delayed/quotes/nls/tsla'
 p5716
 (lp5717
-I9
-aF0.063055396376559991
-asS'/quotes/zigman/59898/delayed/quotes/nls/yhoo yhoo'
+I2
+aF0.040569339539934614
+asS'send negative'
 p5718
 (lp5719
-I3
-aF0.029027283270916533
-asS'klesse step'
+I2
+aF-0.010838394062078319
+asS'affected include'
 p5720
 (lp5721
-I1
-aF-0.01749999999999996
-asS'verizon comm'
+I2
+aF0.033732486151840983
+asS'. apple'
 p5722
 (lp5723
 I1
-aF0.00082576383154416076
-asS'tuesday.microsoft declined'
+aF0.0028884159318941583
+asS'10.6 known'
 p5724
 (lp5725
-I1
-aF-0.013834507961367818
-asS'howard gold'
+I2
+aF0.0094823222529492185
+asS'stake verizon'
 p5726
 (lp5727
-I9
-aF0.063055396376559991
-asS'6 55'
+I2
+aF-0.0014321680310061119
+asS'scott cook.'
 p5728
 (lp5729
-I9
-aF0.063055396376559991
-asS'stocks warrant'
+I2
+aF0.0050351650906114501
+asS'u.s. attorney'
 p5730
 (lp5731
 I2
-aF-0.0082949308755760238
-asS'slaps dow'
+aF-0.02972399150743112
+asS'monday war'
 p5732
 (lp5733
 I43
 aF0.25877235100216228
-asS'one potential'
+asS'australian sheepskin'
 p5734
 (lp5735
-I1
-aF-0.013834507961367818
-asS'every year'
+I2
+aF-0.00055632415198211133
+asS'brands like'
 p5736
 (lp5737
-I1
-aF0.022254127781766008
-asS'said icahn'
+I2
+aF0.03185842475789831
+asS'villagers enforcing'
 p5738
 (lp5739
 I1
-aF-0.0078271226816403073
-asS'boosted shares'
+aF-0.015098314606741563
+asS'plans. ukraine'
 p5740
 (lp5741
-I1
-aF-0.015434451219512105
-asS'three well-known'
+I2
+aF0.019620762866974131
+asS'protect intellectual'
 p5742
 (lp5743
-I4
-aF-0.037111166550747227
-asS'towards cheaper'
+I1
+aF-0.015098314606741563
+asS'u.s. auto'
 p5744
 (lp5745
 I1
-aF0.022254127781766008
-asS'freddie december'
+aF0.0063291139240506224
+asS'baidu inc.\xe2\x80\x99s'
 p5746
 (lp5747
 I2
-aF0.0073921320280504483
-asS'called sifi'
+aF0.0088256025018465366
+asS'took control'
 p5748
 (lp5749
-I2
-aF-0.0096143372351269688
-asS'today8 53'
+I1
+aF-0.015098314606741563
+asS'aapl -'
 p5750
 (lp5751
-I12
-aF0.069076572220800783
-asS'andreessen funding'
+I3
+aF0.029027283270916533
+asS'sparking plunge'
 p5752
 (lp5753
 I1
-aF-0.0078271226816403073
-asS'fear miles'
+aF-0.025641025641025664
+asS'nasa army'
 p5754
 (lp5755
 I1
-aF0.022254127781766008
-asS'disclosed took'
+aF-0.01749999999999996
+asS"'s selloff"
 p5756
 (lp5757
 I1
-aF0.036999999999999922
-asS'/quotes/zigman/583979/delayed/quotes/nls/brk.b brk.b'
+aF0.028248587570621538
+asS'dish -'
 p5758
 (lp5759
-I1
-aF0.00067980965329706225
-asS'shares general'
+I2
+aF0.0013596193065941245
+asS'unit fiat'
 p5760
 (lp5761
 I1
-aF0.00067980965329706225
-asS'recent news'
+aF0.0063291139240506224
+asS'larson senior'
 p5762
 (lp5763
-I1
-aF0.01163378856853821
-asS'one rising'
+I2
+aF-0.010838394062078319
+asS'year rate'
 p5764
 (lp5765
 I1
-aF-0.0044444444444443499
-asS'/quotes/zigman/21306639/delayed/quotes/nls/pbpb pbpb'
+aF0.022254127781766008
+asS'surprise loss'
 p5766
 (lp5767
-I2
-aF-0.053246146660439073
-asS'months russia'
+I44
+aF0.87759511459066997
+asS'aig federal'
 p5768
 (lp5769
-I2
-aF0.011512762036800132
-asS'icahn says'
+I4
+aF0.039241525733948263
+asS'however could'
 p5770
 (lp5771
-I3
-aF-0.0085215602366303603
-asS'earnings 80'
+I1
+aF-0.015098314606741563
+asS'weakest reading'
 p5772
 (lp5773
 I1
-aF-0.011144883485308961
-asS'could make'
+aF-0.0071729957805906396
+asS'uneven data'
 p5774
 (lp5775
-I2
-aF-0.0016391800632557622
-asS'ukraine 8'
+I30
+aF0.78528042609589921
+asS'comes difficult'
 p5776
 (lp5777
-I9
-aF0.063055396376559991
-asS'shipping unit'
+I4
+aF0.039241525733948263
+asS'sold minority'
 p5778
 (lp5779
 I1
-aF0.022254127781766008
-asS'public campaign'
+aF-0.015098314606741563
+asS'500 index'
 p5780
 (lp5781
 I1
-aF0.0028884159318941583
-asS'sales year'
+aF0.028248587570621538
+asS'/quotes/zigman/90481/delayed/quotes/nls/pcln pcln'
 p5782
 (lp5783
-I1
-aF-0.01486199575371556
-asS'average estimated'
+I4
+aF0.029237358331783595
+asS'reportedly called'
 p5784
 (lp5785
 I1
-aF0.0095057034220531987
-asS'comision nacional'
+aF0.0028884159318941583
+asS'fully compatible'
 p5786
 (lp5787
 I1
-aF-0.01486199575371556
-asS'saying monday'
+aF-0.015098314606741563
+asS'premarket briefing'
 p5788
 (lp5789
-I1
-aF0.0095057034220531987
-asS'- andre'
+I30
+aF0.78528042609589921
+asS'3 hold'
 p5790
 (lp5791
-I9
-aF0.063055396376559991
-asS'data. 100'
+I1
+aF0.028248587570621538
+asS'iterations mac'
 p5792
 (lp5793
-I1
-aF0.022254127781766008
-asS'unnerving messages'
+I2
+aF0.0094823222529492185
+asS'us momentum'
 p5794
 (lp5795
-I2
-aF-0.051282051282051329
-asS'fell 12'
-p5796
-(lp5797
 I1
 aF-0.042688910696761409
-asS'firm intuit'
+asS'levine special'
+p5796
+(lp5797
+I2
+aF-0.0005004065187305274
+asS'apple inc.'
 p5798
 (lp5799
-I2
-aF-0.00069443755499005305
-asS'inc. /quotes/zigman/5419837/delayed/quotes/nls/p'
+I3
+aF0.029027283270916533
+asS'blog ukraine'
 p5800
 (lp5801
-I1
-aF-0.015434451219512105
-asS'$3 billion'
+I43
+aF0.25877235100216228
+asS'liberty media'
 p5802
 (lp5803
-I1
-aF-0.015337423312883396
-asS'arts ea'
+I4
+aF0.0010669424439089712
+asS'people charge'
 p5804
 (lp5805
-I7
-aF-0.061600416238838308
-asS'18 min'
+I2
+aF-0.0096143372351269688
+asS'previously held'
 p5806
 (lp5807
-I12
-aF0.069076572220800783
-asS'fourth quarter'
+I1
+aF0.0095057034220531987
+asS'$81.1 million'
 p5808
 (lp5809
 I2
-aF0.070296089385474825
-asS'impact federal'
+aF0.044066106993071633
+asS"' would"
 p5810
 (lp5811
-I2
-aF-0.02972399150743112
-asS'effective july.while'
+I1
+aF-0.015098314606741563
+asS'nationals obtain'
 p5812
 (lp5813
 I1
-aF0.022254127781766008
-asS'year. iphones'
+aF-0.015098314606741563
+asS'ukraine matters'
 p5814
 (lp5815
-I1
-aF0.0028884159318941583
-asS'disregard accountability'
+I4
+aF-0.051577734309845545
+asS'freight shipments'
 p5816
 (lp5817
-I1
-aF-0.0078271226816403073
-asS'euros 2012'
+I2
+aF0.044508255563532016
+asS'reserved. tech'
 p5818
 (lp5819
 I1
-aF0.01163378856853821
-asS'percent earlier'
+aF0.0028884159318941583
+asS'0.34% \xc2'
 p5820
 (lp5821
-I1
-aF-0.025641025641025664
-asS'said month'
+I2
+aF0.0013596193065941245
+asS'offerings. tech'
 p5822
 (lp5823
 I1
-aF-0.042688910696761409
-asS'person briefed'
+aF-0.010660963270678267
+asS'reads u.s.'
 p5824
 (lp5825
-I1
-aF-0.013834507961367818
-asS'companies trying'
+I43
+aF0.25877235100216228
+asS'arguing terms'
 p5826
 (lp5827
-I1
-aF0.022254127781766008
-asS'cars posted'
+I4
+aF0.039241525733948263
+asS'europe stable.since'
 p5828
 (lp5829
 I1
-aF-0.042688910696761409
-asS'companies believe'
+aF-0.015098314606741563
+asS'entered agreement'
 p5830
 (lp5831
-I2
-aF0.0073921320280504483
-asS'april 2011'
+I1
+aF-0.012006549026741798
+asS'comm vz'
 p5832
 (lp5833
 I1
-aF0.0095057034220531987
-asS'obama failed'
+aF0.00082576383154416076
+asS'investors also'
 p5834
 (lp5835
 I1
-aF-0.01486199575371556
-asS'controversial social'
+aF0.012706969580285016
+asS'- emily'
 p5836
 (lp5837
-I1
-aF0.01163378856853821
-asS'2 36'
+I30
+aF0.78528042609589921
+asS'repelling tourists'
 p5838
 (lp5839
-I9
-aF0.063055396376559991
-asS'moscow luxury'
+I4
+aF-0.047177815558848674
+asS'4,350.83 change'
 p5840
 (lp5841
-I9
-aF0.063055396376559991
-asS'/quotes/zigman/222647/delayed/quotes/nls/ko ko'
+I1
+aF0.0065939063210550593
+asS'- 1.32%'
 p5842
 (lp5843
 I2
-aF-0.0096874231100129455
-asS'systems inc'
+aF-0.014010989010988762
+asS'rest europe'
 p5844
 (lp5845
 I1
-aF-0.013834507961367818
-asS'-- allowed'
+aF-0.015098314606741563
+asS'discretion risk'
 p5846
 (lp5847
 I1
-aF0.0028884159318941583
-asS'commission law'
+aF-0.015098314606741563
+asS'partners l.p.'
 p5848
 (lp5849
 I1
-aF-0.01486199575371556
-asS'stocks got'
+aF-0.0032679738562091968
+asS'carlyle /quotes/zigman/9872907/delayed/quotes/nls/cg'
 p5850
 (lp5851
-I1
-aF-0.01486199575371556
-asS'500 caesars'
+I2
+aF-0.062919807236027137
+asS'dan caplinger'
 p5852
 (lp5853
-I2
-aF0.019043392929388579
-asS'list linkedin'
+I1
+aF0.022254127781766008
+asS'22,000 flights'
 p5854
 (lp5855
-I8
-aF-0.07254061158029762
-asS'factset. solarcity'
+I2
+aF0.007155813175024445
+asS'soon. buffett'
 p5856
 (lp5857
 I1
-aF-0.020009416195856743
-asS'47 a.m.'
+aF0.022254127781766008
+asS'factor. starr'
 p5858
 (lp5859
-I42
-aF0.26426393719472163
-asS'ariz. related'
+I1
+aF0.034482758620689689
+asS"'s figure"
 p5860
 (lp5861
 I1
-aF0.0062801932367149279
-asS'signals ['
+aF-0.0071729957805906396
+asS'report northern'
 p5862
 (lp5863
-I1
-aF-0.025641025641025664
-asS'ruble ukraine'
+I6
+aF0.028685644767253066
+asS'$10 billion'
 p5864
 (lp5865
-I57
-aF0.33936168525976329
-asS'confrontation west'
+I1
+aF-0.025641025641025664
+asS'chevron contaminated'
 p5866
 (lp5867
 I1
-aF-0.024283439490445837
-asS'adsk -'
+aF-0.015098314606741563
+asS'sara sjolin'
 p5868
 (lp5869
-I1
-aF-0.015434451219512105
-asS'salvage ruble'
-p5870
-(lp5871
-I57
-aF0.33936168525976329
-asS'500 .'
-p5872
-(lp5873
-I9
-aF-0.059367019625946954
-asS'jan 6.the'
-p5874
-(lp5875
-I1
-aF0.022254127781766008
-asS'stock 2014'
-p5876
-(lp5877
-I1
-aF0.0095057034220531987
-asS'exchange. delta'
-p5878
-(lp5879
-I1
-aF0.022254127781766008
-asS'flight experience'
-p5880
-(lp5881
-I1
-aF-0.01486199575371556
-asS"'s one"
-p5882
-(lp5883
-I1
-aF0.0095057034220531987
-asS'anora mahmudova'
-p5884
-(lp5885
 I12
 aF0.069076572220800783
-asS'economic data.'
+asS'nissan motor'
+p5870
+(lp5871
+I1
+aF0.0063291139240506224
+asS'third bancorp'
+p5872
+(lp5873
+I2
+aF-0.0082949308755760238
+asS'pre-crisis problems'
+p5874
+(lp5875
+I2
+aF0.0073921320280504483
+asS'finds bitcoin'
+p5876
+(lp5877
+I9
+aF0.063055396376559991
+asS'spiraling 3'
+p5878
+(lp5879
+I30
+aF0.78528042609589921
+asS'/quotes/zigman/59898/delayed/quotes/nls/yhoo yhoo'
+p5880
+(lp5881
+I3
+aF0.029027283270916533
+asS'6 55'
+p5882
+(lp5883
+I39
+aF0.8483358224724592
+asS'6 57'
+p5884
+(lp5885
+I60
+aF1.5705608521917984
+asS'one potential'
 p5886
 (lp5887
 I1
-aF-0.01486199575371556
-asS'advising number'
+aF-0.013834507961367818
+asS'today9 52'
 p5888
 (lp5889
-I1
-aF-0.0078271226816403073
-asS'edition poland'
+I3
+aF0.019781718963165176
+asS'three well-known'
 p5890
 (lp5891
-I9
-aF0.063055396376559991
-asS'know ukraine'
+I8
+aF-0.020074526510182204
+asS'u.s stock'
 p5892
 (lp5893
-I12
-aF0.069076572220800783
-asS'office southern'
+I2
+aF0.013187812642110119
+asS'latest move'
 p5894
 (lp5895
 I1
-aF-0.01486199575371556
-asS'remain stuck'
+aF0.0085513078470825805
+asS'rockwood holdings'
 p5896
 (lp5897
-I2
-aF-0.036601126188498201
-asS'according ftc'
+I1
+aF0.032987171655467266
+asS'months russia'
 p5898
 (lp5899
-I1
-aF-0.01486199575371556
-asS'energy corp'
+I2
+aF0.011512762036800132
+asS'streak 22'
 p5900
 (lp5901
 I1
-aF-0.01749999999999996
-asS'machine shop'
+aF0.014802631578947345
+asS'could make'
 p5902
 (lp5903
-I1
-aF-0.0044444444444443499
-asS'machines "'
+I3
+aF0.0093751641990393129
+asS'shipping unit'
 p5904
 (lp5905
 I1
-aF-0.0044444444444443499
-asS'brings factory'
+aF0.022254127781766008
+asS'average estimated'
 p5906
 (lp5907
 I1
-aF0.0062801932367149279
-asS'6.the increase'
+aF0.0095057034220531987
+asS'weeks.citigroup disclosed'
 p5908
 (lp5909
 I1
-aF0.022254127781766008
-asS'subsidiary mexico'
+aF-0.01486199575371556
+asS'fourth quarter'
 p5910
 (lp5911
-I1
-aF-0.01486199575371556
-asS'felice head'
+I33
+aF0.84692599645023225
+asS'impact federal'
 p5912
 (lp5913
-I1
-aF-0.042688910696761409
-asS'wants companies'
+I4
+aF0.039241525733948263
+asS'standard poor'
 p5914
 (lp5915
-I2
-aF0.0073921320280504483
-asS'sales february'
+I1
+aF0.028248587570621538
+asS'beverage giant'
 p5916
 (lp5917
-I2
-aF-0.033183207274708207
-asS'defense agency'
+I1
+aF0.054777388694347298
+asS'disrupt ukraine'
 p5918
 (lp5919
 I1
-aF-0.01749999999999996
-asS'2,000 new'
+aF0.014802631578947345
+asS'advantage tax'
 p5920
 (lp5921
 I1
-aF0.0028884159318941583
-asS'earnings 2'
+aF0.021499999999999984
+asS'april 2011'
 p5922
 (lp5923
-I1
-aF0.016847172081828975
-asS'deliberations skype'
+I2
+aF0.037754290992674737
+asS'obama failed'
 p5924
 (lp5925
-I1
-aF-0.0078271226816403073
-asS'show sales'
+I2
+aF0.019620762866974131
+asS'2 36'
 p5926
 (lp5927
-I1
-aF-0.01486199575371556
-asS'earnings 98'
+I9
+aF0.063055396376559991
+asS'stratasys ssys'
 p5928
 (lp5929
-I1
-aF-0.019449798493078665
-asS'y de'
+I4
+aF-0.036225661420065031
+asS'said entering'
 p5930
 (lp5931
-I1
-aF-0.01486199575371556
-asS'pilots minimum'
+I4
+aF-0.010679627874459668
+asS'list linkedin'
 p5932
 (lp5933
-I1
-aF-0.01486199575371556
-asS"'s letter"
+I16
+aF0.046391384821821771
+asS'eventual path'
 p5934
 (lp5935
-I2
-aF0.0073921320280504483
-asS'1.63% \xc2'
+I1
+aF0.0065939063210550593
+asS'fitness finds'
 p5936
 (lp5937
-I2
-aF-0.053246146660439073
-asS"'t get"
+I30
+aF0.78528042609589921
+asS'change +25.03'
 p5938
 (lp5939
-I1
-aF0.022254127781766008
-asS'billion. lovallo'
+I2
+aF0.013187812642110119
+asS'wage battle'
 p5940
 (lp5941
-I1
-aF0.023487602630611493
-asS'skg inc.'
+I30
+aF0.78528042609589921
+asS'isps. contrast'
 p5942
 (lp5943
-I2
-aF-0.094282848545636913
-asS'came expense'
+I1
+aF0.020620086040646798
+asS'exchange. delta'
 p5944
 (lp5945
 I1
-aF-0.0078271226816403073
-asS'tumble 5.'
+aF0.022254127781766008
+asS'flight experience'
 p5946
 (lp5947
-I2
-aF-0.051282051282051329
-asS'- 0.83%'
+I1
+aF-0.01486199575371556
+asS'regulations red'
 p5948
 (lp5949
 I1
-aF-0.011144883485308961
-asS'better-ranked major'
+aF-0.015098314606741563
+asS'advising number'
 p5950
 (lp5951
 I2
-aF-0.0082949308755760238
-asS'silverado pickup'
+aF0.0050351650906114501
+asS'brand power'
 p5952
 (lp5953
 I1
-aF-0.042688910696761409
-asS'slides weak'
+aF0.054777388694347298
+asS'machines "'
 p5954
 (lp5955
-I45
-aF0.27028511303896241
-asS'would retire.eric'
+I1
+aF-0.0044444444444443499
+asS'; currently'
 p5956
 (lp5957
-I1
-aF-0.013834507961367818
-asS'13 a.m.'
+I30
+aF0.78528042609589921
+asS'felice head'
 p5958
 (lp5959
-I42
-aF0.26426393719472163
-asS'push stock'
+I1
+aF-0.042688910696761409
+asS'closed investigation'
 p5960
 (lp5961
 I1
-aF0.0028884159318941583
-asS'/quotes/zigman/65095/delayed/quotes/nls/pnra pnra'
+aF0.034482758620689689
+asS'wants companies'
 p5962
 (lp5963
 I2
-aF0.00033090668431503574
-asS'could cost'
+aF0.0073921320280504483
+asS'motor co'
 p5964
 (lp5965
-I1
-aF0.023487602630611493
-asS'two months'
+I5
+aF0.017134368692085299
+asS'2,000 new'
 p5966
 (lp5967
 I1
-aF0.022254127781766008
-asS'bank note.'
+aF0.0028884159318941583
+asS'views international'
 p5968
 (lp5969
 I1
-aF0.0095057034220531987
-asS'$8.5 billion'
+aF0.022254127781766008
+asS'y de'
 p5970
 (lp5971
 I1
-aF-0.013834507961367818
-asS'head u.s.'
+aF-0.01486199575371556
+asS'tally. obama'
 p5972
 (lp5973
 I1
-aF-0.042688910696761409
-asS'hit though'
+aF0.034482758620689689
+asS'1.63% \xc2'
 p5974
 (lp5975
-I1
-aF0.025356283546178002
-asS'deteriorate further.'
+I2
+aF-0.053246146660439073
+asS'- 0.83%'
 p5976
 (lp5977
 I1
-aF0.022254127781766008
-asS'stimulus --'
+aF-0.011144883485308961
+asS'would retire.eric'
 p5978
 (lp5979
 I1
-aF-0.01486199575371556
-asS'financial software'
+aF-0.013834507961367818
+asS'tsla +1.46%'
 p5980
 (lp5981
 I2
-aF-0.00069443755499005305
-asS'monday sales'
+aF0.034163473818646241
+asS'two months'
 p5982
 (lp5983
-I1
-aF0.0095057034220531987
-asS'trying\xc2 gauge'
+I2
+aF0.007155813175024445
+asS'uninsured major'
 p5984
 (lp5985
-I1
-aF-0.01486199575371556
-asS'annualized basis'
+I10
+aF0.065939063210550597
+asS'market price'
 p5986
 (lp5987
-I1
-aF0.0063291139240506224
-asS'rally 2'
+I2
+aF0.10801026392961874
+asS'open ukraine'
 p5988
 (lp5989
-I9
-aF0.063055396376559991
+I3
+aF0.019781718963165176
 asS'according regulatory'
 p5990
 (lp5991
 I1
 aF0.0028884159318941583
-asS'crisis 7'
+asS'protectionism launching'
 p5992
 (lp5993
-I12
-aF0.069076572220800783
-asS'like. "'
+I1
+aF-0.015098314606741563
+asS'fever fool\xe2\x80\x99s'
 p5994
 (lp5995
-I1
-aF-0.024283439490445837
-asS"andreessen 's"
+I9
+aF0.063055396376559991
+asS'delhi reuters'
 p5996
 (lp5997
-I2
-aF-0.021661630643008127
-asS'involvement flawed'
+I1
+aF-0.015098314606741563
+asS'today 9'
 p5998
 (lp5999
-I2
-aF0.0073921320280504483
-asS'deviations regulations'
+I30
+aF0.78528042609589921
+asS'fedex said.'
 p6000
 (lp6001
 I1
-aF-0.01486199575371556
-asS'february annualized'
+aF0.022254127781766008
+asS'number competitors'
 p6002
 (lp6003
-I1
-aF0.0063291139240506224
-asS'euros two'
+I2
+aF0.0050351650906114501
+asS'museo nacional'
 p6004
 (lp6005
-I1
-aF-0.010660963270678267
-asS'service whatsapp'
+I2
+aF0.033133788568538193
+asS'energy corp.'
 p6006
 (lp6007
 I1
-aF-0.015337423312883396
-asS'said index'
+aF0.017811704834605556
+asS'3 43'
 p6008
 (lp6009
-I1
-aF-0.0071729957805906396
-asS'apple fixes'
+I30
+aF0.78528042609589921
+asS'radioshack close'
 p6010
 (lp6011
-I1
-aF0.0028884159318941583
-asS'within month'
+I30
+aF0.78528042609589921
+asS'challenging 2008'
 p6012
 (lp6013
-I1
-aF0.00067980965329706225
-asS'diligent consideration'
+I4
+aF0.039241525733948263
+asS'[ people'
 p6014
 (lp6015
-I1
-aF-0.0078271226816403073
-asS'time companies'
+I2
+aF-0.010838394062078319
+asS'4 reasons'
 p6016
 (lp6017
 I1
-aF0.022254127781766008
-asS'analysts expected'
+aF0.034482758620689689
+asS'investigation two'
 p6018
 (lp6019
 I1
-aF-0.042688910696761409
-asS'jeff reeves'
+aF-0.01486199575371556
+asS'" say'
 p6020
 (lp6021
-I12
-aF0.069076572220800783
-asS'purchased skype'
+I1
+aF-0.015098314606741563
+asS'online -'
 p6022
 (lp6023
-I1
-aF-0.0078271226816403073
-asS'today10 24'
+I30
+aF0.78528042609589921
+asS'motors /quotes/zigman/118681/delayed/quotes/nls/tsla'
 p6024
 (lp6025
-I12
-aF0.069076572220800783
-asS'today10 26'
+I2
+aF0.040569339539934614
+asS'international corp.'
 p6026
 (lp6027
-I9
-aF0.063055396376559991
-asS'include chevrolet'
+I4
+aF0.021208070758720332
+asS'amount. qualify'
 p6028
 (lp6029
 I1
-aF-0.052777777777777764
-asS'today10 22'
+aF-0.015098314606741563
+asS'high 1,849'
 p6030
 (lp6031
-I12
-aF0.069076572220800783
-asS'senior equity'
+I2
+aF0.013187812642110119
+asS'index rising'
 p6032
 (lp6033
 I1
-aF-0.025641025641025664
-asS'george soros'
+aF0.025356283546178002
+asS'mar $3'
 p6034
 (lp6035
-I1
-aF-0.015434451219512105
-asS'-- federal'
+I30
+aF0.78528042609589921
+asS'bill saying'
 p6036
 (lp6037
-I1
-aF-0.01486199575371556
-asS'marketwatch inc.'
+I4
+aF-0.047177815558848674
+asS'weather much'
 p6038
 (lp6039
-I43
-aF0.25877235100216228
-asS'vehicles 6'
+I1
+aF0.034482758620689689
+asS'hp free'
 p6040
 (lp6041
 I1
-aF-0.042688910696761409
-asS'failed get'
+aF-0.0032679738562091968
+asS'faster february'
 p6042
 (lp6043
-I1
-aF-0.01486199575371556
-asS'cents share.'
+I55
+aF0.32784892322296316
+asS'linkedin corp-a'
 p6044
 (lp6045
-I5
-aF-0.053439139086454264
-asS'challenging 2008'
+I2
+aF0.044429609850170595
+asS'bitcoin want'
 p6046
 (lp6047
-I2
-aF-0.02972399150743112
-asS'co. /quotes/zigman/1466682/delayed/quotes/nls/gm'
+I1
+aF-0.015098314606741563
+asS'water closest'
 p6048
 (lp6049
-I3
-aF0.029027283270916533
-asS'reserved. related'
+I1
+aF-0.025641025641025664
+asS'ago rising'
 p6050
 (lp6051
 I2
-aF0.0057768318637883165
-asS'[ people'
+aF-0.036601126188498201
+asS'makers. boasting'
 p6052
 (lp6053
 I1
-aF-0.025641025641025664
-asS'familiar probes'
+aF0.086510263929618747
+asS'huge drop'
 p6054
 (lp6055
 I1
-aF-0.01486199575371556
-asS'reit hcn'
+aF-0.015098314606741563
+asS'head quantitative'
 p6056
 (lp6057
 I1
-aF-0.0096207215541164858
-asS'investigation two'
+aF-0.025641025641025664
+asS'things know'
 p6058
 (lp6059
-I1
-aF-0.01486199575371556
-asS'said 100'
+I30
+aF0.78528042609589921
+asS'mclennan mmc'
 p6060
 (lp6061
-I1
-aF0.0062801932367149279
-asS'00 a.m.'
+I2
+aF0.060087816422073489
+asS'months slowing'
 p6062
 (lp6063
-I48
-aF0.27630628888320324
-asS'required report'
-p6064
-(lp6065
-I1
-aF-0.01486199575371556
-asS'bidu -'
-p6066
-(lp6067
-I1
-aF-0.0069034107529398394
-asS'motors /quotes/zigman/118681/delayed/quotes/nls/tsla'
-p6068
-(lp6069
-I1
-aF0.023487602630611493
-asS'international corp.'
-p6070
-(lp6071
-I2
-aF0.0063122470976729999
-asS'g asset'
-p6072
-(lp6073
-I2
-aF0.0054684127212552011
-asS'basic rules'
-p6074
-(lp6075
-I2
-aF0.0073921320280504483
-asS'verizon wireless'
-p6076
-(lp6077
-I1
-aF-0.016598508539812311
-asS'instability comes'
-p6078
-(lp6079
-I2
-aF-0.02972399150743112
-asS'index rising'
-p6080
-(lp6081
-I1
-aF0.025356283546178002
-asS'matthew lynn'
-p6082
-(lp6083
-I18
-aF0.12611079275312001
-asS'two manolo'
-p6084
-(lp6085
-I1
-aF-0.010660963270678267
-asS'investment firm'
-p6086
-(lp6087
-I1
-aF0.0027342063606276006
-asS'500 faster'
-p6088
-(lp6089
-I2
-aF-0.014234192551842047
-asS'alaska hawaii'
-p6090
-(lp6091
-I1
-aF0.022254127781766008
-asS'bill saying'
-p6092
-(lp6093
-I4
-aF-0.047177815558848674
-asS'seemed concerned'
-p6094
-(lp6095
-I1
-aF0.022254127781766008
-asS'massing armored'
-p6096
-(lp6097
-I1
-aF-0.025641025641025664
-asS'100 roughly'
-p6098
-(lp6099
-I2
-aF-0.011720831113478896
-asS'social security'
-p6100
-(lp6101
-I1
-aF0.01163378856853821
-asS'2013 4.7'
-p6102
-(lp6103
-I1
-aF0.0028884159318941583
-asS'faster february'
-p6104
-(lp6105
-I55
-aF0.32784892322296316
-asS'exone xone'
-p6106
-(lp6107
-I2
-aF-0.051049018886638195
-asS'climbs 0.4%'
-p6108
-(lp6109
-I55
-aF0.32784892322296316
-asS'supply worries'
-p6110
-(lp6111
-I12
-aF0.069076572220800783
-asS'app competes'
-p6112
-(lp6113
-I1
-aF-0.010660963270678267
-asS'chill. "'
-p6114
-(lp6115
-I1
-aF-0.024283439490445837
-asS'ukraine might'
-p6116
-(lp6117
-I12
-aF0.069076572220800783
-asS'war sunday'
-p6118
-(lp6119
-I1
-aF-0.024283439490445837
-asS'indian shares'
-p6120
-(lp6121
-I9
-aF0.063055396376559991
-asS'another round'
-p6122
-(lp6123
-I1
-aF0.033296089385474903
-asS'brk.b -'
-p6124
-(lp6125
-I1
-aF0.00067980965329706225
-asS'sharply.market volatility'
-p6126
-(lp6127
-I1
-aF0.025356283546178002
-asS'isps blocking'
-p6128
-(lp6129
-I2
-aF-0.014234192551842047
-asS'ago rising'
-p6130
-(lp6131
-I2
-aF-0.036601126188498201
-asS'. companies'
-p6132
-(lp6133
-I1
-aF-0.0095658572479763795
-asS'say man'
-p6134
-(lp6135
-I1
-aF-0.01486199575371556
-asS'market vectors'
-p6136
-(lp6137
-I1
-aF0.022254127781766008
-asS'report reversed'
-p6138
-(lp6139
-I1
-aF-0.0071729957805906396
-asS'helm succeeded'
-p6140
-(lp6141
-I1
-aF-0.01749999999999996
-asS'morgan chase'
-p6142
-(lp6143
-I4
-aF0.013592832051404428
-asS"'s forces"
-p6144
-(lp6145
-I1
-aF-0.025641025641025664
-asS'aussie loonie'
-p6146
-(lp6147
-I9
-aF0.063055396376559991
-asS'two top-selling'
-p6148
-(lp6149
-I1
-aF0.0063291139240506224
-asS'terms bailout'
-p6150
-(lp6151
-I2
-aF-0.02972399150743112
-asS'months slowing'
-p6152
-(lp6153
 I1
 aF-0.0071729957805906396
 asS'svc cp'
-p6154
-(lp6155
+p6064
+(lp6065
 I2
 aF-0.014586566700890537
-asS'penn become'
-p6156
-(lp6157
-I1
-aF-0.013834507961367818
-asS'securitization practices'
-p6158
-(lp6159
-I1
-aF-0.01486199575371556
-asS'euro-zone recovery'
-p6160
-(lp6161
-I9
-aF0.063055396376559991
-asS'companies hire'
-p6162
-(lp6163
-I2
-aF0.0073921320280504483
+asS'pr newswire'
+p6066
+(lp6067
+I450
+aF11.779206391438434
 asS'serious sanctions'
-p6164
-(lp6165
+p6068
+(lp6069
 I1
 aF0.022254127781766008
-asS'would flat'
-p6166
-(lp6167
+asS'buy helmerich'
+p6070
+(lp6071
 I1
-aF-0.042688910696761409
-asS'verizon shares'
-p6168
-(lp6169
+aF0.028248587570621538
+asS'apple -'
+p6072
+(lp6073
 I1
-aF-0.016598508539812311
-asS'average 4.9'
-p6170
-(lp6171
+aF0.0065939063210550593
+asS'medicines. sao'
+p6074
+(lp6075
 I1
-aF0.022254127781766008
-asS'percent within'
-p6172
-(lp6173
-I1
-aF0.022254127781766008
-asS'dwa -'
-p6174
-(lp6175
-I2
-aF-0.094282848545636913
-asS'publicly announced'
-p6176
-(lp6177
-I1
-aF0.0028884159318941583
-asS'shutdown shows'
-p6178
-(lp6179
-I9
-aF0.063055396376559991
-asS'group inc'
-p6180
-(lp6181
-I1
-aF0.0028884159318941583
-asS'29 a.m.'
-p6182
-(lp6183
-I18
-aF0.12611079275312001
+aF-0.015098314606741563
 asS'17 a.m.'
-p6184
-(lp6185
+p6076
+(lp6077
 I9
 aF0.063055396376559991
-asS'stand region'
-p6186
-(lp6187
+asS'christmas list'
+p6078
+(lp6079
+I30
+aF0.78528042609589921
+asS'dollars heavy'
+p6080
+(lp6081
 I1
-aF-0.025641025641025664
-asS'cold-beverage system.'
-p6188
-(lp6189
+aF0.034482758620689689
+asS'executive tim'
+p6082
+(lp6083
 I1
-aF-0.011144883485308961
-asS'percent falling'
-p6190
-(lp6191
+aF0.0065939063210550593
+asS'billion investment.'
+p6084
+(lp6085
 I2
-aF-0.036601126188498201
-asS'5. related'
-p6192
-(lp6193
+aF0.0028409817157098796
+asS'come much'
+p6086
+(lp6087
 I1
-aF-0.025641025641025664
-asS'concerned threats'
-p6194
-(lp6195
-I1
-aF0.022254127781766008
-asS'carl icahn'
-p6196
-(lp6197
-I3
-aF-0.012765829431386457
-asS'would prohibit'
-p6198
-(lp6199
+aF0.0065939063210550593
+asS'airlines ual'
+p6088
+(lp6089
 I2
-aF-0.014234192551842047
-asS'museo nacional'
-p6200
-(lp6201
+aF0.007155813175024445
+asS'giant coca'
+p6090
+(lp6091
 I1
-aF0.01163378856853821
-asS'top stock'
-p6202
-(lp6203
-I43
-aF0.25877235100216228
-asS'earlier month'
-p6204
-(lp6205
-I1
-aF0.0028884159318941583
-asS'- amotz'
-p6206
-(lp6207
-I12
-aF0.069076572220800783
-asS'meoh northern'
-p6208
-(lp6209
-I2
-aF0.0063122470976729999
+aF0.054777388694347298
 asS'tapering --'
-p6210
-(lp6211
+p6092
+(lp6093
 I1
 aF-0.01486199575371556
-asS'nov. 13'
-p6212
-(lp6213
-I9
-aF0.063055396376559991
-asS'emerging markets'
-p6214
-(lp6215
-I4
-aF-0.059447983014862239
-asS'million ahead'
-p6216
-(lp6217
-I1
-aF-0.020009416195856743
 asS'$1,623 jinko'
-p6218
-(lp6219
+p6094
+(lp6095
 I12
 aF0.069076572220800783
-asS'highest paying'
-p6220
-(lp6221
-I8
-aF-0.07254061158029762
-asS'ugg boot'
-p6222
-(lp6223
+asS'said expects'
+p6096
+(lp6097
 I1
-aF-0.019905850706119568
-asS'straight months'
-p6224
-(lp6225
-I1
-aF-0.0071729957805906396
+aF0.032987171655467266
 asS'invoices used'
-p6226
-(lp6227
-I1
-aF-0.01486199575371556
-asS'15 a.m.'
-p6228
-(lp6229
-I9
-aF0.063055396376559991
-asS'program trying\xc2'
-p6230
-(lp6231
+p6098
+(lp6099
 I1
 aF-0.01486199575371556
 asS'compared least'
+p6100
+(lp6101
+I2
+aF0.03556487878640302
+asS"delta 's"
+p6102
+(lp6103
+I2
+aF0.044508255563532016
+asS'restructures units'
+p6104
+(lp6105
+I44
+aF0.87759511459066997
+asS'corp-a lnkd'
+p6106
+(lp6107
+I2
+aF0.044429609850170595
+asS'500 hits'
+p6108
+(lp6109
+I2
+aF0.013187812642110119
+asS'miss massive'
+p6110
+(lp6111
+I30
+aF0.78528042609589921
+asS'natural gas'
+p6112
+(lp6113
+I2
+aF0.035763561219754381
+asS'prosthetics wanted'
+p6114
+(lp6115
+I1
+aF-0.0044444444444443499
+asS'acmp free'
+p6116
+(lp6117
+I1
+aF-0.0032679738562091968
+asS'flipped skype'
+p6118
+(lp6119
+I2
+aF0.0028409817157098796
+asS'also rising'
+p6120
+(lp6121
+I3
+aF-0.036479419703103984
+asS'27% gain'
+p6122
+(lp6123
+I2
+aF0.10801026392961874
+asS'documents seen'
+p6124
+(lp6125
+I1
+aF-0.015098314606741563
+asS'similar local'
+p6126
+(lp6127
+I1
+aF-0.015098314606741563
+asS"'s broadband"
+p6128
+(lp6129
+I6
+aF0.013389593364884374
+asS'tuesday dreamworks'
+p6130
+(lp6131
+I2
+aF-0.030299319009660548
+asS'falling today'
+p6132
+(lp6133
+I30
+aF0.78528042609589921
+asS'- seeking'
+p6134
+(lp6135
+I120
+aF3.1411217043836022
+asS'plummeted 23'
+p6136
+(lp6137
+I1
+aF0.028248587570621538
+asS'raising short-term\xc2'
+p6138
+(lp6139
+I1
+aF-0.01486199575371556
+asS'expense ebay'
+p6140
+(lp6141
+I2
+aF0.0050351650906114501
+asS'percent.ford motor'
+p6142
+(lp6143
+I1
+aF-0.042688910696761409
+asS"'s ita\xc3\xba"
+p6144
+(lp6145
+I1
+aF-0.015098314606741563
+asS'share. tesla'
+p6146
+(lp6147
+I2
+aF0.040569339539934614
+asS'23 cents'
+p6148
+(lp6149
+I1
+aF0.028248587570621538
+asS'cars class'
+p6150
+(lp6151
+I10
+aF0.065939063210550597
+asS'conflicted non-discrimination'
+p6152
+(lp6153
+I1
+aF-0.010500807754442712
+asS'lose case'
+p6154
+(lp6155
+I1
+aF-0.015098314606741563
+asS'digits treasurys'
+p6156
+(lp6157
+I2
+aF0.011512762036800132
+asS'intel nearly'
+p6158
+(lp6159
+I1
+aF-0.010500807754442712
+asS'12 a.m.'
+p6160
+(lp6161
+I18
+aF0.12611079275312001
+asS'profit 144%'
+p6162
+(lp6163
+I2
+aF0.011512762036800132
+asS'trade nasdaq.'
+p6164
+(lp6165
+I1
+aF0.0065939063210550593
+asS'weather could'
+p6166
+(lp6167
+I4
+aF0.039241525733948263
+asS'obama won'
+p6168
+(lp6169
+I2
+aF0.033133788568538193
+asS'inc. wfm'
+p6170
+(lp6171
+I1
+aF-0.0096207215541164858
+asS'would driven'
+p6172
+(lp6173
+I1
+aF-0.015098314606741563
+asS'industry including'
+p6174
+(lp6175
+I4
+aF-0.036225661420065031
+asS'virginia. new'
+p6176
+(lp6177
+I1
+aF0.017951856385148825
+asS'ssys exone'
+p6178
+(lp6179
+I4
+aF-0.036225661420065031
+asS'investigation phase'
+p6180
+(lp6181
+I1
+aF0.032987171655467266
+asS'advertising strategy.bates'
+p6182
+(lp6183
+I1
+aF-0.013834507961367818
+asS'trading new'
+p6184
+(lp6185
+I1
+aF0.0095057034220531987
+asS'doctor facetime'
+p6186
+(lp6187
+I20
+aF0.11512762036800134
+asS'million third'
+p6188
+(lp6189
+I1
+aF0.036999999999999922
+asS'new auction'
+p6190
+(lp6191
+I1
+aF-0.015098314606741563
+asS'jpm -'
+p6192
+(lp6193
+I3
+aF0.029027283270916533
+asS'ecb closely'
+p6194
+(lp6195
+I9
+aF0.063055396376559991
+asS'18th options'
+p6196
+(lp6197
+I30
+aF0.78528042609589921
+asS'blatant ever'
+p6198
+(lp6199
+I2
+aF0.0050351650906114501
+asS'- 4'
+p6200
+(lp6201
+I1
+aF0.0065939063210550593
+asS'global holdings'
+p6202
+(lp6203
+I4
+aF-0.038294363224545734
+asS'17%. tesla'
+p6204
+(lp6205
+I1
+aF0.023487602630611493
+asS'methanex northern'
+p6206
+(lp6207
+I3
+aF0.015817950519726197
+asS'- "'
+p6208
+(lp6209
+I1
+aF-0.015098314606741563
+asS'starbucks corp.'
+p6210
+(lp6211
+I2
+aF0.03185842475789831
+asS'fourth-quarter earnings'
+p6212
+(lp6213
+I32
+aF-0.061597196812434869
+asS'factories newport'
+p6214
+(lp6215
+I2
+aF0.03556487878640302
+asS'behind bill'
+p6216
+(lp6217
+I2
+aF0.007155813175024445
+asS'fresh all-time'
+p6218
+(lp6219
+I43
+aF0.25877235100216228
+asS'effort taper'
+p6220
+(lp6221
+I1
+aF0.017811704834605556
+asS'chill. units'
+p6222
+(lp6223
+I1
+aF0.017951856385148825
+asS'finance agency'
+p6224
+(lp6225
+I2
+aF0.0073921320280504483
+asS'clear regrets.the'
+p6226
+(lp6227
+I1
+aF-0.015098314606741563
+asS'stocks warrant'
+p6228
+(lp6229
+I2
+aF-0.0082949308755760238
+asS'cars posted'
+p6230
+(lp6231
+I1
+aF-0.042688910696761409
+asS'rsx.p fell'
 p6232
 (lp6233
 I1
-aF0.0062801932367149279
-asS'employees seats'
+aF0.022254127781766008
+asS'gallery already'
 p6234
 (lp6235
-I1
-aF-0.0078271226816403073
-asS'received subpoena'
+I2
+aF-0.0005004065187305274
+asS'ruble ukraine'
 p6236
 (lp6237
-I1
-aF-0.01486199575371556
-asS'back life'
+I57
+aF0.33936168525976329
+asS'+2.53% day'
 p6238
 (lp6239
-I1
-aF-0.01486199575371556
-asS'euros 2010'
+I10
+aF0.057563810184000648
+asS'anora mahmudova'
 p6240
 (lp6241
-I1
-aF0.01163378856853821
-asS'euros 2013'
+I22
+aF0.13501563543135134
+asS'san francisco'
 p6242
 (lp6243
-I1
-aF0.01163378856853821
-asS'11 percent'
+I10
+aF-0.060775370143652127
+asS'transaction. overlap'
 p6244
 (lp6245
 I2
-aF-0.019311911716975043
-asS'pnc free'
+aF0.0050351650906114501
+asS'shack shares'
 p6246
 (lp6247
-I2
-aF-0.014586566700890537
-asS'rank 2'
+I30
+aF0.78528042609589921
+asS'risk weights'
 p6248
 (lp6249
-I3
-aF0.015817950519726197
-asS'york deal'
+I1
+aF-0.015098314606741563
+asS'euros two'
 p6250
 (lp6251
-I1
-aF-0.01486199575371556
-asS'biggest confrontation'
+I2
+aF-0.0005004065187305274
+asS'commission company'
 p6252
 (lp6253
 I1
-aF-0.024283439490445837
-asS'paypal. ebay'
+aF-0.01486199575371556
+asS"company 's"
 p6254
 (lp6255
-I1
-aF-0.0078271226816403073
-asS'get bigger'
+I7
+aF-0.032750638070967952
+asS'reportto read'
 p6256
 (lp6257
-I1
-aF-0.013834507961367818
-asS'consideration "'
+I3
+aF0.050800374916289345
+asS'prices also'
 p6258
 (lp6259
-I1
-aF-0.0078271226816403073
-asS'brand.analysts average'
+I4
+aF-0.021676788124156639
+asS'pulled back'
 p6260
 (lp6261
-I1
-aF0.0095057034220531987
-asS'non-fha-insured loan'
+I2
+aF0.040569339539934614
+asS'deteriorate further.'
 p6262
 (lp6263
 I1
-aF-0.01486199575371556
-asS'co. /quotes/zigman/272085/delayed/quotes/nls/jpm'
+aF0.022254127781766008
+asS'data. 2'
 p6264
 (lp6265
-I3
-aF0.029027283270916533
-asS'second biggest'
+I1
+aF0.034482758620689689
+asS'ko green'
 p6266
 (lp6267
 I1
-aF0.022254127781766008
-asS'citigroup book'
+aF0.054777388694347298
+asS'radioshack posts'
 p6268
 (lp6269
-I1
-aF-0.01486199575371556
-asS'prosthetics wanted'
+I30
+aF0.78528042609589921
+asS'central banks'
 p6270
 (lp6271
 I1
-aF-0.0044444444444443499
-asS'flipped skype'
+aF0.034482758620689689
+asS'+1.46% \xc2'
 p6272
 (lp6273
 I1
-aF-0.013834507961367818
-asS'u.s. sales'
+aF0.01708173690932312
+asS"comment.kaplan 's"
 p6274
 (lp6275
-I3
-aF-0.12806673209028424
-asS'also rising'
+I1
+aF-0.015098314606741563
+asS'janet yellen'
 p6276
 (lp6277
-I2
-aF-0.051282051282051329
-asS'absolutely nothing'
+I3
+aF0.0047587671132585697
+asS'reserved. iphones'
 p6278
 (lp6279
-I2
-aF-0.0096143372351269688
-asS'insight. "'
+I14
+aF0.092061194603624552
+asS'baidu bidu'
 p6280
 (lp6281
-I1
-aF-0.025641025641025664
-asS'6 29'
+I14
+aF0.018081633883883088
+asS"' duties"
 p6282
 (lp6283
-I9
-aF0.063055396376559991
-asS'russian stocks'
+I1
+aF-0.013834507961367818
+asS'stimulus. hiring'
 p6284
 (lp6285
-I2
-aF-0.0033868978592596563
-asS"'s broadband"
+I1
+aF-0.01486199575371556
+asS'leveled political'
 p6286
 (lp6287
-I3
-aF-0.024059813263408034
-asS'tuesday dreamworks'
+I4
+aF-0.012663166210594025
+asS'buoyed new'
 p6288
 (lp6289
 I1
-aF-0.047141424272818457
-asS'banamex usa'
+aF-0.015098314606741563
+asS"dick 's"
 p6290
 (lp6291
-I1
-aF-0.01486199575371556
-asS'military stand'
+I43
+aF0.25877235100216228
+asS'shares lagged'
 p6292
 (lp6293
-I1
-aF-0.025641025641025664
-asS'push sale'
+I2
+aF0.037754290992674737
+asS'vehicles side'
 p6294
 (lp6295
 I1
-aF-0.0078271226816403073
-asS'1.32% \xc2'
+aF-0.025641025641025664
+asS'conflict. overlap'
 p6296
 (lp6297
 I2
-aF-0.014010989010988762
-asS'saefong russia'
+aF0.035456571195278265
+asS'gauge long'
 p6298
 (lp6299
-I12
-aF0.069076572220800783
-asS'expectations saying'
+I1
+aF-0.01486199575371556
+asS'34 a.m.'
 p6300
 (lp6301
-I1
-aF0.0095057034220531987
-asS"ukraine 's"
+I36
+aF0.82484386402222953
+asS'rights trips'
 p6302
 (lp6303
-I13
-aF0.0036074133616977536
-asS'hopes new'
+I1
+aF-0.015098314606741563
+asS'could lose'
 p6304
 (lp6305
 I1
-aF-0.01486199575371556
-asS'investigation show'
+aF0.022254127781766008
+asS'real rate'
 p6306
 (lp6307
 I1
-aF-0.01486199575371556
-asS'0.82% stake'
+aF0.021499999999999984
+asS'including senior'
 p6308
 (lp6309
 I1
-aF-0.0078271226816403073
-asS'losses fourth'
+aF0.0095057034220531987
+asS'ready provide'
 p6310
 (lp6311
-I1
-aF0.033296089385474903
-asS'raising short-term\xc2'
+I9
+aF0.063055396376559991
+asS'- marketwire'
 p6312
 (lp6313
-I1
-aF-0.01486199575371556
-asS'kia motors'
+I90
+aF2.3558412782876994
+asS'- goldman'
 p6314
 (lp6315
 I1
-aF0.0095057034220531987
-asS'might pressure'
+aF0.0028884159318941583
+asS'volatility military'
 p6316
 (lp6317
-I12
-aF0.069076572220800783
-asS'securities exchange'
+I2
+aF-0.010838394062078319
+asS'way help'
 p6318
 (lp6319
 I2
-aF-0.02972399150743112
-asS'top-selling jeep'
+aF0.007155813175024445
+asS'- laura'
 p6320
 (lp6321
-I1
-aF0.0063291139240506224
-asS'guaranteed federal'
+I10
+aF0.065939063210550597
+asS'within mexico.the'
 p6322
 (lp6323
 I1
-aF-0.01486199575371556
-asS'biggest broadband'
+aF0.022254127781766008
+asS'seek safety'
 p6324
 (lp6325
-I2
-aF-0.023970052699711648
-asS'friday charter'
+I9
+aF0.063055396376559991
+asS'report chesapeake'
 p6326
 (lp6327
 I1
-aF-0.0085193657805474349
-asS'dealers analysts'
+aF-0.0032679738562091968
+asS'ukraine canadian'
 p6328
 (lp6329
-I1
-aF0.0063291139240506224
-asS'inc. /quotes/zigman/7212269/delayed/quotes/nls/grpn'
+I43
+aF0.25877235100216228
+asS'earnings 2'
 p6330
 (lp6331
 I2
-aF0.033694344163657949
-asS'share. tesla'
+aF0.044066106993071633
+asS'pile investors'
 p6332
 (lp6333
 I1
-aF0.023487602630611493
-asS'puerto rico'
+aF0.0065939063210550593
+asS'prominent business'
 p6334
 (lp6335
-I1
-aF0.022254127781766008
-asS'- jeff'
+I4
+aF0.044781306879880148
+asS'makes poland'
 p6336
 (lp6337
-I12
-aF0.069076572220800783
-asS"'s business"
+I9
+aF0.063055396376559991
+asS'building vehicle'
 p6338
 (lp6339
 I1
-aF-0.013834507961367818
-asS'airlines dal'
+aF-0.015098314606741563
+asS"'s idr"
 p6340
 (lp6341
-I4
-aF-0.047177815558848674
-asS'927,762 euros'
+I30
+aF0.78528042609589921
+asS'anti-gay measure'
 p6342
 (lp6343
 I1
-aF0.01163378856853821
-asS'conflicted non-discrimination'
+aF0.0028884159318941583
+asS'said demand'
 p6344
 (lp6345
 I1
-aF-0.010500807754442712
-asS'chairman board'
+aF0.0063291139240506224
+asS'- u.s.'
 p6346
 (lp6347
 I1
-aF0.0095057034220531987
-asS'ford said'
+aF-0.01749999999999996
+asS'500 intel'
 p6348
 (lp6349
-I1
-aF-0.042688910696761409
-asS'tumble ;'
+I20
+aF-0.00078643073702690854
+asS'american airlines'
 p6350
 (lp6351
-I14
-aF0.080589334257600925
-asS'rates defend'
+I5
+aF-0.024923687777082666
+asS'business automaker'
 p6352
 (lp6353
 I1
-aF0.022254127781766008
-asS'digits treasurys'
+aF-0.015098314606741563
+asS'restructuring toyota'
 p6354
 (lp6355
-I2
-aF0.011512762036800132
-asS'last year.'
+I1
+aF-0.015098314606741563
+asS'video company'
 p6356
 (lp6357
-I1
-aF0.0028884159318941583
-asS'told staff'
+I6
+aF0.013389593364884374
+asS'" despicable'
 p6358
 (lp6359
 I1
-aF-0.013834507961367818
-asS'doubts 10'
+aF-0.01486199575371556
+asS'company time'
 p6360
 (lp6361
-I9
-aF0.063055396376559991
-asS'falls yen'
+I1
+aF-0.013834507961367818
+asS'puerto rico'
 p6362
 (lp6363
-I57
-aF0.33936168525976329
-asS'12 a.m.'
+I1
+aF0.022254127781766008
+asS'uncertainty. new'
 p6364
 (lp6365
-I18
-aF0.12611079275312001
-asS'reuters.also topping'
+I1
+aF-0.024283439490445837
+asS'rally 11'
 p6366
 (lp6367
-I1
-aF0.0063291139240506224
-asS'meanwhile biggest'
+I9
+aF0.063055396376559991
+asS'inc. /quotes/zigman/109619/delayed/quotes/nls/dltr'
 p6368
 (lp6369
 I2
-aF-0.023970052699711648
-asS'van metre'
+aF-0.0025576453686709114
+asS'tech 30'
 p6370
 (lp6371
-I2
-aF-0.0088888888888886998
-asS'sifi "'
+I12
+aF0.023189645674656527
+asS'week "'
 p6372
 (lp6373
-I2
-aF-0.0096143372351269688
-asS'weather could'
+I1
+aF-0.042688910696761409
+asS'regarding paypal'
 p6374
 (lp6375
 I2
-aF-0.02972399150743112
-asS'obama won'
+aF0.0050351650906114501
+asS'banamex looking'
 p6376
 (lp6377
 I1
-aF0.01163378856853821
-asS'16 a.m.'
+aF-0.01486199575371556
+asS'fears cool'
 p6378
 (lp6379
-I12
-aF0.069076572220800783
-asS'currency 9'
+I44
+aF0.87759511459066997
+asS'thursday. related'
 p6380
 (lp6381
-I9
-aF0.063055396376559991
-asS'" rules.'
+I1
+aF0.023487602630611493
+asS'6 35'
 p6382
 (lp6383
-I1
-aF-0.01486199575371556
-asS'including walmart'
+I9
+aF0.063055396376559991
+asS'narrowing last'
 p6384
 (lp6385
-I2
-aF0.019043392929388579
-asS'expectations 2'
+I1
+aF-0.015098314606741563
+asS'icahn accused'
 p6386
 (lp6387
-I1
-aF0.0095057034220531987
-asS'inc. wfm'
+I2
+aF0.0050351650906114501
+asS'radioshack sirius'
 p6388
 (lp6389
-I1
-aF-0.0096207215541164858
-asS'better compete'
+I30
+aF0.78528042609589921
+asS'us mr'
 p6390
 (lp6391
 I1
-aF-0.011144883485308961
-asS'" open'
+aF0.0065939063210550593
+asS'case german'
 p6392
 (lp6393
 I1
-aF-0.01486199575371556
-asS'basis matching'
+aF-0.015098314606741563
+asS"charge 's"
 p6394
 (lp6395
-I1
-aF0.0063291139240506224
-asS'204,625 euros'
+I2
+aF-0.0096143372351269688
+asS'10-point gerard'
 p6396
 (lp6397
-I1
-aF0.01163378856853821
-asS'inflation. writes'
+I9
+aF0.063055396376559991
+asS'/quotes/zigman/227468/delayed/quotes/nls/ge ge'
 p6398
 (lp6399
 I1
-aF-0.01486199575371556
-asS'national bureau'
+aF0.00067980965329706225
+asS'" voluminous.'
 p6400
 (lp6401
-I2
-aF0.0076523476523476276
-asS'bitcoin fever'
+I1
+aF-0.015098314606741563
+asS'dionisio wedbush'
 p6402
 (lp6403
-I9
-aF0.063055396376559991
-asS'industry including'
+I1
+aF0.0075437537718768856
+asS'budget 927,762'
 p6404
 (lp6405
 I2
-aF-0.051049018886638195
-asS'wanted diversify.'
+aF0.033133788568538193
+asS'obama administration'
 p6406
 (lp6407
 I1
-aF-0.0044444444444443499
-asS'banamex made'
+aF-0.015098314606741563
+asS'numbers come'
 p6408
 (lp6409
 I1
 aF-0.01486199575371556
-asS'change +33.40'
+asS'12 months'
 p6410
 (lp6411
-I10
-aF0.057563810184000648
-asS'instant messages'
+I1
+aF0.0065939063210550593
+asS'2014 +0.41%'
 p6412
 (lp6413
 I1
-aF0.0028884159318941583
-asS'+33.40 +2.53%'
+aF0.0065939063210550593
+asS'jeffry bartash'
 p6414
 (lp6415
-I10
-aF0.057563810184000648
-asS'investments countries'
+I24
+aF0.13815314444160159
+asS'$5.26 --'
 p6416
 (lp6417
-I1
-aF-0.025641025641025664
-asS'santarelli analyst'
+I2
+aF0.10801026392961874
+asS'kla-tencor corp'
 p6418
 (lp6419
-I1
-aF0.0095057034220531987
-asS'advertising strategy.bates'
+I3
+aF0.076043454879415551
+asS'xerox corp.'
 p6420
 (lp6421
 I1
-aF-0.013834507961367818
-asS'disclose holdings'
+aF0.0065939063210550593
+asS'dealing blow'
 p6422
 (lp6423
 I1
-aF0.00067980965329706225
-asS'trading new'
+aF-0.015098314606741563
+asS'rising concerns'
 p6424
 (lp6425
-I1
-aF0.0095057034220531987
-asS'projected report'
+I3
+aF-0.036479419703103984
+asS'security apple'
 p6426
 (lp6427
-I6
-aF-0.10059136407511454
-asS'warner cable'
+I10
+aF0.065939063210550597
+asS'inc. /quotes/zigman/9962609/delayed/quotes/nls/fb'
 p6428
 (lp6429
 I2
-aF-0.023970052699711648
-asS'stopped issuing'
+aF0.0052826627277634021
+asS'chief financial'
 p6430
 (lp6431
-I1
-aF0.0028884159318941583
-asS'doctor facetime'
+I33
+aF0.80135665466990358
+asS'437 compression'
 p6432
 (lp6433
-I20
-aF0.11512762036800134
-asS'million third'
+I1
+aF0.017811704834605556
+asS'military move'
 p6434
 (lp6435
 I1
-aF0.036999999999999922
-asS'domestic express'
+aF0.017951856385148825
+asS'sodastream better'
 p6436
 (lp6437
-I1
-aF0.022254127781766008
-asS'sales 11'
+I2
+aF-0.00013053922301388583
+asS'banamex subsidiary'
 p6438
 (lp6439
 I1
-aF0.0063291139240506224
-asS'security updates'
+aF-0.01486199575371556
+asS'carlo santarelli'
 p6440
 (lp6441
-I1
-aF-0.013834507961367818
-asS'jpm -'
+I2
+aF0.037754290992674737
+asS'vectors russia'
 p6442
 (lp6443
-I3
-aF0.029027283270916533
-asS'ecb closely'
+I1
+aF0.022254127781766008
+asS'increase smaller'
 p6444
 (lp6445
-I9
-aF0.063055396376559991
-asS'- 0.50%'
+I1
+aF0.022254127781766008
+asS'extent natural'
 p6446
 (lp6447
 I1
-aF0.00067980965329706225
-asS'named peter'
+aF0.017811704834605556
+asS"' roc"
 p6448
 (lp6449
 I1
-aF0.0028884159318941583
-asS'loan ukraine'
+aF0.032987171655467266
+asS'week results'
 p6450
 (lp6451
-I9
-aF0.063055396376559991
-asS'17 percent'
+I1
+aF-0.015098314606741563
+asS'4.5 million'
 p6452
 (lp6453
 I1
-aF0.0095057034220531987
-asS'collecting public'
+aF0.036999999999999922
+asS'fedex increased'
 p6454
 (lp6455
 I1
-aF-0.010660963270678267
-asS'global holdings'
+aF0.022254127781766008
+asS'manage traffic'
 p6456
 (lp6457
-I2
-aF-0.045650441836882411
-asS'gox finds'
+I4
+aF0.010079537768633639
+asS'growth slow'
 p6458
 (lp6459
-I9
-aF0.063055396376559991
-asS'certain would'
+I7
+aF0.044000292847206829
+asS'kroger kr'
 p6460
 (lp6461
-I1
-aF-0.01486199575371556
-asS'transactions --'
+I8
+aF-0.020074526510182204
+asS'cash-rich technology'
 p6462
 (lp6463
-I1
-aF0.0028884159318941583
-asS'17%. tesla'
+I43
+aF0.25877235100216228
+asS'minimum wage'
 p6464
 (lp6465
-I1
-aF0.023487602630611493
-asS'methanex northern'
+I32
+aF0.81394262736619449
+asS'mobi .'
 p6466
 (lp6467
-I3
-aF0.015817950519726197
-asS'grain prices'
+I1
+aF0.086510263929618747
+asS'earnings 49'
 p6468
 (lp6469
 I2
-aF-0.051282051282051329
-asS'/quotes/zigman/162154/delayed/quotes/nls/nok nok'
+aF-0.0072003459476876735
+asS'sina european'
 p6470
 (lp6471
-I1
-aF0.036999999999999922
-asS"2013.february 's"
+I14
+aF0.018081633883883088
+asS'earnings 40'
 p6472
 (lp6473
-I1
-aF-0.0071729957805906396
-asS'- 0.48%'
+I2
+aF0.012228722696775317
+asS'bell tuesday'
 p6474
 (lp6475
-I5
-aF0.019339860160903589
-asS'company said'
+I2
+aF-0.030299319009660548
+asS'sales plunge'
 p6476
 (lp6477
-I1
-aF-0.01486199575371556
-asS'within canada'
+I30
+aF0.78528042609589921
+asS'paying $4,000'
 p6478
 (lp6479
-I1
-aF0.022254127781766008
-asS'fourth-quarter earnings'
+I16
+aF0.046391384821821771
+asS'outsiders access'
 p6480
 (lp6481
-I17
-aF-0.21446569232996499
-asS'factories newport'
+I2
+aF0.0094823222529492185
+asS'edition china'
 p6482
 (lp6483
-I1
-aF0.0062801932367149279
-asS'extended session'
+I18
+aF0.12611079275312001
+asS'+2.06% \xc2'
 p6484
 (lp6485
 I1
-aF-0.015337423312883396
-asS'earnings $1.05'
+aF0.0095969289827254941
+asS'services especially'
 p6486
 (lp6487
 I1
-aF-0.00091290852656571587
-asS'report quarterly'
+aF0.022254127781766008
+asS'employees current'
 p6488
 (lp6489
-I1
-aF-0.0085193657805474349
-asS'fresh all-time'
+I4
+aF-0.047177815558848674
+asS"xerox 's"
 p6490
 (lp6491
-I43
-aF0.25877235100216228
-asS'policy "'
+I1
+aF0.0065939063210550593
+asS'corn wheat'
 p6492
 (lp6493
-I1
-aF-0.010500807754442712
-asS'5 economic'
+I3
+aF-0.036479419703103984
+asS'$89.9 million'
 p6494
 (lp6495
-I1
-aF-0.01486199575371556
-asS'proposal 2015'
+I2
+aF0.040569339539934614
+asS'december.both inflation'
 p6496
 (lp6497
-I1
-aF0.01163378856853821
-asS'shares according'
+I2
+aF-0.036601126188498201
+asS'staples spls'
 p6498
 (lp6499
-I1
-aF0.0028884159318941583
-asS'59 a.m.'
+I8
+aF-0.020074526510182204
+asS'trimmed arco'
 p6500
 (lp6501
-I9
-aF0.063055396376559991
-asS'emails instant'
+I2
+aF0.033133788568538193
+asS'100,000 euros'
 p6502
 (lp6503
-I1
-aF0.0028884159318941583
-asS'- brett'
+I2
+aF-0.0005004065187305274
+asS'share price'
 p6504
 (lp6505
-I12
-aF0.069076572220800783
-asS'02 a.m.'
+I4
+aF0.063838735538067362
+asS'; j.c.'
 p6506
 (lp6507
-I42
-aF0.26426393719472163
-asS'stakes j.p.'
+I44
+aF0.87759511459066997
+asS'export revenue'
 p6508
 (lp6509
 I1
-aF-0.015434451219512105
-asS'asset management'
+aF0.017811704834605556
+asS'next big'
 p6510
 (lp6511
 I1
-aF0.0027342063606276006
-asS'vehicles. sales'
+aF0.0065939063210550593
+asS'thomson reuters'
 p6512
 (lp6513
-I1
-aF0.0095057034220531987
-asS'finance agency'
+I3
+aF-0.035296778668710962
+asS'cash stock'
 p6514
 (lp6515
 I2
-aF0.0073921320280504483
-asS'video game'
+aF0.0052826627277634021
+asS'banned meat'
 p6516
 (lp6517
-I7
-aF-0.061600416238838308
-asS'include methanex'
+I1
+aF-0.015098314606741563
+asS'reserved. london'
 p6518
 (lp6519
 I2
-aF0.0063122470976729999
-asS'ihs global'
+aF0.011512762036800132
+asS'new jobs'
 p6520
 (lp6521
-I4
-aF-0.10256410256410266
-asS'topped median'
+I1
+aF0.0028884159318941583
+asS'1,355.00 change'
 p6522
 (lp6523
-I1
-aF-0.0071729957805906396
-asS'cr reit'
+I10
+aF0.057563810184000648
+asS"radioshack 's"
 p6524
 (lp6525
-I1
-aF-0.0096207215541164858
-asS'called incident'
+I30
+aF0.78528042609589921
+asS'including stratasys'
 p6526
 (lp6527
-I1
-aF-0.01486199575371556
-asS'google wallet'
+I4
+aF-0.036225661420065031
+asS'marsh mclennan'
 p6528
 (lp6529
-I1
-aF-0.010660963270678267
-asS'- 2.55%'
+I4
+aF0.12017563284414698
+asS'report fourth-quarter'
 p6530
 (lp6531
-I1
-aF-0.015434451219512105
-asS'rsx.p fell'
+I18
+aF-0.074282256559491361
+asS'- anora'
 p6532
 (lp6533
-I1
-aF0.022254127781766008
-asS'investors seemed'
+I22
+aF0.13501563543135134
+asS'" investors'
 p6534
 (lp6535
 I1
-aF0.022254127781766008
-asS'gallery already'
+aF-0.025641025641025664
+asS'gmcr +0.06%'
 p6536
 (lp6537
-I1
-aF-0.010660963270678267
-asS'said looking'
+I2
+aF-0.0096874231100129455
+asS'1,000 stores'
 p6538
 (lp6539
-I1
-aF0.023487602630611493
-asS'american follow'
+I30
+aF0.78528042609589921
+asS'" prepackaged'
 p6540
 (lp6541
-I1
-aF0.022254127781766008
-asS'sunday washington'
+I44
+aF0.87759511459066997
+asS'donziger villagers'
 p6542
 (lp6543
 I1
-aF-0.024283439490445837
-asS'57 p.m.'
+aF-0.015098314606741563
+asS'healthcare corp.'
 p6544
 (lp6545
-I9
-aF0.063055396376559991
-asS'biggest management'
+I4
+aF-0.038294363224545734
+asS'markets read'
 p6546
 (lp6547
 I1
-aF-0.013834507961367818
-asS'san francisco'
+aF-0.015098314606741563
+asS"europe 's"
 p6548
 (lp6549
-I5
-aF-0.054537389082536671
-asS'transaction. overlap'
+I9
+aF0.063055396376559991
+asS"apple 's"
 p6550
 (lp6551
-I1
-aF-0.0078271226816403073
-asS'factory activity'
+I2
+aF0.013187812642110119
+asS'issues india'
 p6552
 (lp6553
 I1
-aF-0.0071729957805906396
-asS'shares u.k.'
+aF-0.015098314606741563
+asS'2014 +1.11%'
 p6554
 (lp6555
 I1
-aF-0.016598508539812311
-asS'xone voxeljet'
+aF0.0065939063210550593
+asS'quarter fiscal'
 p6556
 (lp6557
-I2
-aF-0.051049018886638195
-asS'love dollar'
+I1
+aF0.028248587570621538
+asS'sof\xc3\xada trimmed'
 p6558
 (lp6559
-I9
-aF0.063055396376559991
-asS'nobel nv'
+I2
+aF0.033133788568538193
+asS'drop forward-looking'
 p6560
 (lp6561
-I5
-aF0.0084597035604967799
-asS'2 buy'
+I1
+aF-0.0071729957805906396
+asS'access comcast'
 p6562
 (lp6563
-I3
-aF0.015817950519726197
-asS'tgt -'
+I6
+aF0.013389593364884374
+asS'tgt +0.19%'
 p6564
 (lp6565
 I1
-aF-0.011144883485308961
-asS'. dan'
+aF0.011014344262295075
+asS'citizens get'
 p6566
 (lp6567
-I2
-aF0.059254127781765933
-asS'interest rates'
+I1
+aF-0.015098314606741563
+asS'social network'
 p6568
 (lp6569
-I1
-aF0.022254127781766008
-asS'protection agencies'
+I2
+aF0.0052826627277634021
+asS'- 0.90%'
 p6570
 (lp6571
 I1
-aF-0.01486199575371556
-asS'commission company'
+aF-0.011144883485308961
+asS'security updates'
 p6572
 (lp6573
-I1
-aF-0.01486199575371556
-asS'500 comcast'
+I2
+aF0.0028409817157098796
+asS'hitting session'
 p6574
 (lp6575
-I2
-aF-0.023970052699711648
-asS"company 's"
+I1
+aF0.022254127781766008
+asS'1.85% \xc2'
 p6576
 (lp6577
-I2
-aF-0.050516033378401715
-asS'disclosed friday'
+I1
+aF-0.016598508539812311
+asS'apple aapl'
 p6578
 (lp6579
-I1
-aF-0.01486199575371556
-asS'projects director'
+I36
+aF0.10751031950827514
+asS'inc. rights'
 p6580
 (lp6581
-I1
-aF-0.010660963270678267
-asS'prices also'
+I43
+aF0.25877235100216228
+asS'jack ablin'
 p6582
 (lp6583
-I2
-aF-0.051282051282051329
-asS'pulled back'
+I1
+aF-0.015098314606741563
+asS'already wary'
 p6584
 (lp6585
-I1
-aF0.023487602630611493
-asS'running dry'
+I3
+aF0.0047587671132585697
+asS'bars ecuadorean'
 p6586
 (lp6587
-I32
-aF0.18420419258880216
-asS'share compared'
+I1
+aF-0.015098314606741563
+asS'rates 4.5'
 p6588
 (lp6589
 I1
-aF0.016847172081828975
-asS'basics since'
+aF0.022254127781766008
+asS'? period'
 p6590
 (lp6591
 I1
-aF0.0028884159318941583
-asS'share. solarcity'
+aF0.028248587570621538
+asS"'s giants"
 p6592
 (lp6593
-I1
-aF-0.020009416195856743
-asS'idea "'
+I12
+aF0.023189645674656527
+asS'access affordable'
 p6594
 (lp6595
 I1
-aF-0.0078271226816403073
-asS'monitoring ukraine'
+aF-0.015098314606741563
+asS'55 cents'
 p6596
 (lp6597
-I52
-aF0.32182774737872233
-asS'learn love'
+I4
+aF-0.054911938324934823
+asS"bundesbank 's"
 p6598
 (lp6599
-I9
-aF0.063055396376559991
-asS'$22.16 lowest'
+I2
+aF0.019384444013948128
+asS'analyst rommel'
 p6600
 (lp6601
 I1
-aF0.022254127781766008
-asS'shipping rates'
+aF0.0075437537718768856
+asS'40 declining'
 p6602
 (lp6603
-I1
-aF0.022254127781766008
-asS'reller leave'
+I3
+aF0.037582491501740728
+asS'ago. priceline.com'
 p6604
 (lp6605
 I1
-aF-0.013834507961367818
-asS'go unaddressed'
+aF0.022477283596365322
+asS'worst states'
 p6606
 (lp6607
-I1
-aF0.0028884159318941583
-asS'speaking cnbc'
+I10
+aF0.065939063210550597
+asS'p. saefong'
 p6608
 (lp6609
-I1
-aF-0.005373455131649536
-asS'director new'
+I36
+aF0.20722971666240242
+asS'issue ukraine'
 p6610
 (lp6611
 I1
-aF-0.010660963270678267
-asS'risen 1'
+aF0.017951856385148825
+asS'step may'
 p6612
 (lp6613
 I1
-aF0.0095057034220531987
-asS'said.banamex made'
+aF-0.01749999999999996
+asS'hewlett-packard co.'
 p6614
 (lp6615
-I1
-aF-0.01486199575371556
-asS'madoff investments'
+I2
+aF0.040569339539934614
+asS'laura secord'
 p6616
 (lp6617
-I43
-aF0.25877235100216228
-asS'-- successfully.'
+I1
+aF-0.012006549026741798
+asS'february gold'
 p6618
 (lp6619
-I1
-aF-0.01486199575371556
-asS'in-home cold-beverage'
+I43
+aF0.25877235100216228
+asS'hiring remains'
 p6620
 (lp6621
-I2
-aF-0.0096874231100129455
-asS'janet yellen'
+I4
+aF0.039241525733948263
+asS'also wants'
 p6622
 (lp6623
 I2
-aF-0.02972399150743112
-asS'reserved. iphones'
+aF0.0073921320280504483
+asS'letter boards.the'
 p6624
 (lp6625
-I14
-aF0.092061194603624552
-asS'baidu bidu'
+I2
+aF0.0073921320280504483
+asS'dynamic "'
 p6626
 (lp6627
-I7
-aF-0.061600416238838308
-asS"' duties"
+I5
+aF0.1588106388459081
+asS'credit-card fraud'
 p6628
 (lp6629
-I1
-aF-0.013834507961367818
-asS'tapering quantitative'
+I20
+aF0.11512762036800134
+asS'- 0.20%'
 p6630
 (lp6631
-I1
-aF-0.01486199575371556
-asS'stimulus. hiring'
+I2
+aF-0.012057792011874676
+asS'in-depth investigation'
 p6632
 (lp6633
 I1
-aF-0.01486199575371556
-asS'hackers. recently'
+aF0.032987171655467266
+asS'thestreet.com radioshack'
 p6634
 (lp6635
-I1
-aF0.0028884159318941583
-asS'escalates 12'
+I120
+aF3.1411217043836022
+asS'federal rules'
 p6636
 (lp6637
-I9
-aF0.063055396376559991
-asS'paris.president vladimir'
+I1
+aF-0.01486199575371556
+asS'brand gained'
 p6638
 (lp6639
 I1
-aF-0.025641025641025664
-asS"'s weakness"
+aF0.0095057034220531987
+asS'.fairholme said'
 p6640
 (lp6641
-I1
-aF-0.0071729957805906396
-asS'leveled political'
+I2
+aF0.0073921320280504483
+asS'safe-havens 4'
 p6642
 (lp6643
-I2
-aF-0.048566878980891674
-asS'marc andreessen'
+I9
+aF0.063055396376559991
+asS'make rich.'
 p6644
 (lp6645
 I1
-aF-0.0078271226816403073
-asS'fell $218'
+aF0.0095057034220531987
+asS'stakes anadarko'
 p6646
 (lp6647
-I1
-aF-0.0070054945054943809
-asS"dick 's"
+I2
+aF0.023622213537533625
+asS'7201.t .chrysler'
 p6648
 (lp6649
-I43
-aF0.25877235100216228
-asS"parties 's"
+I1
+aF0.0063291139240506224
+asS'losing streak'
 p6650
 (lp6651
-I3
-aF-0.024059813263408034
-asS'starr ex-chairman'
+I1
+aF0.0065939063210550593
+asS'company restructures'
 p6652
 (lp6653
-I2
-aF-0.02972399150743112
-asS'$5.79 share'
+I44
+aF0.87759511459066997
+asS'edition ecb'
 p6654
 (lp6655
-I1
-aF-0.0078586044304735248
-asS'take bates'
+I9
+aF0.063055396376559991
+asS'- edgar'
 p6656
 (lp6657
-I1
-aF-0.013834507961367818
-asS'year-earlier period.'
+I30
+aF0.78528042609589921
+asS'factory jobs'
 p6658
 (lp6659
-I1
-aF-0.026623073330219536
-asS'year earlier.'
+I2
+aF0.03556487878640302
+asS"'t enough"
 p6660
 (lp6661
 I1
-aF0.0095057034220531987
-asS'yellen told'
+aF0.012706969580285016
+asS'market roared'
 p6662
 (lp6663
 I1
 aF-0.01486199575371556
-asS'0.48% \xc2'
+asS'end 2013.apple'
 p6664
 (lp6665
-I2
-aF-0.0096874231100129455
-asS"'s done"
+I1
+aF0.0065939063210550593
+asS'- 1.51%'
 p6666
 (lp6667
-I3
-aF-0.024059813263408034
-asS'york prosecutors'
+I1
+aF-0.017333579199704921
+asS'cold weather'
 p6668
 (lp6669
-I1
-aF-0.01486199575371556
-asS'lnkd facebook'
+I5
+aF0.045570639657998881
+asS'much reason'
 p6670
 (lp6671
-I8
-aF-0.07254061158029762
-asS'shares lagged'
+I1
+aF0.034482758620689689
+asS'$16 billion'
 p6672
 (lp6673
-I1
-aF0.0095057034220531987
-asS'bbt fifth'
+I2
+aF0.0052826627277634021
+asS'hot oil'
 p6674
 (lp6675
-I2
-aF-0.0082949308755760238
-asS'7267.t sales'
+I4
+aF0.044938893448227483
+asS'smartphone new'
 p6676
 (lp6677
-I1
-aF0.0095057034220531987
-asS'edition indian'
+I30
+aF0.78528042609589921
+asS'weather month'
 p6678
 (lp6679
-I9
-aF0.063055396376559991
-asS'comcast netflix'
+I1
+aF0.0063291139240506224
+asS'agency fhfa'
 p6680
 (lp6681
-I3
-aF-0.024059813263408034
-asS'said minimum'
+I2
+aF0.0073921320280504483
+asS'status founder'
 p6682
 (lp6683
-I1
-aF-0.005373455131649536
-asS'two subpoenas'
+I4
+aF0.044938893448227483
+asS'big banks'
 p6684
 (lp6685
 I1
-aF-0.01486199575371556
-asS'vehicles side'
+aF0.022254127781766008
+asS'fraud mexico'
 p6686
 (lp6687
-I1
-aF-0.025641025641025664
-asS'skype. part'
+I43
+aF0.25877235100216228
+asS'cost cuts'
 p6688
 (lp6689
 I1
-aF-0.0078271226816403073
-asS'software patches'
+aF-0.015098314606741563
+asS'11 a.m.'
 p6690
 (lp6691
-I1
-aF0.0028884159318941583
-asS'showed expectations'
+I120
+aF3.1411217043836022
+asS'performance. "'
 p6692
 (lp6693
-I1
-aF-0.042688910696761409
-asS'" "'
+I2
+aF0.0050351650906114501
+asS'stakes pandora'
 p6694
 (lp6695
 I1
-aF-0.0078271226816403073
-asS'report air'
+aF-0.015434451219512105
+asS'18 months'
 p6696
 (lp6697
-I3
-aF0.0021474564628237813
-asS'former clinton'
+I2
+aF0.023269395998132755
+asS"brazil 's"
 p6698
 (lp6699
 I1
-aF-0.013834507961367818
-asS'oil stocks'
+aF-0.015098314606741563
+asS'exports still'
 p6700
 (lp6701
-I43
-aF0.25877235100216228
-asS'money expand'
+I1
+aF0.017951856385148825
+asS'ruble.the market'
 p6702
 (lp6703
 I1
-aF-0.0044444444444443499
-asS'40 2%'
+aF0.022254127781766008
+asS'prop ruble.ukraine'
 p6704
 (lp6705
 I1
-aF-0.0058604155567394478
-asS'fixes security'
+aF-0.025641025641025664
+asS'- david'
 p6706
 (lp6707
-I1
-aF0.0028884159318941583
-asS'greenlight capital'
+I9
+aF0.063055396376559991
+asS'dan loeb\xe2\x80\x99s'
 p6708
 (lp6709
-I2
-aF0.023622213537533625
-asS'attract big'
+I1
+aF0.036999999999999922
+asS'rose $378.1'
 p6710
 (lp6711
-I1
-aF-0.050196850393700768
-asS'could lose'
+I2
+aF0.014618679165891798
+asS'" reinforces'
 p6712
 (lp6713
 I1
-aF0.022254127781766008
-asS'inc. /quotes/zigman/23609459/delayed/quotes/nls/mar'
+aF-0.025641025641025664
+asS'tenet healthcare'
 p6714
 (lp6715
-I1
-aF-0.017333579199704921
-asS'traffic others'
+I4
+aF-0.038294363224545734
+asS'. reuters'
 p6716
 (lp6717
-I2
-aF-0.014234192551842047
-asS'including senior'
+I1
+aF-0.013834507961367818
+asS'bankruptcy. stocks'
 p6718
 (lp6719
 I1
-aF0.0095057034220531987
-asS'since released'
+aF-0.01486199575371556
+asS'berkshire outperformance'
 p6720
 (lp6721
-I1
-aF0.0028884159318941583
-asS'7203.t hyundai'
+I2
+aF0.023269395998132755
+asS'set promote'
 p6722
 (lp6723
 I1
-aF0.0095057034220531987
-asS'asa-el european'
+aF-0.015098314606741563
+asS'blog 10'
 p6724
 (lp6725
-I12
-aF0.069076572220800783
-asS'microsoft msft'
+I30
+aF0.78528042609589921
+asS'shareholder according'
 p6726
 (lp6727
-I19
-aF-0.19394452924679614
-asS'16 2014'
+I1
+aF-0.015098314606741563
+asS'gmcr -'
 p6728
 (lp6729
-I9
-aF0.063055396376559991
-asS'session hertz'
+I2
+aF-0.00099220476444672294
+asS'open letter'
 p6730
 (lp6731
 I2
-aF-0.045650441836882411
-asS'4-1/2 years.energy'
+aF0.0050351650906114501
+asS'radioshack next'
 p6732
 (lp6733
-I1
-aF0.022254127781766008
-asS"'s gain"
+I44
+aF0.87759511459066997
+asS"'s group"
 p6734
 (lp6735
-I1
-aF0.023487602630611493
-asS'bailout aig'
+I2
+aF0.0028409817157098796
+asS'sirius 7'
 p6736
 (lp6737
-I2
-aF-0.02972399150743112
-asS'- goldman'
+I30
+aF0.78528042609589921
+asS'noble $22'
 p6738
 (lp6739
-I1
-aF0.0028884159318941583
-asS"november 's"
+I2
+aF0.032728465832498853
+asS'continues 7'
 p6740
 (lp6741
-I1
-aF-0.0071729957805906396
-asS'unit remain'
+I9
+aF0.063055396376559991
+asS'01 p.m.'
 p6742
 (lp6743
 I1
-aF-0.013834507961367818
-asS'cboe volatility'
+aF0.0065939063210550593
+asS'sale one'
 p6744
 (lp6745
 I1
-aF0.025356283546178002
-asS'getting china'
+aF-0.0044444444444443499
+asS'+25.03 +1.36%'
 p6746
 (lp6747
-I9
-aF0.063055396376559991
-asS'way help'
+I2
+aF0.013187812642110119
+asS'analysis report'
 p6748
 (lp6749
-I1
-aF0.022254127781766008
-asS'air prods'
+I84
+aF0.8341863453231948
+asS'reading since'
 p6750
 (lp6751
-I3
-aF0.0021474564628237813
-asS'seek safety'
+I1
+aF-0.0071729957805906396
+asS'attention green'
 p6752
 (lp6753
-I9
-aF0.063055396376559991
-asS'bonds fell'
+I4
+aF-0.010679627874459668
+asS'reinforces suspicion'
 p6754
 (lp6755
 I1
-aF0.022254127781766008
-asS'ebay ebay'
+aF-0.025641025641025664
+asS'nerve 8'
 p6756
 (lp6757
-I12
-aF-0.10242904949542028
-asS'bitcoin really'
-p6758
-(lp6759
 I9
 aF0.063055396376559991
-asS'fourth-quarter profit'
+asS'minute taking'
+p6758
+(lp6759
+I1
+aF0.0065939063210550593
+asS'smartphone handset'
 p6760
 (lp6761
 I1
-aF-0.0070054945054943809
-asS'ukraine canadian'
+aF0.086510263929618747
+asS'paid it.'
 p6762
 (lp6763
-I43
-aF0.25877235100216228
-asS'rudder head'
+I2
+aF0.0050351650906114501
+asS'shares hk'
 p6764
 (lp6765
-I1
-aF-0.013834507961367818
-asS'said russia'
+I2
+aF0.011512762036800132
+asS'unscrupulous corporation.but'
 p6766
 (lp6767
 I1
-aF-0.025641025641025664
-asS'2 percent'
+aF-0.015098314606741563
+asS'inc. solarcity'
 p6768
 (lp6769
-I2
-aF-0.036601126188498201
-asS'500 2011'
+I4
+aF-0.038294363224545734
+asS'said could'
 p6770
 (lp6771
-I1
-aF-0.013834507961367818
-asS'corp meoh'
+I2
+aF-0.029960310360457123
+asS'recovers 11'
 p6772
 (lp6773
-I3
-aF0.0021474564628237813
-asS'related jan'
-p6774
-(lp6775
-I1
-aF0.0028884159318941583
-asS'makes poland'
-p6776
-(lp6777
 I9
 aF0.063055396376559991
-asS"saturn 's"
+asS'senior economist'
+p6774
+(lp6775
+I2
+aF-0.010838394062078319
+asS'services energy'
+p6776
+(lp6777
+I1
+aF-0.01749999999999996
+asS'new york'
 p6778
 (lp6779
-I1
-aF-0.052777777777777764
-asS'prohibit isps'
+I40
+aF0.810553970564312
+asS'chocolate maker'
 p6780
 (lp6781
-I2
-aF-0.014234192551842047
-asS'anti-gay measure'
+I1
+aF-0.012006549026741798
+asS'obligations facebook'
 p6782
 (lp6783
-I1
-aF0.0028884159318941583
-asS'wednesday\xe2\x80\x99s session'
+I44
+aF0.87759511459066997
+asS'\xc2 late'
 p6784
 (lp6785
-I2
-aF-0.032374549876265757
-asS'said demand'
+I4
+aF-0.047325463357154596
+asS'top-selling chevy'
 p6786
 (lp6787
 I1
-aF0.0063291139240506224
-asS'solar-panel maker'
+aF-0.042688910696761409
+asS'upcoming keurig'
 p6788
 (lp6789
 I1
-aF-0.019449798493078665
-asS'price target'
+aF0.054777388694347298
+asS'quantitative easing'
 p6790
 (lp6791
-I1
-aF0.023487602630611493
-asS'changes delta'
+I2
+aF-0.02972399150743112
+asS'" threat'
 p6792
 (lp6793
-I1
-aF0.022254127781766008
-asS'yuan move'
+I3
+aF-0.036479419703103984
+asS'veto bill.'
 p6794
 (lp6795
-I9
-aF0.063055396376559991
-asS'500 intel'
+I1
+aF0.0028884159318941583
+asS'strategy funds.'
 p6796
 (lp6797
-I12
-aF-0.11971842713914631
-asS'weakness 6'
+I1
+aF0.028248587570621538
+asS'prf consumer'
 p6798
 (lp6799
-I9
-aF0.063055396376559991
-asS'american airlines'
+I30
+aF0.78528042609589921
+asS'$470 billion.'
 p6800
 (lp6801
-I5
-aF-0.024923687777082666
-asS'august would'
+I1
+aF-0.015098314606741563
+asS'months 2013'
 p6802
 (lp6803
 I1
-aF-0.013834507961367818
-asS'nacional bancaria'
+aF0.0028884159318941583
+asS'fraud according'
 p6804
 (lp6805
 I1
-aF-0.01486199575371556
-asS'liquidity boost'
+aF0.022254127781766008
+asS'loss $89.9'
 p6806
 (lp6807
-I9
-aF0.063055396376559991
-asS'0.83% \xc2'
+I2
+aF0.040569339539934614
+asS'september handing'
 p6808
 (lp6809
 I1
-aF-0.011144883485308961
-asS'video company'
+aF0.0065939063210550593
+asS'united american'
 p6810
 (lp6811
-I3
-aF-0.024059813263408034
-asS'+0.53% bp'
+I1
+aF0.022254127781766008
+asS'+0.41% buffett'
 p6812
 (lp6813
-I2
-aF0.023622213537533625
-asS'them. comcast'
+I1
+aF0.0065939063210550593
+asS'seen reuters.'
 p6814
 (lp6815
-I2
-aF-0.023970052699711648
-asS'directly conflicted'
+I1
+aF-0.015098314606741563
+asS'lately leading'
 p6816
 (lp6817
 I1
-aF-0.010500807754442712
-asS'report fifth'
+aF0.0085513078470825805
+asS'growing hybrid'
 p6818
 (lp6819
-I2
-aF-0.014586566700890537
-asS'" despicable'
+I1
+aF-0.015098314606741563
+asS'- 0.05%'
 p6820
 (lp6821
-I1
-aF-0.01486199575371556
-asS'- 2.37%'
+I3
+aF0.029027283270916533
+asS'dfrg free'
 p6822
 (lp6823
 I1
-aF-0.047141424272818457
-asS"delta 's"
+aF0.012706969580285016
+asS'percent luxury'
 p6824
 (lp6825
-I2
-aF0.044508255563532016
-asS'federal communications'
+I1
+aF0.0095057034220531987
+asS"mexico 's"
 p6826
 (lp6827
 I1
 aF-0.01486199575371556
-asS'a.m. oct.'
+asS'became issue'
 p6828
 (lp6829
-I9
-aF0.063055396376559991
-asS'1.7%. france'
+I2
+aF0.037754290992674737
+asS'impact united'
 p6830
 (lp6831
 I1
-aF-0.0058604155567394478
-asS'company time'
+aF0.022254127781766008
+asS'spike gm'
 p6832
 (lp6833
-I1
-aF-0.013834507961367818
-asS'since beginning'
+I45
+aF0.27028511303896241
+asS'- blogs.marketwatch.com'
 p6834
 (lp6835
-I1
-aF0.0028884159318941583
-asS'small companies.'
+I64
+aF1.5969364774760186
+asS'streak stock'
 p6836
 (lp6837
 I1
-aF-0.0078271226816403073
-asS'fifth third'
+aF0.0065939063210550593
+asS'exports huge'
 p6838
 (lp6839
-I4
-aF-0.022881497576466563
-asS'uncertainty. new'
+I1
+aF0.017951856385148825
+asS'ecb monitoring'
 p6840
 (lp6841
-I1
-aF-0.024283439490445837
-asS'conflict. overlap'
+I43
+aF0.25877235100216228
+asS'single-serve beverage'
 p6842
 (lp6843
 I1
-aF-0.0035828534868842113
-asS'rates 4.5'
+aF-0.012006549026741798
+asS'tsunami japan.he'
 p6844
 (lp6845
 I1
-aF0.022254127781766008
-asS'ruling overturned'
+aF-0.015098314606741563
+asS'scare -'
 p6846
 (lp6847
-I2
-aF-0.023970052699711648
-asS'rally 11'
+I1
+aF0.0065939063210550593
+asS"'s windows"
 p6848
 (lp6849
-I9
-aF0.063055396376559991
-asS'dan concludes'
+I1
+aF-0.013834507961367818
+asS'unibanco holding'
 p6850
 (lp6851
 I1
-aF0.022254127781766008
-asS'polled reuters.also'
+aF-0.015098314606741563
+asS'auction alleging'
 p6852
 (lp6853
 I1
-aF0.0063291139240506224
-asS'week high'
+aF-0.015098314606741563
+asS'held united'
 p6854
 (lp6855
-I12
-aF0.069076572220800783
-asS'skype transaction.'
+I1
+aF-0.015098314606741563
+asS'effort consolidate'
 p6856
 (lp6857
 I1
-aF-0.0078271226816403073
-asS'given ;'
+aF-0.015098314606741563
+asS"'s forces"
 p6858
 (lp6859
 I1
-aF0.0095057034220531987
-asS'beat expectations'
+aF-0.025641025641025664
+asS'microsoft corp'
 p6860
 (lp6861
-I1
-aF-0.042688910696761409
-asS'0.16% \xc2'
+I3
+aF0.009434888036764939
+asS"' expectations"
 p6862
 (lp6863
-I1
-aF0.00067980965329706225
-asS'0.90% \xc2'
+I2
+aF0.01583481734610382
+asS'mark penn'
 p6864
 (lp6865
 I1
-aF-0.011144883485308961
-asS'day low'
+aF-0.013834507961367818
+asS'oil services'
 p6866
 (lp6867
-I12
-aF0.069076572220800783
-asS'fraud according'
+I1
+aF-0.01486199575371556
+asS'could spell'
 p6868
 (lp6869
 I1
-aF0.022254127781766008
-asS'used receiving'
+aF-0.015098314606741563
+asS'declining retail'
 p6870
 (lp6871
 I1
-aF0.022254127781766008
-asS'inc. /quotes/zigman/109619/delayed/quotes/nls/dltr'
+aF0.0075437537718768856
+asS'weather test'
 p6872
 (lp6873
 I1
-aF-0.00091290852656571587
-asS'ago sold'
+aF0.0065939063210550593
+asS'bp -'
 p6874
 (lp6875
-I1
-aF-0.0044444444444443499
-asS'thursday\xe2\x80\x99s session'
+I2
+aF0.023622213537533625
+asS'brands dnkn'
 p6876
 (lp6877
-I1
-aF0.023487602630611493
-asS'centro de'
+I3
+aF0.019851875731156512
+asS'u.k. site'
 p6878
 (lp6879
-I1
-aF0.01163378856853821
-asS"'s reputation"
+I43
+aF0.25877235100216228
+asS'profit warning.'
 p6880
 (lp6881
-I4
-aF-0.047177815558848674
-asS'share $1.75'
+I2
+aF0.007155813175024445
+asS"putin 's"
 p6882
 (lp6883
 I1
-aF0.00016545334215751787
-asS'interest rates.'
+aF-0.025641025641025664
+asS'brk.a -'
 p6884
 (lp6885
 I1
-aF-0.01486199575371556
-asS'cook. icahn'
+aF0.00067980965329706225
+asS'year-earlier period.'
 p6886
 (lp6887
-I1
-aF-0.0078271226816403073
-asS'tech 30'
+I2
+aF-0.01702614434749404
+asS'today5 47'
 p6888
 (lp6889
-I6
-aF-0.05390200719883341
-asS'week "'
+I9
+aF0.063055396376559991
+asS'ford said'
 p6890
 (lp6891
 I1
 aF-0.042688910696761409
-asS'tech titans'
+asS'respectively. investors'
 p6892
 (lp6893
-I7
-aF-0.061600416238838308
-asS'regarding paypal'
+I1
+aF0.028248587570621538
+asS'15 cents'
 p6894
 (lp6895
-I1
-aF-0.0078271226816403073
-asS'leads liquidity'
+I2
+aF-0.00013053922301388583
+asS'cellphone chip'
 p6896
 (lp6897
-I9
-aF0.063055396376559991
-asS'jitters driving'
+I1
+aF-0.015098314606741563
+asS'power inked'
 p6898
 (lp6899
-I9
-aF0.063055396376559991
-asS'new letter'
+I1
+aF0.054777388694347298
+asS'commission usitc'
 p6900
 (lp6901
 I1
-aF-0.0078271226816403073
-asS'\xc2 slated'
+aF-0.015098314606741563
+asS'bring 2,000'
 p6902
 (lp6903
 I1
-aF-0.0085193657805474349
-asS'thursday. related'
+aF0.0028884159318941583
+asS'feb. 13'
 p6904
 (lp6905
 I1
-aF0.023487602630611493
-asS'heard absolutely'
+aF0.0065939063210550593
+asS'stakes much'
 p6906
 (lp6907
-I2
-aF-0.0096143372351269688
-asS'west elm'
+I1
+aF-0.015098314606741563
+asS'feb. 19'
 p6908
 (lp6909
-I1
-aF-0.024283439490445837
-asS'operating officer'
+I30
+aF0.78528042609589921
+asS"'s 25"
 p6910
 (lp6911
-I1
-aF-0.01749999999999996
-asS'specifically directed'
+I16
+aF0.046391384821821771
+asS'levels seen'
 p6912
 (lp6913
-I2
-aF0.0073921320280504483
-asS'decision withdraw'
+I1
+aF0.017951856385148825
+asS'joined apple'
 p6914
 (lp6915
 I1
-aF0.022254127781766008
-asS'corner strength'
+aF0.0065939063210550593
+asS"bates '"
 p6916
 (lp6917
-I43
-aF0.25877235100216228
-asS'providing us'
+I1
+aF-0.013834507961367818
+asS'better-ranked insurance'
 p6918
 (lp6919
-I1
-aF-0.042688910696761409
-asS'federal trade'
+I2
+aF0.060087816422073489
+asS'penney gains'
 p6920
 (lp6921
-I1
-aF-0.01486199575371556
-asS'pemex.but citigroup'
+I44
+aF0.87759511459066997
+asS'companies 3d'
 p6922
 (lp6923
-I1
-aF-0.01486199575371556
-asS'example loading'
+I4
+aF-0.036225661420065031
+asS'sonic passenger'
 p6924
 (lp6925
-I2
-aF-0.014234192551842047
-asS'chaos batters'
+I1
+aF-0.042688910696761409
+asS'prompting profit'
 p6926
 (lp6927
-I9
-aF0.063055396376559991
-asS'investing farm'
+I2
+aF0.007155813175024445
+asS'cent respectively.'
 p6928
 (lp6929
-I20
-aF0.11512762036800134
-asS'today6 55'
+I1
+aF0.028248587570621538
+asS'inc. gmcr'
 p6930
 (lp6931
-I9
-aF0.063055396376559991
-asS"charge 's"
+I1
+aF-0.012006549026741798
+asS'business payment'
 p6932
 (lp6933
 I2
-aF-0.0096143372351269688
-asS'traded 1.3'
+aF0.0050351650906114501
+asS"'s online"
 p6934
 (lp6935
-I1
-aF-0.025641025641025664
-asS"'s radio"
+I2
+aF0.0050351650906114501
+asS'reserve bank'
 p6936
 (lp6937
-I1
-aF-0.01486199575371556
-asS'10-point gerard'
+I2
+aF-0.02972399150743112
+asS'thebault head'
 p6938
 (lp6939
-I9
-aF0.063055396376559991
-asS'month icahn'
+I1
+aF-0.025641025641025664
+asS'shares gm'
 p6940
 (lp6941
 I1
-aF-0.0078271226816403073
-asS'/quotes/zigman/227468/delayed/quotes/nls/ge ge'
+aF-0.015434451219512105
+asS'delta air'
 p6942
 (lp6943
 I1
-aF0.00067980965329706225
-asS'\xc2 projected'
+aF0.022254127781766008
+asS'dollar 4'
 p6944
 (lp6945
-I7
-aF-0.12721443740533406
-asS'deckers outdoor'
+I9
+aF0.063055396376559991
+asS'dollar 9'
 p6946
 (lp6947
-I1
-aF-0.019905850706119568
-asS'said regulatory'
+I9
+aF0.063055396376559991
+asS'edition inflation'
 p6948
 (lp6949
-I1
-aF-0.01486199575371556
-asS'hand determining'
+I9
+aF0.063055396376559991
+asS'rates salvage'
 p6950
 (lp6951
-I1
-aF-0.013834507961367818
-asS'take museo'
+I57
+aF0.33936168525976329
+asS'100 workers'
 p6952
 (lp6953
-I1
-aF0.01163378856853821
-asS'share. dreamworks'
+I2
+aF0.03556487878640302
+asS'2000 hit'
 p6954
 (lp6955
-I1
-aF-0.047141424272818457
-asS'session low'
+I94
+aF1.7947536671076703
+asS'indexes sign'
 p6956
 (lp6957
 I1
-aF0.022254127781766008
-asS'imminent default'
+aF0.025356283546178002
+asS'$43.4 million'
 p6958
 (lp6959
 I2
-aF-0.051282051282051329
-asS'sales ford'
+aF-0.027455969162467415
+asS'trading global'
 p6960
 (lp6961
 I1
-aF-0.042688910696761409
-asS'51% nook'
+aF-0.025641025641025664
+asS'earnings 60'
 p6962
 (lp6963
-I1
-aF0.0027342063606276006
-asS'exchange commission'
+I2
+aF0.02462811733357069
+asS'group. icahn'
 p6964
 (lp6965
 I2
-aF-0.02972399150743112
-asS'puerto rico.fedex'
+aF0.0050351650906114501
+asS'etf rsx.p'
 p6966
 (lp6967
 I1
 aF0.022254127781766008
-asS'equities markets'
+asS'wheat exports'
 p6968
 (lp6969
-I1
-aF0.025356283546178002
-asS'network name'
+I3
+aF-0.036479419703103984
+asS'+0.71% tax-friendly'
 p6970
 (lp6971
-I2
-aF0.019043392929388579
-asS'euro rates'
+I1
+aF0.0065939063210550593
+asS'dow slides'
 p6972
 (lp6973
-I9
-aF0.063055396376559991
-asS'. stocks'
+I14
+aF0.080589334257600925
+asS'percent december.'
 p6974
 (lp6975
 I1
-aF0.0028884159318941583
-asS'min ago11'
+aF-0.01486199575371556
+asS'early last'
 p6976
 (lp6977
-I78
-aF0.47149365385712416
-asS'min ago10'
+I1
+aF-0.015098314606741563
+asS"'s frequent-flier"
 p6978
 (lp6979
-I36
-aF0.20722971666240242
-asS'might risk'
+I1
+aF0.022254127781766008
+asS'surpluses gold'
 p6980
 (lp6981
 I1
-aF0.022254127781766008
-asS'79 cents'
+aF0.034482758620689689
+asS'reserved. gox'
 p6982
 (lp6983
-I1
-aF0.023487602630611493
-asS'0.32% autodesk'
+I6
+aF0.041155573600559429
+asS'huge amounts'
 p6984
 (lp6985
 I1
-aF-0.015434451219512105
-asS'banks united'
+aF0.017951856385148825
+asS'iphone maker'
 p6986
 (lp6987
 I1
-aF0.022254127781766008
-asS'1,354.90 change'
+aF0.0065939063210550593
+asS'rule u.s.'
 p6988
 (lp6989
-I2
-aF0.011512762036800132
-asS'minimum 1,500'
+I44
+aF0.87759511459066997
+asS"attorney 's"
 p6990
 (lp6991
-I1
-aF-0.01486199575371556
-asS'numbers come'
+I2
+aF-0.02972399150743112
+asS"'s yuan"
 p6992
 (lp6993
-I1
-aF-0.01486199575371556
-asS'technologies international'
+I9
+aF0.063055396376559991
+asS'values welcomes'
 p6994
 (lp6995
-I2
-aF0.0063122470976729999
-asS'at&t fortune'
+I1
+aF-0.010500807754442712
+asS'regulatory filing.'
 p6996
 (lp6997
-I2
-aF-0.023970052699711648
-asS'since may'
+I1
+aF0.0028884159318941583
+asS'performance additives'
 p6998
 (lp6999
 I1
-aF-0.0071729957805906396
-asS'workers employed'
+aF0.032987171655467266
+asS'investor group'
 p7000
 (lp7001
-I1
-aF0.0062801932367149279
-asS'shows significant'
+I2
+aF0.0050351650906114501
+asS'months helping'
 p7002
 (lp7003
 I1
-aF0.0028884159318941583
-asS'fcc currently'
+aF0.0065939063210550593
+asS"' brands"
 p7004
 (lp7005
-I1
-aF-0.010660963270678267
-asS'jeffry bartash'
+I2
+aF0.03185842475789831
+asS'industries video'
 p7006
 (lp7007
-I24
-aF0.13815314444160159
-asS'forecast 34'
+I14
+aF0.018081633883883088
+asS'adequately.the committee'
 p7008
 (lp7009
 I1
-aF0.0063291139240506224
-asS'quarter. tuesday\xe2\x80\x99s'
+aF-0.015098314606741563
+asS'exlp .'
 p7010
 (lp7011
 I1
-aF-0.019449798493078665
-asS'experience training'
+aF-0.0032679738562091968
+asS'630px ;'
 p7012
 (lp7013
-I1
-aF-0.01486199575371556
-asS'said bank'
+I5
+aF0.1588106388459081
+asS'trading fred'
 p7014
 (lp7015
 I1
-aF-0.01486199575371556
-asS'keep working'
+aF0.0085513078470825805
+asS'business $5'
 p7016
 (lp7017
-I1
-aF0.0028884159318941583
-asS'/quotes/zigman/62747/delayed/quotes/nls/ttwo ttwo'
+I2
+aF0.032728465832498853
+asS'leverage ratio'
 p7018
 (lp7019
-I2
-aF0.023622213537533625
-asS'two-thirds invoices'
+I3
+aF-0.045294943820224691
+asS'report kla-tencor'
 p7020
 (lp7021
-I1
-aF-0.01486199575371556
-asS'required disclose'
+I3
+aF0.076043454879415551
+asS'- 3.12%'
 p7022
 (lp7023
-I1
-aF0.00067980965329706225
-asS'negative signals'
+I2
+aF-0.045650441836882411
+asS'improvements basel'
 p7024
 (lp7025
 I1
-aF-0.025641025641025664
-asS'$4 billion'
+aF-0.015098314606741563
+asS'together. last'
 p7026
 (lp7027
-I1
-aF-0.013834507961367818
-asS'- 0.92%'
+I2
+aF0.0050351650906114501
+asS'pep +0.79%'
 p7028
 (lp7029
 I1
-aF0.036999999999999922
-asS'years. related'
+aF0.011014344262295075
+asS'gerard baker'
 p7030
 (lp7031
-I1
-aF-0.015337423312883396
-asS'said late'
+I9
+aF0.063055396376559991
+asS'gold repatriation'
 p7032
 (lp7033
 I1
-aF0.022254127781766008
-asS'rising concerns'
+aF-0.015098314606741563
+asS'space favorable'
 p7034
 (lp7035
 I2
-aF-0.051282051282051329
-asS'ready provide'
+aF0.014895823661047334
+asS'adding europe'
 p7036
 (lp7037
-I9
-aF0.063055396376559991
-asS'inc. /quotes/zigman/9962609/delayed/quotes/nls/fb'
+I1
+aF-0.015098314606741563
+asS'p.m. dec.'
 p7038
 (lp7039
-I1
-aF-0.015337423312883396
-asS'officer apple'
+I90
+aF2.3558412782876994
+asS'u.s. official'
 p7040
 (lp7041
 I1
-aF0.0028884159318941583
-asS'chief financial'
+aF-0.015098314606741563
+asS'company plans'
 p7042
 (lp7043
 I1
-aF0.0028884159318941583
-asS'a.m. march'
+aF-0.013834507961367818
+asS'unfolded.the s&p'
 p7044
 (lp7045
-I279
-aF1.7297579434541734
-asS'cruze sonic'
+I1
+aF-0.024283439490445837
+asS'also note'
 p7046
 (lp7047
 I1
-aF-0.042688910696761409
-asS'making computers'
+aF0.012706969580285016
+asS'makes prosthetics'
 p7048
 (lp7049
 I1
-aF0.0028884159318941583
-asS'sodastream better'
+aF-0.0044444444444443499
+asS'500 shareholders'
 p7050
 (lp7051
-I1
-aF-0.011144883485308961
-asS'banamex subsidiary'
+I4
+aF0.0100703301812229
+asS'sanctions aren'
 p7052
 (lp7053
-I1
-aF-0.01486199575371556
-asS'right invade'
+I4
+aF-0.012663166210594025
+asS'bb&t corp.'
 p7054
 (lp7055
-I1
-aF-0.025641025641025664
-asS'heavy losses'
+I2
+aF-0.0082949308755760238
+asS'post earnings'
 p7056
 (lp7057
-I1
-aF0.033296089385474903
-asS'tony bates'
+I8
+aF0.019110332885957183
+asS'raised feel'
 p7058
 (lp7059
 I1
-aF-0.013834507961367818
-asS'nok -'
+aF-0.015098314606741563
+asS'reportedly earning'
 p7060
 (lp7061
-I1
-aF0.036999999999999922
-asS'taken board'
+I2
+aF0.0028409817157098796
+asS'updates be.'
 p7062
 (lp7063
-I1
-aF0.022254127781766008
-asS'4 cents'
+I2
+aF0.0094823222529492185
+asS'unit valuing'
 p7064
 (lp7065
-I1
-aF-0.026623073330219536
-asS'it. icahn'
+I2
+aF0.032728465832498853
+asS'\xc2 order'
 p7066
 (lp7067
 I1
-aF-0.0078271226816403073
-asS'monetary policy'
+aF0.054777388694347298
+asS'administration appears'
 p7068
 (lp7069
 I1
-aF-0.01486199575371556
-asS'rates record'
+aF-0.015098314606741563
+asS'boyle greg'
 p7070
 (lp7071
-I9
-aF0.063055396376559991
-asS'. tech'
+I1
+aF0.014802631578947345
+asS'times reported'
 p7072
 (lp7073
 I1
-aF-0.0064070698702017393
-asS'- 1.69%'
+aF-0.013834507961367818
+asS'buffett dint'
 p7074
 (lp7075
-I1
-aF0.00067980965329706225
-asS'increase smaller'
+I2
+aF0.023269395998132755
+asS'session target'
 p7076
 (lp7077
-I1
-aF0.022254127781766008
-asS'third point'
+I2
+aF-0.00013053922301388583
+asS'related markets'
 p7078
 (lp7079
 I1
-aF0.036999999999999922
-asS'f.n slightly'
+aF-0.015098314606741563
+asS'feb. 5'
 p7080
 (lp7081
-I1
-aF-0.042688910696761409
-asS'internet "'
+I30
+aF0.78528042609589921
+asS'feb. 4'
 p7082
 (lp7083
-I1
-aF-0.01486199575371556
-asS'grand cherokee'
+I60
+aF1.5705608521917984
+asS'feb. 7'
 p7084
 (lp7085
 I1
-aF0.0063291139240506224
-asS'side narrow'
+aF0.0065939063210550593
+asS'feb. 3'
 p7086
 (lp7087
-I1
-aF-0.025641025641025664
-asS'parcel service'
+I30
+aF0.78528042609589921
+asS'feb. 2'
 p7088
 (lp7089
-I1
-aF0.022254127781766008
-asS'jackson currency'
+I30
+aF0.78528042609589921
+asS'1,000 workers'
 p7090
 (lp7091
-I9
-aF0.063055396376559991
-asS'manage traffic'
+I2
+aF0.03556487878640302
+asS'definitely seen'
 p7092
 (lp7093
-I2
-aF-0.014234192551842047
-asS'$378.1 million'
+I1
+aF0.0085513078470825805
+asS'smith wesson'
 p7094
 (lp7095
-I1
-aF-0.0078586044304735248
-asS'kroger kr'
+I2
+aF0.030981067125645696
+asS'points 1,864'
 p7096
 (lp7097
-I4
-aF-0.037111166550747227
-asS'note. became'
+I2
+aF0.013187812642110119
+asS'cable internet'
 p7098
 (lp7099
-I1
-aF0.0095057034220531987
-asS'expected moderate.a'
+I4
+aF-0.0075938299399980749
+asS'barrels oil'
 p7100
 (lp7101
 I1
-aF-0.042688910696761409
-asS'cash-rich technology'
+aF-0.015098314606741563
+asS'corporation discusses'
 p7102
 (lp7103
-I43
-aF0.25877235100216228
-asS'minimum wage'
+I30
+aF0.78528042609589921
+asS'also increased'
 p7104
 (lp7105
 I1
-aF-0.005373455131649536
-asS"london 's"
+aF0.014802631578947345
+asS'date fourth-quarter'
 p7106
 (lp7107
-I3
-aF-0.017581246670218344
-asS"'s political"
+I30
+aF0.78528042609589921
+asS'shares tumble'
 p7108
 (lp7109
-I2
-aF-0.02972399150743112
-asS'jinkosolar 0.6%'
+I44
+aF0.87759511459066997
+asS'director. iphones'
 p7110
 (lp7111
-I2
-aF0.011512762036800132
-asS'business cards'
+I1
+aF0.0028884159318941583
+asS'50 indicate'
 p7112
 (lp7113
-I9
-aF0.063055396376559991
-asS'man accused'
+I1
+aF-0.0071729957805906396
+asS'intl lxk'
 p7114
 (lp7115
-I1
-aF-0.01486199575371556
-asS'sina european'
+I2
+aF0.044429609850170595
+asS'first two'
 p7116
 (lp7117
-I7
-aF-0.061600416238838308
-asS'earnings 40'
+I2
+aF0.007155813175024445
+asS'period september'
 p7118
 (lp7119
 I1
-aF0.00067980965329706225
-asS'point disclosed'
+aF-0.015098314606741563
+asS'inflation consumer'
 p7120
 (lp7121
-I1
-aF0.036999999999999922
-asS'dal fortune'
+I2
+aF-0.036601126188498201
+asS'eastern europe'
 p7122
 (lp7123
-I4
-aF-0.047177815558848674
-asS'traded united'
+I1
+aF-0.015098314606741563
+asS'20 a.m.'
 p7124
 (lp7125
-I1
-aF0.022254127781766008
-asS'stock buyback'
+I3
+aF0.019781718963165176
+asS'working poor.'
 p7126
 (lp7127
-I1
-aF0.0028884159318941583
-asS'funding advising'
+I2
+aF0.007155813175024445
+asS'rst dfrg'
 p7128
 (lp7129
 I1
-aF-0.0078271226816403073
-asS'paying $4,000'
+aF0.012706969580285016
+asS'escalates european'
 p7130
 (lp7131
-I8
-aF-0.07254061158029762
-asS'fresh open'
+I2
+aF0.011512762036800132
+asS'lean hog'
 p7132
 (lp7133
-I1
-aF-0.0078271226816403073
-asS'nominated two'
+I43
+aF0.25877235100216228
+asS'8. andreessen'
 p7134
 (lp7135
 I1
-aF-0.0078271226816403073
-asS'outsiders access'
+aF0.016675489677077698
+asS'maestri chief'
 p7136
 (lp7137
 I1
-aF0.0028884159318941583
-asS"'s cac"
+aF0.0065939063210550593
+asS'" pre-empting'
 p7138
 (lp7139
-I3
-aF-0.017581246670218344
-asS'included chinese'
+I2
+aF0.0050351650906114501
+asS'course means'
 p7140
 (lp7141
-I7
-aF-0.061600416238838308
-asS'edition china'
+I2
+aF-0.0063315831052970124
+asS'reserved. quotes'
 p7142
 (lp7143
-I18
-aF0.12611079275312001
-asS'; following'
+I12
+aF0.069076572220800783
+asS'suggest unrest'
 p7144
 (lp7145
-I1
-aF0.022254127781766008
-asS'hot fortune'
+I2
+aF-0.010838394062078319
+asS'share. related'
 p7146
 (lp7147
-I4
-aF-0.047177815558848674
-asS'isps. tech'
+I1
+aF0.01708173690932312
+asS'released last'
 p7148
 (lp7149
-I2
-aF-0.029171931274251214
-asS'international ltd.'
+I4
+aF0.10298968128032032
+asS'may concerned.'
 p7150
 (lp7151
 I1
-aF-0.011144883485308961
-asS'company also'
+aF0.012706969580285016
+asS'advanced energy'
 p7152
 (lp7153
-I1
-aF-0.01486199575371556
-asS'prescott ariz.'
+I3
+aF0.076043454879415551
+asS'macs snow'
 p7154
 (lp7155
-I1
-aF0.0062801932367149279
-asS'employees current'
+I2
+aF0.0094823222529492185
+asS'" nine'
 p7156
 (lp7157
-I4
-aF-0.047177815558848674
-asS'rbc global'
+I60
+aF1.5705608521917984
+asS'downturn paul'
 p7158
 (lp7159
-I1
-aF-0.025641025641025664
-asS'today7 13'
+I43
+aF0.25877235100216228
+asS'lesser extent'
 p7160
 (lp7161
-I9
-aF0.063055396376559991
-asS'automobiles fia.mi'
+I1
+aF0.017811704834605556
+asS'warren buffett\xe2\x80\x99s'
 p7162
 (lp7163
 I1
-aF0.0063291139240506224
-asS'slid airline'
+aF0.00067980965329706225
+asS'struck "'
 p7164
 (lp7165
-I1
-aF0.022254127781766008
-asS'period. shares'
+I2
+aF0.019620762866974131
+asS'huge cash'
 p7166
 (lp7167
 I1
-aF-0.026623073330219536
-asS'1 2014'
+aF0.0065939063210550593
+asS'program success'
 p7168
 (lp7169
-I9
-aF0.063055396376559991
-asS'\xc2 could'
+I1
+aF0.022254127781766008
+asS'said carlo'
 p7170
 (lp7171
-I1
-aF-0.011144883485308961
-asS'discontinue security'
+I2
+aF0.037754290992674737
+asS'spls fortune'
 p7172
 (lp7173
-I1
-aF-0.013834507961367818
-asS'valero energy'
+I8
+aF-0.020074526510182204
+asS'crossover vehicles.'
 p7174
 (lp7175
 I1
-aF-0.01749999999999996
-asS'stock exchange.'
+aF0.034482758620689689
+asS'- biggest'
 p7176
 (lp7177
 I1
-aF0.022254127781766008
-asS'related google'
+aF-0.013834507961367818
+asS'30 mix'
 p7178
 (lp7179
-I1
-aF-0.010660963270678267
-asS'control eastern'
+I12
+aF0.023189645674656527
+asS'jcpenney jcp'
 p7180
 (lp7181
-I2
-aF-0.051282051282051329
-asS'war central'
+I4
+aF0.044781306879880148
+asS'communicate markets.'
 p7182
 (lp7183
-I2
-aF-0.051282051282051329
-asS'major art'
+I1
+aF0.034482758620689689
+asS'report congress'
 p7184
 (lp7185
-I1
-aF-0.050196850393700768
-asS'solarcity report'
+I2
+aF0.019620762866974131
+asS'separate deals'
 p7186
 (lp7187
 I1
-aF-0.020009416195856743
-asS'corn wheat'
+aF0.017811704834605556
+asS'basel committee'
 p7188
 (lp7189
-I2
-aF-0.051282051282051329
-asS'$89.9 million'
+I1
+aF-0.015098314606741563
+asS'region. mysterious'
 p7190
 (lp7191
 I1
-aF0.023487602630611493
-asS'related identity'
+aF-0.015098314606741563
+asS'ever seen.'
 p7192
 (lp7193
-I1
-aF-0.01486199575371556
-asS'percent heavy'
+I2
+aF0.0050351650906114501
+asS'italy spent'
 p7194
 (lp7195
 I1
-aF0.022254127781766008
-asS'december.both inflation'
+aF0.0065939063210550593
+asS'shareholders end'
 p7196
 (lp7197
-I2
-aF-0.036601126188498201
-asS'lion mavericks.'
+I1
+aF0.0065939063210550593
+asS'icahn raised'
 p7198
 (lp7199
 I1
 aF0.0028884159318941583
-asS'even bigger'
+asS'+1.52% \xc2'
 p7200
 (lp7201
 I2
-aF-0.023970052699711648
-asS'farm single-family'
+aF0.023633314805875324
+asS'berkowitz said'
 p7202
 (lp7203
-I20
-aF0.11512762036800134
-asS'years.energy stocks'
+I2
+aF0.0073921320280504483
+asS'glass plant'
 p7204
 (lp7205
 I1
-aF0.022254127781766008
-asS'share year-earlier'
+aF0.0028884159318941583
+asS'car shoppers'
 p7206
 (lp7207
 I1
-aF-0.026623073330219536
-asS'site russia'
+aF0.0063291139240506224
+asS'index still'
 p7208
 (lp7209
-I43
-aF0.25877235100216228
-asS'million shares'
+I3
+aF0.068817927110556149
+asS'+2.52% day'
 p7210
 (lp7211
 I2
-aF0.039888415931894079
-asS'zacks.com click'
+aF0.011512762036800132
+asS'$300 million'
 p7212
 (lp7213
-I7
-aF-0.021234067960639084
-asS'glaxosmithkline plc'
+I1
+aF-0.01486199575371556
+asS'2014 marketwatch'
 p7214
 (lp7215
-I1
-aF0.00067980965329706225
-asS'staples spls'
+I43
+aF0.25877235100216228
+asS'sink dollar'
 p7216
 (lp7217
-I4
-aF-0.037111166550747227
-asS'delta airlines'
+I2
+aF0.011512762036800132
+asS'1.2 percent'
 p7218
 (lp7219
-I4
-aF-0.047177815558848674
-asS'equities paris.president'
+I2
+aF-0.036601126188498201
+asS'named chairman'
 p7220
 (lp7221
 I1
-aF-0.025641025641025664
-asS'. general'
+aF0.0095057034220531987
+asS'intellectual property'
 p7222
 (lp7223
-I1
-aF0.0095057034220531987
-asS'100,000 euros'
+I2
+aF-0.030196629213483126
+asS'h-p yahoo'
 p7224
 (lp7225
 I1
-aF-0.010660963270678267
-asS'prentice capital'
+aF0.0065939063210550593
+asS'became "'
 p7226
 (lp7227
-I43
-aF0.25877235100216228
-asS'skype ceo'
+I1
+aF-0.015098314606741563
+asS'also unveiled'
 p7228
 (lp7229
-I1
-aF-0.013834507961367818
-asS'share price'
+I2
+aF0.0050351650906114501
+asS'could speak'
 p7230
 (lp7231
 I1
-aF0.023487602630611493
-asS'u.s. reuters'
+aF-0.015098314606741563
+asS'leave company'
 p7232
 (lp7233
 I1
-aF-0.01749999999999996
-asS'nonof food'
+aF-0.013834507961367818
+asS'drops ;'
 p7234
 (lp7235
-I2
-aF0.019043392929388579
-asS'collateral loans.in'
+I44
+aF0.87759511459066997
+asS'city-based company'
 p7236
 (lp7237
 I1
-aF-0.01486199575371556
-asS'percent $132.90'
+aF-0.0032679738562091968
+asS'kodak stop'
 p7238
 (lp7239
-I1
-aF0.022254127781766008
-asS'carplay home'
+I43
+aF0.25877235100216228
+asS'overbought stock.voc'
 p7240
 (lp7241
-I41
-aF0.24725958896536218
-asS'border posts'
+I1
+aF0.029542097488921743
+asS'buying program'
 p7242
 (lp7243
-I9
-aF0.063055396376559991
-asS'cash stock'
+I1
+aF-0.01486199575371556
+asS'record close'
 p7244
 (lp7245
-I1
-aF-0.015337423312883396
-asS'potential ceo'
+I2
+aF0.013187812642110119
+asS'story 5'
 p7246
 (lp7247
-I1
-aF-0.013834507961367818
-asS'toward highest'
+I3
+aF-0.036479419703103984
+asS'said u.s.'
 p7248
 (lp7249
-I57
-aF0.33936168525976329
-asS'buyback apple'
+I1
+aF0.034482758620689689
+asS'ohio pennsylvania'
 p7250
 (lp7251
 I1
-aF0.0028884159318941583
-asS'last year'
+aF0.017951856385148825
+asS'following video'
 p7252
 (lp7253
-I2
-aF0.044508255563532016
-asS'depot hd'
+I1
+aF0.022254127781766008
+asS'expected begin'
 p7254
 (lp7255
-I2
-aF0.019043392929388579
-asS'short-term\xc2 interest'
+I1
+aF-0.015098314606741563
+asS'- ahead'
 p7256
 (lp7257
-I1
-aF-0.01486199575371556
-asS'announce publicly'
+I30
+aF0.78528042609589921
+asS'concerns corn'
 p7258
 (lp7259
-I1
-aF-0.013834507961367818
-asS'bread co.'
+I3
+aF-0.036479419703103984
+asS'bill klesse'
 p7260
 (lp7261
-I2
-aF0.00033090668431503574
-asS'shares united'
+I1
+aF-0.01749999999999996
+asS'february january'
 p7262
 (lp7263
 I1
-aF0.022254127781766008
-asS'mavericks. without'
+aF-0.0071729957805906396
+asS'arab emirates'
 p7264
 (lp7265
 I1
-aF0.0028884159318941583
-asS'attorney general'
+aF-0.015098314606741563
+asS'freedom make'
 p7266
 (lp7267
-I1
-aF-0.01486199575371556
-asS'500 jcpenney'
+I2
+aF0.023269395998132755
+asS'; 1'
 p7268
 (lp7269
 I2
-aF0.019043392929388579
-asS'reserved. london'
+aF0.037754290992674737
+asS'state reportedly'
 p7270
 (lp7271
-I2
-aF0.011512762036800132
-asS'rises 2014'
+I1
+aF0.0028884159318941583
+asS'west likely'
 p7272
 (lp7273
-I9
-aF0.063055396376559991
-asS'sluggish reasons'
+I4
+aF-0.012663166210594025
+asS'jobs. like'
 p7274
 (lp7275
-I2
-aF-0.02972399150743112
-asS'inc. pnc'
+I1
+aF0.016675489677077698
+asS'ruble ;'
 p7276
 (lp7277
-I2
-aF-0.0082949308755760238
-asS'u.s. securities'
+I57
+aF0.33936168525976329
+asS'" notion'
 p7278
 (lp7279
-I1
-aF-0.01486199575371556
-asS'announced plans'
+I2
+aF0.0073921320280504483
+asS'may coming'
 p7280
 (lp7281
-I3
-aF-0.021081636767817491
-asS'new jobs'
+I2
+aF-0.0005004065187305274
+asS'} take'
 p7282
 (lp7283
 I1
-aF0.0028884159318941583
-asS'edition inflation'
+aF0.021499999999999984
+asS'keurig users.'
 p7284
 (lp7285
-I9
-aF0.063055396376559991
-asS'10 57'
+I1
+aF-0.012006549026741798
+asS'10-million-share stake'
 p7286
 (lp7287
-I9
-aF0.063055396376559991
-asS'inc. /quotes/zigman/59898/delayed/quotes/nls/yhoo'
+I1
+aF0.036999999999999922
+asS"'s second"
 p7288
 (lp7289
-I3
-aF0.029027283270916533
-asS'including stratasys'
+I1
+aF0.022254127781766008
+asS'firm pro'
 p7290
 (lp7291
-I2
-aF-0.051049018886638195
-asS'existing shareholders'
+I1
+aF-0.0044444444444443499
+asS'25 a.m.'
 p7292
 (lp7293
-I2
-aF-0.02972399150743112
-asS'gold futures'
-p7294
-(lp7295
 I9
 aF0.063055396376559991
-asS'0.09% \xc2'
+asS'msft.o .and'
+p7294
+(lp7295
+I2
+aF0.023269395998132755
+asS'traffic third'
 p7296
 (lp7297
-I1
-aF0.016847172081828975
-asS"2011.january 's"
+I6
+aF0.013389593364884374
+asS'washington threatened'
 p7298
 (lp7299
 I1
-aF-0.0071729957805906396
-asS'report fourth-quarter'
+aF-0.024283439490445837
+asS'financial services'
 p7300
 (lp7301
-I9
-aF-0.13020580661280692
-asS'- anora'
+I2
+aF-0.0082949308755760238
+asS'roared back'
 p7302
 (lp7303
-I12
-aF0.069076572220800783
-asS'might involved'
+I1
+aF-0.01486199575371556
+asS'ii earlier'
 p7304
 (lp7305
 I1
-aF-0.01486199575371556
-asS'issue buffett'
+aF0.032987171655467266
+asS'7 percent'
 p7306
 (lp7307
 I1
-aF0.0095057034220531987
-asS'1.85% \xc2'
+aF0.022254127781766008
+asS'comcast recently'
 p7308
 (lp7309
-I1
-aF-0.016598508539812311
-asS'gmcr +0.06%'
+I4
+aF-0.0075938299399980749
+asS'halted. "'
 p7310
 (lp7311
 I2
-aF-0.0096874231100129455
-asS'gm slides'
+aF-0.051282051282051329
+asS'andreessen recused'
 p7312
 (lp7313
-I45
-aF0.27028511303896241
-asS'u.k. company\xe2\x80\x99s'
+I2
+aF0.0050351650906114501
+asS'; }'
 p7314
 (lp7315
-I1
-aF-0.016598508539812311
-asS'priceline.com /quotes/zigman/90481/delayed/quotes/nls/pcln'
+I7
+aF0.26682090277552684
+asS'futures ukraine'
 p7316
 (lp7317
-I1
-aF-0.0078586044304735248
-asS'network instead'
+I14
+aF0.080589334257600925
+asS'reserve eases'
 p7318
 (lp7319
-I3
-aF-0.024059813263408034
-asS'nadella took'
+I7
+aF0.044000292847206829
+asS'hongyuran shutdown'
 p7320
 (lp7321
-I1
-aF-0.013834507961367818
-asS'healthcare corp.'
+I9
+aF0.063055396376559991
+asS'2 2014'
 p7322
 (lp7323
-I2
-aF-0.045650441836882411
-asS'reported quarterly'
+I79
+aF1.7032655512659733
+asS'investors underestimated'
 p7324
 (lp7325
 I1
-aF-0.019905850706119568
-asS'ntic akzo'
+aF-0.025641025641025664
+asS'cherokee cherokee'
 p7326
 (lp7327
-I2
-aF0.0063122470976729999
-asS'get even'
+I1
+aF0.0063291139240506224
+asS'without occasional'
 p7328
 (lp7329
 I2
-aF-0.023970052699711648
-asS"europe 's"
+aF0.0094823222529492185
+asS'muted united'
 p7330
 (lp7331
-I9
-aF0.063055396376559991
-asS'all-time highs'
+I1
+aF-0.015098314606741563
+asS'crimea region'
 p7332
 (lp7333
-I43
-aF0.25877235100216228
-asS'jumped 7%'
+I1
+aF-0.025641025641025664
+asS'dint long'
 p7334
 (lp7335
-I1
-aF-0.0069034107529398394
-asS'paypal company.'
+I2
+aF0.023269395998132755
+asS'attention general'
 p7336
 (lp7337
-I1
-aF-0.0078271226816403073
-asS'activity rose'
-p7338
-(lp7339
-I1
-aF-0.0071729957805906396
-asS'management ism'
-p7340
-(lp7341
-I1
-aF-0.0071729957805906396
-asS'ltd. /quotes/zigman/19622165/delayed/quotes/nls/bbry'
-p7342
-(lp7343
 I3
 aF0.029027283270916533
-asS'- 2.34%'
+asS'" political'
+p7338
+(lp7339
+I2
+aF-0.010838394062078319
+asS'made decision'
+p7340
+(lp7341
+I2
+aF0.007155813175024445
+asS'+1.39% jobs'
+p7342
+(lp7343
+I1
+aF0.0065939063210550593
+asS'financial officer'
 p7344
 (lp7345
-I1
-aF-0.047141424272818457
-asS'sof\xc3\xada trimmed'
+I33
+aF0.80135665466990358
+asS'u.s. april'
 p7346
 (lp7347
-I1
-aF0.01163378856853821
-asS'500 $45'
+I30
+aF0.78528042609589921
+asS'marketwire infusion'
 p7348
 (lp7349
-I2
-aF-0.023970052699711648
-asS"ebay 's"
+I30
+aF0.78528042609589921
+asS'brand positioning'
 p7350
 (lp7351
-I4
-aF-0.031308490726561229
-asS'loss 55'
+I60
+aF1.5705608521917984
+asS'federal budget'
 p7352
 (lp7353
-I2
-aF-0.040018832391713485
-asS'maker first'
+I1
+aF0.017811704834605556
+asS'mar +1.07%'
 p7354
 (lp7355
 I1
-aF-0.019449798493078665
-asS'share $236.6'
+aF0.010133233252017248
+asS'retreats slightly'
 p7356
 (lp7357
-I1
-aF-0.0070054945054943809
-asS'- howard'
+I46
+aF0.89078292723278008
+asS'. \xc2'
 p7358
 (lp7359
-I9
-aF0.063055396376559991
-asS'retailers like'
+I1
+aF-0.010660963270678267
+asS'soda -'
 p7360
 (lp7361
 I1
-aF-0.0089897260273972355
-asS'reserve required'
+aF-0.011144883485308961
+asS'rico virgin'
 p7362
 (lp7363
 I1
-aF-0.01486199575371556
-asS'drop forward-looking'
+aF0.022254127781766008
+asS'day world'
 p7364
 (lp7365
 I1
-aF-0.0071729957805906396
-asS'access comcast'
+aF-0.015098314606741563
+asS'states freezes'
 p7366
 (lp7367
-I3
-aF-0.024059813263408034
-asS'take recent'
+I1
+aF-0.015098314606741563
+asS'part limited'
 p7368
 (lp7369
-I1
-aF0.01163378856853821
-asS"'s sporting"
+I2
+aF0.007155813175024445
+asS'note. absolutely'
 p7370
 (lp7371
-I43
-aF0.25877235100216228
-asS'social network'
+I1
+aF0.0065939063210550593
+asS'retail experience'
 p7372
 (lp7373
-I1
-aF-0.015337423312883396
-asS'qualify stocks'
+I60
+aF1.5705608521917984
+asS'500 home'
 p7374
 (lp7375
-I1
-aF0.022254127781766008
-asS"isn 't"
+I4
+aF0.044781306879880148
+asS'crisis deepens'
 p7376
 (lp7377
-I2
-aF-0.02972399150743112
-asS'also previously'
+I14
+aF0.080589334257600925
+asS'bitcoin -'
 p7378
 (lp7379
-I1
-aF-0.010660963270678267
-asS'1.71% \xc2'
+I2
+aF0.013187812642110119
+asS'corp. ntic'
 p7380
 (lp7381
-I3
-aF-0.061248498782670281
-asS'employees might'
+I4
+aF0.021208070758720332
+asS'retain zacks'
 p7382
 (lp7383
-I1
-aF-0.01486199575371556
-asS'answer fannie'
+I3
+aF0.043144411231668872
+asS'; height'
 p7384
 (lp7385
-I2
-aF0.0073921320280504483
-asS'shows strength'
+I5
+aF0.1588106388459081
+asS'slaps dow'
 p7386
 (lp7387
-I9
-aF0.063055396376559991
-asS'espresso makers'
+I43
+aF0.25877235100216228
+asS'head advanced'
 p7388
 (lp7389
 I1
-aF-0.024283439490445837
-asS'hitting session'
+aF-0.013834507961367818
+asS'today9 55'
 p7390
 (lp7391
-I1
-aF0.022254127781766008
-asS'jan brewer'
+I60
+aF1.5705608521917984
+asS'roc performance'
 p7392
 (lp7393
-I5
-aF-0.044289399626954516
-asS'yahoo yhoo'
+I1
+aF0.032987171655467266
+asS'$5 billion.'
 p7394
 (lp7395
-I8
-aF-0.07254061158029762
-asS'25 highest'
+I1
+aF0.023487602630611493
+asS'power generation.trade'
 p7396
 (lp7397
-I8
-aF-0.07254061158029762
-asS'ever seen.'
+I1
+aF-0.015098314606741563
+asS'kiev losing'
 p7398
 (lp7399
-I1
-aF-0.0078271226816403073
-asS'apple aapl'
+I3
+aF-0.036479419703103984
+asS'companies dominated'
 p7400
 (lp7401
-I18
-aF-0.11488895505155441
-asS'motors co'
+I16
+aF0.046391384821821771
+asS'russian banks'
 p7402
 (lp7403
-I1
-aF0.0095057034220531987
-asS'inc. rights'
+I9
+aF0.063055396376559991
+asS"poor 's"
 p7404
 (lp7405
-I43
-aF0.25877235100216228
-asS'china vanke'
+I1
+aF0.028248587570621538
+asS'+0.37% \xc2'
 p7406
 (lp7407
 I2
-aF0.011512762036800132
-asS'c -'
+aF-0.00099220476444672294
+asS'told reporters'
 p7408
 (lp7409
 I1
-aF-0.015434451219512105
-asS'expected drop'
+aF-0.015098314606741563
+asS'+33.30 +2.52%'
 p7410
 (lp7411
-I1
-aF-0.042688910696761409
-asS'ism said'
+I2
+aF0.011512762036800132
+asS'sachs group'
 p7412
 (lp7413
 I1
-aF-0.0071729957805906396
-asS'already wary'
+aF0.0028884159318941583
+asS'years trade'
 p7414
 (lp7415
-I2
-aF-0.02972399150743112
-asS'fslr -'
+I1
+aF0.034482758620689689
+asS'overbought stock.freds'
 p7416
 (lp7417
-I2
-aF-0.038899596986157331
-asS'valores cnbv'
+I1
+aF0.0085513078470825805
+asS'fred overbought'
 p7418
 (lp7419
 I1
-aF-0.01486199575371556
-asS'aapl -'
+aF0.0085513078470825805
+asS'2010 rules'
 p7420
 (lp7421
-I3
-aF0.029027283270916533
-asS'reserve they\xc2'
+I4
+aF-0.0075938299399980749
+asS'crimea putin'
 p7422
 (lp7423
 I1
-aF-0.01486199575371556
-asS'development leave'
+aF-0.025641025641025664
+asS'. "'
 p7424
 (lp7425
 I1
-aF-0.013834507961367818
-asS'training cost'
+aF0.01016055675194774
+asS'2014 +0.91%'
 p7426
 (lp7427
 I1
-aF-0.01486199575371556
-asS'20 cents'
+aF0.0065939063210550593
+asS'states europe.'
 p7428
 (lp7429
 I1
-aF-0.047141424272818457
-asS'0.48% apple'
+aF0.022254127781766008
+asS'huntsman corporation'
 p7430
 (lp7431
-I3
-aF0.029027283270916533
-asS'economics roi'
+I1
+aF0.032987171655467266
+asS'ahead 4q13'
 p7432
 (lp7433
-I43
-aF0.25877235100216228
-asS'quotes delayed'
+I2
+aF0.037754290992674737
+asS'problems following'
 p7434
 (lp7435
-I12
-aF0.069076572220800783
-asS'plans. ukraine'
+I2
+aF0.023269395998132755
+asS'month national'
 p7436
 (lp7437
-I1
-aF-0.01486199575371556
-asS"'s giants"
+I4
+aF0.10298968128032032
+asS'slump ukraine'
 p7438
 (lp7439
-I6
-aF-0.05390200719883341
-asS'shipping services'
+I14
+aF0.080589334257600925
+asS'canada within'
 p7440
 (lp7441
-I1
-aF0.022254127781766008
-asS'groupon inc.'
+I2
+aF0.044508255563532016
+asS'securities exchange'
 p7442
 (lp7443
 I2
-aF0.033694344163657949
-asS'monday. berkshire'
+aF-0.02972399150743112
+asS'money laundering'
 p7444
 (lp7445
 I1
-aF0.0095057034220531987
-asS'55 cents'
+aF0.022254127781766008
+asS'/quotes/zigman/121019/delayed/quotes/nls/chtr chtr'
 p7446
 (lp7447
 I2
-aF-0.040018832391713485
-asS'$236.6 million'
+aF0.011609522754737799
+asS'shareholders demanding'
 p7448
 (lp7449
-I1
-aF-0.0070054945054943809
-asS'hours. also'
+I2
+aF0.0050351650906114501
+asS'j gallagher'
 p7450
 (lp7451
 I1
-aF-0.0069034107529398394
-asS'edition 10-point'
+aF-0.015098314606741563
+asS'5 economic'
 p7452
 (lp7453
-I9
-aF0.063055396376559991
-asS'bidu sina'
+I1
+aF-0.01486199575371556
+asS'company u.s.'
 p7454
 (lp7455
-I7
-aF-0.061600416238838308
-asS'share revenue'
+I1
+aF-0.042688910696761409
+asS'/quotes/zigman/65095/delayed/quotes/nls/pnra pnra'
 p7456
 (lp7457
-I1
-aF-0.047141424272818457
-asS'40 declining'
+I3
+aF0.0073890814844253258
+asS'push reach'
 p7458
 (lp7459
-I2
-aF-0.011720831113478896
-asS'loss gold'
+I1
+aF0.028248587570621538
+asS'meet obligations'
 p7460
 (lp7461
-I43
-aF0.25877235100216228
-asS'february 4'
+I44
+aF0.87759511459066997
+asS'tensions ease'
 p7462
 (lp7463
-I1
-aF-0.013834507961367818
-asS'$1.96 share'
+I3
+aF0.019781718963165176
+asS'newport n.h.'
 p7464
 (lp7465
-I1
-aF0.00016545334215751787
-asS'p. saefong'
+I2
+aF0.03556487878640302
+asS'russia economically'
 p7466
 (lp7467
-I36
-aF0.20722971666240242
-asS'selling stakes'
+I1
+aF-0.024283439490445837
+asS'consultation summer'
 p7468
 (lp7469
 I1
-aF-0.015434451219512105
-asS'ukraine ukraine'
+aF-0.015098314606741563
+asS'updates windows'
 p7470
 (lp7471
-I43
-aF0.25877235100216228
-asS'insurance corp.'
+I2
+aF0.0028409817157098796
+asS'500 2011'
 p7472
 (lp7473
-I1
-aF-0.01486199575371556
-asS'second richest'
+I2
+aF0.0028409817157098796
+asS'despite narrowing'
 p7474
 (lp7475
 I1
-aF0.022254127781766008
-asS'step may'
+aF-0.015098314606741563
+asS'mahmudova tech'
 p7476
 (lp7477
 I1
-aF-0.01749999999999996
-asS'success expect'
+aF0.0065939063210550593
+asS'+2.79% \xc2'
 p7478
 (lp7479
-I1
-aF0.022254127781766008
-asS'earnings expectations'
+I2
+aF0.062544674767691211
+asS'00 p.m.'
 p7480
 (lp7481
-I2
-aF0.011512762036800132
-asS'ukraine sparking'
+I60
+aF1.5705608521917984
+asS'0.32% autodesk'
 p7482
 (lp7483
 I1
-aF-0.025641025641025664
-asS'hewlett-packard co.'
+aF-0.015434451219512105
+asS'crisis could'
 p7484
 (lp7485
 I1
-aF0.023487602630611493
-asS'p -'
+aF-0.015098314606741563
+asS'+3.18% \xc2'
 p7486
 (lp7487
-I1
-aF-0.015434451219512105
-asS'gates suggests'
+I2
+aF-0.014893105933221342
+asS'five-month high'
 p7488
 (lp7489
-I1
-aF0.022254127781766008
-asS'de arte'
+I44
+aF0.87759511459066997
+asS'ahead uneven'
 p7490
 (lp7491
-I1
-aF0.01163378856853821
-asS'cnbc monday.'
+I30
+aF0.78528042609589921
+asS'likely outperform'
 p7492
 (lp7493
-I1
-aF-0.005373455131649536
-asS'february gold'
-p7494
-(lp7495
 I43
 aF0.25877235100216228
-asS'rich. gox'
+asS'victim unscrupulous'
+p7494
+(lp7495
+I1
+aF-0.015098314606741563
+asS'gallery said'
 p7496
 (lp7497
-I1
-aF0.0095057034220531987
-asS'low $22.16'
+I2
+aF-0.0005004065187305274
+asS'\xc2 could'
 p7498
 (lp7499
-I1
-aF0.022254127781766008
-asS'fedex earlier'
+I2
+aF-0.00013053922301388583
+asS'equal united'
 p7500
 (lp7501
 I1
-aF0.022254127781766008
-asS'whole foods'
+aF-0.015098314606741563
+asS'vod +1.07%'
 p7502
 (lp7503
-I2
-aF-0.019241443108232972
-asS"benefits 're"
+I1
+aF0.015166340508806199
+asS'last year'
 p7504
 (lp7505
-I1
-aF0.022254127781766008
-asS'trulife makes'
+I5
+aF-0.00078668825669267126
+asS'cost fortune'
 p7506
 (lp7507
-I1
-aF-0.0044444444444443499
-asS'hiring remains'
+I8
+aF-0.020074526510182204
+asS'percent toyota'
 p7508
 (lp7509
-I2
-aF-0.02972399150743112
-asS'finl svc'
+I1
+aF0.0095057034220531987
+asS'500 reported'
 p7510
 (lp7511
 I2
-aF-0.014586566700890537
-asS'6 02'
+aF0.024645570354333065
+asS'bigger comcast'
 p7512
 (lp7513
-I9
-aF0.063055396376559991
-asS"'s group."
+I4
+aF-0.0075938299399980749
+asS'ready sell'
 p7514
 (lp7515
 I1
-aF-0.0078271226816403073
-asS'6 00'
+aF0.017951856385148825
+asS'report erie'
 p7516
 (lp7517
-I12
-aF0.069076572220800783
-asS'6 01'
+I2
+aF0.060087816422073489
+asS'upgrade --'
 p7518
 (lp7519
-I18
-aF0.12611079275312001
-asS'partners bellingham'
+I2
+aF0.0094823222529492185
+asS'insurance corp.'
 p7520
 (lp7521
 I1
-aF-0.0044444444444443499
-asS'2.98 percent'
+aF-0.01486199575371556
+asS'three weeks.citigroup'
 p7522
 (lp7523
-I2
-aF0.0073921320280504483
-asS'increase comes'
+I1
+aF-0.01486199575371556
+asS'reserves prop'
 p7524
 (lp7525
 I1
-aF0.022254127781766008
-asS'also wants'
+aF-0.025641025641025664
+asS'said expected'
 p7526
 (lp7527
-I2
-aF0.0073921320280504483
-asS'sanctions russia'
+I1
+aF0.0063291139240506224
+asS'wto argue'
 p7528
 (lp7529
 I1
-aF0.022254127781766008
-asS'reserve surveys'
+aF-0.015098314606741563
+asS'profiles risk-weighted'
 p7530
 (lp7531
 I1
-aF-0.01486199575371556
-asS'make bid'
+aF-0.015098314606741563
+asS'corp. meoh'
 p7532
 (lp7533
-I1
-aF-0.011144883485308961
-asS'letter boards.the'
+I4
+aF0.021208070758720332
+asS'hours. also'
 p7534
 (lp7535
-I2
-aF0.0073921320280504483
-asS'credit-card fraud'
+I1
+aF-0.0069034107529398394
+asS"'s deliberations"
 p7536
 (lp7537
-I20
-aF0.11512762036800134
-asS'- 0.20%'
+I2
+aF0.0050351650906114501
+asS'$18.48 million'
 p7538
 (lp7539
 I2
-aF-0.012057792011874676
-asS"world 's"
+aF-0.01702614434749404
+asS'" top'
 p7540
 (lp7541
 I1
-aF0.022254127781766008
-asS'volatility index'
+aF0.0065939063210550593
+asS'analyst kicks'
 p7542
 (lp7543
-I2
-aF0.050712567092356005
-asS'december 31'
+I1
+aF0.0065939063210550593
+asS'corp sbux'
 p7544
 (lp7545
-I2
-aF0.0073921320280504483
-asS'percent december.both'
+I3
+aF0.019851875731156512
+asS'co 7201.t'
 p7546
 (lp7547
-I2
-aF-0.036601126188498201
-asS'brand gained'
+I1
+aF0.0063291139240506224
+asS'+2.25% late'
 p7548
 (lp7549
 I1
-aF0.0095057034220531987
-asS'big setback'
+aF0.027218934911242658
+asS'report twitter'
 p7550
 (lp7551
-I1
-aF-0.01486199575371556
-asS'.fairholme said'
+I2
+aF0.044429609850170595
+asS'lines changing'
 p7552
 (lp7553
-I2
-aF0.0073921320280504483
-asS'safe-havens 4'
+I1
+aF0.022254127781766008
+asS'1,000 bankers'
 p7554
 (lp7555
-I9
-aF0.063055396376559991
-asS'held positions'
+I1
+aF-0.015098314606741563
+asS'fred lately'
 p7556
 (lp7557
 I1
-aF0.0095057034220531987
-asS'probably blame'
+aF0.0085513078470825805
+asS'although del'
 p7558
 (lp7559
 I1
-aF-0.01486199575371556
-asS'make rich.'
+aF0.012706969580285016
+asS'leroy spearheaded'
 p7560
 (lp7561
 I1
-aF0.0095057034220531987
-asS'stakes anadarko'
+aF-0.015098314606741563
+asS'sets date'
 p7562
 (lp7563
-I2
-aF0.023622213537533625
-asS'pnc finl'
+I30
+aF0.78528042609589921
+asS'poland ready'
 p7564
 (lp7565
-I2
-aF-0.014586566700890537
-asS'expect united'
+I9
+aF0.063055396376559991
+asS'per month.'
 p7566
 (lp7567
-I1
-aF0.022254127781766008
-asS'7201.t .chrysler'
+I8
+aF-0.07254061158029762
+asS'benefit development'
 p7568
 (lp7569
 I1
-aF0.0063291139240506224
-asS'akzo nobel'
+aF-0.015098314606741563
+asS'production u.k.'
 p7570
 (lp7571
-I8
-aF0.024277654080222977
-asS'stake freddie'
+I43
+aF0.25877235100216228
+asS'bankrate.com national'
 p7572
 (lp7573
-I2
-aF0.0073921320280504483
-asS'edition ecb'
+I123
+aF2.5795457535277806
+asS'asian weakness'
 p7574
 (lp7575
 I9
 aF0.063055396376559991
-asS'hathaway inc.'
+asS'international business'
 p7576
 (lp7577
 I1
-aF0.00067980965329706225
-asS'pbpb -'
+aF0.022254127781766008
+asS'corp. tenet'
 p7578
 (lp7579
-I2
-aF-0.053246146660439073
-asS'feb. 28'
+I4
+aF-0.038294363224545734
+asS'poor. prior'
 p7580
 (lp7581
-I63
-aF0.44138777463592005
-asS'validate pemex'
+I1
+aF-0.015098314606741563
+asS'36 p.m.'
 p7582
 (lp7583
-I1
-aF-0.01486199575371556
-asS'heading march'
+I39
+aF0.8483358224724592
+asS'contracts 106'
 p7584
 (lp7585
 I1
-aF-0.042688910696761409
-asS'sales rose'
+aF0.086510263929618747
+asS'january court'
 p7586
 (lp7587
-I1
-aF0.0095057034220531987
-asS'roi view'
+I2
+aF0.019620762866974131
+asS'commercial-airline pilots'
 p7588
 (lp7589
-I43
-aF0.25877235100216228
-asS'factory jobs'
+I1
+aF-0.01486199575371556
+asS'sport zacks'
 p7590
 (lp7591
-I1
-aF0.0062801932367149279
-asS'delta air'
+I3
+aF0.015817950519726197
+asS'? graphic'
 p7592
 (lp7593
 I1
-aF0.022254127781766008
-asS'aide become'
+aF0.014802631578947345
+asS'experience strategy'
 p7594
 (lp7595
-I1
-aF-0.013834507961367818
-asS'heavy volume'
+I60
+aF1.5705608521917984
+asS'might coming'
 p7596
 (lp7597
-I1
-aF0.022254127781766008
-asS'2013 jinkosolar'
+I2
+aF0.038093405336004325
+asS'ukraine conflict'
 p7598
 (lp7599
-I2
-aF0.011512762036800132
-asS'/quotes/zigman/118648/delayed/quotes/nls/grmn grmn'
+I3
+aF0.019781718963165176
+asS'- 1.14%'
 p7600
 (lp7601
-I1
-aF-0.0011181513231456424
-asS'record highs'
+I2
+aF-0.01571720886094705
+asS'cash pile'
 p7602
 (lp7603
-I9
-aF0.063055396376559991
-asS'reuters poll'
+I1
+aF0.0065939063210550593
+asS'million 79'
 p7604
 (lp7605
-I1
-aF-0.0071729957805906396
-asS'edition euro'
+I2
+aF0.040569339539934614
+asS'u.s. investors'
 p7606
 (lp7607
-I9
-aF0.063055396376559991
-asS'31 2014'
+I1
+aF0.017951856385148825
+asS'posted publicly'
 p7608
 (lp7609
-I9
-aF0.063055396376559991
-asS'remain company'
+I1
+aF-0.01486199575371556
+asS'/quotes/zigman/9872907/delayed/quotes/nls/cg cg'
 p7610
 (lp7611
-I1
-aF-0.013834507961367818
-asS'manolo vald\xc3\xa9s'
+I2
+aF-0.062919807236027137
+asS'- former'
 p7612
 (lp7613
 I1
-aF-0.010660963270678267
-asS'combined company'
+aF0.034482758620689689
+asS'11 34'
 p7614
 (lp7615
-I2
-aF-0.023970052699711648
-asS'- 1.51%'
+I30
+aF0.78528042609589921
+asS'things investors'
 p7616
 (lp7617
-I1
-aF-0.017333579199704921
-asS'part investor'
+I12
+aF0.069076572220800783
+asS'laundering fraud'
 p7618
 (lp7619
 I1
-aF-0.0078271226816403073
-asS'cold weather'
+aF0.022254127781766008
+asS'2011 $8.5'
 p7620
 (lp7621
-I3
-aF-0.023394877583380498
-asS'holdings armh'
+I2
+aF0.0028409817157098796
+asS'inc. hp'
 p7622
 (lp7623
-I7
-aF-0.061600416238838308
-asS'euros spanish'
+I1
+aF0.028248587570621538
+asS'economy growing'
 p7624
 (lp7625
-I1
-aF-0.010660963270678267
-asS'\xc2 4.5'
-p7626
-(lp7627
-I1
-aF0.036999999999999922
-asS'reports profit'
-p7628
-(lp7629
 I2
 aF0.011512762036800132
-asS'public comments'
+asS'potential target'
+p7626
+(lp7627
+I2
+aF0.0094823222529492185
+asS'lehman brothers.'
+p7628
+(lp7629
+I1
+aF-0.015098314606741563
+asS'-- allowed'
 p7630
 (lp7631
-I1
-aF-0.010660963270678267
-asS'$16 billion'
+I2
+aF0.0094823222529492185
+asS"oppenheimer 's"
 p7632
 (lp7633
 I1
-aF-0.015337423312883396
-asS'hot oil'
+aF0.0065939063210550593
+asS'sap sap'
 p7634
 (lp7635
-I2
-aF-0.00069443755499005305
-asS'million vehicles'
+I14
+aF0.018081633883883088
+asS'fraud said'
 p7636
 (lp7637
 I1
-aF0.0063291139240506224
-asS'crisis escalates'
+aF-0.015098314606741563
+asS'unwinding stimulus'
 p7638
 (lp7639
-I23
-aF0.14364473063416094
-asS'/quotes/zigman/94726/delayed/quotes/nls/dwa dwa'
+I1
+aF-0.01486199575371556
+asS'motors inc.'
 p7640
 (lp7641
-I2
-aF-0.094282848545636913
-asS'department environmental'
+I6
+aF0.018218871843842091
+asS'42 min'
 p7642
 (lp7643
-I1
-aF-0.01749999999999996
-asS'governance unless'
+I12
+aF0.069076572220800783
+asS'27 2014'
 p7644
 (lp7645
-I2
-aF0.0073921320280504483
-asS'jumps 2%'
+I63
+aF1.5903425711549635
+asS'could witness'
 p7646
 (lp7647
-I57
-aF0.33936168525976329
-asS'weather month'
+I1
+aF0.012706969580285016
+asS'facilities 3'
 p7648
 (lp7649
-I1
-aF0.0063291139240506224
-asS'agency fhfa'
+I30
+aF0.78528042609589921
+asS'investments new'
 p7650
 (lp7651
-I2
-aF0.0073921320280504483
-asS'countries "'
-p7652
-(lp7653
-I1
-aF-0.025641025641025664
-asS'also worked'
-p7654
-(lp7655
 I1
 aF-0.013834507961367818
-asS'status founder'
+asS'security firm'
+p7652
+(lp7653
+I14
+aF0.018081633883883088
+asS'41 a.m.'
+p7654
+(lp7655
+I27
+aF0.18916618912968003
+asS'alluded saying'
 p7656
 (lp7657
-I2
-aF-0.00069443755499005305
-asS'earlier. \xe2\x80\x9cwe'
+I1
+aF-0.015098314606741563
+asS'seeing growth'
 p7658
 (lp7659
-I1
-aF0.0095057034220531987
-asS'bbt free'
+I7
+aF0.044000292847206829
+asS'lilit gevorgyan'
 p7660
 (lp7661
 I2
-aF-0.014586566700890537
-asS'cable twc'
+aF-0.010838394062078319
+asS'2009 less'
 p7662
 (lp7663
 I2
-aF-0.023970052699711648
-asS'technology stock'
+aF0.0050351650906114501
+asS'bad business'
 p7664
 (lp7665
-I43
-aF0.25877235100216228
-asS'united kingdom'
+I4
+aF-0.047177815558848674
+asS'beatable consensus'
 p7666
 (lp7667
-I1
-aF0.022254127781766008
-asS'500 online'
+I2
+aF0.037754290992674737
+asS'" achieve'
 p7668
 (lp7669
-I7
-aF-0.061600416238838308
-asS'yuan 7'
+I1
+aF0.028248587570621538
+asS'target.when adjusted'
 p7670
 (lp7671
-I9
-aF0.063055396376559991
-asS'fraud mexico'
+I2
+aF-0.036601126188498201
+asS'; stocks'
 p7672
 (lp7673
-I43
-aF0.25877235100216228
-asS'+0.22% \xc2'
+I57
+aF0.33936168525976329
+asS'like lexmark'
 p7674
 (lp7675
-I2
-aF0.00033090668431503574
-asS'ceo candidates'
+I1
+aF0.028248587570621538
+asS'candidates succeed'
 p7676
 (lp7677
 I1
 aF-0.013834507961367818
-asS'believes isolated'
+asS'a.m. today10'
 p7678
 (lp7679
-I1
-aF-0.01486199575371556
-asS'boards.the fund'
+I72
+aF1.049544363290621
+asS'a.m. today12'
 p7680
 (lp7681
-I2
-aF0.0073921320280504483
-asS'stocks rally'
+I9
+aF0.063055396376559991
+asS'closely monitoring'
 p7682
 (lp7683
 I9
 aF0.063055396376559991
-asS'bankrate.com cash-rich'
+asS'investor buy.'
 p7684
 (lp7685
-I9
-aF0.063055396376559991
-asS'ipo skype.'
+I2
+aF0.007155813175024445
+asS'come next'
 p7686
 (lp7687
 I1
-aF-0.0078271226816403073
-asS'stakes pandora'
+aF0.0065939063210550593
+asS'gmcr free'
 p7688
 (lp7689
-I1
-aF-0.015434451219512105
-asS'year company'
+I3
+aF0.019851875731156512
+asS'late last'
 p7690
 (lp7691
 I1
 aF0.022254127781766008
-asS'iphones could'
+asS'month stock'
 p7692
 (lp7693
-I20
-aF0.11512762036800134
-asS'/quotes/zigman/29728828/delayed/quotes/nls/vod vod'
+I1
+aF0.0065939063210550593
+asS'radioshack ceo'
 p7694
 (lp7695
-I1
-aF-0.016598508539812311
-asS'u.s. stocks'
+I88
+aF1.7551902291813399
+asS'outperform stock'
 p7696
 (lp7697
-I16
-aF0.092102096294401054
-asS'35 a.m.'
+I43
+aF0.25877235100216228
+asS'british police.'
 p7698
 (lp7699
-I27
-aF0.18916618912968003
-asS'500 petsmart'
+I1
+aF0.022254127781766008
+asS'25 2014'
 p7700
 (lp7701
-I4
-aF-0.047177815558848674
-asS'states u.s.'
+I1
+aF0.0065939063210550593
+asS"'s fastest"
 p7702
 (lp7703
 I1
-aF0.022254127781766008
-asS'loans.in third'
+aF-0.015098314606741563
+asS'law compliant'
 p7704
 (lp7705
 I1
-aF-0.01486199575371556
-asS'complex jobs'
+aF-0.015098314606741563
+asS'analyst blog'
 p7706
 (lp7707
-I1
-aF-0.0044444444444443499
-asS'cg -'
+I30
+aF0.78528042609589921
+asS'least looking'
 p7708
 (lp7709
 I1
-aF-0.021229666390956799
-asS'tsla thursday.'
+aF0.012706969580285016
+asS'metre partners'
 p7710
 (lp7711
 I1
-aF0.023487602630611493
-asS'barbara kollmeyer'
+aF-0.0044444444444443499
+asS'investors cheer'
 p7712
 (lp7713
-I24
-aF0.13815314444160159
-asS'\xc2 said'
+I30
+aF0.78528042609589921
+asS'slated report'
 p7714
 (lp7715
-I7
-aF-0.063845283392758731
-asS'52 a.m.'
+I2
+aF0.011609522754737799
+asS'increase brand'
 p7716
 (lp7717
-I18
-aF0.12611079275312001
-asS'notion answer'
+I1
+aF0.054777388694347298
+asS'recruiting corporate'
 p7718
 (lp7719
-I2
-aF0.0073921320280504483
-asS'network announced'
+I1
+aF0.0065939063210550593
+asS'tuesday reported'
 p7720
 (lp7721
-I1
-aF-0.015337423312883396
-asS'younger mutual'
+I2
+aF-0.030299319009660548
+asS'goods business'
 p7722
 (lp7723
-I2
-aF0.0076523476523476276
-asS'- david'
-p7724
-(lp7725
 I9
 aF0.063055396376559991
-asS'marriott mar'
+asS'sales apple'
+p7724
+(lp7725
+I45
+aF0.27028511303896241
+asS'stock exchange'
 p7726
 (lp7727
-I4
-aF-0.047177815558848674
-asS'gains sales'
+I1
+aF0.0095057034220531987
+asS'vendors supportive'
 p7728
 (lp7729
-I1
-aF-0.042688910696761409
-asS'information. "'
+I44
+aF0.87759511459066997
+asS'helped push'
 p7730
 (lp7731
 I1
-aF-0.01486199575371556
-asS'edition available'
+aF0.0063291139240506224
+asS'united states.the'
 p7732
 (lp7733
 I1
-aF0.022254127781766008
-asS'man lauri'
+aF-0.015098314606741563
+asS'scty +3.18%'
 p7734
 (lp7735
-I1
-aF-0.01486199575371556
-asS'windows unit'
+I2
+aF-0.014893105933221342
+asS'felt indication'
 p7736
 (lp7737
 I1
-aF-0.013834507961367818
-asS'million oceanografia'
+aF0.0065939063210550593
+asS'use feed'
 p7738
 (lp7739
 I1
-aF-0.01486199575371556
-asS'rose $378.1'
+aF-0.015098314606741563
+asS'- 0.40%'
 p7740
 (lp7741
 I1
-aF-0.0078586044304735248
-asS'" reinforces'
+aF-0.0069034107529398394
+asS'national corporations'
 p7742
 (lp7743
-I1
-aF-0.025641025641025664
-asS'tenet healthcare'
+I4
+aF-0.047177815558848674
+asS'month thanks'
 p7744
 (lp7745
-I2
-aF-0.045650441836882411
-asS'ex-chairman challenging'
+I1
+aF-0.01486199575371556
+asS'wearables u.s.'
 p7746
 (lp7747
-I2
-aF-0.02972399150743112
-asS'bill directly'
+I30
+aF0.78528042609589921
+asS"stock 's"
 p7748
 (lp7749
-I1
-aF-0.010500807754442712
-asS'says ecb'
+I2
+aF0.10801026392961874
+asS'better together.'
 p7750
 (lp7751
-I43
-aF0.25877235100216228
-asS'. reuters'
+I2
+aF0.0050351650906114501
+asS'surged euro'
 p7752
 (lp7753
 I1
-aF-0.013834507961367818
-asS'bankruptcy. stocks'
+aF0.025356283546178002
+asS'early trade'
 p7754
 (lp7755
 I1
-aF-0.01486199575371556
-asS'marketing executive'
+aF0.0065939063210550593
+asS"flights 's"
 p7756
 (lp7757
 I1
-aF-0.013834507961367818
-asS'/quotes/zigman/5065548/delayed/quotes/nls/c c'
+aF-0.015098314606741563
+asS'share year'
 p7758
 (lp7759
-I1
-aF-0.015434451219512105
-asS'grain markets'
+I10
+aF0.072938766197916102
+asS'european stocks'
 p7760
 (lp7761
-I12
-aF0.069076572220800783
-asS'program rules'
+I14
+aF0.080589334257600925
+asS'slip stocks'
 p7762
 (lp7763
-I1
-aF0.022254127781766008
-asS'may win'
+I9
+aF0.063055396376559991
+asS'pcln fortune'
 p7764
 (lp7765
-I43
-aF0.25877235100216228
-asS'ballmer announced'
+I14
+aF0.018081633883883088
+asS'meoh .'
 p7766
 (lp7767
-I1
-aF-0.013834507961367818
-asS'retire.eric rudder'
+I2
+aF0.014895823661047334
+asS'+1.94% \xc2'
 p7768
 (lp7769
 I1
-aF-0.013834507961367818
-asS'4 17'
+aF0.020620086040646798
+asS'gear wearables'
 p7770
 (lp7771
-I9
-aF0.063055396376559991
-asS'shareholders. despite'
+I30
+aF0.78528042609589921
+asS'" heading'
 p7772
 (lp7773
 I1
-aF-0.0078271226816403073
-asS'front january'
+aF-0.042688910696761409
+asS'factset. related'
 p7774
 (lp7775
 I1
-aF-0.01486199575371556
-asS'open letter'
+aF-0.025641025641025664
+asS'stimulative bond'
 p7776
 (lp7777
 I1
-aF-0.0078271226816403073
-asS'since april'
+aF-0.01486199575371556
+asS'europe. rate'
 p7778
 (lp7779
 I1
-aF-0.0071729957805906396
-asS'survey factset'
+aF0.022254127781766008
+asS'massachusetts.the company'
 p7780
 (lp7781
-I2
-aF-0.022566372361966354
-asS'political relationship'
+I1
+aF-0.01486199575371556
+asS'emerging market'
 p7782
 (lp7783
-I2
-aF-0.048566878980891674
-asS'big tech'
+I5
+aF0.054044157312895608
+asS'further. qualify'
 p7784
 (lp7785
-I3
-aF-0.039832894544929484
-asS"'s group"
+I1
+aF0.022254127781766008
+asS'5 49'
 p7786
 (lp7787
-I1
-aF-0.013834507961367818
-asS'noble $22'
+I3
+aF0.019781718963165176
+asS'5 47'
 p7788
 (lp7789
-I1
-aF0.0027342063606276006
-asS'continues 7'
-p7790
-(lp7791
 I9
 aF0.063055396376559991
-asS'set regulations.'
+asS'shirts part'
+p7790
+(lp7791
+I2
+aF0.007155813175024445
+asS'industries inc.'
 p7792
 (lp7793
-I1
-aF-0.010660963270678267
-asS'percent 154,866'
+I3
+aF0.076043454879415551
+asS'goes changes'
 p7794
 (lp7795
 I1
-aF0.0063291139240506224
-asS'icahn conducting'
+aF0.022254127781766008
+asS'said chief'
 p7796
 (lp7797
-I1
-aF0.0028884159318941583
-asS'bailout unfair'
+I3
+aF-0.0043121873578898413
+asS'mexico texas'
 p7798
 (lp7799
 I2
-aF-0.02972399150743112
-asS'100 people'
+aF0.040569339539934614
+asS'half end'
 p7800
 (lp7801
 I1
-aF0.022254127781766008
-asS'" potentially'
+aF0.00067980965329706225
+asS'roughly 1.7%.'
 p7802
 (lp7803
 I1
-aF-0.0078271226816403073
-asS'ahead $43.4'
+aF-0.0058604155567394478
+asS'done previously.'
 p7804
 (lp7805
-I1
-aF-0.020009416195856743
-asS'strategy.bates former'
+I4
+aF-0.0075938299399980749
+asS'says ukraine'
 p7806
 (lp7807
-I1
-aF-0.013834507961367818
-asS'icahn penned'
+I9
+aF0.063055396376559991
+asS'buy gamestop'
 p7808
 (lp7809
-I1
-aF-0.0078271226816403073
-asS'catastrophe comes'
+I30
+aF0.78528042609589921
+asS'inc. /quotes/zigman/94726/delayed/quotes/nls/dwa'
 p7810
 (lp7811
-I2
-aF-0.02972399150743112
-asS'video dan'
+I4
+aF-0.060598638019321097
+asS'plans build'
 p7812
 (lp7813
 I1
-aF0.022254127781766008
-asS'12 cents'
+aF0.0028884159318941583
+asS"capital 's"
 p7814
 (lp7815
-I3
-aF0.057181946794269446
-asS'bid complex'
+I43
+aF0.25877235100216228
+asS'wheeler said'
 p7816
 (lp7817
-I1
-aF-0.0044444444444443499
-asS'federal reserve'
+I4
+aF0.010079537768633639
+asS"'s currency"
 p7818
 (lp7819
 I18
-aF-0.27439305824794713
-asS'firm g'
+aF0.12611079275312001
+asS'loans insured'
 p7820
 (lp7821
 I1
-aF0.0027342063606276006
-asS'reading since'
+aF-0.01486199575371556
+asS'capital regardless'
 p7822
 (lp7823
 I1
-aF-0.0071729957805906396
-asS'$43.4 million'
+aF-0.015098314606741563
+asS'immediately comment.kaplan'
 p7824
 (lp7825
 I1
-aF-0.020009416195856743
-asS'-- repelling'
+aF-0.015098314606741563
+asS'26 a.m.'
 p7826
 (lp7827
-I4
-aF-0.047177815558848674
-asS'\xc2 expected'
+I18
+aF0.12611079275312001
+asS'grain trade.'
 p7828
 (lp7829
-I3
-aF-0.018323678262485425
-asS'plunge russian'
+I1
+aF0.014802631578947345
+asS'12 26'
 p7830
 (lp7831
-I1
-aF-0.025641025641025664
-asS'trading global'
-p7832
-(lp7833
-I1
-aF-0.025641025641025664
-asS'reinforces suspicion'
-p7834
-(lp7835
-I1
-aF-0.025641025641025664
-asS'17 p.m.'
-p7836
-(lp7837
 I9
 aF0.063055396376559991
-asS'air lines'
+asS'12 20'
+p7832
+(lp7833
+I30
+aF0.78528042609589921
+asS'gates helm'
+p7834
+(lp7835
+I2
+aF0.023269395998132755
+asS'prior feb'
+p7836
+(lp7837
+I1
+aF-0.015098314606741563
+asS'cfo since'
 p7838
 (lp7839
 I1
-aF0.022254127781766008
-asS'/quotes/zigman/68270/delayed/quotes/nls/aapl aapl'
+aF0.0065939063210550593
+asS'nissan brand'
 p7840
 (lp7841
-I3
-aF0.029027283270916533
-asS'nerve 8'
+I1
+aF0.0095057034220531987
+asS'said interview'
 p7842
 (lp7843
-I9
-aF0.063055396376559991
-asS'rose $1.96'
+I1
+aF-0.01486199575371556
+asS'investors short'
 p7844
 (lp7845
 I1
-aF0.00016545334215751787
-asS'paid it.'
+aF-0.015098314606741563
+asS'planned raise'
 p7846
 (lp7847
 I1
-aF-0.0078271226816403073
-asS'shares hk'
+aF0.022254127781766008
+asS'; clear'
 p7848
 (lp7849
-I2
-aF0.011512762036800132
-asS'1.69% investors'
+I5
+aF0.1588106388459081
+asS'part european'
 p7850
 (lp7851
 I1
-aF0.00067980965329706225
-asS'reversed two'
+aF-0.015098314606741563
+asS'mix industry'
 p7852
 (lp7853
-I1
-aF-0.0071729957805906396
-asS'oppenheimer chief'
+I12
+aF0.023189645674656527
+asS'arizona new'
 p7854
 (lp7855
-I1
-aF0.0028884159318941583
-asS'9 2013'
+I2
+aF0.040569339539934614
+asS'case immediately'
 p7856
 (lp7857
-I9
-aF0.063055396376559991
-asS'united airlines'
+I1
+aF-0.015098314606741563
+asS'percent.shares radioshack'
 p7858
 (lp7859
 I1
-aF0.022254127781766008
-asS'39 min'
+aF-0.015098314606741563
+asS'printing industry'
 p7860
 (lp7861
-I12
-aF0.069076572220800783
-asS'said could'
+I4
+aF-0.036225661420065031
+asS'homebuilders prompted'
 p7862
 (lp7863
 I1
 aF-0.01486199575371556
-asS'recovers 11'
+asS'strategic distribution'
 p7864
 (lp7865
-I9
-aF0.063055396376559991
-asS'senior economist'
+I2
+aF0.03185842475789831
+asS'fb +1.94%'
 p7866
 (lp7867
 I1
-aF-0.025641025641025664
-asS'wednesday\xe2\x80\x99s closing'
+aF0.020620086040646798
+asS'york times'
 p7868
 (lp7869
 I1
-aF0.023487602630611493
-asS'services energy'
+aF-0.013834507961367818
+asS'models cost'
 p7870
 (lp7871
 I1
-aF-0.01749999999999996
-asS'fragile emerging'
+aF-0.015098314606741563
+asS'1.24% \xc2'
 p7872
 (lp7873
-I2
-aF-0.02972399150743112
-asS'mexican oil'
+I1
+aF-0.015337423312883396
+asS'brands click'
 p7874
 (lp7875
 I1
-aF-0.01486199575371556
-asS'late tuesday'
+aF0.014802631578947345
+asS'took new'
 p7876
 (lp7877
 I2
-aF-0.073764497603037993
-asS'stock since'
+aF0.023622213537533625
+asS'notion answer'
 p7878
 (lp7879
-I1
-aF0.0028884159318941583
-asS'online travel'
+I2
+aF0.0073921320280504483
+asS'increase fedex'
 p7880
 (lp7881
-I7
-aF-0.061600416238838308
-asS'rules corporate'
+I1
+aF0.022254127781766008
+asS'employed factory'
 p7882
 (lp7883
 I2
-aF0.0073921320280504483
-asS'triple-digit loss'
+aF0.03556487878640302
+asS"analysts '"
 p7884
 (lp7885
-I43
-aF0.25877235100216228
-asS'\xc2 google'
+I4
+aF0.015278493194121709
+asS'downturn 8'
 p7886
 (lp7887
-I1
-aF-0.010660963270678267
-asS'\xc2 late'
+I12
+aF0.069076572220800783
+asS'months hedge'
 p7888
 (lp7889
-I2
-aF-0.073764497603037993
-asS'top-selling chevy'
+I43
+aF0.25877235100216228
+asS'investor apprehension'
 p7890
 (lp7891
 I1
-aF-0.042688910696761409
-asS'paying direct'
+aF0.025356283546178002
+asS'tax-friendly alternative'
 p7892
 (lp7893
-I3
-aF-0.024059813263408034
-asS'anadarko petroleum'
+I2
+aF0.013187812642110119
+asS'cisco csco'
 p7894
 (lp7895
-I2
-aF0.023622213537533625
-asS'fell sharply.market'
+I12
+aF0.023189645674656527
+asS'ukraine tensions'
 p7896
 (lp7897
-I1
-aF0.025356283546178002
-asS'estimated honda'
+I120
+aF1.9297042564147269
+asS'month backing'
 p7898
 (lp7899
-I1
-aF0.0095057034220531987
-asS'released fresh'
+I2
+aF0.0094823222529492185
+asS'report helmerich&payne'
 p7900
 (lp7901
 I1
-aF-0.0078271226816403073
-asS'10 42'
+aF-0.0032679738562091968
+asS'designed attract'
 p7902
 (lp7903
-I9
-aF0.063055396376559991
-asS'publicly names'
+I2
+aF-0.032580270082819947
+asS'street 9'
 p7904
 (lp7905
-I1
-aF-0.01486199575371556
-asS'war erupts'
+I30
+aF0.78528042609589921
+asS'digits 51'
 p7906
 (lp7907
-I43
-aF0.25877235100216228
-asS'quantitative easing'
+I12
+aF0.069076572220800783
+asS'-- macs'
 p7908
 (lp7909
 I2
-aF-0.02972399150743112
-asS'beat analysts'
+aF0.0094823222529492185
+asS'2014 +0.97%'
 p7910
 (lp7911
 I1
-aF-0.019905850706119568
-asS'chrysler group'
+aF0.0065939063210550593
+asS'000270.ks year'
 p7912
 (lp7913
 I1
-aF0.0063291139240506224
-asS"greed 's"
+aF0.0095057034220531987
+asS'still totaled'
 p7914
 (lp7915
 I1
-aF0.023487602630611493
-asS'jump hedge'
+aF-0.015098314606741563
+asS'group flipped'
 p7916
 (lp7917
-I43
-aF0.25877235100216228
-asS'" threat'
+I2
+aF0.0028409817157098796
+asS'+1.65% \xc2'
 p7918
 (lp7919
 I2
-aF-0.051282051282051329
-asS'sti free'
+aF0.0073560786123366738
+asS'comments issuing'
 p7920
 (lp7921
 I2
-aF-0.014586566700890537
-asS'veto bill.'
+aF-0.0005004065187305274
+asS'fortune 500'
 p7922
 (lp7923
-I1
-aF0.0028884159318941583
-asS'said cnbc'
+I356
+aF0.60963935538332792
+asS'earnings 29'
 p7924
 (lp7925
-I2
-aF-0.0096143372351269688
-asS'million $7.14'
+I3
+aF-0.014808785446837697
+asS'january last'
 p7926
 (lp7927
 I1
-aF-0.0078586044304735248
-asS'reputation bad'
+aF-0.015098314606741563
+asS'earnings 22'
 p7928
 (lp7929
-I4
-aF-0.047177815558848674
-asS'inc costco'
+I2
+aF0.040569339539934614
+asS"'s planned"
 p7930
 (lp7931
-I1
-aF-0.0089897260273972355
-asS'activist investor'
+I2
+aF0.0050351650906114501
+asS'earnings 20'
 p7932
 (lp7933
 I2
-aF-0.015654245363280615
-asS'- 1.19%'
+aF-0.030299319009660548
+asS'post fiscal'
 p7934
 (lp7935
-I3
-aF0.029027283270916533
-asS'\xc2 5'
+I1
+aF0.015490533562822848
+asS'corp. /quotes/zigman/162154/delayed/quotes/nls/nok'
 p7936
 (lp7937
 I1
-aF-0.01486199575371556
-asS'fed begins'
+aF0.036999999999999922
+asS'newswire aaaresearchreports.com'
 p7938
 (lp7939
-I1
-aF-0.01486199575371556
-asS'ukraine consumer'
+I30
+aF0.78528042609589921
+asS'sell aggregate'
 p7940
 (lp7941
-I43
-aF0.25877235100216228
-asS'bankruptcy. hiring'
+I1
+aF0.017811704834605556
+asS'45 a.m.'
 p7942
 (lp7943
-I1
-aF-0.01486199575371556
-asS'another angry'
+I12
+aF0.069076572220800783
+asS'insight. related'
 p7944
 (lp7945
 I1
-aF-0.0078271226816403073
-asS'months 2013'
+aF-0.025641025641025664
+asS'around march'
 p7946
 (lp7947
 I1
-aF0.0028884159318941583
-asS'eligible fedex'
+aF-0.015098314606741563
+asS'perception guide'
 p7948
 (lp7949
 I1
-aF0.022254127781766008
-asS'least 1,000'
+aF0.012706969580285016
+asS'solarcity /quotes/zigman/13139813/delayed/quotes/nls/scty'
 p7950
 (lp7951
-I1
-aF0.0062801932367149279
-asS'] investments'
+I2
+aF-0.027455969162467415
+asS'hits record'
 p7952
 (lp7953
-I1
-aF-0.025641025641025664
-asS'loss $89.9'
+I30
+aF0.78528042609589921
+asS'2 million'
 p7954
 (lp7955
-I1
-aF0.023487602630611493
-asS'2.37% \xc2'
+I3
+aF0.056620762866974053
+asS'credit facilities'
 p7956
 (lp7957
-I1
-aF-0.047141424272818457
-asS'lynn bitcoin'
+I30
+aF0.78528042609589921
+asS'leave immediately'
 p7958
 (lp7959
-I9
-aF0.063055396376559991
-asS'radio formula.gonzalez'
+I1
+aF-0.013834507961367818
+asS'live blog'
 p7960
 (lp7961
-I1
-aF-0.01486199575371556
-asS'united american'
+I92
+aF1.1693369971981076
+asS'close 1,845.73'
 p7962
 (lp7963
-I1
-aF0.022254127781766008
-asS'volatility indexes'
+I2
+aF0.013187812642110119
+asS'change +33.30'
 p7964
 (lp7965
-I1
-aF0.025356283546178002
-asS'tesla /quotes/zigman/118681/delayed/quotes/nls/tsla'
+I2
+aF0.011512762036800132
+asS'layers regulations'
 p7966
 (lp7967
 I1
-aF0.023487602630611493
-asS'reported latest'
+aF-0.015098314606741563
+asS'corp klac'
 p7968
 (lp7969
-I4
-aF-0.037111166550747227
-asS'regulatory filing'
+I3
+aF0.076043454879415551
+asS'crazy outerwall'
 p7970
 (lp7971
-I1
-aF-0.01486199575371556
-asS'mavericks. related'
+I43
+aF0.25877235100216228
+asS'kkr free'
 p7972
 (lp7973
 I1
-aF0.0028884159318941583
-asS'prosecutors say'
+aF-0.0096207215541164858
+asS'{ addstyle'
 p7974
 (lp7975
-I1
-aF-0.01486199575371556
-asS'uncertain future'
+I5
+aF0.1588106388459081
+asS'grmn -'
 p7976
 (lp7977
-I9
-aF0.063055396376559991
-asS'flaw macs'
+I1
+aF-0.0011181513231456424
+asS'filing. icahn'
 p7978
 (lp7979
 I1
 aF0.0028884159318941583
-asS'unaddressed making'
+asS'deal loans'
 p7980
 (lp7981
 I1
-aF0.0028884159318941583
-asS'- 0.05%'
+aF-0.01486199575371556
+asS'/quotes/zigman/222647/delayed/quotes/nls/ko ko'
 p7982
 (lp7983
-I3
-aF0.029027283270916533
-asS'may 2013.february'
+I4
+aF-0.010679627874459668
+asS'22 18'
 p7984
 (lp7985
 I1
-aF-0.0071729957805906396
-asS'expected post'
+aF0.014802631578947345
+asS'would assure'
 p7986
 (lp7987
-I2
-aF-0.019003487915782484
-asS'high dollar'
+I1
+aF-0.015098314606741563
+asS'working without'
 p7988
 (lp7989
-I9
-aF0.063055396376559991
-asS'rules stipulate'
+I2
+aF0.0094823222529492185
+asS'pcln -'
 p7990
 (lp7991
-I1
-aF-0.01486199575371556
-asS'round heavy'
+I2
+aF-0.01571720886094705
+asS'percent domestic'
 p7992
 (lp7993
 I1
-aF0.033296089385474903
-asS'\xc2 added'
+aF0.022254127781766008
+asS'oil --'
 p7994
 (lp7995
 I1
-aF0.00067980965329706225
-asS'well-known retailers'
+aF0.017811704834605556
+asS'0.6% ;'
 p7996
 (lp7997
-I4
-aF-0.037111166550747227
-asS'183,947 vehicles'
+I2
+aF0.011512762036800132
+asS'holdings held'
 p7998
 (lp7999
 I1
-aF-0.042688910696761409
-asS'oil cash-rich'
+aF-0.015098314606741563
+asS'believe healthy'
 p8000
 (lp8001
-I20
-aF0.11512762036800134
-asS'sets espresso'
+I2
+aF0.037754290992674737
+asS'cfo.maestri take'
 p8002
 (lp8003
 I1
-aF-0.024283439490445837
-asS"mexico 's"
+aF0.0065939063210550593
+asS'build new'
 p8004
 (lp8005
 I1
-aF-0.01486199575371556
-asS'entering partnership'
+aF0.0028884159318941583
+asS'loonie 6'
 p8006
 (lp8007
-I2
-aF-0.0096874231100129455
-asS'\xc2 u.s.'
+I9
+aF0.063055396376559991
+asS'feray chief'
 p8008
 (lp8009
-I1
-aF-0.0069034107529398394
-asS'became issue'
+I30
+aF0.78528042609589921
+asS'2014 high'
 p8010
 (lp8011
-I1
-aF0.0095057034220531987
-asS'banamex looking'
+I9
+aF0.063055396376559991
+asS'still steal'
 p8012
 (lp8013
 I1
-aF-0.01486199575371556
-asS'impact united'
+aF0.0065939063210550593
+asS'15.2% past'
 p8014
 (lp8015
 I1
-aF0.022254127781766008
-asS'publicly traded'
+aF0.012706969580285016
+asS'p.m. nov.'
 p8016
 (lp8017
-I1
-aF0.022254127781766008
-asS'spike gm'
-p8018
-(lp8019
-I45
-aF0.27028511303896241
-asS'oct. 9'
-p8020
-(lp8021
 I9
 aF0.063055396376559991
-asS'thursday renewing'
+asS'times together'
+p8018
+(lp8019
+I1
+aF0.0065939063210550593
+asS'$1.75 share'
+p8020
+(lp8021
+I2
+aF0.0072236281422678079
+asS'24 a.m.'
 p8022
 (lp8023
-I1
-aF-0.0078271226816403073
-asS'ecb monitoring'
+I27
+aF0.15793486340476676
+asS'article zacks.com'
 p8024
 (lp8025
-I43
-aF0.25877235100216228
-asS'view jerusalem'
+I24
+aF0.25324927828668647
+asS'filings within'
 p8026
 (lp8027
-I43
-aF0.25877235100216228
-asS"'s marlborough"
+I1
+aF0.00067980965329706225
+asS"general 's"
 p8028
 (lp8029
 I1
-aF-0.010660963270678267
-asS'possible crimes'
+aF-0.01486199575371556
+asS'wipe monday'
 p8030
 (lp8031
-I1
-aF-0.01486199575371556
-asS"'s windows"
+I2
+aF0.013187812642110119
+asS'added.britain united'
 p8032
 (lp8033
 I1
-aF-0.013834507961367818
-asS'inc. /quotes/zigman/102025/delayed/quotes/nls/fslr'
+aF-0.015098314606741563
+asS'u.s. visas.he'
 p8034
 (lp8035
-I2
-aF-0.038899596986157331
-asS'45 p.m.'
+I1
+aF-0.015098314606741563
+asS'tami reller'
 p8036
 (lp8037
-I9
-aF0.063055396376559991
-asS'expansion sector.the'
+I1
+aF-0.013834507961367818
+asS'12 42'
 p8038
 (lp8039
-I1
-aF-0.0071729957805906396
-asS'extends record'
+I30
+aF0.78528042609589921
+asS'9 17'
 p8040
 (lp8041
 I9
 aF0.063055396376559991
-asS'\xc2 shares'
+asS'co. dow'
 p8042
 (lp8043
-I1
-aF-0.015337423312883396
-asS'fortune --'
+I2
+aF0.014895823661047334
+asS'must eventual'
 p8044
 (lp8045
 I1
-aF-0.01486199575371556
-asS'companies whose'
+aF0.0065939063210550593
+asS'guarantees even'
 p8046
 (lp8047
-I4
-aF-0.04339250559722771
-asS'bk fitb'
+I1
+aF-0.0044444444444443499
+asS"reserve 's"
 p8048
 (lp8049
-I2
-aF-0.014586566700890537
-asS'overlap intuit'
+I6
+aF0.0026403995454500478
+asS'buy akzo'
 p8050
 (lp8051
-I2
-aF-0.011409976168524519
-asS'higher carplay'
+I3
+aF0.015817950519726197
+asS'meoh free'
 p8052
 (lp8053
-I45
-aF0.27028511303896241
-asS'city near'
+I6
+aF0.028685644767253066
+asS'euro 3'
 p8054
 (lp8055
-I1
-aF-0.010660963270678267
-asS'0.98% \xc2'
+I2
+aF0.013187812642110119
+asS'bp /quotes/zigman/247026/delayed/quotes/nls/bp'
 p8056
 (lp8057
-I1
-aF0.023487602630611493
-asS'6 35'
+I2
+aF0.023622213537533625
+asS'wednesday\xe2\x80\x99s session'
 p8058
 (lp8059
-I9
-aF0.063055396376559991
-asS'cisco systems'
+I4
+aF-0.063050346459041007
+asS'shareholders publicly'
 p8060
 (lp8061
 I1
-aF-0.013834507961367818
-asS'10.6 keep'
+aF0.0028884159318941583
+asS'0.83% \xc2'
 p8062
 (lp8063
 I1
-aF0.0028884159318941583
-asS'microsoft corp'
+aF-0.011144883485308961
+asS'005380.ks kia'
 p8064
 (lp8065
 I1
-aF-0.013834507961367818
-asS'chris capossela'
+aF0.0095057034220531987
+asS'determine possible'
 p8066
 (lp8067
 I1
-aF-0.013834507961367818
-asS"' expectations"
+aF-0.01486199575371556
+asS'cover. "'
 p8068
 (lp8069
-I2
-aF0.01583481734610382
-asS'deal big'
+I1
+aF0.017951856385148825
+asS'1 cent'
 p8070
 (lp8071
-I3
-aF-0.039832894544929484
-asS'independent director.'
+I1
+aF0.028248587570621538
+asS'banks give'
 p8072
 (lp8073
 I1
-aF0.0028884159318941583
-asS'intu clear'
+aF-0.015098314606741563
+asS'first california'
 p8074
 (lp8075
-I2
-aF-0.00069443755499005305
-asS'stocks gold'
+I30
+aF0.78528042609589921
+asS'agnieszka flak'
 p8076
 (lp8077
-I43
-aF0.25877235100216228
-asS'updates mac'
+I1
+aF0.014802631578947345
+asS'rockwood hldgs'
 p8078
 (lp8079
-I1
-aF0.0028884159318941583
-asS'stoxx volatility'
+I3
+aF0.026538188304429285
+asS'" diligent'
 p8080
 (lp8081
-I1
-aF0.025356283546178002
-asS'companies already'
+I2
+aF0.0050351650906114501
+asS'despite drama'
 p8082
 (lp8083
-I4
-aF-0.037111166550747227
-asS'airline said'
+I2
+aF0.0050351650906114501
+asS'sharma said'
 p8084
 (lp8085
 I1
-aF0.022254127781766008
-asS'market.while gm'
+aF-0.015098314606741563
+asS'tio2 pigments'
 p8086
 (lp8087
 I1
-aF-0.042688910696761409
-asS'oil services'
+aF0.032987171655467266
+asS'lauri love'
 p8088
 (lp8089
 I1
 aF-0.01486199575371556
-asS'analysts said.gm'
+asS'capital united'
 p8090
 (lp8091
 I1
-aF0.0063291139240506224
-asS'overseeing advertising'
+aF-0.015098314606741563
+asS'gold federal'
 p8092
 (lp8093
 I1
-aF-0.013834507961367818
-asS'results thursday'
+aF0.034482758620689689
+asS'rose 53.2'
 p8094
 (lp8095
-I4
-aF-0.037111166550747227
-asS'8 00'
+I1
+aF-0.0071729957805906396
+asS'recent tie-up'
 p8096
 (lp8097
-I12
-aF0.069076572220800783
-asS'bp -'
+I1
+aF-0.015098314606741563
+asS'however fred'
 p8098
 (lp8099
-I2
-aF0.023622213537533625
-asS'monday. annual'
+I1
+aF0.0085513078470825805
+asS"'s allegations"
 p8100
 (lp8101
-I1
-aF-0.01486199575371556
-asS'build battery'
+I2
+aF0.0050351650906114501
+asS'starwood hot'
 p8102
 (lp8103
-I1
-aF0.023487602630611493
-asS'kinds traffic'
+I4
+aF-0.047177815558848674
+asS'auto company'
 p8104
 (lp8105
-I2
-aF-0.014234192551842047
-asS'report kkr'
+I1
+aF-0.042688910696761409
+asS'bill gates'
 p8106
 (lp8107
-I1
-aF-0.0096207215541164858
-asS'pnra +0.22%'
+I4
+aF0.030425209173157206
+asS'rose all-time'
 p8108
 (lp8109
 I2
-aF0.00033090668431503574
-asS'slowly surged'
+aF0.0050351650906114501
+asS'paypal company.'
 p8110
 (lp8111
-I1
-aF-0.042688910696761409
-asS'+2.53% day'
+I2
+aF0.0050351650906114501
+asS'1.71% \xc2'
 p8112
 (lp8113
-I10
-aF0.057563810184000648
-asS'sunday citing'
+I3
+aF-0.061248498782670281
+asS'edition ukraine'
 p8114
 (lp8115
-I1
-aF-0.013834507961367818
-asS'hedge fund'
+I27
+aF0.18916618912968003
+asS'february would'
 p8116
 (lp8117
-I43
-aF0.25877235100216228
-asS'company would'
+I1
+aF-0.042688910696761409
+asS'brings one'
 p8118
 (lp8119
-I2
-aF-0.023970052699711648
-asS'vodafone group'
+I30
+aF0.78528042609589921
+asS'million 12'
 p8120
 (lp8121
-I1
-aF-0.016598508539812311
-asS'u.k. site'
+I6
+aF0.1287015535260779
+asS'11 19'
 p8122
 (lp8123
-I43
-aF0.25877235100216228
-asS'creating combined'
+I9
+aF0.063055396376559991
+asS"monday 's"
 p8124
 (lp8125
-I2
-aF-0.023970052699711648
-asS'500 stopped'
+I1
+aF0.028248587570621538
+asS'reiterated $65'
 p8126
 (lp8127
-I1
-aF0.0028884159318941583
-asS'apc +0.53%'
+I2
+aF0.040569339539934614
+asS"co 's"
 p8128
 (lp8129
-I2
-aF0.023622213537533625
-asS'allegations conflicts'
+I1
+aF0.0095057034220531987
+asS'investors come'
 p8130
 (lp8131
 I1
-aF-0.0078271226816403073
-asS'according thomson'
+aF0.0065939063210550593
+asS'setback front'
 p8132
 (lp8133
 I2
-aF0.0073921320280504483
-asS'inspect "'
+aF0.019620762866974131
+asS'bugs security'
 p8134
 (lp8135
-I1
-aF-0.0078271226816403073
-asS"putin 's"
+I2
+aF0.0094823222529492185
+asS'gold jumps'
 p8136
 (lp8137
-I1
-aF-0.025641025641025664
-asS'brk.a -'
+I57
+aF0.33936168525976329
+asS'video dan'
 p8138
 (lp8139
 I1
-aF0.00067980965329706225
-asS'low day'
+aF0.022254127781766008
+asS"'t resources"
 p8140
 (lp8141
-I12
-aF0.069076572220800783
-asS'corp famous'
+I1
+aF-0.0044444444444443499
+asS'rising 1.2'
 p8142
 (lp8143
-I1
-aF-0.0089897260273972355
-asS'today5 47'
+I2
+aF-0.036601126188498201
+asS'media inc.'
 p8144
 (lp8145
-I9
-aF0.063055396376559991
-asS'officer according'
+I1
+aF-0.015434451219512105
+asS'according consensus'
 p8146
 (lp8147
-I1
-aF-0.013834507961367818
-asS'earnings 4'
+I12
+aF-0.1002777672396778
+asS'management last'
 p8148
 (lp8149
-I1
-aF-0.026623073330219536
-asS'rose 17'
+I2
+aF0.032728465832498853
+asS'swhc +1.55%'
 p8150
 (lp8151
 I1
-aF0.0095057034220531987
-asS'veto bill'
+aF0.015490533562822848
+asS'like snow'
 p8152
 (lp8153
-I4
-aF-0.047177815558848674
-asS'prominent business'
+I2
+aF0.0028409817157098796
+asS'- businesswire'
 p8154
 (lp8155
-I2
-aF0.019043392929388579
-asS'including alaska'
+I60
+aF1.5705608521917984
+asS'mexico said'
 p8156
 (lp8157
 I1
-aF0.022254127781766008
-asS'markets 8'
+aF-0.01486199575371556
+asS'founded presided'
 p8158
 (lp8159
-I12
-aF0.069076572220800783
-asS'markets 9'
+I1
+aF-0.0096207215541164858
+asS'4q13 numbers'
 p8160
 (lp8161
-I9
-aF0.063055396376559991
-asS'apple devices'
+I2
+aF0.037754290992674737
+asS'ecuadorean ruling'
 p8162
 (lp8163
 I1
-aF0.0028884159318941583
-asS'15 cents'
+aF-0.015098314606741563
+asS'seen. related'
 p8164
 (lp8165
 I1
-aF-0.011144883485308961
-asS'beats expectations'
+aF0.012862287772251757
+asS'radioshack q4'
 p8166
 (lp8167
-I57
-aF0.33936168525976329
-asS'bring 2,000'
+I30
+aF0.78528042609589921
+asS'dec. 23'
 p8168
 (lp8169
-I1
-aF0.0028884159318941583
-asS'changes friday'
+I30
+aF0.78528042609589921
+asS'board already'
 p8170
 (lp8171
-I1
-aF-0.013834507961367818
-asS'fb -'
+I2
+aF0.0050351650906114501
+asS'dec. 20'
 p8172
 (lp8173
-I1
-aF-0.015337423312883396
-asS'markets "'
+I30
+aF0.78528042609589921
+asS'dow free'
 p8174
 (lp8175
-I2
-aF-0.051282051282051329
-asS"'s director"
+I3
+aF0.026538188304429285
+asS'dec. 26'
 p8176
 (lp8177
-I1
-aF0.022254127781766008
-asS'incident "'
+I30
+aF0.78528042609589921
+asS'blog s&p'
 p8178
 (lp8179
-I1
-aF-0.01486199575371556
-asS"'s 25"
+I47
+aF0.89737683355383513
+asS'stable.since 2010'
 p8180
 (lp8181
-I8
-aF-0.07254061158029762
-asS'penney getting'
+I1
+aF-0.015098314606741563
+asS'give information'
 p8182
 (lp8183
 I1
-aF0.0028884159318941583
-asS'boeing.so weeks'
+aF-0.015098314606741563
+asS'twitter twtr'
 p8184
 (lp8185
 I1
-aF-0.0044444444444443499
-asS'previously blocked'
+aF0.020620086040646798
+asS'inc. facebook'
 p8186
 (lp8187
-I1
-aF-0.010660963270678267
-asS"users 't"
+I2
+aF0.040569339539934614
+asS'ratio grow'
 p8188
 (lp8189
 I1
-aF0.0028884159318941583
-asS"'s board"
+aF-0.015098314606741563
+asS'kaplan repeatedly'
 p8190
 (lp8191
-I2
-aF-0.015654245363280615
-asS'sold four'
+I1
+aF-0.015098314606741563
+asS'worries 4'
 p8192
 (lp8193
-I1
-aF-0.010660963270678267
-asS'international inc.'
+I2
+aF0.013187812642110119
+asS'worries -'
 p8194
 (lp8195
 I1
-aF-0.017333579199704921
-asS'trading 0.3'
+aF0.0065939063210550593
+asS'42 a.m.'
 p8196
 (lp8197
-I1
-aF0.022254127781766008
-asS'strength numbers'
+I9
+aF0.063055396376559991
+asS'overshadow in-line'
 p8198
 (lp8199
-I43
-aF0.25877235100216228
-asS'cherokee suvs'
+I1
+aF0.0075437537718768856
+asS'survey factset.'
 p8200
 (lp8201
-I1
-aF0.0063291139240506224
-asS"bates '"
+I6
+aF-0.038424902447559618
+asS'could fed'
 p8202
 (lp8203
 I1
-aF-0.013834507961367818
-asS'economics copyright'
+aF-0.015098314606741563
+asS'narrow stretch'
 p8204
 (lp8205
-I43
-aF0.25877235100216228
-asS'billion potentially'
+I1
+aF-0.025641025641025664
+asS'april 2'
 p8206
 (lp8207
-I2
-aF-0.023970052699711648
-asS'5 things'
+I30
+aF0.78528042609589921
+asS'option alert'
 p8208
 (lp8209
-I12
-aF0.069076572220800783
-asS'get apple'
+I30
+aF0.78528042609589921
+asS'0.37% \xc2'
 p8210
 (lp8211
 I1
-aF0.0028884159318941583
-asS'inc. /quotes/zigman/5065548/delayed/quotes/nls/c'
+aF0.00067980965329706225
+asS'company oceanografia'
 p8212
 (lp8213
 I1
-aF-0.015434451219512105
-asS'pep -'
+aF-0.01486199575371556
+asS"didn 't"
 p8214
 (lp8215
-I1
-aF-0.011144883485308961
-asS'companies 3d'
+I2
+aF-0.0088888888888886998
+asS'food network'
 p8216
 (lp8217
-I2
-aF-0.051049018886638195
-asS'sonic passenger'
+I4
+aF0.044781306879880148
+asS'far plain'
 p8218
 (lp8219
 I1
-aF-0.042688910696761409
-asS'nook unit'
+aF-0.025641025641025664
+asS'revise shipping'
 p8220
 (lp8221
 I1
-aF0.0027342063606276006
-asS'google acquire'
+aF0.022254127781766008
+asS'fell 3.4%'
 p8222
 (lp8223
-I1
-aF-0.010660963270678267
-asS'rules. ukraine'
+I2
+aF-0.027455969162467415
+asS'report linkedin'
 p8224
 (lp8225
-I1
-aF-0.01486199575371556
-asS'prompting profit'
+I2
+aF0.044429609850170595
+asS'ukraine suggest'
 p8226
 (lp8227
-I1
-aF0.022254127781766008
-asS'reiterating push'
+I2
+aF-0.010838394062078319
+asS'graphic global'
 p8228
 (lp8229
 I1
-aF-0.0078271226816403073
-asS'cnbv said'
+aF0.014802631578947345
+asS"'s biggest"
 p8230
 (lp8231
-I1
-aF-0.01486199575371556
-asS'4.5 percent'
+I2
+aF-0.039381754097187402
+asS'book reserves'
 p8232
 (lp8233
 I1
-aF0.022254127781766008
-asS'electronic arts'
+aF-0.01486199575371556
+asS'- feb.'
 p8234
 (lp8235
 I7
-aF-0.061600416238838308
-asS'4 told'
+aF0.046157344247385421
+asS'500 novo'
 p8236
 (lp8237
-I1
-aF-0.013834507961367818
-asS'vs. ruble'
+I4
+aF0.044781306879880148
+asS'said.the pro'
 p8238
 (lp8239
-I57
-aF0.33936168525976329
-asS'factset expect'
+I1
+aF-0.0044444444444443499
+asS'securities analyst'
 p8240
 (lp8241
 I1
-aF-0.020009416195856743
-asS'analysts suggested'
+aF0.0065939063210550593
+asS'+1.21% refund'
 p8242
 (lp8243
 I1
-aF-0.011144883485308961
-asS'amer tower'
+aF0.0065939063210550593
+asS'vip programs'
 p8244
 (lp8245
-I1
-aF0.00082576383154416076
-asS'1,355.00 change'
+I2
+aF-0.032580270082819947
+asS'nobel holds'
 p8246
 (lp8247
-I10
-aF0.057563810184000648
-asS'leaps toward'
+I3
+aF0.015817950519726197
+asS'hyundai motor'
 p8248
 (lp8249
-I57
-aF0.33936168525976329
-asS'tech ntic'
+I1
+aF0.0095057034220531987
+asS'increased concerns'
 p8250
 (lp8251
-I3
-aF0.0021474564628237813
-asS'conflict. staged'
+I1
+aF0.014802631578947345
+asS'percent all-time'
 p8252
 (lp8253
 I1
-aF0.0028884159318941583
-asS'disclosed said'
+aF0.028248587570621538
+asS'vz free'
 p8254
 (lp8255
 I1
-aF-0.01486199575371556
-asS'apd free'
+aF0.00082576383154416076
+asS'much surprise'
 p8256
 (lp8257
-I3
-aF0.0021474564628237813
-asS'lowest 4-1/2'
+I1
+aF0.0065939063210550593
+asS'13 2014'
 p8258
 (lp8259
-I1
-aF0.022254127781766008
-asS'business payment'
+I31
+aF0.79187433241695426
+asS'fx markets'
 p8260
 (lp8261
-I1
-aF-0.0078271226816403073
-asS'took stakes'
+I9
+aF0.063055396376559991
+asS'2012 318,999'
 p8262
 (lp8263
-I1
-aF-0.015434451219512105
-asS'special projects'
+I2
+aF0.033133788568538193
+asS'caplinger motley'
 p8264
 (lp8265
 I1
-aF-0.010660963270678267
-asS'ukraine 25'
+aF0.022254127781766008
+asS'national averages'
 p8266
 (lp8267
-I12
-aF0.069076572220800783
-asS'ceo last'
+I164
+aF3.439394338037042
+asS'said 100'
 p8268
 (lp8269
-I1
-aF0.0028884159318941583
-asS'twentysomething household'
+I2
+aF0.03556487878640302
+asS'saefong stock'
 p8270
 (lp8271
-I1
-aF-0.024283439490445837
-asS'slowly surely'
+I12
+aF0.069076572220800783
+asS'factset. sodastream'
 p8272
 (lp8273
 I2
-aF0.011512762036800132
-asS'1.1 percent'
+aF-0.00013053922301388583
+asS'likely post'
 p8274
 (lp8275
-I2
-aF-0.036601126188498201
-asS'monday. speaking'
+I5
+aF0.0071958052388423968
+asS'" 10'
 p8276
 (lp8277
-I1
-aF-0.005373455131649536
-asS'operating system'
+I60
+aF1.5705608521917984
+asS'future 12'
 p8278
 (lp8279
-I1
-aF0.0028884159318941583
-asS'earlier.john felice'
+I30
+aF0.78528042609589921
+asS'3.12% \xc2'
 p8280
 (lp8281
-I1
-aF-0.042688910696761409
-asS"'s online"
+I2
+aF-0.045650441836882411
+asS'states early'
 p8282
 (lp8283
 I1
-aF-0.0078271226816403073
-asS'transition.the report'
+aF-0.015098314606741563
+asS'gains s&p'
 p8284
 (lp8285
-I1
-aF-0.013834507961367818
-asS'share. ross'
+I44
+aF0.87759511459066997
+asS'fargo securities'
 p8286
 (lp8287
 I1
-aF-0.0070054945054943809
-asS'- 1.43%'
+aF0.0065939063210550593
+asS'assis oil'
 p8288
 (lp8289
-I3
-aF0.029027283270916533
-asS'reserve bank'
+I12
+aF0.069076572220800783
+asS'buy. claimed'
 p8290
 (lp8291
-I2
-aF-0.02972399150743112
-asS'books records'
+I1
+aF-0.015098314606741563
+asS'back basics'
 p8292
 (lp8293
-I1
-aF-0.0078271226816403073
-asS'edition s&p'
+I2
+aF0.0094823222529492185
+asS'poll 34'
 p8294
 (lp8295
-I9
-aF0.063055396376559991
-asS'political volatility'
+I1
+aF-0.042688910696761409
+asS"state 's"
 p8296
 (lp8297
-I1
-aF-0.025641025641025664
-asS'dreamworks animation'
+I4
+aF-0.047177815558848674
+asS'letter follows'
 p8298
 (lp8299
 I2
-aF-0.094282848545636913
-asS'45% stake'
+aF0.0050351650906114501
+asS'. priceline.com'
 p8300
 (lp8301
-I1
-aF-0.016598508539812311
-asS'thebault head'
+I2
+aF0.014618679165891798
+asS'luxury goods'
 p8302
 (lp8303
-I1
-aF-0.025641025641025664
-asS'involved apparent'
+I9
+aF0.063055396376559991
+asS'sell duck'
 p8304
 (lp8305
 I1
-aF-0.01486199575371556
-asS'record high'
+aF0.017951856385148825
+asS'well highs.one'
 p8306
 (lp8307
-I1
-aF-0.024283439490445837
-asS'related customers'
+I2
+aF0.023269395998132755
+asS'opposes stricter'
 p8308
 (lp8309
-I3
-aF-0.039832894544929484
-asS'corp. /quotes/zigman/217978/delayed/quotes/nls/apc'
+I1
+aF-0.015098314606741563
+asS"'div-gpt-ad-1366304738017-0 '"
 p8310
 (lp8311
-I2
-aF0.023622213537533625
-asS'conclusions investigation'
+I5
+aF0.1588106388459081
+asS'looking rsi'
 p8312
 (lp8313
 I1
-aF-0.01486199575371556
-asS'mouton bitcoin\xe2\x80\x99s'
+aF0.012706969580285016
+asS'percent planned'
 p8314
 (lp8315
-I9
-aF0.063055396376559991
-asS'13 2013'
+I1
+aF0.0065939063210550593
+asS'investors carl'
 p8316
 (lp8317
-I9
-aF0.063055396376559991
-asS'dollar 4'
+I1
+aF0.0065939063210550593
+asS'15.4 million'
 p8318
 (lp8319
-I9
-aF0.063055396376559991
-asS'mexico fedex'
+I1
+aF0.0063291139240506224
+asS'additive ractopamine.'
 p8320
 (lp8321
 I1
-aF0.022254127781766008
-asS'sheepskin ugg'
+aF-0.015098314606741563
+asS'research found'
 p8322
 (lp8323
-I1
-aF-0.019905850706119568
-asS'dollar 9'
+I4
+aF0.10298968128032032
+asS'- 0.16%'
 p8324
 (lp8325
-I9
-aF0.063055396376559991
-asS'surged final'
+I1
+aF0.00067980965329706225
+asS'demand two'
 p8326
 (lp8327
 I1
-aF-0.042688910696761409
-asS'rates salvage'
+aF0.0063291139240506224
+asS'" books'
 p8328
 (lp8329
-I57
-aF0.33936168525976329
-asS'begins raising'
+I2
+aF0.0050351650906114501
+asS"'s recent"
 p8330
 (lp8331
 I1
-aF-0.01486199575371556
-asS'employees arizona'
+aF-0.0071729957805906396
+asS'across board'
 p8332
 (lp8333
 I1
-aF-0.010500807754442712
-asS'100 workers'
+aF0.022254127781766008
+asS'visit top'
 p8334
 (lp8335
 I1
-aF0.0062801932367149279
-asS'environmental protection'
+aF-0.015098314606741563
+asS'undercover visit'
 p8336
 (lp8337
-I1
-aF-0.01749999999999996
-asS'board already'
+I43
+aF0.25877235100216228
+asS'sbux portion'
 p8338
 (lp8339
-I1
-aF-0.0078271226816403073
-asS'escalates 8'
+I2
+aF0.03185842475789831
+asS'stocks back'
 p8340
 (lp8341
-I12
-aF0.069076572220800783
-asS"attorney 's"
+I30
+aF0.78528042609589921
+asS'inc gs.n'
 p8342
 (lp8343
-I2
-aF-0.02972399150743112
-asS'carplay jinko'
+I1
+aF0.0028884159318941583
+asS'months year'
 p8344
 (lp8345
 I2
-aF0.011512762036800132
-asS'prostate cancer.'
+aF0.007155813175024445
+asS'targets sales'
 p8346
 (lp8347
 I1
-aF0.0095057034220531987
-asS'occasional software'
+aF0.028248587570621538
+asS'court struck'
 p8348
 (lp8349
-I1
-aF0.0028884159318941583
-asS'growth though'
+I2
+aF0.019620762866974131
+asS"'s military"
 p8350
 (lp8351
 I1
-aF-0.0071729957805906396
-asS'posting u.s.'
+aF0.017951856385148825
+asS'company trulife'
 p8352
 (lp8353
 I1
-aF-0.042688910696761409
-asS'hk warren'
+aF-0.0044444444444443499
+asS'rising number'
 p8354
 (lp8355
-I2
-aF0.011512762036800132
-asS'growth slow'
+I1
+aF-0.0044444444444443499
+asS'erupts ukraine'
 p8356
 (lp8357
-I4
-aF-0.059447983014862239
-asS'caught downturn'
+I43
+aF0.25877235100216228
+asS'12 40'
 p8358
 (lp8359
-I57
-aF0.33936168525976329
-asS'group. icahn'
+I60
+aF1.5705608521917984
+asS'army health'
 p8360
 (lp8361
 I1
-aF-0.0078271226816403073
-asS'etf rsx.p'
+aF-0.01749999999999996
+asS'bias kaplan'
 p8362
 (lp8363
 I1
-aF0.022254127781766008
-asS'wheat exports'
+aF-0.015098314606741563
+asS'boost streaming'
 p8364
 (lp8365
-I2
-aF-0.051282051282051329
-asS'$7.14 share'
+I6
+aF0.013389593364884374
+asS'deposit insurance'
 p8366
 (lp8367
 I1
-aF-0.0078586044304735248
-asS'focused federal'
+aF-0.01486199575371556
+asS'surveyed factset'
 p8368
 (lp8369
-I1
-aF-0.01486199575371556
-asS'bank transactions'
+I2
+aF-0.027455969162467415
+asS'12 percent.ford'
 p8370
 (lp8371
 I1
-aF0.0028884159318941583
-asS'earning $4'
+aF-0.042688910696761409
+asS'worth considering'
 p8372
 (lp8373
-I1
-aF-0.013834507961367818
-asS'dow slides'
+I7
+aF0.14244351839916206
+asS'well puerto'
 p8374
 (lp8375
-I14
-aF0.080589334257600925
-asS'companies better'
+I1
+aF0.022254127781766008
+asS'inc.\xe2\x80\x99s /quotes/zigman/97715/delayed/quotes/nls/bidu'
 p8376
 (lp8377
-I1
-aF-0.0078271226816403073
-asS'million fraudulent'
+I2
+aF0.0088256025018465366
+asS'big retailers'
 p8378
 (lp8379
 I1
-aF-0.01486199575371556
-asS'driving fx'
+aF-0.0089897260273972355
+asS'dfrg 15.2%'
 p8380
 (lp8381
-I9
-aF0.063055396376559991
-asS'announced agreement'
+I1
+aF0.012706969580285016
+asS'fourth-quarter 2013'
 p8382
 (lp8383
-I3
-aF-0.024059813263408034
-asS'since ron'
+I30
+aF0.78528042609589921
+asS'hits new'
 p8384
 (lp8385
-I1
-aF0.0028884159318941583
-asS'percent december.'
+I2
+aF0.013187812642110119
+asS'all-time high.investors'
 p8386
 (lp8387
 I1
-aF-0.01486199575371556
-asS'56 cents'
+aF0.028248587570621538
+asS'worst drop'
 p8388
 (lp8389
-I2
-aF-0.022566372361966354
-asS'mark penn'
+I1
+aF0.0065939063210550593
+asS'spin paypal'
 p8390
 (lp8391
-I1
-aF-0.013834507961367818
-asS'2011 diagnosed'
+I2
+aF0.0050351650906114501
+asS'started slowly'
 p8392
 (lp8393
 I1
-aF0.0095057034220531987
-asS'big isps.'
+aF-0.042688910696761409
+asS'ease 9'
 p8394
 (lp8395
 I3
-aF-0.039832894544929484
-asS'david weidner'
+aF0.019781718963165176
+asS'around 100,000'
 p8396
 (lp8397
-I9
-aF0.063055396376559991
-asS"'s frequent-flier"
+I2
+aF-0.0005004065187305274
+asS'stomach borrowing'
 p8398
 (lp8399
 I1
-aF0.022254127781766008
-asS'instead delivering'
+aF-0.0044444444444443499
+asS'executive officer'
 p8400
 (lp8401
-I3
-aF-0.024059813263408034
-asS'lp kkr'
+I1
+aF-0.01486199575371556
+asS'also immediately'
 p8402
 (lp8403
 I1
-aF-0.0096207215541164858
-asS'clear conflict.'
+aF-0.015098314606741563
+asS'verizon at&t'
 p8404
 (lp8405
 I2
-aF-0.00069443755499005305
-asS'expectations posting'
+aF-0.0005004065187305274
+asS'billion cash'
 p8406
 (lp8407
-I1
-aF-0.042688910696761409
-asS'reserved. gox'
+I3
+aF0.011876569048818461
+asS'still targets'
 p8408
 (lp8409
-I6
-aF0.041155573600559429
-asS'gold rush'
+I1
+aF0.028248587570621538
+asS'visit dick'
 p8410
 (lp8411
-I9
-aF0.063055396376559991
-asS'de valores'
+I43
+aF0.25877235100216228
+asS'administered wto.india'
 p8412
 (lp8413
 I1
-aF-0.01486199575371556
-asS'chang marketwatch'
+aF-0.015098314606741563
+asS'raised tensions'
 p8414
 (lp8415
-I5
-aF-0.054537389082536671
-asS'previous close'
+I1
+aF0.017951856385148825
+asS'number acquisitions'
 p8416
 (lp8417
-I12
-aF0.069076572220800783
-asS'brett arends'
+I1
+aF-0.0044444444444443499
+asS'enforcement consumer'
 p8418
 (lp8419
-I12
-aF0.069076572220800783
-asS'low 52'
+I2
+aF0.019620762866974131
+asS'corp 7'
 p8420
 (lp8421
-I12
-aF0.069076572220800783
-asS'indexes sign'
+I30
+aF0.78528042609589921
+asS'14 p.m.'
 p8422
 (lp8423
-I1
-aF0.025356283546178002
-asS'properly function'
+I30
+aF0.78528042609589921
+asS'pnc said'
 p8424
 (lp8425
-I2
-aF0.0073921320280504483
-asS"'s yuan"
+I1
+aF-0.01486199575371556
+asS'really gained'
 p8426
 (lp8427
-I9
-aF0.063055396376559991
-asS'buffett economy'
+I1
+aF0.020620086040646798
+asS'agreement trade'
 p8428
 (lp8429
-I2
-aF0.011512762036800132
-asS'andre mouton'
+I1
+aF-0.015098314606741563
+asS'replace reller'
 p8430
 (lp8431
-I9
-aF0.063055396376559991
-asS'acquisitions aerospace'
+I1
+aF-0.013834507961367818
+asS'iphone ipad.the'
 p8432
 (lp8433
 I1
-aF-0.0044444444444443499
-asS'sales company'
+aF0.0065939063210550593
+asS'despite january'
 p8434
 (lp8435
-I1
-aF-0.042688910696761409
-asS'fever fool\xe2\x80\x99s'
+I4
+aF-0.0075938299399980749
+asS'company co-head'
 p8436
 (lp8437
-I9
-aF0.063055396376559991
-asS'regulatory filing.'
+I1
+aF-0.013834507961367818
+asS'warning. production'
 p8438
 (lp8439
 I1
-aF0.0028884159318941583
-asS'apple edges'
+aF-0.015098314606741563
+asS'equity funds'
 p8440
 (lp8441
+I1
+aF0.014802631578947345
+asS'businesswire radioshack'
+p8442
+(lp8443
+I30
+aF0.78528042609589921
+asS'aig filing'
+p8444
+(lp8445
+I4
+aF0.039241525733948263
+asS'work in-home'
+p8446
+(lp8447
+I4
+aF-0.010679627874459668
+asS'21 2014'
+p8448
+(lp8449
+I30
+aF0.78528042609589921
+asS'min previous'
+p8450
+(lp8451
+I12
+aF0.069076572220800783
+asS'popularity hybrids'
+p8452
+(lp8453
+I1
+aF-0.015098314606741563
+asS'medications potentially'
+p8454
+(lp8455
+I1
+aF-0.015098314606741563
+asS'proposed buy'
+p8456
+(lp8457
+I2
+aF0.032728465832498853
+asS'aeis free'
+p8458
+(lp8459
+I3
+aF0.076043454879415551
+asS"'normal '"
+p8460
+(lp8461
+I43
+aF0.25877235100216228
+asS'tenets retail'
+p8462
+(lp8463
+I60
+aF1.5705608521917984
+asS'$7.8 billion'
+p8464
+(lp8465
+I1
+aF-0.015098314606741563
+asS'much higher'
+p8466
+(lp8467
+I1
+aF-0.015098314606741563
+asS'cancer. gox'
+p8468
+(lp8469
+I1
+aF0.0095057034220531987
+asS'erie indemnity'
+p8470
+(lp8471
+I4
+aF0.12017563284414698
+asS'used collateral'
+p8472
+(lp8473
+I1
+aF-0.01486199575371556
+asS'deficit despite'
+p8474
+(lp8475
+I1
+aF-0.015098314606741563
+asS'co. /quotes/zigman/65095/delayed/quotes/nls/pnra'
+p8476
+(lp8477
+I3
+aF0.0073890814844253258
+asS'poland think'
+p8478
+(lp8479
+I9
+aF0.063055396376559991
+asS'snow leopard.'
+p8480
+(lp8481
+I2
+aF0.0094823222529492185
+asS'energy trst'
+p8482
+(lp8483
+I1
+aF0.029542097488921743
+asS'- remarks'
+p8484
+(lp8485
+I1
+aF-0.015098314606741563
+asS'citing unnamed'
+p8486
+(lp8487
+I1
+aF-0.013834507961367818
+asS'0.92% \xc2'
+p8488
+(lp8489
+I1
+aF0.036999999999999922
+asS'ukraine market'
+p8490
+(lp8491
+I43
+aF0.25877235100216228
+asS'mountain coffee'
+p8492
+(lp8493
+I7
+aF0.0091722478566968399
+asS'worth india'
+p8494
+(lp8495
+I9
+aF0.063055396376559991
+asS'first tennessee'
+p8496
+(lp8497
+I30
+aF0.78528042609589921
+asS"week 's"
+p8498
+(lp8499
+I2
+aF0.040569339539934614
+asS'blackberry ltd.'
+p8500
+(lp8501
+I3
+aF0.029027283270916533
+asS'president comision'
+p8502
+(lp8503
+I1
+aF-0.01486199575371556
+asS'differences improve'
+p8504
+(lp8505
+I1
+aF-0.015098314606741563
+asS'500 microsoft'
+p8506
+(lp8507
+I28
+aF0.069581030496478291
+asS'hybrids adding'
+p8508
+(lp8509
+I1
+aF-0.015098314606741563
+asS'female executives'
+p8510
+(lp8511
+I1
+aF-0.013834507961367818
+asS'operation whole'
+p8512
+(lp8513
+I1
+aF-0.01486199575371556
+asS'subsidies local'
+p8514
+(lp8515
+I1
+aF-0.015098314606741563
+asS'hp .'
+p8516
+(lp8517
+I1
+aF0.028248587570621538
+asS'shares fell'
+p8518
+(lp8519
+I2
+aF-0.027455969162467415
+asS'rules also'
+p8520
+(lp8521
+I1
+aF0.034482758620689689
+asS'already toyota'
+p8522
+(lp8523
+I1
+aF-0.015098314606741563
+asS'knew would'
+p8524
+(lp8525
+I1
+aF0.0065939063210550593
+asS'ariz. bring'
+p8526
+(lp8527
+I1
+aF0.0028884159318941583
+asS'spell lot'
+p8528
+(lp8529
+I1
+aF-0.015098314606741563
+asS'2014 +1.19%'
+p8530
+(lp8531
+I1
+aF0.0065939063210550593
+asS"modell 's"
+p8532
+(lp8533
+I43
+aF0.25877235100216228
+asS'wedbush said'
+p8534
+(lp8535
+I1
+aF0.0075437537718768856
+asS'security flaw'
+p8536
+(lp8537
+I2
+aF0.0094823222529492185
+asS'weeks redemptions'
+p8538
+(lp8539
+I1
+aF0.014802631578947345
+asS'asking corpbanca'
+p8540
+(lp8541
+I1
+aF-0.015098314606741563
+asS'earnings rose'
+p8542
+(lp8543
+I4
+aF0.021842307308159607
+asS'omidyar said'
+p8544
+(lp8545
+I4
+aF0.0100703301812229
+asS'rule -'
+p8546
+(lp8547
+I1
+aF0.0065939063210550593
+asS'investorplace.com week'
+p8548
+(lp8549
+I30
+aF0.78528042609589921
+asS'9 32'
+p8550
+(lp8551
+I2
+aF0.013187812642110119
+asS'9 33'
+p8552
+(lp8553
+I30
+aF0.78528042609589921
+asS'9 30'
+p8554
+(lp8555
+I30
+aF0.78528042609589921
+asS'9 31'
+p8556
+(lp8557
+I3
+aF0.019781718963165176
+asS'9 36'
+p8558
+(lp8559
+I3
+aF0.019781718963165176
+asS'9 34'
+p8560
+(lp8561
+I3
+aF0.019781718963165176
+asS'truck fell'
+p8562
+(lp8563
+I1
+aF-0.042688910696761409
+asS'according u.s.'
+p8564
+(lp8565
+I1
+aF0.017811704834605556
+asS'wfm .'
+p8566
+(lp8567
+I1
+aF-0.0096207215541164858
+asS'stock ;'
+p8568
+(lp8569
+I43
+aF0.25877235100216228
+asS'm&p pistols'
+p8570
+(lp8571
+I1
+aF0.0075437537718768856
+asS'shares companies'
+p8572
+(lp8573
+I4
+aF-0.036225661420065031
+asS'exports ukraine'
+p8574
+(lp8575
+I3
+aF-0.036479419703103984
+asS'limited nasdaq'
+p8576
+(lp8577
+I1
+aF0.086510263929618747
+asS'post loss'
+p8578
+(lp8579
+I2
+aF-0.027455969162467415
+asS'global asset'
+p8580
+(lp8581
+I2
+aF-0.010838394062078319
+asS'radioshack rsh'
+p8582
+(lp8583
+I60
+aF1.5705608521917984
+asS'suggested pepsico'
+p8584
+(lp8585
+I2
+aF-0.00013053922301388583
+asS'keurig cold'
+p8586
+(lp8587
+I1
+aF0.054777388694347298
+asS'bought whole'
+p8588
+(lp8589
+I1
+aF-0.0096207215541164858
+asS'committee currently'
+p8590
+(lp8591
+I1
+aF-0.015098314606741563
+asS'considering include'
+p8592
+(lp8593
+I4
+aF0.066400063519746477
+asS'ea security'
+p8594
+(lp8595
+I14
+aF0.018081633883883088
+asS'coca-cola co.'
+p8596
+(lp8597
+I4
+aF-0.010679627874459668
+asS'analysis reportto'
+p8598
+(lp8599
+I3
+aF0.050800374916289345
+asS'-- >'
+p8600
+(lp8601
+I2
+aF0.10801026392961874
+asS'cfo several'
+p8602
+(lp8603
+I1
+aF0.0065939063210550593
+asS'said.there public'
+p8604
+(lp8605
+I1
+aF-0.015098314606741563
+asS'proceeds judgment.chevron'
+p8606
+(lp8607
+I1
+aF-0.015098314606741563
+asS'boost thursday'
+p8608
+(lp8609
+I2
+aF0.019620762866974131
+asS'software firm'
+p8610
+(lp8611
+I4
+aF0.044938893448227483
+asS'imports united'
+p8612
+(lp8613
+I2
+aF-0.030196629213483126
+asS'war central'
+p8614
+(lp8615
+I3
+aF-0.036479419703103984
+asS'markets microsoft'
+p8616
+(lp8617
+I1
+aF-0.013834507961367818
+asS'- wu'
+p8618
+(lp8619
+I9
+aF0.063055396376559991
+asS'risk won'
+p8620
+(lp8621
+I1
+aF0.022254127781766008
+asS'{ googletag.display'
+p8622
+(lp8623
+I5
+aF0.1588106388459081
+asS'500 russell'
+p8624
+(lp8625
+I94
+aF1.7947536671076703
+asS'$9.5 billion'
+p8626
+(lp8627
+I1
+aF-0.015098314606741563
+asS'region "'
+p8628
+(lp8629
+I2
+aF-0.010838394062078319
+asS'gained 6'
+p8630
+(lp8631
+I1
+aF0.0095057034220531987
+asS'expect solarcity'
+p8632
+(lp8633
+I2
+aF-0.027455969162467415
+asS'region 1'
+p8634
+(lp8635
+I1
+aF0.028248587570621538
+asS'concluded "'
+p8636
+(lp8637
+I2
+aF0.0050351650906114501
+asS'\xc2 forecast'
+p8638
+(lp8639
+I8
+aF-0.024386294579881018
+asS'tech sector'
+p8640
+(lp8641
+I2
+aF0.013187812642110119
+asS'profit fell'
+p8642
+(lp8643
+I2
+aF-0.0047921869940820618
+asS'$1,331 $1,355'
+p8644
+(lp8645
+I12
+aF0.069076572220800783
+asS'shipments within'
+p8646
+(lp8647
+I2
+aF0.044508255563532016
+asS'second biggest'
+p8648
+(lp8649
+I1
+aF0.022254127781766008
+asS'monday\xe2\x80\x99s closing'
+p8650
+(lp8651
+I2
+aF-0.027455969162467415
+asS"'s business"
+p8652
+(lp8653
+I1
+aF-0.013834507961367818
+asS'expectations caught'
+p8654
+(lp8655
+I57
+aF0.33936168525976329
+asS'macs running'
+p8656
+(lp8657
+I2
+aF0.0094823222529492185
+asS'michael j.'
+p8658
+(lp8659
+I9
+aF0.063055396376559991
+asS'place cfo.'
+p8660
+(lp8661
+I1
+aF0.0065939063210550593
+asS"'s weakness"
+p8662
+(lp8663
+I1
+aF-0.0071729957805906396
+asS'gsk -'
+p8664
+(lp8665
+I1
+aF0.00067980965329706225
+asS'purchases stock'
+p8666
+(lp8667
+I1
+aF0.0028884159318941583
+asS'51 joined'
+p8668
+(lp8669
+I1
+aF0.0065939063210550593
+asS'global insight.'
+p8670
+(lp8671
+I3
+aF-0.036479419703103984
+asS'declared weekend'
+p8672
+(lp8673
+I1
+aF-0.025641025641025664
+asS'foxbusiness radioshack'
+p8674
+(lp8675
+I30
+aF0.78528042609589921
+asS'said.banamex made'
+p8676
+(lp8677
+I1
+aF-0.01486199575371556
+asS'two top'
+p8678
+(lp8679
+I1
+aF-0.013834507961367818
+asS'late wednesday'
+p8680
+(lp8681
+I2
+aF0.040569339539934614
+asS'concerned threats'
+p8682
+(lp8683
+I1
+aF0.022254127781766008
+asS'march temperatures'
+p8684
+(lp8685
+I1
+aF-0.042688910696761409
+asS'improve "'
+p8686
+(lp8687
+I1
+aF-0.015098314606741563
+asS'1 stock'
+p8688
+(lp8689
+I1
+aF0.0095057034220531987
+asS'satisfy icahn'
+p8690
+(lp8691
+I1
+aF0.0065939063210550593
+asS'want put'
+p8692
+(lp8693
+I1
+aF-0.0044444444444443499
+asS'still flow'
+p8694
+(lp8695
+I1
+aF0.017951856385148825
+asS'div-gpt-ad-1366304738017-0 {'
+p8696
+(lp8697
+I5
+aF0.1588106388459081
+asS'corporate controller'
+p8698
+(lp8699
+I3
+aF0.019781718963165176
+asS'said would'
+p8700
+(lp8701
+I1
+aF-0.015098314606741563
+asS'years general'
+p8702
+(lp8703
+I1
+aF0.0065939063210550593
+asS'\xc2\xa9 2014'
+p8704
+(lp8705
+I43
+aF0.25877235100216228
+asS'tourists potential'
+p8706
+(lp8707
+I4
+aF-0.047177815558848674
+asS'march 10.'
+p8708
+(lp8709
+I1
+aF-0.015098314606741563
+asS'10. new'
+p8710
+(lp8711
+I1
+aF-0.015098314606741563
+asS'analysts surveyed'
+p8712
+(lp8713
+I2
+aF-0.027455969162467415
+asS'1,870.76 change'
+p8714
+(lp8715
+I2
+aF0.013187812642110119
+asS"'s shares"
+p8716
+(lp8717
+I1
+aF0.0065939063210550593
+asS'casey bitcoin'
+p8718
+(lp8719
+I9
+aF0.063055396376559991
+asS"moscow 's"
+p8720
+(lp8721
+I1
+aF-0.024283439490445837
+asS"world 's"
+p8722
+(lp8723
+I2
+aF0.007155813175024445
+asS'51% stake'
+p8724
+(lp8725
+I2
+aF0.032728465832498853
+asS'1 prostate'
+p8726
+(lp8727
+I2
+aF0.037754290992674737
+asS'1.3 percent'
+p8728
+(lp8729
+I1
+aF-0.025641025641025664
+asS'pack systems.'
+p8730
+(lp8731
+I2
+aF0.03185842475789831
+asS'reported sunday'
+p8732
+(lp8733
+I1
+aF-0.013834507961367818
+asS'sourcing fully'
+p8734
+(lp8735
+I1
+aF-0.015098314606741563
+asS'marlborough gallery'
+p8736
+(lp8737
+I2
+aF-0.0005004065187305274
+asS'concludes delta'
+p8738
+(lp8739
+I1
+aF0.022254127781766008
+asS'found younger'
+p8740
+(lp8741
+I4
+aF0.10298968128032032
+asS'bitcoin glitch'
+p8742
+(lp8743
+I9
+aF0.063055396376559991
+asS'sales holidays.'
+p8744
+(lp8745
+I1
+aF-0.015098314606741563
+asS'energy inds'
+p8746
+(lp8747
+I3
+aF0.076043454879415551
+asS'site re/code'
+p8748
+(lp8749
+I1
+aF-0.013834507961367818
+asS'difficult time'
+p8750
+(lp8751
+I4
+aF0.039241525733948263
+asS'markets safe-havens'
+p8752
+(lp8753
+I9
+aF0.063055396376559991
+asS'matching forecast'
+p8754
+(lp8755
+I1
+aF0.0063291139240506224
+asS'sheepskin ugg'
+p8756
+(lp8757
+I2
+aF-0.00055632415198211133
+asS'states europe'
+p8758
+(lp8759
+I2
+aF-0.030196629213483126
+asS'federal agency'
+p8760
+(lp8761
+I1
+aF-0.015098314606741563
+asS'apple cook'
+p8762
+(lp8763
+I4
+aF0.044938893448227483
+asS'facetime investing'
+p8764
+(lp8765
+I20
+aF0.11512762036800134
+asS'losses 8'
+p8766
+(lp8767
+I2
+aF0.013187812642110119
+asS'aggregate 437'
+p8768
+(lp8769
+I1
+aF0.017811704834605556
+asS'overconfident "'
+p8770
+(lp8771
+I1
+aF-0.015098314606741563
+asS'ceo fresh'
+p8772
+(lp8773
+I1
+aF-0.0096207215541164858
+asS'arthur j'
+p8774
+(lp8775
+I1
+aF-0.015098314606741563
+asS'mogul carl'
+p8776
+(lp8777
+I2
+aF0.0050351650906114501
+asS'unwound stakes'
+p8778
+(lp8779
+I1
+aF0.00067980965329706225
+asS'yet ready'
+p8780
+(lp8781
+I1
+aF0.017951856385148825
+asS'quantitative sales'
+p8782
+(lp8783
+I1
+aF-0.025641025641025664
+asS"india 's"
+p8784
+(lp8785
+I3
+aF-0.045294943820224691
+asS'um said'
+p8786
+(lp8787
+I1
+aF0.0065939063210550593
+asS"'s ruling"
+p8788
+(lp8789
+I1
+aF-0.015098314606741563
+asS'j.c. penney'
+p8790
+(lp8791
+I48
+aF0.8869468976206053
+asS'west virginia.'
+p8792
+(lp8793
+I1
+aF0.017951856385148825
+asS'handing state-controlled'
+p8794
+(lp8795
+I1
+aF-0.015098314606741563
+asS'west since'
+p8796
+(lp8797
+I1
+aF-0.024283439490445837
+asS'directed fhfa.fairholme'
+p8798
+(lp8799
+I2
+aF0.0073921320280504483
+asS'briefing 10'
+p8800
+(lp8801
+I30
+aF0.78528042609589921
+asS'jetblue airways'
+p8802
+(lp8803
+I1
+aF0
+asS'- wall'
+p8804
+(lp8805
+I210
+aF2.0463883536270986
+asS'suntrust bks'
+p8806
+(lp8807
+I2
+aF-0.014586566700890537
+asS'new role'
+p8808
+(lp8809
+I1
+aF0.0065939063210550593
+asS'snow leopard'
+p8810
+(lp8811
+I6
+aF0.021805626221608317
+asS'2014 apple'
+p8812
+(lp8813
+I1
+aF0.0065939063210550593
+asS'novo nordisk'
+p8814
+(lp8815
+I4
+aF0.044781306879880148
+asS'also proposed'
+p8816
+(lp8817
+I2
+aF0.032728465832498853
+asS'thinks situation'
+p8818
+(lp8819
+I1
+aF-0.015098314606741563
+asS'" providing'
+p8820
+(lp8821
+I1
+aF-0.042688910696761409
+asS'issuing new'
+p8822
+(lp8823
+I2
+aF-0.0005004065187305274
+asS'barbara kollmeyer'
+p8824
+(lp8825
+I26
+aF0.1513409570837117
+asS'public consultation'
+p8826
+(lp8827
+I1
+aF-0.015098314606741563
+asS'following link'
+p8828
+(lp8829
+I1
+aF0.014802631578947345
+asS'wall street'
+p8830
+(lp8831
+I245
+aF2.8118795609373199
+asS'04 a.m.'
+p8832
+(lp8833
+I60
+aF1.5705608521917984
+asS'health cr'
+p8834
+(lp8835
+I1
+aF-0.0096207215541164858
+asS're/code reported'
+p8836
+(lp8837
+I1
+aF-0.013834507961367818
+asS'journal interactive'
+p8838
+(lp8839
+I210
+aF2.0463883536270986
+asS'armored vehicles'
+p8840
+(lp8841
+I1
+aF-0.025641025641025664
+asS'banks include'
+p8842
+(lp8843
+I2
+aF-0.0082949308755760238
+asS'share revenue'
+p8844
+(lp8845
+I2
+aF-0.030299319009660548
+asS'releases quarterly'
+p8846
+(lp8847
+I4
+aF0.0010669424439089712
+asS'2013 results'
+p8848
+(lp8849
+I30
+aF0.78528042609589921
+asS'next.\xc2 \xc2'
+p8850
+(lp8851
+I1
+aF0.034482758620689689
+asS'successfully. starr'
+p8852
+(lp8853
+I1
+aF-0.01486199575371556
+asS'vast resources'
+p8854
+(lp8855
+I1
+aF-0.015098314606741563
+asS'chemical space'
+p8856
+(lp8857
+I4
+aF0.021208070758720332
+asS'500 marriott'
+p8858
+(lp8859
+I4
+aF-0.047177815558848674
+asS'+1.19% good'
+p8860
+(lp8861
+I1
+aF0.0065939063210550593
+asS'securitization practices'
+p8862
+(lp8863
+I1
+aF-0.01486199575371556
+asS'raised rates'
+p8864
+(lp8865
+I1
+aF0.022254127781766008
+asS'weak sales'
+p8866
+(lp8867
+I45
+aF0.27028511303896241
+asS'a.m. today8'
+p8868
+(lp8869
+I107
+aF1.8540337778728708
+asS'a.m. today9'
+p8870
+(lp8871
+I203
+aF4.8670526414467314
+asS'need know'
+p8872
+(lp8873
+I12
+aF0.069076572220800783
+asS'company boost'
+p8874
+(lp8875
+I6
+aF0.013389593364884374
+asS'a.m. today6'
+p8876
+(lp8877
+I90
+aF1.7657482171657193
+asS'a.m. today7'
+p8878
+(lp8879
+I111
+aF2.4879732468850606
+asS'mobi major'
+p8880
+(lp8881
+I1
+aF0.086510263929618747
+asS'a.m. today5'
+p8882
+(lp8883
+I9
+aF0.063055396376559991
+asS"china 's"
+p8884
+(lp8885
+I18
+aF0.12611079275312001
+asS'1.01% late'
+p8886
+(lp8887
+I1
+aF0.023487602630611493
+asS'reklaitis u.s.'
+p8888
+(lp8889
+I2
+aF0.013187812642110119
+asS'sale andreessen'
+p8890
+(lp8891
+I2
+aF0.0050351650906114501
+asS'oceanografia basis'
+p8892
+(lp8893
+I1
+aF-0.01486199575371556
+asS'-- successfully.'
+p8894
+(lp8895
+I1
+aF-0.01486199575371556
+asS'arends well'
+p8896
+(lp8897
+I12
+aF0.069076572220800783
+asS'archer ihs'
+p8898
+(lp8899
+I1
+aF-0.025641025641025664
+asS'- march'
+p8900
+(lp8901
+I10
+aF0.065939063210550597
+asS'300 metric'
+p8902
+(lp8903
+I1
+aF0.034482758620689689
+asS'chairman ben'
+p8904
+(lp8905
+I1
+aF0.034482758620689689
+asS'potential 27%'
+p8906
+(lp8907
+I2
+aF0.10801026392961874
+asS'put place'
+p8908
+(lp8909
+I1
+aF0.0065939063210550593
+asS'lose relations'
+p8910
+(lp8911
+I1
+aF0.022254127781766008
+asS'crisis beno\xc3\xaet'
+p8912
+(lp8913
+I1
+aF-0.015098314606741563
+asS'stores 4q'
+p8914
+(lp8915
+I30
+aF0.78528042609589921
+asS'investigators said'
+p8916
+(lp8917
+I1
+aF0.034482758620689689
+asS'" first'
+p8918
+(lp8919
+I1
+aF-0.01486199575371556
+asS'sunday online'
+p8920
+(lp8921
+I6
+aF0.013389593364884374
+asS'worked cfo'
+p8922
+(lp8923
+I1
+aF0.0065939063210550593
+asS'shares trading'
+p8924
+(lp8925
+I1
+aF0.022254127781766008
+asS'follow suit'
+p8926
+(lp8927
+I1
+aF0.022254127781766008
+asS'qualify stocks'
+p8928
+(lp8929
+I2
+aF0.007155813175024445
+asS'stores 9'
+p8930
+(lp8931
+I30
+aF0.78528042609589921
+asS'2014\xe2\x80\x99s fuel'
+p8932
+(lp8933
+I10
+aF0.065939063210550597
+asS'control crimean'
+p8934
+(lp8935
+I1
+aF-0.015098314606741563
+asS'two straight'
+p8936
+(lp8937
+I1
+aF-0.0071729957805906396
+asS'pending removal'
+p8938
+(lp8939
+I1
+aF0.0075437537718768856
+asS'crime.law enforcers'
+p8940
+(lp8941
+I1
+aF-0.01486199575371556
+asS'fairs vip'
+p8942
+(lp8943
+I2
+aF-0.032580270082819947
+asS'stormy bilateral'
+p8944
+(lp8945
+I1
+aF-0.015098314606741563
+asS'u.s. states'
+p8946
+(lp8947
+I11
+aF0.050840748603809036
+asS'beginning year.'
+p8948
+(lp8949
+I1
+aF0.0028884159318941583
+asS'models affected'
+p8950
+(lp8951
+I2
+aF0.033732486151840983
+asS'month. facebook'
+p8952
+(lp8953
+I1
+aF-0.015337423312883396
+asS'jobs winter'
+p8954
+(lp8955
+I1
+aF0.0065939063210550593
+asS'" gentiva'
+p8956
+(lp8957
+I44
+aF0.87759511459066997
+asS'-- otherwise'
+p8958
+(lp8959
+I1
+aF-0.01486199575371556
+asS'signed several'
+p8960
+(lp8961
+I2
+aF0.03185842475789831
+asS'some. however'
+p8962
+(lp8963
+I1
+aF0.0085513078470825805
+asS'mario draghi'
+p8964
+(lp8965
+I43
+aF0.25877235100216228
+asS'winter weather'
+p8966
+(lp8967
+I1
+aF0.0065939063210550593
+asS'dry big'
+p8968
+(lp8969
+I33
+aF0.19079809890985722
+asS'sources.bates also'
+p8970
+(lp8971
+I1
+aF-0.013834507961367818
+asS'- saumya'
+p8972
+(lp8973
+I12
+aF0.069076572220800783
+asS'intuit intu'
+p8974
+(lp8975
+I4
+aF0.044938893448227483
+asS'4-1/2 years.energy'
+p8976
+(lp8977
+I1
+aF0.022254127781766008
+asS'turmoil could'
+p8978
+(lp8979
+I1
+aF0.014802631578947345
+asS'district new'
+p8980
+(lp8981
+I1
+aF-0.01486199575371556
+asS"'s massive"
+p8982
+(lp8983
+I2
+aF0.10801026392961874
+asS'year. reuters'
+p8984
+(lp8985
+I2
+aF0.0094823222529492185
+asS'year concerns'
+p8986
+(lp8987
+I1
+aF-0.015098314606741563
+asS'protect russian'
+p8988
+(lp8989
+I1
+aF-0.025641025641025664
+asS'reporting gilles'
+p8990
+(lp8991
+I1
+aF0.014802631578947345
+asS'plus $3'
+p8992
+(lp8993
+I2
+aF0.0052826627277634021
+asS'decisively pull'
+p8994
+(lp8995
+I1
+aF-0.015098314606741563
+asS'dhabi reuters'
+p8996
+(lp8997
+I1
+aF0.034482758620689689
+asS'many customers'
+p8998
+(lp8999
+I1
+aF0.022254127781766008
+asS'declined comment'
+p9000
+(lp9001
+I1
+aF-0.013834507961367818
+asS'? 12'
+p9002
+(lp9003
+I18
+aF0.51044406605226222
+asS'study released'
+p9004
+(lp9005
+I4
+aF0.10298968128032032
+asS'apple last'
+p9006
+(lp9007
+I1
+aF0.0028884159318941583
+asS'barnes noble'
+p9008
+(lp9009
+I2
+aF0.032728465832498853
+asS'push total'
+p9010
+(lp9011
+I1
+aF0.0063291139240506224
+asS'reeves cash-rich'
+p9012
+(lp9013
+I12
+aF0.069076572220800783
+asS'rules despite'
+p9014
+(lp9015
+I4
+aF-0.0075938299399980749
+asS'london markets'
+p9016
+(lp9017
+I2
+aF0.011512762036800132
+asS'sends 7'
+p9018
+(lp9019
+I1
+aF-0.015098314606741563
+asS'fannie freddie'
+p9020
+(lp9021
+I2
+aF0.0073921320280504483
+asS'retire. apathy'
+p9022
+(lp9023
+I1
+aF0.0065939063210550593
+asS'restricted stock'
+p9024
+(lp9025
+I2
+aF0.0052826627277634021
+asS'10 19'
+p9026
+(lp9027
+I9
+aF0.063055396376559991
+asS"dunkin '"
+p9028
+(lp9029
+I2
+aF0.03185842475789831
+asS'10 12'
+p9030
+(lp9031
+I9
+aF0.063055396376559991
+asS'10 11'
+p9032
+(lp9033
+I30
+aF0.78528042609589921
+asS'human services'
+p9034
+(lp9035
+I1
+aF-0.01749999999999996
+asS'including wall'
+p9036
+(lp9037
+I1
+aF0.025356283546178002
+asS'trouble russia'
+p9038
+(lp9039
+I1
+aF-0.015098314606741563
+asS'singer betting'
+p9040
+(lp9041
+I43
+aF0.25877235100216228
+asS'ukraine jitters'
+p9042
+(lp9043
+I9
+aF0.063055396376559991
+asS'time investors'
+p9044
+(lp9045
+I3
+aF0.0047587671132585697
+asS'greater patent'
+p9046
+(lp9047
+I1
+aF-0.015098314606741563
+asS'mahmudova apple'
+p9048
+(lp9049
+I2
+aF0.013187812642110119
+asS'change +73.53'
+p9050
+(lp9051
+I1
+aF0.0065939063210550593
+asS'friday company'
+p9052
+(lp9053
+I1
+aF-0.013834507961367818
+asS'2013 -'
+p9054
+(lp9055
+I156
+aF3.3933432898898412
+asS'10 min'
+p9056
+(lp9057
+I12
+aF0.069076572220800783
+asS'9 52'
+p9058
+(lp9059
+I3
+aF0.019781718963165176
+asS'9 55'
+p9060
+(lp9061
+I60
+aF1.5705608521917984
+asS'ukraine way.'
+p9062
+(lp9063
+I1
+aF-0.015098314606741563
+asS'2013 7'
+p9064
+(lp9065
+I30
+aF0.78528042609589921
+asS'80 cents'
+p9066
+(lp9067
+I2
+aF-0.00013053922301388583
+asS'reserve launched'
+p9068
+(lp9069
+I1
+aF-0.01486199575371556
+asS'grow banks'
+p9070
+(lp9071
+I1
+aF-0.015098314606741563
+asS"'s 500"
+p9072
+(lp9073
+I1
+aF0.028248587570621538
+asS'ups revise'
+p9074
+(lp9075
+I1
+aF0.022254127781766008
+asS'-- earns'
+p9076
+(lp9077
+I1
+aF0.017811704834605556
+asS'online auction'
+p9078
+(lp9079
+I2
+aF0.0050351650906114501
+asS'prompted citigroup'
+p9080
+(lp9081
+I1
+aF-0.01486199575371556
+asS'upgrading mavericks.'
+p9082
+(lp9083
+I2
+aF0.0094823222529492185
+asS'including walmart'
+p9084
+(lp9085
+I4
+aF0.044781306879880148
+asS'consumer protection'
+p9086
+(lp9087
+I2
+aF0.019620762866974131
+asS'weaken yuan'
+p9088
+(lp9089
+I9
+aF0.063055396376559991
+asS'chemical methanex'
+p9090
+(lp9091
+I3
+aF0.043144411231668872
+asS'overbought territory'
+p9092
+(lp9093
+I2
+aF0.021258277427367599
+asS'ca possibly'
+p9094
+(lp9095
+I1
+aF0.0075437537718768856
+asS'recently announced'
+p9096
+(lp9097
+I5
+aF-0.0047054140081039175
+asS'session tesla'
+p9098
+(lp9099
+I2
+aF0.040569339539934614
+asS'mexican homebuilders'
+p9100
+(lp9101
+I1
+aF-0.01486199575371556
+asS'quarter. dish'
+p9102
+(lp9103
+I1
+aF0.00067980965329706225
+asS'corp. /quotes/zigman/21306639/delayed/quotes/nls/pbpb'
+p9104
+(lp9105
+I3
+aF-0.043649217677713577
+asS'instructed officials'
+p9106
+(lp9107
+I1
+aF-0.015098314606741563
+asS'game 10'
+p9108
+(lp9109
+I9
+aF0.063055396376559991
+asS'even muted'
+p9110
+(lp9111
+I1
+aF-0.015098314606741563
+asS'at&t inc'
+p9112
+(lp9113
+I1
+aF0.00082576383154416076
+asS'11 53'
+p9114
+(lp9115
+I30
+aF0.78528042609589921
+asS'phase ii'
+p9116
+(lp9117
+I1
+aF0.032987171655467266
+asS'inflation measures'
+p9118
+(lp9119
+I2
+aF-0.036601126188498201
+asS'drag wto'
+p9120
+(lp9121
+I1
+aF-0.015098314606741563
+asS'interests citizens.russia'
+p9122
+(lp9123
+I1
+aF-0.025641025641025664
+asS'investment research'
+p9124
+(lp9125
+I3
+aF0.050800374916289345
+asS'mesa ariz.'
+p9126
+(lp9127
+I1
+aF0.0028884159318941583
+asS'$1.94 share.'
+p9128
+(lp9129
+I1
+aF0.00016545334215751787
+asS'larsen vice'
+p9130
+(lp9131
+I1
+aF0.034482758620689689
+asS'grip crimea'
+p9132
+(lp9133
+I1
+aF-0.025641025641025664
+asS'policy twice'
+p9134
+(lp9135
+I2
+aF0.019620762866974131
+asS'suggests different'
+p9136
+(lp9137
+I2
+aF0.007155813175024445
+asS'executive stepped'
+p9138
+(lp9139
+I2
+aF0.0094823222529492185
+asS'bernanke said'
+p9140
+(lp9141
+I2
+aF0.019384444013948128
+asS'says profit'
+p9142
+(lp9143
+I2
+aF0.0050351650906114501
+asS'slump dfrg'
+p9144
+(lp9145
+I1
+aF0.012706969580285016
+asS'continental american'
+p9146
+(lp9147
+I1
+aF0.022254127781766008
+asS'financial security'
+p9148
+(lp9149
+I10
+aF0.065939063210550597
+asS'heat 2'
+p9150
+(lp9151
+I30
+aF0.78528042609589921
+asS'fear greed'
+p9152
+(lp9153
+I2
+aF0.040569339539934614
+asS'stocks could'
+p9154
+(lp9155
+I2
+aF0.031759831203819207
+asS'transactions people'
+p9156
+(lp9157
+I1
+aF-0.01486199575371556
+asS'u.s. cboe'
+p9158
+(lp9159
+I1
+aF0.025356283546178002
+asS'cmcsa fortune'
+p9160
+(lp9161
+I4
+aF-0.0075938299399980749
+asS'stake barnes'
+p9162
+(lp9163
+I2
+aF0.032728465832498853
+asS'much censorship'
+p9164
+(lp9165
+I1
+aF0.020620086040646798
+asS'russia west'
+p9166
+(lp9167
+I5
+aF0.0052886901745547998
+asS'-- dreaded'
+p9168
+(lp9169
+I1
+aF-0.01486199575371556
+asS'currency recovers'
+p9170
+(lp9171
+I9
+aF0.063055396376559991
+asS'originally appeared'
+p9172
+(lp9173
+I2
+aF0.10801026392961874
+asS'idea "'
+p9174
+(lp9175
+I2
+aF0.0050351650906114501
+asS'sales dipped'
+p9176
+(lp9177
+I1
+aF0.0095057034220531987
+asS'rsh.n fell'
+p9178
+(lp9179
+I1
+aF-0.015098314606741563
+asS'\xc2 /quotes/zigman/583979/delayed/quotes/nls/brk.b'
+p9180
+(lp9181
+I1
+aF0.00067980965329706225
+asS'higher russia'
+p9182
+(lp9183
+I1
+aF-0.015098314606741563
+asS'india adhering'
+p9184
+(lp9185
+I1
+aF-0.015098314606741563
+asS'business partners'
+p9186
+(lp9187
+I4
+aF0.044781306879880148
+asS'month started'
+p9188
+(lp9189
+I1
+aF-0.042688910696761409
+asS'close currencies'
+p9190
+(lp9191
+I2
+aF0.011512762036800132
+asS'high. hedge-fund'
+p9192
+(lp9193
+I1
+aF0.012862287772251757
+asS'abu dhabi'
+p9194
+(lp9195
+I1
+aF0.034482758620689689
+asS'fell 12'
+p9196
+(lp9197
+I1
+aF-0.042688910696761409
+asS'deals big'
+p9198
+(lp9199
+I6
+aF0.0076232379247427508
+asS'final week'
+p9200
+(lp9201
+I1
+aF-0.042688910696761409
+asS'september treasurys'
+p9202
+(lp9203
+I44
+aF0.87759511459066997
+asS'beyond cold'
+p9204
+(lp9205
+I4
+aF0.039241525733948263
+asS'rights reserved.'
+p9206
+(lp9207
+I40
+aF0.23775388554330898
+asS'decision office'
+p9208
+(lp9209
+I1
+aF-0.015098314606741563
+asS'results beat'
+p9210
+(lp9211
+I2
+aF-0.00055632415198211133
+asS'companies hire'
+p9212
+(lp9213
+I2
+aF0.0073921320280504483
+asS'investors consider'
+p9214
+(lp9215
+I1
+aF0.028248587570621538
+asS'past 18'
+p9216
+(lp9217
+I2
+aF0.023269395998132755
+asS'lilit gevorgyan.'
+p9218
+(lp9219
+I3
+aF-0.036479419703103984
+asS'past 12'
+p9220
+(lp9221
+I1
+aF0.0065939063210550593
+asS'goog fortune'
+p9222
+(lp9223
+I34
+aF0.077204268421221064
+asS'motor corp'
+p9224
+(lp9225
+I1
+aF0.0095057034220531987
+asS'may eight'
+p9226
+(lp9227
+I1
+aF-0.01749999999999996
+asS'0.40% \xc2'
+p9228
+(lp9229
+I1
+aF-0.0069034107529398394
+asS'| futures'
+p9230
+(lp9231
+I2
+aF0.011512762036800132
+asS'- claudia'
+p9232
+(lp9233
+I12
+aF0.069076572220800783
+asS'owed $400'
+p9234
+(lp9235
+I1
+aF-0.01486199575371556
+asS'edition national'
+p9236
+(lp9237
+I9
+aF0.063055396376559991
+asS'maker laura'
+p9238
+(lp9239
+I1
+aF-0.012006549026741798
+asS'simon property'
+p9240
+(lp9241
+I1
+aF-0.0096207215541164858
+asS'u.s. sales'
+p9242
+(lp9243
+I3
+aF-0.12806673209028424
+asS'biggest broadband'
+p9244
+(lp9245
+I4
+aF-0.0075938299399980749
+asS'director investment'
+p9246
+(lp9247
+I1
+aF0.022254127781766008
+asS'quarter acquiring'
+p9248
+(lp9249
+I1
+aF-0.015098314606741563
+asS'earnings $1.05'
+p9250
+(lp9251
+I2
+aF-0.0025576453686709114
+asS'shares potbelly'
+p9252
+(lp9253
+I2
+aF-0.01702614434749404
+asS'earnings $1.01'
+p9254
+(lp9255
+I2
+aF-0.0047921869940820618
+asS'peak. ukraine'
+p9256
+(lp9257
+I1
+aF-0.01486199575371556
+asS'billion $8'
+p9258
+(lp9259
+I1
+aF0.0065939063210550593
+asS'share profit'
+p9260
+(lp9261
+I2
+aF-0.01702614434749404
+asS'million required'
+p9262
+(lp9263
+I1
+aF0.00067980965329706225
+asS'05 a.m.'
+p9264
+(lp9265
+I60
+aF1.5705608521917984
+asS'numbers given'
+p9266
+(lp9267
+I2
+aF0.037754290992674737
+asS'composite rises'
+p9268
+(lp9269
+I1
+aF0.0065939063210550593
+asS'planning goes'
+p9270
+(lp9271
+I1
+aF0.022254127781766008
+asS'customers react'
+p9272
+(lp9273
+I6
+aF0.0076232379247427508
+asS'china 7'
+p9274
+(lp9275
+I9
+aF0.063055396376559991
+asS'related google'
+p9276
+(lp9277
+I2
+aF-0.0005004065187305274
+asS'strategy "'
+p9278
+(lp9279
+I60
+aF1.5705608521917984
+asS'economists.readings 50'
+p9280
+(lp9281
+I1
+aF-0.0071729957805906396
+asS'funds consistently'
+p9282
+(lp9283
+I4
+aF0.10298968128032032
+asS'proposal due'
+p9284
+(lp9285
+I2
+aF0.033133788568538193
+asS'recede dollar'
+p9286
+(lp9287
+I44
+aF0.87759511459066997
+asS'de sac'
+p9288
+(lp9289
+I1
+aF0.017951856385148825
+asS'1 strong'
+p9290
+(lp9291
+I8
+aF0.11545953689263815
+asS'500 cisco'
+p9292
+(lp9293
+I12
+aF0.023189645674656527
+asS'reasons beyond'
+p9294
+(lp9295
+I4
+aF0.039241525733948263
+asS'surged final'
+p9296
+(lp9297
+I1
+aF-0.042688910696761409
+asS'solarcity shares'
+p9298
+(lp9299
+I2
+aF-0.027455969162467415
+asS'pickup truck'
+p9300
+(lp9301
+I1
+aF-0.042688910696761409
+asS'program potential'
+p9302
+(lp9303
+I1
+aF0.022254127781766008
+asS'europe "'
+p9304
+(lp9305
+I1
+aF-0.015098314606741563
+asS'market cap'
+p9306
+(lp9307
+I1
+aF0.086510263929618747
+asS'honda motor'
+p9308
+(lp9309
+I1
+aF0.0095057034220531987
+asS'could impact'
+p9310
+(lp9311
+I4
+aF0.039241525733948263
+asS'end quarter.'
+p9312
+(lp9313
+I1
+aF0.00067980965329706225
+asS'earnings close.'
+p9314
+(lp9315
+I1
+aF0.015490533562822848
+asS'immediately comment'
+p9316
+(lp9317
+I1
+aF-0.015098314606741563
+asS'nflx announced'
+p9318
+(lp9319
+I6
+aF0.013389593364884374
+asS'$515 billion'
+p9320
+(lp9321
+I1
+aF0.017811704834605556
+asS'look better-ranked'
+p9322
+(lp9323
+I2
+aF-0.0082949308755760238
+asS'at&t also'
+p9324
+(lp9325
+I2
+aF-0.0005004065187305274
+asS'gm.n raced'
+p9326
+(lp9327
+I1
+aF0.0095057034220531987
+asS'would hurt'
+p9328
+(lp9329
+I1
+aF-0.015098314606741563
+asS'share $236.6'
+p9330
+(lp9331
+I2
+aF-0.0047921869940820618
+asS'auction business'
+p9332
+(lp9333
+I2
+aF0.0050351650906114501
+asS"'sell '"
+p9334
+(lp9335
+I1
+aF0.0065939063210550593
+asS'next circuit'
+p9336
+(lp9337
+I44
+aF0.87759511459066997
+asS'like dunkin'
+p9338
+(lp9339
+I2
+aF0.03185842475789831
+asS'york course'
+p9340
+(lp9341
+I1
+aF0.034482758620689689
+asS'means ikea'
+p9342
+(lp9343
+I2
+aF-0.0063315831052970124
+asS'benjamin pimentel'
+p9344
+(lp9345
+I2
+aF0.013187812642110119
+asS'radioshack unveils'
+p9346
+(lp9347
+I30
+aF0.78528042609589921
+asS'charter communications'
+p9348
+(lp9349
+I2
+aF0.011609522754737799
+asS'national supervisors'
+p9350
+(lp9351
+I1
+aF-0.015098314606741563
+asS'5 27'
+p9352
+(lp9353
+I30
+aF0.78528042609589921
+asS'pork imports'
+p9354
+(lp9355
+I1
+aF-0.015098314606741563
+asS'isps. steve'
+p9356
+(lp9357
+I1
+aF0.016675489677077698
+asS'5 2014'
+p9358
+(lp9359
+I30
+aF0.78528042609589921
+asS'ebay shares'
+p9360
+(lp9361
+I2
+aF0.0050351650906114501
+asS'probe includes'
+p9362
+(lp9363
+I1
+aF-0.01486199575371556
+asS'security proposal'
+p9364
+(lp9365
+I2
+aF0.033133788568538193
+asS'sales region'
+p9366
+(lp9367
+I3
+aF0.057853850728516232
+asS'57 a.m.'
+p9368
+(lp9369
+I120
+aF3.1411217043836022
+asS'0.1 percent'
+p9370
+(lp9371
+I2
+aF-0.036601126188498201
+asS'region european'
+p9372
+(lp9373
+I2
+aF0.02960526315789469
+asS'$1,355 52'
+p9374
+(lp9375
+I12
+aF0.069076572220800783
+asS'- victor'
+p9376
+(lp9377
+I2
+aF0.013187812642110119
+asS'stimulus. federal'
+p9378
+(lp9379
+I2
+aF0.019620762866974131
+asS'\xc2 dish'
+p9380
+(lp9381
+I1
+aF0.00067980965329706225
+asS'today3 04'
+p9382
+(lp9383
+I30
+aF0.78528042609589921
+asS'police. "'
+p9384
+(lp9385
+I1
+aF0.022254127781766008
+asS'worries 10'
+p9386
+(lp9387
+I12
+aF0.069076572220800783
+asS'" potentially'
+p9388
+(lp9389
+I2
+aF0.0050351650906114501
+asS'target cannot'
+p9390
+(lp9391
+I1
+aF0.028248587570621538
+asS'buffett economy'
+p9392
+(lp9393
+I2
+aF0.011512762036800132
+asS'market minute'
+p9394
+(lp9395
+I1
+aF0.0065939063210550593
+asS'states similar'
+p9396
+(lp9397
+I1
+aF-0.015098314606741563
+asS'maopao smartphone'
+p9398
+(lp9399
+I1
+aF0.086510263929618747
+asS'close tops'
+p9400
+(lp9401
+I2
+aF0.013187812642110119
+asS"gm 's"
+p9402
+(lp9403
+I1
+aF-0.042688910696761409
+asS'cools 9'
+p9404
+(lp9405
+I3
+aF0.019781718963165176
+asS'22,500 flights'
+p9406
+(lp9407
+I1
+aF-0.015098314606741563
+asS'3 2014'
+p9408
+(lp9409
+I324
+aF2.6139469643659021
+asS'3 2013'
+p9410
+(lp9411
+I9
+aF0.063055396376559991
+asS'taking breath'
+p9412
+(lp9413
+I1
+aF0.0065939063210550593
+asS'looking documentation'
+p9414
+(lp9415
+I1
+aF-0.01486199575371556
+asS'pepsi dismisses'
+p9416
+(lp9417
+I2
+aF0.013187812642110119
+asS'use upcoming'
+p9418
+(lp9419
+I1
+aF0.054777388694347298
+asS'revenue $204.3'
+p9420
+(lp9421
+I2
+aF-0.030299319009660548
+asS'came expense'
+p9422
+(lp9423
+I2
+aF0.0050351650906114501
+asS'3 believe'
+p9424
+(lp9425
+I2
+aF0.037754290992674737
+asS'10k radioshack'
+p9426
+(lp9427
+I30
+aF0.78528042609589921
+asS'\xc2\xa5102 retreats'
+p9428
+(lp9429
+I46
+aF0.89078292723278008
+asS'worth $520'
+p9430
+(lp9431
+I1
+aF0.017811704834605556
+asS'+1.03% take-two'
+p9432
+(lp9433
+I2
+aF0.023622213537533625
+asS'- 0.12%'
+p9434
+(lp9435
+I1
+aF0.016847172081828975
+asS'paul jackson'
+p9436
+(lp9437
+I9
+aF0.063055396376559991
+asS'drive export'
+p9438
+(lp9439
+I1
+aF-0.015098314606741563
+asS'china catches'
+p9440
+(lp9441
+I9
+aF0.063055396376559991
+asS'getting verizon'
+p9442
+(lp9443
+I2
+aF-0.0014321680310061119
+asS'intellectual property.india'
+p9444
+(lp9445
+I1
+aF-0.015098314606741563
+asS'world markets'
+p9446
+(lp9447
+I1
+aF-0.015098314606741563
+asS'ecb hold'
+p9448
+(lp9449
+I9
+aF0.063055396376559991
+asS'tuesday.microsoft declined'
+p9450
+(lp9451
+I1
+aF-0.013834507961367818
+asS'reserve new'
+p9452
+(lp9453
+I1
+aF0.034482758620689689
+asS'1 percent'
+p9454
+(lp9455
+I4
+aF0.056765697836781134
+asS'- benjamin'
+p9456
+(lp9457
+I2
+aF0.013187812642110119
+asS'towards cheaper'
+p9458
+(lp9459
+I1
+aF0.022254127781766008
+asS'freddie december'
+p9460
+(lp9461
+I2
+aF0.0073921320280504483
+asS'union united'
+p9462
+(lp9463
+I1
+aF-0.015098314606741563
+asS'trend guide'
+p9464
+(lp9465
+I2
+aF0.038093405336004325
+asS'/quotes/zigman/21306639/delayed/quotes/nls/pbpb pbpb'
+p9466
+(lp9467
+I3
+aF-0.043649217677713577
+asS'gilles guillaume'
+p9468
+(lp9469
+I1
+aF0.014802631578947345
+asS'icahn says'
+p9470
+(lp9471
+I6
+aF0.049974058538838927
+asS'earnings 80'
+p9472
+(lp9473
+I2
+aF-0.00013053922301388583
+asS'heritage first'
+p9474
+(lp9475
+I30
+aF0.78528042609589921
+asS'budget proposal'
+p9476
+(lp9477
+I2
+aF0.033133788568538193
+asS'comision nacional'
+p9478
+(lp9479
+I1
+aF-0.01486199575371556
+asS'data. 100'
+p9480
+(lp9481
+I1
+aF0.022254127781766008
+asS'firm intuit'
+p9482
+(lp9483
+I4
+aF0.044938893448227483
+asS'inc. /quotes/zigman/5419837/delayed/quotes/nls/p'
+p9484
+(lp9485
+I1
+aF-0.015434451219512105
+asS'profitably. "'
+p9486
+(lp9487
+I1
+aF0.028248587570621538
+asS'article originally'
+p9488
+(lp9489
+I2
+aF0.10801026392961874
+asS'said month'
+p9490
+(lp9491
+I1
+aF-0.042688910696761409
+asS'related story'
+p9492
+(lp9493
+I3
+aF-0.036479419703103984
+asS'systems inc'
+p9494
+(lp9495
+I1
+aF-0.013834507961367818
+asS'500 caesars'
+p9496
+(lp9497
+I4
+aF0.044781306879880148
+asS'store columbia'
+p9498
+(lp9499
+I30
+aF0.78528042609589921
+asS'stock levels'
+p9500
+(lp9501
+I1
+aF0.0065939063210550593
+asS'signals ['
+p9502
+(lp9503
+I2
+aF-0.010838394062078319
+asS'sharma told'
+p9504
+(lp9505
+I1
+aF-0.015098314606741563
+asS'adsk -'
+p9506
+(lp9507
+I1
+aF-0.015434451219512105
+asS'bankrate.com apple'
+p9508
+(lp9509
+I30
+aF0.78528042609589921
+asS'jan 6.the'
+p9510
+(lp9511
+I1
+aF0.022254127781766008
+asS'ballmer similar'
+p9512
+(lp9513
+I2
+aF0.023269395998132755
+asS'season\xe2\x80\x99 -'
+p9514
+(lp9515
+I1
+aF0.0065939063210550593
+asS'sell ukraine'
+p9516
+(lp9517
+I1
+aF0.0065939063210550593
+asS'6.the increase'
+p9518
+(lp9519
+I1
+aF0.022254127781766008
+asS'compression l.l.c.'
+p9520
+(lp9521
+I1
+aF-0.0032679738562091968
+asS'sales february'
+p9522
+(lp9523
+I2
+aF-0.033183207274708207
+asS's&p hits'
+p9524
+(lp9525
+I30
+aF0.78528042609589921
+asS'inflation finally'
+p9526
+(lp9527
+I1
+aF0.034482758620689689
+asS"'s letter"
+p9528
+(lp9529
+I2
+aF0.0073921320280504483
+asS'russell 2000'
+p9530
+(lp9531
+I94
+aF1.7947536671076703
+asS'sheds outdated'
+p9532
+(lp9533
+I30
+aF0.78528042609589921
+asS'difficulty safely'
+p9534
+(lp9535
+I1
+aF0.034482758620689689
+asS'mandaro u.s'
+p9536
+(lp9537
+I2
+aF0.013187812642110119
+asS'push stock'
+p9538
+(lp9539
+I2
+aF0.0094823222529492185
+asS'could cost'
+p9540
+(lp9541
+I4
+aF0.063838735538067362
+asS'bank note.'
+p9542
+(lp9543
+I1
+aF0.0095057034220531987
+asS'$8.5 billion'
+p9544
+(lp9545
+I2
+aF0.0028409817157098796
+asS'hit though'
+p9546
+(lp9547
+I1
+aF0.025356283546178002
+asS'hldgs fujiy'
+p9548
+(lp9549
+I3
+aF0.076043454879415551
+asS'today7 39'
+p9550
+(lp9551
+I30
+aF0.78528042609589921
+asS'enforcing ecuadorean'
+p9552
+(lp9553
+I1
+aF-0.015098314606741563
+asS'5. log'
+p9554
+(lp9555
+I1
+aF-0.025641025641025664
+asS'. related'
+p9556
+(lp9557
+I3
+aF0.048747018265948426
+asS'deviations regulations'
+p9558
+(lp9559
+I1
+aF-0.01486199575371556
+asS'february annualized'
+p9560
+(lp9561
+I1
+aF0.0063291139240506224
+asS'service whatsapp'
+p9562
+(lp9563
+I2
+aF0.0052826627277634021
+asS'at-home beverage'
+p9564
+(lp9565
+I1
+aF0.054777388694347298
+asS'9200 contract'
+p9566
+(lp9567
+I30
+aF0.78528042609589921
+asS'crimea says'
+p9568
+(lp9569
+I9
+aF0.063055396376559991
+asS'potential impact'
+p9570
+(lp9571
+I1
+aF0.022254127781766008
+asS'expected drop'
+p9572
+(lp9573
+I1
+aF-0.042688910696761409
+asS'jeff reeves'
+p9574
+(lp9575
+I12
+aF0.069076572220800783
+asS'foothold throughout'
+p9576
+(lp9577
+I1
+aF-0.015098314606741563
+asS'today10 24'
+p9578
+(lp9579
+I12
+aF0.069076572220800783
+asS'today10 26'
+p9580
+(lp9581
+I9
+aF0.063055396376559991
+asS'include chevrolet'
+p9582
+(lp9583
+I2
+aF0.033732486151840983
+asS'today10 22'
+p9584
+(lp9585
+I12
+aF0.069076572220800783
+asS'marketwatch inc.'
+p9586
+(lp9587
+I43
+aF0.25877235100216228
+asS'cents share.'
+p9588
+(lp9589
+I9
+aF-0.0098801129712607835
+asS'cfo. oppenheimer'
+p9590
+(lp9591
+I1
+aF0.0065939063210550593
+asS'friscos rst'
+p9592
+(lp9593
+I1
+aF0.012706969580285016
+asS'reit hcn'
+p9594
+(lp9595
+I1
+aF-0.0096207215541164858
+asS'appeared profitabletrading.com'
+p9596
+(lp9597
+I2
+aF0.10801026392961874
+asS'required report'
+p9598
+(lp9599
+I2
+aF0.019620762866974131
+asS'49 p.m.'
+p9600
+(lp9601
+I3
+aF0.019781718963165176
+asS'export away'
+p9602
+(lp9603
+I1
+aF-0.015098314606741563
+asS'ruling united'
+p9604
+(lp9605
+I1
+aF-0.015098314606741563
+asS'announcement 5'
+p9606
+(lp9607
+I30
+aF0.78528042609589921
+asS'500 faster'
+p9608
+(lp9609
+I4
+aF0.010079537768633639
+asS'launched stimulative'
+p9610
+(lp9611
+I1
+aF-0.01486199575371556
+asS'share compared'
+p9612
+(lp9613
+I2
+aF0.044066106993071633
+asS'erie .'
+p9614
+(lp9615
+I2
+aF0.060087816422073489
+asS'100 roughly'
+p9616
+(lp9617
+I3
+aF0.037582491501740728
+asS'social security'
+p9618
+(lp9619
+I2
+aF0.033133788568538193
+asS'2013 4.7'
+p9620
+(lp9621
+I1
+aF0.0028884159318941583
+asS'supply worries'
+p9622
+(lp9623
+I12
+aF0.069076572220800783
+asS'war sunday'
+p9624
+(lp9625
+I1
+aF-0.024283439490445837
+asS'indian shares'
+p9626
+(lp9627
+I9
+aF0.063055396376559991
+asS'positioning inspired'
+p9628
+(lp9629
+I30
+aF0.78528042609589921
+asS'another round'
+p9630
+(lp9631
+I2
+aF0.024645570354333065
+asS'straight weeks'
+p9632
+(lp9633
+I1
+aF0.014802631578947345
+asS'ntic free'
+p9634
+(lp9635
+I6
+aF0.028685644767253066
+asS'2% ukraine'
+p9636
+(lp9637
+I57
+aF0.33936168525976329
+asS'make bid'
+p9638
+(lp9639
+I2
+aF-0.00013053922301388583
+asS'alert radio'
+p9640
+(lp9641
+I30
+aF0.78528042609589921
+asS'zacks.com radioshack'
+p9642
+(lp9643
+I60
+aF1.5705608521917984
+asS'affirms radioshack'
+p9644
+(lp9645
+I30
+aF0.78528042609589921
+asS'link.reuters.com/sar37v^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^> additional'
+p9646
+(lp9647
+I1
+aF0.014802631578947345
+asS'percent within'
+p9648
+(lp9649
+I1
+aF0.022254127781766008
+asS'dwa -'
+p9650
+(lp9651
+I2
+aF-0.094282848545636913
+asS'reason surge'
+p9652
+(lp9653
+I1
+aF0.034482758620689689
+asS'repeatedly predicted'
+p9654
+(lp9655
+I1
+aF-0.015098314606741563
+asS'29 a.m.'
+p9656
+(lp9657
+I18
+aF0.12611079275312001
+asS'cold-beverage system.'
+p9658
+(lp9659
+I3
+aF-0.012137088249755684
+asS'5. related'
+p9660
+(lp9661
+I1
+aF-0.025641025641025664
+asS'corp. sbux'
+p9662
+(lp9663
+I2
+aF0.03185842475789831
+asS"jargon 'trips-plus"
+p9664
+(lp9665
+I1
+aF-0.015098314606741563
+asS'- amotz'
+p9666
+(lp9667
+I12
+aF0.069076572220800783
+asS'communications inc.'
+p9668
+(lp9669
+I2
+aF0.011609522754737799
+asS'emerging markets'
+p9670
+(lp9671
+I8
+aF0.028901978240465268
+asS'straight months'
+p9672
+(lp9673
+I1
+aF-0.0071729957805906396
+asS'employees seats'
+p9674
+(lp9675
+I2
+aF0.0050351650906114501
+asS'euros 2010'
+p9676
+(lp9677
+I2
+aF0.033133788568538193
+asS'euros 2013'
+p9678
+(lp9679
+I2
+aF0.033133788568538193
+asS'euros 2012'
+p9680
+(lp9681
+I2
+aF0.033133788568538193
+asS'paypal. ebay'
+p9682
+(lp9683
+I2
+aF0.0050351650906114501
+asS'get bigger'
+p9684
+(lp9685
+I1
+aF-0.013834507961367818
+asS'brand.analysts average'
+p9686
+(lp9687
+I1
+aF0.0095057034220531987
+asS'co. /quotes/zigman/272085/delayed/quotes/nls/jpm'
+p9688
+(lp9689
+I3
+aF0.029027283270916533
+asS'service paypal.'
+p9690
+(lp9691
+I2
+aF0.0050351650906114501
+asS'absolutely nothing'
+p9692
+(lp9693
+I2
+aF-0.0096143372351269688
+asS'440,000 horsepower'
+p9694
+(lp9695
+I1
+aF-0.0032679738562091968
+asS'independent director.'
+p9696
+(lp9697
+I1
+aF0.0028884159318941583
+asS'seeking alpha'
+p9698
+(lp9699
+I120
+aF3.1411217043836022
+asS'texaco later'
+p9700
+(lp9701
+I1
+aF-0.015098314606741563
+asS'led h-p'
+p9702
+(lp9703
+I1
+aF0.0065939063210550593
+asS'hopes new'
+p9704
+(lp9705
+I1
+aF-0.01486199575371556
+asS'investigation show'
+p9706
+(lp9707
+I2
+aF0.019620762866974131
+asS'0.82% stake'
+p9708
+(lp9709
+I2
+aF0.0050351650906114501
+asS'victor reklaitis'
+p9710
+(lp9711
+I2
+aF0.013187812642110119
+asS'professionals capital'
+p9712
+(lp9713
+I1
+aF-0.015098314606741563
+asS'akzoy .'
+p9714
+(lp9715
+I2
+aF0.0063122470976729999
+asS'inc. /quotes/zigman/7212269/delayed/quotes/nls/grpn'
+p9716
+(lp9717
+I4
+aF0.088132213986143265
+asS'europe already'
+p9718
+(lp9719
+I1
+aF-0.015098314606741563
+asS'variations adequately.the'
+p9720
+(lp9721
+I1
+aF-0.015098314606741563
+asS'easing ukraine'
+p9722
+(lp9723
+I60
+aF1.5705608521917984
+asS'trade surpluses'
+p9724
+(lp9725
+I1
+aF0.034482758620689689
+asS'changes delta'
+p9726
+(lp9727
+I1
+aF0.022254127781766008
+asS'last year.'
+p9728
+(lp9729
+I2
+aF0.0094823222529492185
+asS'told staff'
+p9730
+(lp9731
+I1
+aF-0.013834507961367818
+asS'prf infusion'
+p9732
+(lp9733
+I60
+aF1.5705608521917984
+asS'growth pushing'
+p9734
+(lp9735
+I1
+aF0.028248587570621538
+asS'indicate expansion'
+p9736
+(lp9737
+I1
+aF-0.0071729957805906396
+asS"'s high"
+p9738
+(lp9739
+I1
+aF-0.015098314606741563
+asS'" open'
+p9740
+(lp9741
+I2
+aF0.019620762866974131
+asS'basis matching'
+p9742
+(lp9743
+I1
+aF0.0063291139240506224
+asS"portfolio 's"
+p9744
+(lp9745
+I1
+aF0.021499999999999984
+asS'according bundesbank'
+p9746
+(lp9747
+I1
+aF0.034482758620689689
+asS'be. apathy'
+p9748
+(lp9749
+I1
+aF0.0065939063210550593
+asS'de-escalate situation'
+p9750
+(lp9751
+I1
+aF0.017951856385148825
+asS'exclusively make'
+p9752
+(lp9753
+I1
+aF0.054777388694347298
+asS'+33.40 +2.53%'
+p9754
+(lp9755
+I10
+aF0.057563810184000648
+asS'investments countries'
+p9756
+(lp9757
+I2
+aF-0.010838394062078319
+asS'santarelli analyst'
+p9758
+(lp9759
+I2
+aF0.037754290992674737
+asS'trading. log'
+p9760
+(lp9761
+I1
+aF-0.020009416195856743
+asS'reported another'
+p9762
+(lp9763
+I2
+aF0.024645570354333065
+asS'sales 11'
+p9764
+(lp9765
+I1
+aF0.0063291139240506224
+asS'consensus survey'
+p9766
+(lp9767
+I12
+aF-0.1002777672396778
+asS'frenetic europe'
+p9768
+(lp9769
+I1
+aF-0.015098314606741563
+asS'nordisk nonof'
+p9770
+(lp9771
+I4
+aF0.044781306879880148
+asS'collecting public'
+p9772
+(lp9773
+I2
+aF-0.0005004065187305274
+asS'born italy'
+p9774
+(lp9775
+I1
+aF0.0065939063210550593
+asS'last week'
+p9776
+(lp9777
+I4
+aF0.032432782804704637
+asS'service gathering'
+p9778
+(lp9779
+I1
+aF0.017951856385148825
+asS'- 0.48%'
+p9780
+(lp9781
+I5
+aF0.019339860160903589
+asS'ntic dow'
+p9782
+(lp9783
+I2
+aF0.014895823661047334
+asS'8 2014'
+p9784
+(lp9785
+I78
+aF1.6966716449449184
+asS'shares according'
+p9786
+(lp9787
+I1
+aF0.0028884159318941583
+asS'59 a.m.'
+p9788
+(lp9789
+I13
+aF0.089431021660780208
+asS'emails instant'
+p9790
+(lp9791
+I2
+aF0.0094823222529492185
+asS"'s stock"
+p9792
+(lp9793
+I2
+aF-0.000284742094847662
+asS'stakes j.p.'
+p9794
+(lp9795
+I1
+aF-0.015434451219512105
+asS'buffett talks'
+p9796
+(lp9797
+I2
+aF0.013187812642110119
+asS'guillaume andreas'
+p9798
+(lp9799
+I1
+aF0.014802631578947345
+asS'video game'
+p9800
+(lp9801
+I14
+aF0.018081633883883088
+asS'topped median'
+p9802
+(lp9803
+I1
+aF-0.0071729957805906396
+asS'cr reit'
+p9804
+(lp9805
+I1
+aF-0.0096207215541164858
+asS'called incident'
+p9806
+(lp9807
+I1
+aF-0.01486199575371556
+asS'- 2.55%'
+p9808
+(lp9809
+I1
+aF-0.015434451219512105
+asS'said looking'
+p9810
+(lp9811
+I2
+aF0.040569339539934614
+asS'sunday washington'
+p9812
+(lp9813
+I1
+aF-0.024283439490445837
+asS"'t get"
+p9814
+(lp9815
+I1
+aF0.022254127781766008
+asS'xone voxeljet'
+p9816
+(lp9817
+I4
+aF-0.036225661420065031
+asS'nobel nv'
+p9818
+(lp9819
+I5
+aF0.0084597035604967799
+asS'climb easing'
+p9820
+(lp9821
+I30
+aF0.78528042609589921
+asS'protection agencies'
+p9822
+(lp9823
+I2
+aF0.019620762866974131
+asS'access midstrm'
+p9824
+(lp9825
+I1
+aF-0.0032679738562091968
+asS'successor buffett'
+p9826
+(lp9827
+I2
+aF0.023269395998132755
+asS'instability comes'
+p9828
+(lp9829
+I4
+aF0.039241525733948263
+asS'basics since'
+p9830
+(lp9831
+I2
+aF0.0094823222529492185
+asS'emily glazer'
+p9832
+(lp9833
+I30
+aF0.78528042609589921
+asS'go unaddressed'
+p9834
+(lp9835
+I2
+aF0.0094823222529492185
+asS'would prohibit'
+p9836
+(lp9837
+I4
+aF0.010079537768633639
+asS'led recall'
+p9838
+(lp9839
+I1
+aF0.034482758620689689
+asS'madoff investments'
+p9840
+(lp9841
+I43
+aF0.25877235100216228
+asS'banamex usa'
+p9842
+(lp9843
+I1
+aF-0.01486199575371556
+asS'kia motors'
+p9844
+(lp9845
+I1
+aF0.0095057034220531987
+asS'driven western'
+p9846
+(lp9847
+I1
+aF-0.015098314606741563
+asS'banamex made'
+p9848
+(lp9849
+I1
+aF-0.01486199575371556
+asS'hackers. recently'
+p9850
+(lp9851
+I2
+aF0.0094823222529492185
+asS'yellen told'
+p9852
+(lp9853
+I2
+aF0.019620762866974131
+asS'skg inc.'
+p9854
+(lp9855
+I4
+aF-0.060598638019321097
+asS'york prosecutors'
+p9856
+(lp9857
+I1
+aF-0.01486199575371556
+asS'alternative municipal'
+p9858
+(lp9859
+I2
+aF0.013187812642110119
+asS'7267.t sales'
+p9860
+(lp9861
+I1
+aF0.0095057034220531987
+asS'advisers independent'
+p9862
+(lp9863
+I2
+aF0.0073921320280504483
+asS'aims popularize'
+p9864
+(lp9865
+I2
+aF0.03185842475789831
+asS'showed expectations'
+p9866
+(lp9867
+I1
+aF-0.042688910696761409
+asS'dealers analysts'
+p9868
+(lp9869
+I1
+aF0.0063291139240506224
+asS'anand sharma'
+p9870
+(lp9871
+I1
+aF-0.015098314606741563
+asS'attract big'
+p9872
+(lp9873
+I2
+aF-0.032580270082819947
+asS'inc. /quotes/zigman/23609459/delayed/quotes/nls/mar'
+p9874
+(lp9875
+I2
+aF-0.0072003459476876735
+asS'traffic others'
+p9876
+(lp9877
+I4
+aF0.010079537768633639
+asS'better-ranked oil'
+p9878
+(lp9879
+I1
+aF0.028248587570621538
+asS'microsoft msft'
+p9880
+(lp9881
+I38
+aF0.082886231852640838
+asS'16 2014'
+p9882
+(lp9883
+I9
+aF0.063055396376559991
+asS'taken board'
+p9884
+(lp9885
+I2
+aF0.007155813175024445
+asS'said texaco'
+p9886
+(lp9887
+I1
+aF-0.015098314606741563
+asS'getting china'
+p9888
+(lp9889
+I9
+aF0.063055396376559991
+asS'two separate'
+p9890
+(lp9891
+I1
+aF0.017811704834605556
+asS'summer proposed'
+p9892
+(lp9893
+I1
+aF-0.015098314606741563
+asS'bitcoin really'
+p9894
+(lp9895
+I9
+aF0.063055396376559991
+asS'rudder head'
+p9896
+(lp9897
+I1
+aF-0.013834507961367818
+asS'vehicles. hiring'
+p9898
+(lp9899
+I1
+aF0.034482758620689689
+asS'caps years-long'
+p9900
+(lp9901
+I1
+aF-0.015098314606741563
+asS'corp rsh.n'
+p9902
+(lp9903
+I1
+aF-0.015098314606741563
+asS'comment decision.'
+p9904
+(lp9905
+I1
+aF-0.015098314606741563
+asS'rank northern'
+p9906
+(lp9907
+I2
+aF0.014895823661047334
+asS'directly conflicted'
+p9908
+(lp9909
+I1
+aF-0.010500807754442712
+asS'device could'
+p9910
+(lp9911
+I1
+aF0.0065939063210550593
+asS'a.m. oct.'
+p9912
+(lp9913
+I9
+aF0.063055396376559991
+asS'latest earnings'
+p9914
+(lp9915
+I8
+aF-0.020074526510182204
+asS'ruling overturned'
+p9916
+(lp9917
+I4
+aF-0.0075938299399980749
+asS'france. united'
+p9918
+(lp9919
+I1
+aF-0.015098314606741563
+asS'0.16% \xc2'
+p9920
+(lp9921
+I1
+aF0.00067980965329706225
+asS'announced would'
+p9922
+(lp9923
+I1
+aF-0.015098314606741563
+asS'gallagher co.'
+p9924
+(lp9925
+I1
+aF-0.015098314606741563
+asS'insight. 12'
+p9926
+(lp9927
+I1
+aF0.014802631578947345
+asS'interest rates.'
+p9928
+(lp9929
+I1
+aF-0.01486199575371556
+asS'cook. icahn'
+p9930
+(lp9931
+I2
+aF0.0050351650906114501
+asS'conducting public'
+p9932
+(lp9933
+I1
+aF0.0028884159318941583
+asS'new letter'
+p9934
+(lp9935
+I2
+aF0.0050351650906114501
+asS'iconic steve'
+p9936
+(lp9937
+I2
+aF0.023269395998132755
+asS'corner strength'
+p9938
+(lp9939
+I43
+aF0.25877235100216228
+asS'allegations conflicts'
+p9940
+(lp9941
+I2
+aF0.0050351650906114501
+asS'today6 57'
+p9942
+(lp9943
+I60
+aF1.5705608521917984
+asS'investing farm'
+p9944
+(lp9945
+I20
+aF0.11512762036800134
+asS'today6 55'
+p9946
+(lp9947
+I9
+aF0.063055396376559991
+asS'lexmark international'
+p9948
+(lp9949
+I1
+aF0.028248587570621538
+asS"'s radio"
+p9950
+(lp9951
+I1
+aF-0.01486199575371556
+asS'30 a.m.'
+p9952
+(lp9953
+I120
+aF3.1411217043836022
+asS'disclosed said'
+p9954
+(lp9955
+I1
+aF-0.01486199575371556
+asS'maker raised'
+p9956
+(lp9957
+I1
+aF-0.015098314606741563
+asS'hand determining'
+p9958
+(lp9959
+I1
+aF-0.013834507961367818
+asS'drugmakers making'
+p9960
+(lp9961
+I1
+aF-0.015098314606741563
+asS'puerto rico.fedex'
+p9962
+(lp9963
+I1
+aF0.022254127781766008
+asS'equities markets'
+p9964
+(lp9965
+I1
+aF0.025356283546178002
+asS'announced agreement'
+p9966
+(lp9967
+I6
+aF0.013389593364884374
+asS'. stocks'
+p9968
+(lp9969
+I1
+aF0.0028884159318941583
+asS'min ago11'
+p9970
+(lp9971
+I117
+aF1.316119236842519
+asS'min ago10'
+p9972
+(lp9973
+I36
+aF0.20722971666240242
+asS'emphasis forcing'
+p9974
+(lp9975
+I1
+aF-0.015098314606741563
+asS'potter ;'
+p9976
+(lp9977
+I1
+aF0.014802631578947345
+asS'banks united'
+p9978
+(lp9979
+I1
+aF0.022254127781766008
+asS'minimum 1,500'
+p9980
+(lp9981
+I1
+aF-0.01486199575371556
+asS'administration rules'
+p9982
+(lp9983
+I1
+aF0.034482758620689689
+asS'offered buy'
+p9984
+(lp9985
+I2
+aF0.032728465832498853
+asS'states means'
+p9986
+(lp9987
+I1
+aF-0.015098314606741563
+asS'experience training'
+p9988
+(lp9989
+I1
+aF-0.01486199575371556
+asS'said bank'
+p9990
+(lp9991
+I1
+aF-0.01486199575371556
+asS'u.s. energy'
+p9992
+(lp9993
+I1
+aF0.017811704834605556
+asS'keep working'
+p9994
+(lp9995
+I2
+aF0.0094823222529492185
+asS'negative signals'
+p9996
+(lp9997
+I2
+aF-0.010838394062078319
+asS'said late'
+p9998
+(lp9999
+I1
+aF0.022254127781766008
+asS'since 2004'
+p10000
+(lp10001
+I1
+aF0.0065939063210550593
+asS'percent $2.36'
+p10002
+(lp10003
+I1
+aF-0.015098314606741563
+asS'distribution agreements'
+p10004
+(lp10005
+I2
+aF0.03185842475789831
+asS'marcia gail'
+p10006
+(lp10007
+I2
+aF-0.0005004065187305274
+asS'voc free'
+p10008
+(lp10009
+I1
+aF0.029542097488921743
+asS'dismissed icahn'
+p10010
+(lp10011
+I2
+aF0.0050351650906114501
+asS'4 cents'
+p10012
+(lp10013
+I1
+aF-0.026623073330219536
+asS'significant updates'
+p10014
+(lp10015
+I2
+aF0.0094823222529492185
+asS'grand cherokee'
+p10016
+(lp10017
+I1
+aF0.0063291139240506224
+asS'side narrow'
+p10018
+(lp10019
+I1
+aF-0.025641025641025664
+asS'$378.1 million'
+p10020
+(lp10021
+I2
+aF0.014618679165891798
+asS'note. became'
+p10022
+(lp10023
+I1
+aF0.0095057034220531987
+asS'unit remain'
+p10024
+(lp10025
+I1
+aF-0.013834507961367818
+asS'jinkosolar 0.6%'
+p10026
+(lp10027
+I2
+aF0.011512762036800132
+asS'business cards'
+p10028
+(lp10029
+I9
+aF0.063055396376559991
+asS'businesswire -'
+p10030
+(lp10031
+I30
+aF0.78528042609589921
+asS'euro. related'
+p10032
+(lp10033
+I1
+aF-0.025641025641025664
+asS'rises 18'
+p10034
+(lp10035
+I2
+aF0.013187812642110119
+asS'lxk sports'
+p10036
+(lp10037
+I1
+aF0.028248587570621538
+asS"bank 's"
+p10038
+(lp10039
+I1
+aF-0.01486199575371556
+asS'trust currently'
+p10040
+(lp10041
+I1
+aF0.029542097488921743
+asS'stimulus. market'
+p10042
+(lp10043
+I1
+aF-0.01486199575371556
+asS'monday losses'
+p10044
+(lp10045
+I2
+aF0.013187812642110119
+asS'company also'
+p10046
+(lp10047
+I1
+aF-0.01486199575371556
+asS'russia massing'
+p10048
+(lp10049
+I1
+aF-0.025641025641025664
+asS'rbc global'
+p10050
+(lp10051
+I2
+aF-0.010838394062078319
+asS'today7 13'
+p10052
+(lp10053
+I9
+aF0.063055396376559991
+asS'period. shares'
+p10054
+(lp10055
+I2
+aF-0.01702614434749404
+asS'valero energy'
+p10056
+(lp10057
+I1
+aF-0.01749999999999996
+asS'comcast-twc deal'
+p10058
+(lp10059
+I6
+aF0.0076232379247427508
+asS'w. feray'
+p10060
+(lp10061
+I30
+aF0.78528042609589921
+asS'solarcity report'
+p10062
+(lp10063
+I2
+aF-0.027455969162467415
+asS'bb&t corp'
+p10064
+(lp10065
+I2
+aF-0.014586566700890537
+asS'related identity'
+p10066
+(lp10067
+I2
+aF0.019620762866974131
+asS'lion mavericks.'
+p10068
+(lp10069
+I2
+aF0.0094823222529492185
+asS'ebay "'
+p10070
+(lp10071
+I2
+aF0.0050351650906114501
+asS'u.s. reuters'
+p10072
+(lp10073
+I1
+aF-0.01749999999999996
+asS'nonof food'
+p10074
+(lp10075
+I4
+aF0.044781306879880148
+asS'stock spiraling'
+p10076
+(lp10077
+I30
+aF0.78528042609589921
+asS'plaintiffs collecting'
+p10078
+(lp10079
+I1
+aF-0.015098314606741563
+asS'potential ceo'
+p10080
+(lp10081
+I1
+aF-0.013834507961367818
+asS'edged higher'
+p10082
+(lp10083
+I1
+aF0.0065939063210550593
+asS'toward highest'
+p10084
+(lp10085
+I57
+aF0.33936168525976329
+asS'buyback apple'
+p10086
+(lp10087
+I2
+aF0.0094823222529492185
+asS'units service'
+p10088
+(lp10089
+I1
+aF0.017951856385148825
+asS'mavericks. without'
+p10090
+(lp10091
+I2
+aF0.0094823222529492185
+asS'rises 2014'
+p10092
+(lp10093
+I9
+aF0.063055396376559991
+asS'revenue accounts'
+p10094
+(lp10095
+I1
+aF0.017811704834605556
+asS'country 70%'
+p10096
+(lp10097
+I1
+aF0.017811704834605556
+asS'10 57'
+p10098
+(lp10099
+I9
+aF0.063055396376559991
+asS'tennessee concept'
+p10100
+(lp10101
+I30
+aF0.78528042609589921
+asS'jumped 7%'
+p10102
+(lp10103
+I2
+aF0.0088256025018465366
+asS'might involved'
+p10104
+(lp10105
+I1
+aF-0.01486199575371556
+asS'gm slides'
+p10106
+(lp10107
+I45
+aF0.27028511303896241
+asS'reported quarterly'
+p10108
+(lp10109
+I2
+aF-0.00055632415198211133
+asS'get even'
+p10110
+(lp10111
+I4
+aF-0.0075938299399980749
+asS'uncontrollable inflation.'
+p10112
+(lp10113
+I1
+aF-0.01486199575371556
+asS'management ism'
+p10114
+(lp10115
+I1
+aF-0.0071729957805906396
+asS'- 2.34%'
+p10116
+(lp10117
+I1
+aF-0.047141424272818457
+asS'500 $45'
+p10118
+(lp10119
+I4
+aF-0.0075938299399980749
+asS'million effort'
+p10120
+(lp10121
+I1
+aF0.017811704834605556
+asS'aspects intellectual'
+p10122
+(lp10123
+I1
+aF-0.015098314606741563
+asS'promote solar'
+p10124
+(lp10125
+I1
+aF-0.015098314606741563
+asS'corp hun'
+p10126
+(lp10127
+I3
+aF0.026538188304429285
+asS'corp msft.o'
+p10128
+(lp10129
+I2
+aF0.023269395998132755
+asS'dltr -'
+p10130
+(lp10131
+I1
+aF-0.00091290852656571587
+asS'still answers'
+p10132
+(lp10133
+I30
+aF0.78528042609589921
+asS'trade mar'
+p10134
+(lp10135
+I30
+aF0.78528042609589921
+asS'jan brewer'
+p10136
+(lp10137
+I5
+aF-0.044289399626954516
+asS'yahoo yhoo'
+p10138
+(lp10139
+I16
+aF0.046391384821821771
+asS'webcast 9'
+p10140
+(lp10141
+I30
+aF0.78528042609589921
+asS'gentiva shares'
+p10142
+(lp10143
+I44
+aF0.87759511459066997
+asS'china vanke'
+p10144
+(lp10145
+I2
+aF0.011512762036800132
+asS'techs join'
+p10146
+(lp10147
+I1
+aF0.0065939063210550593
+asS'million 2015'
+p10148
+(lp10149
+I1
+aF0.028248587570621538
+asS'crime "'
+p10150
+(lp10151
+I1
+aF-0.01486199575371556
+asS'training cost'
+p10152
+(lp10153
+I1
+aF-0.01486199575371556
+asS'20 cents'
+p10154
+(lp10155
+I2
+aF-0.030299319009660548
+asS'economics roi'
+p10156
+(lp10157
+I43
+aF0.25877235100216228
+asS'quotes delayed'
+p10158
+(lp10159
+I12
+aF0.069076572220800783
+asS'toyota motor'
+p10160
+(lp10161
+I1
+aF0.0095057034220531987
+asS'$3.68 million'
+p10162
+(lp10163
+I2
+aF-0.01702614434749404
+asS'inc. dnkn'
+p10164
+(lp10165
+I2
+aF0.03185842475789831
+asS'33 a.m.'
+p10166
+(lp10167
+I60
+aF1.5705608521917984
+asS'edition 10-point'
+p10168
+(lp10169
+I9
+aF0.063055396376559991
+asS'economic observers'
+p10170
+(lp10171
+I1
+aF-0.01486199575371556
+asS'grpn +2.25%'
+p10172
+(lp10173
+I2
+aF0.054437869822485316
+asS"'s share"
+p10174
+(lp10175
+I2
+aF0.023269395998132755
+asS'measures remain'
+p10176
+(lp10177
+I2
+aF-0.036601126188498201
+asS'success expect'
+p10178
+(lp10179
+I1
+aF0.022254127781766008
+asS'de arte'
+p10180
+(lp10181
+I2
+aF0.033133788568538193
+asS'fiscal third-quarter'
+p10182
+(lp10183
+I1
+aF0.015490533562822848
+asS'interests de-escalate'
+p10184
+(lp10185
+I1
+aF0.017951856385148825
+asS'$200 million'
+p10186
+(lp10187
+I1
+aF0.086510263929618747
+asS'whole foods'
+p10188
+(lp10189
+I2
+aF-0.019241443108232972
+asS"benefits 're"
+p10190
+(lp10191
+I1
+aF0.022254127781766008
+asS'quarter. tuesday\xe2\x80\x99s'
+p10192
+(lp10193
+I2
+aF0.01182253889076694
+asS'dioxide tio2'
+p10194
+(lp10195
+I1
+aF0.032987171655467266
+asS'reserve surveys'
+p10196
+(lp10197
+I1
+aF-0.01486199575371556
+asS'december 31'
+p10198
+(lp10199
+I2
+aF0.0073921320280504483
+asS'; company'
+p10200
+(lp10201
+I44
+aF0.87759511459066997
+asS'pnc finl'
+p10202
+(lp10203
+I2
+aF-0.014586566700890537
+asS'stake freddie'
+p10204
+(lp10205
+I2
+aF0.0073921320280504483
+asS'thanks latest'
+p10206
+(lp10207
+I1
+aF0.0085513078470825805
+asS'27% rally'
+p10208
+(lp10209
+I2
+aF0.10801026392961874
+asS'first solar'
+p10210
+(lp10211
+I4
+aF0.02364507778153388
+asS'validate pemex'
+p10212
+(lp10213
+I1
+aF-0.01486199575371556
+asS'heading march'
+p10214
+(lp10215
+I1
+aF-0.042688910696761409
+asS"'s financial"
+p10216
+(lp10217
+I1
+aF0.034482758620689689
+asS'2013 jinkosolar'
+p10218
+(lp10219
+I2
+aF0.011512762036800132
+asS'/quotes/zigman/118648/delayed/quotes/nls/grmn grmn'
+p10220
+(lp10221
+I2
+aF0.02462811733357069
+asS'reuters poll'
+p10222
+(lp10223
+I1
+aF-0.0071729957805906396
+asS'flawed idea'
+p10224
+(lp10225
+I2
+aF0.0073921320280504483
+asS'31 2014'
+p10226
+(lp10227
+I69
+aF1.6336162485683583
+asS'plans buy'
+p10228
+(lp10229
+I4
+aF-0.0075938299399980749
+asS'chip maker'
+p10230
+(lp10231
+I1
+aF-0.015098314606741563
+asS'practices.referring intellectual'
+p10232
+(lp10233
+I1
+aF-0.015098314606741563
+asS'euros spanish'
+p10234
+(lp10235
+I2
+aF-0.0005004065187305274
+asS'\xc2 4.5'
+p10236
+(lp10237
+I1
+aF0.036999999999999922
+asS'recent spate'
+p10238
+(lp10239
+I2
+aF0.019620762866974131
+asS'- 0.93%'
+p10240
+(lp10241
+I2
+aF-0.022566372361966354
+asS'earlier. \xe2\x80\x9cwe'
+p10242
+(lp10243
+I1
+aF0.0095057034220531987
+asS'take according'
+p10244
+(lp10245
+I1
+aF0.034482758620689689
+asS'companies trying'
+p10246
+(lp10247
+I1
+aF0.022254127781766008
+asS'stocks rally'
+p10248
+(lp10249
+I13
+aF0.089431021660780208
+asS'bankrate.com cash-rich'
+p10250
+(lp10251
+I9
+aF0.063055396376559991
+asS'factset. 12'
+p10252
+(lp10253
+I1
+aF0.014802631578947345
+asS'generale thinks'
+p10254
+(lp10255
+I1
+aF-0.015098314606741563
+asS'year company'
+p10256
+(lp10257
+I1
+aF0.022254127781766008
+asS'territory least'
+p10258
+(lp10259
+I1
+aF0.012706969580285016
+asS'u.s. stocks'
+p10260
+(lp10261
+I73
+aF1.0554179930587868
+asS'related assets'
+p10262
+(lp10263
+I1
+aF0.017811704834605556
+asS'rsi value'
+p10264
+(lp10265
+I2
+aF0.021258277427367599
+asS'500 petsmart'
+p10266
+(lp10267
+I4
+aF-0.047177815558848674
+asS'complex jobs'
+p10268
+(lp10269
+I1
+aF-0.0044444444444443499
+asS'cg -'
+p10270
+(lp10271
+I2
+aF-0.062919807236027137
+asS'inc. /quotes/zigman/75433/delayed/quotes/nls/mu'
+p10272
+(lp10273
+I2
+aF0.023622213537533625
+asS'marriott mar'
+p10274
+(lp10275
+I4
+aF-0.047177815558848674
+asS'man lauri'
+p10276
+(lp10277
+I1
+aF-0.01486199575371556
+asS'peninsula raised'
+p10278
+(lp10279
+I1
+aF0.017951856385148825
+asS'bailout aig'
+p10280
+(lp10281
+I4
+aF0.039241525733948263
+asS'trade monday\xe2\x80\x99s'
+p10282
+(lp10283
+I4
+aF-0.038294363224545734
+asS'marketing executive'
+p10284
+(lp10285
+I1
+aF-0.013834507961367818
+asS'4 18'
+p10286
+(lp10287
+I1
+aF0.0065939063210550593
+asS'may win'
+p10288
+(lp10289
+I43
+aF0.25877235100216228
+asS'edition investors'
+p10290
+(lp10291
+I9
+aF0.063055396376559991
+asS'4 17'
+p10292
+(lp10293
+I9
+aF0.063055396376559991
+asS'shareholders. despite'
+p10294
+(lp10295
+I2
+aF0.0050351650906114501
+asS'political relationship'
+p10296
+(lp10297
+I4
+aF-0.012663166210594025
+asS'apple 1996'
+p10298
+(lp10299
+I1
+aF0.0065939063210550593
+asS'big tech'
+p10300
+(lp10301
+I6
+aF0.0076232379247427508
+asS'prf samsung'
+p10302
+(lp10303
+I30
+aF0.78528042609589921
+asS'4 min'
+p10304
+(lp10305
+I1
+aF0.0065939063210550593
+asS'street analysts.'
+p10306
+(lp10307
+I2
+aF-0.027455969162467415
+asS'icahn conducting'
+p10308
+(lp10309
+I1
+aF0.0028884159318941583
+asS'100 people'
+p10310
+(lp10311
+I1
+aF0.022254127781766008
+asS'bzx radioshack'
+p10312
+(lp10313
+I30
+aF0.78528042609589921
+asS'open internet'
+p10314
+(lp10315
+I2
+aF0.019620762866974131
+asS'jobs. apathy'
+p10316
+(lp10317
+I1
+aF0.0065939063210550593
+asS'catastrophe comes'
+p10318
+(lp10319
+I3
+aF0.0047587671132585697
+asS'tensions moscow'
+p10320
+(lp10321
+I1
+aF0.017951856385148825
+asS'bid complex'
+p10322
+(lp10323
+I1
+aF-0.0044444444444443499
+asS'firm g'
+p10324
+(lp10325
+I2
+aF0.032728465832498853
+asS'retire september'
+p10326
+(lp10327
+I44
+aF0.87759511459066997
+asS'plunge russian'
+p10328
+(lp10329
+I1
+aF-0.025641025641025664
+asS'evidence donziger'
+p10330
+(lp10331
+I1
+aF-0.015098314606741563
+asS'17 p.m.'
+p10332
+(lp10333
+I39
+aF0.8483358224724592
+asS'/quotes/zigman/68270/delayed/quotes/nls/aapl aapl'
+p10334
+(lp10335
+I3
+aF0.029027283270916533
+asS'also curbed'
+p10336
+(lp10337
+I1
+aF-0.015098314606741563
+asS'9 2013'
+p10338
+(lp10339
+I9
+aF0.063055396376559991
+asS'fragile emerging'
+p10340
+(lp10341
+I4
+aF0.039241525733948263
+asS'mexican oil'
+p10342
+(lp10343
+I1
+aF-0.01486199575371556
+asS'retire.eric rudder'
+p10344
+(lp10345
+I1
+aF-0.013834507961367818
+asS'stock since'
+p10346
+(lp10347
+I1
+aF0.0028884159318941583
+asS'online travel'
+p10348
+(lp10349
+I14
+aF0.018081633883883088
+asS'anadarko petroleum'
+p10350
+(lp10351
+I2
+aF0.023622213537533625
+asS'fell sharply.market'
+p10352
+(lp10353
+I1
+aF0.025356283546178002
+asS'estimated honda'
+p10354
+(lp10355
+I1
+aF0.0095057034220531987
+asS'report exterran'
+p10356
+(lp10357
+I1
+aF-0.0032679738562091968
+asS'state. meanwhile'
+p10358
+(lp10359
+I1
+aF-0.010500807754442712
+asS'beat analysts'
+p10360
+(lp10361
+I2
+aF-0.00055632415198211133
+asS'chrysler group'
+p10362
+(lp10363
+I1
+aF0.0063291139240506224
+asS'steve jobs'
+p10364
+(lp10365
+I2
+aF0.023269395998132755
+asS'said cnbc'
+p10366
+(lp10367
+I2
+aF-0.0096143372351269688
+asS'reputation bad'
+p10368
+(lp10369
+I4
+aF-0.047177815558848674
+asS'case stronger'
+p10370
+(lp10371
+I1
+aF-0.015098314606741563
+asS'centro de'
+p10372
+(lp10373
+I2
+aF0.033133788568538193
+asS'stake ebay'
+p10374
+(lp10375
+I2
+aF0.0050351650906114501
+asS'\xc2 4'
+p10376
+(lp10377
+I1
+aF0.034482758620689689
+asS'least 1,000'
+p10378
+(lp10379
+I2
+aF0.03556487878640302
+asS'2.37% \xc2'
+p10380
+(lp10381
+I1
+aF-0.047141424272818457
+asS'alpha day'
+p10382
+(lp10383
+I30
+aF0.78528042609589921
+asS'radio formula.gonzalez'
+p10384
+(lp10385
+I1
+aF-0.01486199575371556
+asS'regulatory filing'
+p10386
+(lp10387
+I1
+aF-0.01486199575371556
+asS'intuit ebay'
+p10388
+(lp10389
+I4
+aF0.040491736285889715
+asS'uncertain future'
+p10390
+(lp10391
+I9
+aF0.063055396376559991
+asS'unaddressed making'
+p10392
+(lp10393
+I2
+aF0.0094823222529492185
+asS'high dollar'
+p10394
+(lp10395
+I9
+aF0.063055396376559991
+asS'\xc2 added'
+p10396
+(lp10397
+I1
+aF0.00067980965329706225
+asS'oil cash-rich'
+p10398
+(lp10399
+I20
+aF0.11512762036800134
+asS'repatriate 300'
+p10400
+(lp10401
+I1
+aF0.034482758620689689
+asS'leads liquidity'
+p10402
+(lp10403
+I9
+aF0.063055396376559991
+asS'publicly traded'
+p10404
+(lp10405
+I2
+aF0.007155813175024445
+asS'record stock'
+p10406
+(lp10407
+I1
+aF0.0065939063210550593
+asS'district massachusetts.the'
+p10408
+(lp10409
+I1
+aF-0.01486199575371556
+asS'portion pack'
+p10410
+(lp10411
+I2
+aF0.03185842475789831
+asS'45 p.m.'
+p10412
+(lp10413
+I9
+aF0.063055396376559991
+asS'confident turnaround'
+p10414
+(lp10415
+I44
+aF0.87759511459066997
+asS'custom concept'
+p10416
+(lp10417
+I30
+aF0.78528042609589921
+asS"russia 's"
+p10418
+(lp10419
+I3
+aF0.017667114290301163
+asS'higher carplay'
+p10420
+(lp10421
+I45
+aF0.27028511303896241
+asS'? previous'
+p10422
+(lp10423
+I3
+aF0.019781718963165176
+asS'breakout could'
+p10424
+(lp10425
+I2
+aF0.10801026392961874
+asS'10.6 keep'
+p10426
+(lp10427
+I2
+aF0.0094823222529492185
+asS'+1.46% reported'
+p10428
+(lp10429
+I1
+aF0.01708173690932312
+asS'deal big'
+p10430
+(lp10431
+I6
+aF0.0076232379247427508
+asS'intu clear'
+p10432
+(lp10433
+I4
+aF0.044938893448227483
+asS'disclose manage'
+p10434
+(lp10435
+I4
+aF0.010079537768633639
+asS'stoxx volatility'
+p10436
+(lp10437
+I1
+aF0.025356283546178002
+asS'airline said'
+p10438
+(lp10439
+I2
+aF0.007155813175024445
+asS"wasn 't"
+p10440
+(lp10441
+I1
+aF0.012706969580285016
+asS'bk fitb'
+p10442
+(lp10443
+I2
+aF-0.014586566700890537
+asS'build battery'
+p10444
+(lp10445
+I2
+aF0.040569339539934614
+asS'said added'
+p10446
+(lp10447
+I1
+aF0.028248587570621538
+asS'furious decision'
+p10448
+(lp10449
+I1
+aF-0.015098314606741563
+asS'500 halts'
+p10450
+(lp10451
+I1
+aF0.0065939063210550593
+asS'officer according'
+p10452
+(lp10453
+I1
+aF-0.013834507961367818
+asS'hld uctt'
+p10454
+(lp10455
+I3
+aF0.076043454879415551
+asS'rose 17'
+p10456
+(lp10457
+I1
+aF0.0095057034220531987
+asS'posts massive'
+p10458
+(lp10459
+I30
+aF0.78528042609589921
+asS'fuel efficient'
+p10460
+(lp10461
+I10
+aF0.065939063210550597
+asS'beats expectations'
+p10462
+(lp10463
+I57
+aF0.33936168525976329
+asS'year german'
+p10464
+(lp10465
+I1
+aF-0.015098314606741563
+asS'excessive trade'
+p10466
+(lp10467
+I1
+aF-0.015098314606741563
+asS'1,354.90 change'
+p10468
+(lp10469
+I2
+aF0.011512762036800132
+asS'trips administered'
+p10470
+(lp10471
+I1
+aF-0.015098314606741563
+asS'popular chocolate'
+p10472
+(lp10473
+I1
+aF-0.012006549026741798
+asS'west levels'
+p10474
+(lp10475
+I1
+aF0.017951856385148825
+asS'economics copyright'
+p10476
+(lp10477
+I43
+aF0.25877235100216228
+asS'get apple'
+p10478
+(lp10479
+I1
+aF0.0028884159318941583
+asS'\xc2 u.s.'
+p10480
+(lp10481
+I2
+aF0.0088256025018465366
+asS'player chinese'
+p10482
+(lp10483
+I1
+aF0.086510263929618747
+asS'lnkd free'
+p10484
+(lp10485
+I2
+aF0.044429609850170595
+asS'massive closures'
+p10486
+(lp10487
+I30
+aF0.78528042609589921
+asS'vs. ruble'
+p10488
+(lp10489
+I57
+aF0.33936168525976329
+asS'factset expect'
+p10490
+(lp10491
+I2
+aF-0.027455969162467415
+asS"canada 's"
+p10492
+(lp10493
+I1
+aF-0.012006549026741798
+asS'apd free'
+p10494
+(lp10495
+I3
+aF0.0021474564628237813
+asS'city ?'
+p10496
+(lp10497
+I42
+aF0.79636016904531082
+asS'took stakes'
+p10498
+(lp10499
+I1
+aF-0.015434451219512105
+asS'wto subsidies'
+p10500
+(lp10501
+I1
+aF-0.015098314606741563
+asS'twentysomething household'
+p10502
+(lp10503
+I2
+aF-0.0063315831052970124
+asS'1.1 percent'
+p10504
+(lp10505
+I2
+aF-0.036601126188498201
+asS"'s 2"
+p10506
+(lp10507
+I2
+aF-0.036601126188498201
+asS'operating system'
+p10508
+(lp10509
+I2
+aF0.0094823222529492185
+asS'expect united'
+p10510
+(lp10511
+I1
+aF0.022254127781766008
+asS'transition.the report'
+p10512
+(lp10513
+I1
+aF-0.013834507961367818
+asS"'s 8"
+p10514
+(lp10515
+I30
+aF0.78528042609589921
+asS"'s group."
+p10516
+(lp10517
+I2
+aF0.0050351650906114501
+asS'edition s&p'
+p10518
+(lp10519
+I9
+aF0.063055396376559991
+asS'involved apparent'
+p10520
+(lp10521
+I1
+aF-0.01486199575371556
+asS'record high'
+p10522
+(lp10523
+I1
+aF-0.024283439490445837
+asS'debt equity'
+p10524
+(lp10525
+I1
+aF0.014802631578947345
+asS'cninsure in-adr'
+p10526
+(lp10527
+I2
+aF0.060087816422073489
+asS'yuan 7'
+p10528
+(lp10529
+I9
+aF0.063055396376559991
+asS'0.09% \xc2'
+p10530
+(lp10531
+I1
+aF0.016847172081828975
+asS'next smart'
+p10532
+(lp10533
+I1
+aF0.0065939063210550593
+asS'applies eligible'
+p10534
+(lp10535
+I1
+aF0.022254127781766008
+asS"'s earnings"
+p10536
+(lp10537
+I1
+aF0.028248587570621538
+asS'representative drag'
+p10538
+(lp10539
+I1
+aF-0.015098314606741563
+asS'best buy'
+p10540
+(lp10541
+I30
+aF0.78528042609589921
+asS'back win'
+p10542
+(lp10543
+I30
+aF0.78528042609589921
+asS'gains some.'
+p10544
+(lp10545
+I1
+aF0.0085513078470825805
+asS'39 min'
+p10546
+(lp10547
+I12
+aF0.069076572220800783
+asS'+2.03% \xc2'
+p10548
+(lp10549
+I1
+aF0.015729013254786376
+asS'-- buy'
+p10550
+(lp10551
+I2
+aF0.10801026392961874
+asS'corp. j.c.'
+p10552
+(lp10553
+I2
+aF-0.00013053922301388583
+asS'long.del friscos'
+p10554
+(lp10555
+I1
+aF0.012706969580285016
+asS'increased cash'
+p10556
+(lp10557
+I1
+aF-0.015098314606741563
+asS'top selling'
+p10558
+(lp10559
+I2
+aF0.02960526315789469
+asS'will. \xe2\x80\x9cwe'
+p10560
+(lp10561
+I1
+aF0.028248587570621538
+asS'56 cents'
+p10562
+(lp10563
+I4
+aF0.0010669424439089712
+asS'february bought'
+p10564
+(lp10565
+I1
+aF0.0065939063210550593
+asS'david weidner'
+p10566
+(lp10567
+I9
+aF0.063055396376559991
+asS'lp kkr'
+p10568
+(lp10569
+I1
+aF-0.0096207215541164858
+asS'sa itub4.sa'
+p10570
+(lp10571
+I1
+aF-0.015098314606741563
+asS'would close'
+p10572
+(lp10573
+I1
+aF-0.015098314606741563
+asS'20 p.m.'
+p10574
+(lp10575
+I30
+aF0.78528042609589921
+asS'share. ross'
+p10576
+(lp10577
+I1
+aF-0.0070054945054943809
+asS'brett arends'
+p10578
+(lp10579
+I12
+aF0.069076572220800783
+asS'low 52'
+p10580
+(lp10581
+I15
+aF0.088858291183965946
+asS'earning $4'
+p10582
+(lp10583
+I2
+aF0.0028409817157098796
+asS'territory thanks'
+p10584
+(lp10585
+I1
+aF0.0085513078470825805
+asS'79 cents'
+p10586
+(lp10587
+I2
+aF0.040569339539934614
+asS'sales company'
+p10588
+(lp10589
+I1
+aF-0.042688910696761409
+asS'said february'
+p10590
+(lp10591
+I1
+aF0.0065939063210550593
+asS'vodafone verizon'
+p10592
+(lp10593
+I1
+aF0.0065939063210550593
+asS'1,000 acres'
+p10594
+(lp10595
+I2
+aF0.040569339539934614
+asS'2010 700,000'
+p10596
+(lp10597
+I2
+aF0.033133788568538193
+asS'0.12% late'
+p10598
+(lp10599
+I1
+aF0.016847172081828975
+asS'cola co.'
+p10600
+(lp10601
+I1
+aF0.054777388694347298
+asS'million loans'
+p10602
+(lp10603
+I1
+aF-0.01486199575371556
+asS'harder citizens'
+p10604
+(lp10605
+I1
+aF-0.015098314606741563
+asS'- examine'
+p10606
+(lp10607
+I1
+aF-0.015098314606741563
+asS'short benefiting'
+p10608
+(lp10609
+I1
+aF-0.015098314606741563
+asS'payments due'
+p10610
+(lp10611
+I1
+aF-0.01486199575371556
+asS'marc andreessen'
+p10612
+(lp10613
+I2
+aF0.0050351650906114501
+asS'people ]'
+p10614
+(lp10615
+I2
+aF-0.010838394062078319
+asS'time help'
+p10616
+(lp10617
+I1
+aF-0.013834507961367818
+asS'david thebault'
+p10618
+(lp10619
+I1
+aF-0.025641025641025664
+asS'9 min'
+p10620
+(lp10621
+I30
+aF0.78528042609589921
+asS"'s instability"
+p10622
+(lp10623
+I4
+aF0.039241525733948263
+asS'banks difficulty'
+p10624
+(lp10625
+I1
+aF0.034482758620689689
+asS'report methanex'
+p10626
+(lp10627
+I6
+aF0.028685644767253066
+asS'dnkn starbucks'
+p10628
+(lp10629
+I2
+aF0.03185842475789831
+asS'.\xc2 better-ranked'
+p10630
+(lp10631
+I1
+aF0.028248587570621538
+asS'report said.reller'
+p10632
+(lp10633
+I1
+aF-0.013834507961367818
+asS'chemical dow'
+p10634
+(lp10635
+I3
+aF0.026538188304429285
+asS'seeking trade'
+p10636
+(lp10637
+I1
+aF-0.015098314606741563
+asS'banks raise'
+p10638
+(lp10639
+I9
+aF0.063055396376559991
+asS"'s big"
+p10640
+(lp10641
+I30
+aF0.78528042609589921
+asS'corbat called'
+p10642
+(lp10643
+I1
+aF-0.01486199575371556
+asS'group tesla'
+p10644
+(lp10645
+I2
+aF-0.062919807236027137
+asS'ukraine could'
+p10646
+(lp10647
+I3
+aF-0.036479419703103984
+asS'peter oppenheimer'
+p10648
+(lp10649
+I3
+aF0.01607622857400428
+asS'cp pnc'
+p10650
+(lp10651
+I2
+aF-0.014586566700890537
+asS'home economics'
+p10652
+(lp10653
+I43
+aF0.25877235100216228
+asS'comes time'
+p10654
+(lp10655
+I4
+aF0.027012894895024578
+asS'forward-looking new'
+p10656
+(lp10657
+I1
+aF-0.0071729957805906396
+asS"mulling 'prepackaged"
+p10658
+(lp10659
+I44
+aF0.87759511459066997
+asS'prepackaged bankruptcy'
+p10660
+(lp10661
+I44
+aF0.87759511459066997
+asS'course eight'
+p10662
+(lp10663
+I1
+aF0.034482758620689689
+asS'investigation securities'
+p10664
+(lp10665
+I1
+aF-0.01486199575371556
+asS'italian gunmaker'
+p10666
+(lp10667
+I2
+aF0.03556487878640302
+asS'services group'
+p10668
+(lp10669
+I2
+aF-0.0082949308755760238
+asS'reports. mark'
+p10670
+(lp10671
+I1
+aF-0.013834507961367818
+asS"'s ceo"
+p10672
+(lp10673
+I43
+aF0.25877235100216228
+asS'situation ultimately'
+p10674
+(lp10675
+I1
+aF-0.015098314606741563
+asS'rebalancing game'
+p10676
+(lp10677
+I9
+aF0.063055396376559991
+asS'month. wheeler'
+p10678
+(lp10679
+I2
+aF-0.014234192551842047
+asS'states easy'
+p10680
+(lp10681
+I2
+aF0.007155813175024445
+asS"'s new"
+p10682
+(lp10683
+I2
+aF0.0050351650906114501
+asS'travel king'
+p10684
+(lp10685
+I14
+aF0.018081633883883088
+asS'sue chang'
+p10686
+(lp10687
+I10
+aF-0.060775370143652127
+asS'first buyout'
+p10688
+(lp10689
+I1
+aF-0.015098314606741563
+asS'double-digit gains'
+p10690
+(lp10691
+I1
+aF-0.042688910696761409
+asS'1.03% \xc2'
+p10692
+(lp10693
+I1
+aF-0.0085193657805474349
+asS'/quotes/zigman/13139813/delayed/quotes/nls/scty scty'
+p10694
+(lp10695
+I4
+aF-0.054911938324934823
+asS'companies chemical'
+p10696
+(lp10697
+I4
+aF0.021208070758720332
+asS'could led'
+p10698
+(lp10699
+I1
+aF0.034482758620689689
+asS'sink ukraine'
+p10700
+(lp10701
+I44
+aF0.87759511459066997
+asS'minimum global'
+p10702
+(lp10703
+I1
+aF-0.015098314606741563
+asS'rost +1.19%'
+p10704
+(lp10705
+I1
+aF0.0022133075114123195
+asS'analyst deutsche'
+p10706
+(lp10707
+I2
+aF0.037754290992674737
+asS'8 13'
+p10708
+(lp10709
+I12
+aF0.069076572220800783
+asS"doesn 't"
+p10710
+(lp10711
+I1
+aF0.0065939063210550593
+asS'northern tech'
+p10712
+(lp10713
+I6
+aF0.028685644767253066
+asS'political turmoil'
+p10714
+(lp10715
+I1
+aF0.014802631578947345
+asS'month signups'
+p10716
+(lp10717
+I10
+aF0.065939063210550597
+asS'infiniti brand.analysts'
+p10718
+(lp10719
+I1
+aF0.0095057034220531987
+asS'states became'
+p10720
+(lp10721
+I1
+aF-0.015098314606741563
+asS'/quotes/zigman/13637761/delayed/quotes/nls/lmca lmca'
+p10722
+(lp10723
+I4
+aF0.0010669424439089712
+asS'deal. bank'
+p10724
+(lp10725
+I3
+aF0.0033975967353125913
+asS'stocks worth'
+p10726
+(lp10727
+I3
+aF0.076043454879415551
+asS'inc. mmc'
+p10728
+(lp10729
+I2
+aF0.060087816422073489
+asS'" overconfident'
+p10730
+(lp10731
+I1
+aF-0.015098314606741563
+asS'problem successor'
+p10732
+(lp10733
+I2
+aF0.023269395998132755
+asS"fred 's"
+p10734
+(lp10735
+I2
+aF0.017102615694165161
+asS'radioshack last-minute'
+p10736
+(lp10737
+I30
+aF0.78528042609589921
+asS'; oil'
+p10738
+(lp10739
+I43
+aF0.25877235100216228
+asS'selma undisclosed'
+p10740
+(lp10741
+I1
+aF-0.015098314606741563
+asS'3-week losing'
+p10742
+(lp10743
+I1
+aF0.0065939063210550593
+asS'inc considered'
+p10744
+(lp10745
+I1
+aF-0.013834507961367818
+asS'companies exchange'
+p10746
+(lp10747
+I4
+aF-0.00061460034380793511
+asS'usesaad {'
+p10748
+(lp10749
+I5
+aF0.1588106388459081
+asS'sales 183,947'
+p10750
+(lp10751
+I1
+aF-0.042688910696761409
+asS'said swung'
+p10752
+(lp10753
+I2
+aF-0.01702614434749404
+asS'central bank'
+p10754
+(lp10755
+I5
+aF0.0011355504009729084
+asS'roasters inc.'
+p10756
+(lp10757
+I5
+aF-0.022686176901201466
+asS'group nissan'
+p10758
+(lp10759
+I1
+aF0.0063291139240506224
+asS'inc. wal-mart'
+p10760
+(lp10761
+I2
+aF0.040569339539934614
+asS'" new'
+p10762
+(lp10763
+I2
+aF0.0050351650906114501
+asS"'t die"
+p10764
+(lp10765
+I1
+aF-0.01486199575371556
+asS'move towards'
+p10766
+(lp10767
+I1
+aF0.022254127781766008
+asS'intc fortune'
+p10768
+(lp10769
+I20
+aF-0.00078643073702690854
+asS'ukraine 12'
+p10770
+(lp10771
+I9
+aF0.063055396376559991
+asS'bonds -'
+p10772
+(lp10773
+I2
+aF0.013187812642110119
+asS'hoped conclusions'
+p10774
+(lp10775
+I1
+aF-0.01486199575371556
+asS"'s program"
+p10776
+(lp10777
+I1
+aF0.022254127781766008
+asS'share. panera'
+p10778
+(lp10779
+I1
+aF0.00016545334215751787
+asS'firm symantec'
+p10780
+(lp10781
+I14
+aF0.018081633883883088
+asS'remarks 1,000'
+p10782
+(lp10783
+I1
+aF-0.015098314606741563
+asS'benzinga.com plenty'
+p10784
+(lp10785
+I30
+aF0.78528042609589921
+asS'17%. log'
+p10786
+(lp10787
+I1
+aF0.01708173690932312
+asS'stores inc.'
+p10788
+(lp10789
+I4
+aF0.035777152545852557
+asS'least $400'
+p10790
+(lp10791
+I1
+aF-0.01486199575371556
+asS'narrowed $16.3'
+p10792
+(lp10793
+I2
+aF0.040569339539934614
+asS'better-ranked stock'
+p10794
+(lp10795
+I1
+aF0.028248587570621538
+asS'said lilit'
+p10796
+(lp10797
+I2
+aF-0.010838394062078319
+asS'fell sharply'
+p10798
+(lp10799
+I1
+aF0.022254127781766008
+asS'click here.zacks'
+p10800
+(lp10801
+I3
+aF0.050800374916289345
+asS'+1.33% next'
+p10802
+(lp10803
+I1
+aF0.0065939063210550593
+asS'media reports.'
+p10804
+(lp10805
+I1
+aF-0.013834507961367818
+asS'stores /quotes/zigman/77604/delayed/quotes/nls/rost'
+p10806
+(lp10807
+I2
+aF-0.0047921869940820618
+asS'dipped 1'
+p10808
+(lp10809
+I1
+aF0.0095057034220531987
+asS'board advisors'
+p10810
+(lp10811
+I30
+aF0.78528042609589921
+asS'alpha 10-k'
+p10812
+(lp10813
+I30
+aF0.78528042609589921
+asS'link link.reuters.com/sar37v'
+p10814
+(lp10815
+I1
+aF0.014802631578947345
+asS'a.m. feb.'
+p10816
+(lp10817
+I105
+aF1.8858378340745985
+asS'like wal-mart'
+p10818
+(lp10819
+I1
+aF-0.0089897260273972355
+asS'wage hike'
+p10820
+(lp10821
+I2
+aF0.028662201270295298
+asS'adv energy'
+p10822
+(lp10823
+I3
+aF0.076043454879415551
+asS'baker reactions'
+p10824
+(lp10825
+I9
+aF0.063055396376559991
+asS'poor. shares'
+p10826
+(lp10827
+I1
+aF0.022254127781766008
+asS'exterran ptnrs'
+p10828
+(lp10829
+I1
+aF-0.0032679738562091968
+asS'moves less'
+p10830
+(lp10831
+I1
+aF-0.015098314606741563
+asS'" emerging'
+p10832
+(lp10833
+I1
+aF0.014802631578947345
+asS'coffee roasters'
+p10834
+(lp10835
+I5
+aF-0.022686176901201466
+asS'analyst perception'
+p10836
+(lp10837
+I1
+aF0.012706969580285016
+asS'totaled $470'
+p10838
+(lp10839
+I1
+aF-0.015098314606741563
+asS'move west'
+p10840
+(lp10841
+I1
+aF0.017951856385148825
+asS'batters aussie'
+p10842
+(lp10843
+I9
+aF0.063055396376559991
+asS'enforcers mexican'
+p10844
+(lp10845
+I1
+aF-0.01486199575371556
+asS'high 3,155'
+p10846
+(lp10847
+I1
+aF0.0065939063210550593
+asS'per share'
+p10848
+(lp10849
+I2
+aF0.040569339539934614
+asS'possible deal.'
+p10850
+(lp10851
+I3
+aF0.0033975967353125913
+asS'lagged peers,\xe2\x80\x9d'
+p10852
+(lp10853
+I2
+aF0.037754290992674737
+asS'manage $100'
+p10854
+(lp10855
+I1
+aF0.00067980965329706225
+asS'accept bitcoin'
+p10856
+(lp10857
+I9
+aF0.063055396376559991
+asS'a.m. dec.'
+p10858
+(lp10859
+I48
+aF0.91139121884901919
+asS'oklahoma city-based'
+p10860
+(lp10861
+I1
+aF-0.0032679738562091968
+asS'q4 loss'
+p10862
+(lp10863
+I30
+aF0.78528042609589921
+asS'= 10q'
+p10864
+(lp10865
+I30
+aF0.78528042609589921
+asS'emirates made'
+p10866
+(lp10867
+I1
+aF-0.015098314606741563
+asS'smartphone platform'
+p10868
+(lp10869
+I1
+aF0.086510263929618747
+asS'broadband network'
+p10870
+(lp10871
+I6
+aF0.013389593364884374
+asS'includes subpoenas'
+p10872
+(lp10873
+I1
+aF-0.01486199575371556
+asS"toyota 's"
+p10874
+(lp10875
+I2
+aF-0.030196629213483126
+asS'could validate'
+p10876
+(lp10877
+I1
+aF-0.01486199575371556
+asS'become apple'
+p10878
+(lp10879
+I1
+aF0.0065939063210550593
+asS'slap stocks'
+p10880
+(lp10881
+I1
+aF0.0065939063210550593
+asS'green mtn'
+p10882
+(lp10883
+I3
+aF0.019851875731156512
+asS'/quotes/zigman/7212269/delayed/quotes/nls/grpn grpn'
+p10884
+(lp10885
+I4
+aF0.088132213986143265
+asS'radioshack "'
+p10886
+(lp10887
+I44
+aF0.87759511459066997
+asS'making investments'
+p10888
+(lp10889
+I1
+aF-0.013834507961367818
+asS'one current'
+p10890
+(lp10891
+I1
+aF0.086510263929618747
+asS'radioshack 2'
+p10892
+(lp10893
+I30
+aF0.78528042609589921
+asS'.and strong'
+p10894
+(lp10895
+I2
+aF0.023269395998132755
+asS'14 effort'
+p10896
+(lp10897
+I1
+aF-0.015098314606741563
+asS'markets hammered'
+p10898
+(lp10899
+I1
+aF-0.015098314606741563
+asS'bowl commercial'
+p10900
+(lp10901
+I30
+aF0.78528042609589921
+asS'berkshire hathaway'
+p10902
+(lp10903
+I1
+aF0.00067980965329706225
+asS'draghi says'
+p10904
+(lp10905
+I43
+aF0.25877235100216228
+asS'kicks travelers'
+p10906
+(lp10907
+I1
+aF0.0065939063210550593
+asS'live state.'
+p10908
+(lp10909
+I2
+aF-0.027834386954147632
+asS'planned ipo'
+p10910
+(lp10911
+I2
+aF0.0050351650906114501
+asS'measure even'
+p10912
+(lp10913
+I1
+aF0.0028884159318941583
+asS'cisg free'
+p10914
+(lp10915
+I2
+aF0.060087816422073489
+asS'$160 billion'
+p10916
+(lp10917
+I1
+aF0.0065939063210550593
+asS'misinformation among'
+p10918
+(lp10919
+I10
+aF0.065939063210550597
+asS'$22 share.'
+p10920
+(lp10921
+I2
+aF0.032728465832498853
+asS'economy "'
+p10922
+(lp10923
+I4
+aF-0.051577734309845545
+asS'won global'
+p10924
+(lp10925
+I9
+aF0.063055396376559991
+asS'fb fortune'
+p10926
+(lp10927
+I34
+aF0.077204268421221064
+asS'strategy officer'
+p10928
+(lp10929
+I2
+aF-0.027669015922735636
+asS'realmoney.com option'
+p10930
+(lp10931
+I30
+aF0.78528042609589921
+asS'censorship reduces'
+p10932
+(lp10933
+I1
+aF0.020620086040646798
+asS'57 highest'
+p10934
+(lp10935
+I1
+aF-0.0071729957805906396
+asS'ukraine gold'
+p10936
+(lp10937
+I2
+aF0.011512762036800132
+asS'closed record'
+p10938
+(lp10939
+I1
+aF-0.024283439490445837
+asS'tape. "'
+p10940
+(lp10941
+I1
+aF-0.015098314606741563
+asS'away dealers'
+p10942
+(lp10943
+I1
+aF0.0063291139240506224
+asS'markets close'
+p10944
+(lp10945
+I2
+aF0.011512762036800132
+asS'fia.mi said'
+p10946
+(lp10947
+I1
+aF0.0063291139240506224
+asS'radioshack enough'
+p10948
+(lp10949
+I44
+aF0.87759511459066997
+asS'three months'
+p10950
+(lp10951
+I1
+aF0.0028884159318941583
+asS'following bill'
+p10952
+(lp10953
+I2
+aF0.023269395998132755
+asS'28 2014'
+p10954
+(lp10955
+I153
+aF2.7972290529236208
+asS'at&t fortune'
+p10956
+(lp10957
+I4
+aF-0.0075938299399980749
+asS'4 2013'
+p10958
+(lp10959
+I9
+aF0.063055396376559991
+asS"'s pre-crisis"
+p10960
+(lp10961
+I2
+aF0.0073921320280504483
+asS'judgment $9.5'
+p10962
+(lp10963
+I1
+aF-0.015098314606741563
+asS'petroleum corp.'
+p10964
+(lp10965
+I2
+aF0.023622213537533625
+asS'talks ibm'
+p10966
+(lp10967
+I2
+aF0.013187812642110119
+asS'taylor agnieszka'
+p10968
+(lp10969
+I1
+aF0.014802631578947345
+asS'mexican attorney'
+p10970
+(lp10971
+I1
+aF-0.01486199575371556
+asS'prescott ariz.'
+p10972
+(lp10973
+I2
+aF0.03556487878640302
+asS'8 32'
+p10974
+(lp10975
+I30
+aF0.78528042609589921
+asS'bofa merrill'
+p10976
+(lp10977
+I1
+aF0.014802631578947345
+asS'capossela replace'
+p10978
+(lp10979
+I1
+aF-0.013834507961367818
+asS'consumer electronics'
+p10980
+(lp10981
+I30
+aF0.78528042609589921
+asS'officer bmo'
+p10982
+(lp10983
+I1
+aF-0.015098314606741563
+asS'stocks expected'
+p10984
+(lp10985
+I3
+aF0.029027283270916533
+asS'os x'
+p10986
+(lp10987
+I4
+aF0.018964644505898437
+asS'110 million'
+p10988
+(lp10989
+I1
+aF0.086510263929618747
+asS'+0.19% \xc2'
+p10990
+(lp10991
+I1
+aF0.011014344262295075
+asS'deutsche bank'
+p10992
+(lp10993
+I2
+aF0.037754290992674737
+asS'bancaria y'
+p10994
+(lp10995
+I1
+aF-0.01486199575371556
+asS'century freedom'
+p10996
+(lp10997
+I2
+aF0.023269395998132755
+asS'36 a.m.'
+p10998
+(lp10999
+I18
+aF0.10864001014713111
+asS'corp meoh'
+p11000
+(lp11001
+I6
+aF0.028685644767253066
+asS'washington machine'
+p11002
+(lp11003
+I1
+aF-0.0044444444444443499
+asS'likely chill.'
+p11004
+(lp11005
+I2
+aF-0.0063315831052970124
+asS'report coca'
+p11006
+(lp11007
+I3
+aF0.019851875731156512
+asS'decision bars'
+p11008
+(lp11009
+I1
+aF-0.015098314606741563
+asS'co. sodastream'
+p11010
+(lp11011
+I2
+aF-0.00013053922301388583
+asS'2014 +0.35%'
+p11012
+(lp11013
+I1
+aF0.0065939063210550593
+asS'90 days'
+p11014
+(lp11015
+I2
+aF0.10801026392961874
+asS'gamestop radioshack'
+p11016
+(lp11017
+I30
+aF0.78528042609589921
+asS'president corporate'
+p11018
+(lp11019
+I1
+aF0.0095057034220531987
+asS'fool\xe2\x80\x99s gold'
+p11020
+(lp11021
+I9
+aF0.063055396376559991
+asS'glance stocks'
+p11022
+(lp11023
+I43
+aF0.25877235100216228
+asS'billion restricted'
+p11024
+(lp11025
+I2
+aF0.0052826627277634021
+asS'cobalt hhr'
+p11026
+(lp11027
+I2
+aF0.033732486151840983
+asS'property rights'
+p11028
+(lp11029
+I1
+aF-0.015098314606741563
+asS'company\xe2\x80\x99s sale'
+p11030
+(lp11031
+I2
+aF-0.0014321680310061119
+asS'said minimum'
+p11032
+(lp11033
+I2
+aF0.028662201270295298
+asS'corp. /quotes/zigman/13139813/delayed/quotes/nls/scty'
+p11034
+(lp11035
+I2
+aF-0.027455969162467415
+asS'wto.india opposes'
+p11036
+(lp11037
+I1
+aF-0.015098314606741563
+asS'24 p.m.'
+p11038
+(lp11039
+I9
+aF0.063055396376559991
+asS'required disclose'
+p11040
+(lp11041
+I1
+aF0.00067980965329706225
+asS'. big'
+p11042
+(lp11043
+I1
+aF-0.0089897260273972355
+asS'midcon compression'
+p11044
+(lp11045
+I1
+aF-0.0032679738562091968
+asS'csco fortune'
+p11046
+(lp11047
+I12
+aF0.023189645674656527
+asS'direct access'
+p11048
+(lp11049
+I6
+aF0.013389593364884374
+asS'proposal dismissed'
+p11050
+(lp11051
+I2
+aF0.0050351650906114501
+asS'unnamed sources.bates'
+p11052
+(lp11053
+I1
+aF-0.013834507961367818
+asS'mistakes underperform'
+p11054
+(lp11055
+I2
+aF0.023269395998132755
+asS'thestreet.com looking'
+p11056
+(lp11057
+I30
+aF0.78528042609589921
+asS'kick \xe2\x80\x98tax'
+p11058
+(lp11059
+I1
+aF0.0065939063210550593
+asS'corp. /quotes/zigman/109220/delayed/quotes/nls/dish'
+p11060
+(lp11061
+I3
+aF0.012908532350072379
+asS'monday. berkshire'
+p11062
+(lp11063
+I1
+aF0.0095057034220531987
+asS'newswire national'
+p11064
+(lp11065
+I30
+aF0.78528042609589921
+asS'world learn'
+p11066
+(lp11067
+I9
+aF0.063055396376559991
+asS'political catastrophe'
+p11068
+(lp11069
+I3
+aF0.0047587671132585697
+asS"infusion 's"
+p11070
+(lp11071
+I30
+aF0.78528042609589921
+asS'inc. /quotes/zigman/68719/delayed/quotes/nls/adsk'
+p11072
+(lp11073
+I1
+aF-0.015434451219512105
+asS'\xc2 unwound'
+p11074
+(lp11075
+I1
+aF0.00067980965329706225
+asS"france 's"
+p11076
+(lp11077
+I4
+aF0.031722075945001274
+asS'meteoric rally'
+p11078
+(lp11079
+I9
+aF0.063055396376559991
+asS'additionally fred'
+p11080
+(lp11081
+I1
+aF0.0085513078470825805
+asS'mclennan companies'
+p11082
+(lp11083
+I2
+aF0.060087816422073489
+asS'one country'
+p11084
+(lp11085
+I1
+aF0.034482758620689689
+asS'rules many'
+p11086
+(lp11087
+I1
+aF0.022254127781766008
+asS'facebook inc.'
+p11088
+(lp11089
+I4
+aF0.045852002267698019
+asS'collecting judgment'
+p11090
+(lp11091
+I1
+aF-0.015098314606741563
+asS'2014 +1.39%'
+p11092
+(lp11093
+I1
+aF0.0065939063210550593
+asS'fuels supply'
+p11094
+(lp11095
+I12
+aF0.069076572220800783
+asS'.chrysler unit'
+p11096
+(lp11097
+I1
+aF0.0063291139240506224
+asS'become chief'
+p11098
+(lp11099
+I2
+aF-0.027669015922735636
+asS'skype microsoft'
+p11100
+(lp11101
+I2
+aF0.0028409817157098796
+asS'a.m. today3'
+p11102
+(lp11103
+I30
+aF0.78528042609589921
+asS'united arab'
+p11104
+(lp11105
+I1
+aF-0.015098314606741563
+asS'long fed'
+p11106
+(lp11107
+I1
+aF-0.01486199575371556
+asS'protection agency'
+p11108
+(lp11109
+I1
+aF-0.01749999999999996
+asS'expect declining'
+p11110
+(lp11111
+I1
+aF0.0075437537718768856
+asS'u.s. refiner'
+p11112
+(lp11113
+I1
+aF-0.01749999999999996
+asS'corporate governance'
+p11114
+(lp11115
+I2
+aF0.0073921320280504483
+asS'partnership deal'
+p11116
+(lp11117
+I1
+aF0.054777388694347298
+asS'analysts suggested'
+p11118
+(lp11119
+I2
+aF-0.00013053922301388583
+asS'growth region'
+p11120
+(lp11121
+I1
+aF-0.015098314606741563
+asS'million barrels'
+p11122
+(lp11123
+I1
+aF-0.015098314606741563
+asS'related customers'
+p11124
+(lp11125
+I6
+aF0.0076232379247427508
+asS'fiber may'
+p11126
+(lp11127
+I2
+aF-0.0005004065187305274
+asS'shareholders getting'
+p11128
+(lp11129
+I2
+aF-0.0014321680310061119
+asS'oppenheimer 51'
+p11130
+(lp11131
+I1
+aF0.0065939063210550593
+asS'investors definitely'
+p11132
+(lp11133
+I1
+aF0.0085513078470825805
+asS'40 p.m.'
+p11134
+(lp11135
+I60
+aF1.5705608521917984
+asS'annual filing'
+p11136
+(lp11137
+I1
+aF-0.01486199575371556
+asS'carplay home'
+p11138
+(lp11139
+I41
+aF0.24725958896536218
+asS'private bank.'
+p11140
+(lp11141
+I1
+aF-0.015098314606741563
+asS"'s gold"
+p11142
+(lp11143
+I1
+aF-0.015098314606741563
+asS'flaws go'
+p11144
+(lp11145
+I2
+aF0.0094823222529492185
+asS'fund management'
+p11146
+(lp11147
+I1
+aF-0.015434451219512105
+asS'raise rates'
+p11148
+(lp11149
+I1
+aF0.022254127781766008
+asS'cost ceos'
+p11150
+(lp11151
+I2
+aF0.023269395998132755
+asS'tsla shares'
+p11152
+(lp11153
+I2
+aF0.040569339539934614
+asS'profit came'
+p11154
+(lp11155
+I2
+aF0.0050351650906114501
+asS'federal housing'
+p11156
+(lp11157
+I3
+aF-0.0074698637256651115
+asS'aeis kla-tencor'
+p11158
+(lp11159
+I3
+aF0.076043454879415551
+asS'week china'
+p11160
+(lp11161
+I43
+aF0.25877235100216228
+asS'gap. russians'
+p11162
+(lp11163
+I1
+aF0.017811704834605556
+asS'citing person'
+p11164
+(lp11165
+I1
+aF-0.013834507961367818
+asS'wireless verizon'
+p11166
+(lp11167
+I2
+aF-0.0014321680310061119
+asS'spate mixed'
+p11168
+(lp11169
+I2
+aF0.019620762866974131
+asS'sales top'
+p11170
+(lp11171
+I2
+aF0.02960526315789469
+asS'restaurant group'
+p11172
+(lp11173
+I2
+aF0.025413939160570033
+asS'exercise discretion'
+p11174
+(lp11175
+I1
+aF-0.015098314606741563
+asS'unrest region'
+p11176
+(lp11177
+I2
+aF-0.010838394062078319
+asS'models put'
+p11178
+(lp11179
+I1
+aF-0.015098314606741563
+asS'board concluded'
+p11180
+(lp11181
+I2
+aF0.0050351650906114501
+asS"' ;"
+p11182
+(lp11183
+I35
+aF0.94409106494180728
+asS'holdings 13-f'
+p11184
+(lp11185
+I1
+aF0.00067980965329706225
+asS'russians trade'
+p11186
+(lp11187
+I1
+aF0.017811704834605556
+asS'russia united'
+p11188
+(lp11189
+I2
+aF0.007155813175024445
+asS"' -"
+p11190
+(lp11191
+I1
+aF0.0065939063210550593
+asS'region ukraine'
+p11192
+(lp11193
+I2
+aF-0.040739340247767229
+asS'vald\xc3\xa9s 200,000'
+p11194
+(lp11195
+I2
+aF-0.0005004065187305274
+asS'stocks forcing'
+p11196
+(lp11197
+I1
+aF-0.025641025641025664
+asS'icahn enterprises'
+p11198
+(lp11199
+I2
+aF0.011512762036800132
+asS'data still'
+p11200
+(lp11201
+I30
+aF0.78528042609589921
+asS'shows greed'
+p11202
+(lp11203
+I2
+aF0.040569339539934614
+asS'states suspicion'
+p11204
+(lp11205
+I1
+aF0.022254127781766008
+asS'8 35'
+p11206
+(lp11207
+I9
+aF0.063055396376559991
+asS'almost 11'
+p11208
+(lp11209
+I1
+aF-0.025641025641025664
+asS'4 2014'
+p11210
+(lp11211
+I565
+aF14.299895327752496
+asS'msft fortune'
+p11212
+(lp11213
+I38
+aF0.082886231852640838
+asS'comply leverage'
+p11214
+(lp11215
+I1
+aF-0.015098314606741563
+asS'dismisses bitcoin'
+p11216
+(lp11217
+I2
+aF0.013187812642110119
+asS'co gm.n'
+p11218
+(lp11219
+I1
+aF0.0095057034220531987
+asS'- edg'
+p11220
+(lp11221
+I30
+aF0.78528042609589921
+asS'corp amt'
+p11222
+(lp11223
+I1
+aF0.00082576383154416076
+asS'accounts 52%'
+p11224
+(lp11225
+I1
+aF0.017811704834605556
+asS'appears seeking'
+p11226
+(lp11227
+I1
+aF-0.015098314606741563
+asS'russia deteriorate'
+p11228
+(lp11229
+I1
+aF0.022254127781766008
+asS"'s corporate"
+p11230
+(lp11231
+I1
+aF0.0065939063210550593
+asS'yahoo inc.'
+p11232
+(lp11233
+I3
+aF0.029027283270916533
+asS'" trade'
+p11234
+(lp11235
+I1
+aF-0.015098314606741563
+asS'economically moscow'
+p11236
+(lp11237
+I1
+aF-0.024283439490445837
+asS'trade representative'
+p11238
+(lp11239
+I1
+aF-0.015098314606741563
+asS'back-dating trades'
+p11240
+(lp11241
+I43
+aF0.25877235100216228
+asS'contrast rivals'
+p11242
+(lp11243
+I1
+aF0.020620086040646798
+asS'customers move'
+p11244
+(lp11245
+I1
+aF0.022254127781766008
+asS'amazon amzn'
+p11246
+(lp11247
+I32
+aF0.079660568265111892
+asS'handing june'
+p11248
+(lp11249
+I1
+aF0.0065939063210550593
+asS'bank. "'
+p11250
+(lp11251
+I1
+aF-0.015098314606741563
+asS'change applies'
+p11252
+(lp11253
+I1
+aF0.022254127781766008
+asS'bond buying'
+p11254
+(lp11255
+I1
+aF-0.01486199575371556
+asS'airlines aal'
+p11256
+(lp11257
+I4
+aF-0.047177815558848674
+asS'nv akzoy'
+p11258
+(lp11259
+I5
+aF0.0084597035604967799
+asS'action take'
+p11260
+(lp11261
+I2
+aF0.10801026392961874
+asS'/quotes/zigman/219651/delayed/quotes/nls/brk.a brk.a'
+p11262
+(lp11263
+I1
+aF0.00067980965329706225
+asS'commodities corner'
+p11264
+(lp11265
+I43
+aF0.25877235100216228
+asS'2015 dividends'
+p11266
+(lp11267
+I1
+aF0.0065939063210550593
+asS'management. related'
+p11268
+(lp11269
+I1
+aF0.014802631578947345
+asS'government involvement'
+p11270
+(lp11271
+I2
+aF0.0073921320280504483
+asS'boasting market'
+p11272
+(lp11273
+I1
+aF0.086510263929618747
+asS'pull ukraine'
+p11274
+(lp11275
+I1
+aF-0.015098314606741563
+asS'temporarily take'
+p11276
+(lp11277
+I1
+aF-0.013834507961367818
+asS'co. wednesday\xe2\x80\x99s'
+p11278
+(lp11279
+I2
+aF0.040569339539934614
+asS'cards 6'
+p11280
+(lp11281
+I9
+aF0.063055396376559991
+asS'effectiveness. facebook'
+p11282
+(lp11283
+I1
+aF0.020620086040646798
+asS'quarterly results'
+p11284
+(lp11285
+I2
+aF-0.00055632415198211133
+asS'tie-up brazil'
+p11286
+(lp11287
+I1
+aF-0.015098314606741563
+asS'recovery 5'
+p11288
+(lp11289
+I9
+aF0.063055396376559991
+asS'member financial'
+p11290
+(lp11291
+I4
+aF0.044938893448227483
+asS'valero 27'
+p11292
+(lp11293
+I1
+aF0.0095057034220531987
+asS'radioshack brings'
+p11294
+(lp11295
+I90
+aF2.3558412782876994
+asS'without upgrading'
+p11296
+(lp11297
+I2
+aF0.0094823222529492185
+asS'shoppers away'
+p11298
+(lp11299
+I1
+aF0.0063291139240506224
+asS'capital took'
+p11300
+(lp11301
+I2
+aF0.023622213537533625
+asS"trades 'normal"
+p11302
+(lp11303
+I43
+aF0.25877235100216228
+asS'sports zacks'
+p11304
+(lp11305
+I1
+aF0.028248587570621538
+asS'sink 18'
+p11306
+(lp11307
+I12
+aF0.069076572220800783
+asS'p.m. march'
+p11308
+(lp11309
+I54
+aF0.95095465677534952
+asS'edition russia'
+p11310
+(lp11311
+I9
+aF0.063055396376559991
+asS'session carlyle'
+p11312
+(lp11313
+I2
+aF-0.062919807236027137
+asS'messaging service'
+p11314
+(lp11315
+I2
+aF0.0052826627277634021
+asS'use decision'
+p11316
+(lp11317
+I1
+aF-0.015098314606741563
+asS'said ryan'
+p11318
+(lp11319
+I2
+aF-0.010838394062078319
+asS'eventual escalation.'
+p11320
+(lp11321
+I1
+aF-0.015098314606741563
+asS'hiked interest'
+p11322
+(lp11323
+I1
+aF0.022254127781766008
+asS'\xc2 work'
+p11324
+(lp11325
+I4
+aF-0.010679627874459668
+asS'trade thursday\xe2\x80\x99s'
+p11326
+(lp11327
+I2
+aF0.040569339539934614
+asS'saumya vaishampayan'
+p11328
+(lp11329
+I12
+aF0.069076572220800783
+asS'bill. gox'
+p11330
+(lp11331
+I1
+aF0.0028884159318941583
+asS'- 0.53%'
+p11332
+(lp11333
+I2
+aF-0.038899596986157331
+asS'financial data'
+p11334
+(lp11335
+I4
+aF-0.00061460034380793511
+asS'briefed change.penn'
+p11336
+(lp11337
+I1
+aF-0.013834507961367818
+asS'ttwo +0.46%'
+p11338
+(lp11339
+I2
+aF0.023622213537533625
+asS'close. smith'
+p11340
+(lp11341
+I1
+aF0.015490533562822848
+asS'post fourth-quarter'
+p11342
+(lp11343
+I6
+aF0.0093195325577905344
+asS'petm fortune'
+p11344
+(lp11345
+I4
+aF-0.047177815558848674
+asS'handing corporate'
+p11346
+(lp11347
+I1
+aF0.0065939063210550593
+asS'soros fund'
+p11348
+(lp11349
+I1
+aF-0.015434451219512105
+asS'ron johnson'
+p11350
+(lp11351
+I2
+aF0.0094823222529492185
+asS'wallet app'
+p11352
+(lp11353
+I2
+aF-0.0005004065187305274
+asS'beverage options'
+p11354
+(lp11355
+I1
+aF-0.012006549026741798
+asS'2013 204,625'
+p11356
+(lp11357
+I2
+aF0.033133788568538193
+asS'cold at-home'
+p11358
+(lp11359
+I1
+aF0.054777388694347298
+asS'research. global'
+p11360
+(lp11361
+I1
+aF0.014802631578947345
+asS'percent biggest'
+p11362
+(lp11363
+I1
+aF-0.042688910696761409
+asS'potbelly fell'
+p11364
+(lp11365
+I2
+aF-0.01702614434749404
+asS'units combined'
+p11366
+(lp11367
+I1
+aF-0.0032679738562091968
+asS'breath -'
+p11368
+(lp11369
+I1
+aF0.0065939063210550593
+asS'dollar 2014'
+p11370
+(lp11371
+I9
+aF0.063055396376559991
+asS'09 a.m.'
+p11372
+(lp11373
+I12
+aF0.069076572220800783
+asS"'t want"
+p11374
+(lp11375
+I1
+aF-0.0044444444444443499
+asS'pare gains'
+p11376
+(lp11377
+I14
+aF0.080589334257600925
+asS'-- lesser'
+p11378
+(lp11379
+I1
+aF0.017811704834605556
+asS'edition getting'
+p11380
+(lp11381
+I9
+aF0.063055396376559991
+asS'buy time'
+p11382
+(lp11383
+I4
+aF-0.0075938299399980749
+asS'less ebay'
+p11384
+(lp11385
+I2
+aF0.0050351650906114501
+asS'guidance 4'
+p11386
+(lp11387
+I2
+aF0.037754290992674737
+asS'system. green'
+p11388
+(lp11389
+I1
+aF-0.012006549026741798
+asS'said rules'
+p11390
+(lp11391
+I4
+aF0.010079537768633639
+asS'already reported'
+p11392
+(lp11393
+I8
+aF-0.020074526510182204
+asS'trade jargon'
+p11394
+(lp11395
+I1
+aF-0.015098314606741563
+asS'loading amazon'
+p11396
+(lp11397
+I4
+aF0.010079537768633639
+asS'new federal'
+p11398
+(lp11399
+I2
+aF0.019620762866974131
+asS'close 500'
+p11400
+(lp11401
+I30
+aF0.78528042609589921
+asS'shenzhen shares'
+p11402
+(lp11403
+I2
+aF0.011512762036800132
+asS'partners including'
+p11404
+(lp11405
+I4
+aF0.044781306879880148
+asS'achieve profitable'
+p11406
+(lp11407
+I1
+aF0.028248587570621538
+asS'security flaws'
+p11408
+(lp11409
+I2
+aF0.0094823222529492185
+asS'/quotes/zigman/238082/delayed/quotes/nls/pep pep'
+p11410
+(lp11411
+I2
+aF-0.00013053922301388583
+asS'december. obama'
+p11412
+(lp11413
+I1
+aF-0.01486199575371556
+asS'states imports.'
+p11414
+(lp11415
+I1
+aF-0.015098314606741563
+asS'500 google'
+p11416
+(lp11417
+I34
+aF0.077204268421221064
+asS'bars donziger'
+p11418
+(lp11419
+I1
+aF-0.015098314606741563
+asS'higher rate.'
+p11420
+(lp11421
+I1
+aF-0.015098314606741563
+asS'2014 plummeted'
+p11422
+(lp11423
+I1
+aF0.028248587570621538
+asS'shares 19%'
+p11424
+(lp11425
+I44
+aF0.87759511459066997
+asS'well certain'
+p11426
+(lp11427
+I1
+aF-0.01486199575371556
+asS'miles might'
+p11428
+(lp11429
+I1
+aF0.022254127781766008
+asS"' madoff"
+p11430
+(lp11431
+I43
+aF0.25877235100216228
+asS'area 1'
+p11432
+(lp11433
+I30
+aF0.78528042609589921
+asS'could hurt'
+p11434
+(lp11435
+I2
+aF0.028662201270295298
+asS'chevron countries'
+p11436
+(lp11437
+I1
+aF-0.015098314606741563
+asS'$8.31 share'
+p11438
+(lp11439
+I2
+aF0.014618679165891798
+asS'safety crisis'
+p11440
+(lp11441
+I1
+aF-0.015098314606741563
+asS'red tape.'
+p11442
+(lp11443
+I1
+aF-0.015098314606741563
+asS'corp. "'
+p11444
+(lp11445
+I2
+aF-0.0082680894326605005
+asS'" small'
+p11446
+(lp11447
+I4
+aF0.040491736285889715
+asS'potbelly corp.'
+p11448
+(lp11449
+I3
+aF-0.043649217677713577
+asS'$400 million'
+p11450
+(lp11451
+I2
+aF-0.02972399150743112
+asS'gs.n named'
+p11452
+(lp11453
+I1
+aF0.0028884159318941583
+asS'executives company'
+p11454
+(lp11455
+I1
+aF-0.013834507961367818
+asS'concerns going'
+p11456
+(lp11457
+I10
+aF0.065939063210550597
+asS'oil prices'
+p11458
+(lp11459
+I44
+aF0.87759511459066997
+asS'stock analysis'
+p11460
+(lp11461
+I87
+aF0.8849867202394841
+asS'liquidity meet'
+p11462
+(lp11463
+I44
+aF0.87759511459066997
+asS'refund checks'
+p11464
+(lp11465
+I1
+aF0.0065939063210550593
+asS'methanex retain'
+p11466
+(lp11467
+I3
+aF0.043144411231668872
+asS'succession put'
+p11468
+(lp11469
+I1
+aF0.0065939063210550593
+asS'accused going'
+p11470
+(lp11471
+I1
+aF-0.01749999999999996
+asS'holding sa'
+p11472
+(lp11473
+I1
+aF-0.015098314606741563
+asS'societe generale'
+p11474
+(lp11475
+I1
+aF-0.015098314606741563
+asS'amount capital'
+p11476
+(lp11477
+I1
+aF-0.015098314606741563
+asS'kaplan found'
+p11478
+(lp11479
+I1
+aF-0.015098314606741563
+asS'helmerich&payne hp'
+p11480
+(lp11481
+I1
+aF-0.0032679738562091968
+asS'dollar falls'
+p11482
+(lp11483
+I57
+aF0.33936168525976329
+asS'. take'
+p11484
+(lp11485
+I1
+aF0.01163378856853821
+asS'sodastream attracted'
+p11486
+(lp11487
+I4
+aF-0.010679627874459668
+asS"fairholme 's"
+p11488
+(lp11489
+I2
+aF0.0073921320280504483
+asS'coming city'
+p11490
+(lp11491
+I2
+aF-0.0005004065187305274
+asS'putin declared'
+p11492
+(lp11493
+I1
+aF-0.025641025641025664
+asS'experience showcase'
+p11494
+(lp11495
+I30
+aF0.78528042609589921
+asS'metric tons'
+p11496
+(lp11497
+I1
+aF0.034482758620689689
+asS'ukraine ukraine'
+p11498
+(lp11499
+I43
+aF0.25877235100216228
+asS'provided mexican'
+p11500
+(lp11501
+I1
+aF-0.01486199575371556
+asS'- india'
+p11502
+(lp11503
+I1
+aF-0.015098314606741563
+asS'rate increase'
+p11504
+(lp11505
+I2
+aF0.044508255563532016
+asS'function without'
+p11506
+(lp11507
+I2
+aF0.0073921320280504483
+asS'pistols ca'
+p11508
+(lp11509
+I1
+aF0.0075437537718768856
+asS'plans announce'
+p11510
+(lp11511
+I1
+aF-0.013834507961367818
+asS'silverado pickup'
+p11512
+(lp11513
+I1
+aF-0.042688910696761409
+asS'jumps vs.'
+p11514
+(lp11515
+I57
+aF0.33936168525976329
+asS'recent peak'
+p11516
+(lp11517
+I1
+aF-0.0071729957805906396
+asS'within month'
+p11518
+(lp11519
+I1
+aF0.00067980965329706225
+asS'loans banamex'
+p11520
+(lp11521
+I2
+aF-0.02972399150743112
+asS'" russian'
+p11522
+(lp11523
+I1
+aF0.022254127781766008
+asS'ceo confident'
+p11524
+(lp11525
+I44
+aF0.87759511459066997
+asS'1,500 hours'
+p11526
+(lp11527
+I1
+aF-0.01486199575371556
+asS'? apathy'
+p11528
+(lp11529
+I6
+aF0.03956343792633036
+asS'hacking federal'
+p11530
+(lp11531
+I1
+aF-0.01486199575371556
+asS'imports. floors'
+p11532
+(lp11533
+I1
+aF-0.015098314606741563
+asS'-- 2008'
+p11534
+(lp11535
+I1
+aF-0.01486199575371556
+asS'company $160'
+p11536
+(lp11537
+I1
+aF0.0065939063210550593
+asS'ugg boot'
+p11538
+(lp11539
+I2
+aF-0.00055632415198211133
+asS'especially internationally.ups'
+p11540
+(lp11541
+I1
+aF0.022254127781766008
+asS'former federal'
+p11542
+(lp11543
+I1
+aF0.034482758620689689
+asS'recede 3'
+p11544
+(lp11545
+I3
+aF0.019781718963165176
+asS'europe even'
+p11546
+(lp11547
+I1
+aF-0.015098314606741563
+asS'concerns political'
+p11548
+(lp11549
+I1
+aF0.014802631578947345
+asS'pods use'
+p11550
+(lp11551
+I1
+aF0.054777388694347298
+asS'kla-tencor corp.'
+p11552
+(lp11553
+I3
+aF0.076043454879415551
+asS'charged "'
+p11554
+(lp11555
+I2
+aF0.0050351650906114501
+asS'new brand'
+p11556
+(lp11557
+I30
+aF0.78528042609589921
+asS'500 executive'
+p11558
+(lp11559
+I2
+aF0.0094823222529492185
+asS'said david'
+p11560
+(lp11561
+I1
+aF-0.025641025641025664
+asS'google wallet'
+p11562
+(lp11563
+I2
+aF-0.0005004065187305274
+asS'chevron spokesman'
+p11564
+(lp11565
+I1
+aF-0.015098314606741563
+asS'bell solarcity'
+p11566
+(lp11567
+I2
+aF-0.027455969162467415
+asS'around $200'
+p11568
+(lp11569
+I1
+aF0.086510263929618747
+asS'risen 1'
+p11570
+(lp11571
+I1
+aF0.0095057034220531987
+asS'even apple'
+p11572
+(lp11573
+I1
+aF0.0028884159318941583
+asS'site handing'
+p11574
+(lp11575
+I1
+aF-0.015098314606741563
+asS'messages online'
+p11576
+(lp11577
+I2
+aF0.0094823222529492185
+asS'paulsen currently'
+p11578
+(lp11579
+I1
+aF-0.01486199575371556
+asS'stimulus. abu'
+p11580
+(lp11581
+I1
+aF0.034482758620689689
+asS'armh leaders'
+p11582
+(lp11583
+I14
+aF0.018081633883883088
+asS'cook major'
+p11584
+(lp11585
+I2
+aF0.023269395998132755
+asS'$7 stock'
+p11586
+(lp11587
+I2
+aF0.10801026392961874
+asS'two employees'
+p11588
+(lp11589
+I2
+aF0.0050351650906114501
+asS'production car'
+p11590
+(lp11591
+I1
+aF-0.015098314606741563
+asS'investors manage'
+p11592
+(lp11593
+I1
+aF0.00067980965329706225
+asS'jon boyle'
+p11594
+(lp11595
+I1
+aF0.014802631578947345
+asS'energy industries'
+p11596
+(lp11597
+I3
+aF0.076043454879415551
+asS'49 cents'
+p11598
+(lp11599
+I2
+aF-0.0072003459476876735
+asS'secord entered'
+p11600
+(lp11601
+I1
+aF-0.012006549026741798
+asS'fresh open'
+p11602
+(lp11603
+I2
+aF0.0050351650906114501
+asS"'s cac"
+p11604
+(lp11605
+I4
+aF0.031722075945001274
+asS'oil company'
+p11606
+(lp11607
+I1
+aF-0.01486199575371556
+asS'dltr +0.22%'
+p11608
+(lp11609
+I1
+aF-0.0016447368421051956
+asS'high unacceptable'
+p11610
+(lp11611
+I1
+aF-0.015098314606741563
+asS'early trading.maestri'
+p11612
+(lp11613
+I1
+aF0.0065939063210550593
+asS'bailout unfair'
+p11614
+(lp11615
+I4
+aF0.039241525733948263
+asS'fitch affirms'
+p11616
+(lp11617
+I30
+aF0.78528042609589921
+asS'radioshack mulling'
+p11618
+(lp11619
+I44
+aF0.87759511459066997
+asS'eases economic'
+p11620
+(lp11621
+I7
+aF0.044000292847206829
+asS'inc. cisg'
+p11622
+(lp11623
+I2
+aF0.060087816422073489
+asS'$9.14 potential'
+p11624
+(lp11625
+I2
+aF0.10801026392961874
+asS'leopard users'
+p11626
+(lp11627
+I2
+aF0.0094823222529492185
+asS'billion oppenheimer'
+p11628
+(lp11629
+I1
+aF0.0065939063210550593
+asS'president masflight'
+p11630
+(lp11631
+I1
+aF0.034482758620689689
+asS'. akzo'
+p11632
+(lp11633
+I2
+aF0.0063122470976729999
+asS'flat year'
+p11634
+(lp11635
+I1
+aF-0.042688910696761409
+asS'inc. safeway'
+p11636
+(lp11637
+I2
+aF-0.062919807236027137
+asS'investment planning'
+p11638
+(lp11639
+I1
+aF0.022254127781766008
+asS'final month'
+p11640
+(lp11641
+I10
+aF0.065939063210550597
+asS'enough liquidity'
+p11642
+(lp11643
+I44
+aF0.87759511459066997
+asS'exlp free'
+p11644
+(lp11645
+I1
+aF-0.0032679738562091968
+asS'windows unit'
+p11646
+(lp11647
+I1
+aF-0.013834507961367818
+asS'ago11 09'
+p11648
+(lp11649
+I12
+aF0.069076572220800783
+asS'raise dollar'
+p11650
+(lp11651
+I9
+aF0.063055396376559991
+asS'new credit'
+p11652
+(lp11653
+I30
+aF0.78528042609589921
+asS'ago11 02'
+p11654
+(lp11655
+I24
+aF0.13815314444160159
+asS'marketwatch san'
+p11656
+(lp11657
+I10
+aF-0.060775370143652127
+asS'adding washington'
+p11658
+(lp11659
+I1
+aF-0.015098314606741563
+asS'begin building'
+p11660
+(lp11661
+I1
+aF-0.015098314606741563
+asS'16 u.s.'
+p11662
+(lp11663
+I1
+aF-0.015098314606741563
+asS'high court'
+p11664
+(lp11665
+I1
+aF-0.015098314606741563
+asS'subpoenas u.s.'
+p11666
+(lp11667
+I2
+aF-0.02972399150743112
+asS'8 53'
+p11668
+(lp11669
+I12
+aF0.069076572220800783
+asS'sodastream /quotes/zigman/710745/delayed/quotes/nls/soda'
+p11670
+(lp11671
+I2
+aF-0.00013053922301388583
+asS'market.while gm'
+p11672
+(lp11673
+I1
+aF-0.042688910696761409
+asS'co. /quotes/zigman/227468/delayed/quotes/nls/ge'
+p11674
+(lp11675
+I1
+aF0.00067980965329706225
+asS'8 59'
+p11676
+(lp11677
+I11
+aF0.076243209018670099
+asS'russian interests'
+p11678
+(lp11679
+I1
+aF-0.025641025641025664
+asS"'s subsidiary"
+p11680
+(lp11681
+I1
+aF-0.0032679738562091968
+asS'$1.74 share'
+p11682
+(lp11683
+I2
+aF0.01182253889076694
+asS'luxury infiniti'
+p11684
+(lp11685
+I1
+aF0.0095057034220531987
+asS'rank 4'
+p11686
+(lp11687
+I3
+aF0.050800374916289345
+asS'; rates'
+p11688
+(lp11689
+I30
+aF0.78528042609589921
+asS'intraday record'
+p11690
+(lp11691
+I49
+aF0.91056464619594524
+asS'rank 3'
+p11692
+(lp11693
+I1
+aF0.028248587570621538
+asS'dreamworks animation'
+p11694
+(lp11695
+I4
+aF-0.060598638019321097
+asS'increased popularity'
+p11696
+(lp11697
+I1
+aF-0.015098314606741563
+asS'-- unnerving'
+p11698
+(lp11699
+I3
+aF-0.036479419703103984
+asS'" wells'
+p11700
+(lp11701
+I1
+aF0.0065939063210550593
+asS'report simon'
+p11702
+(lp11703
+I1
+aF-0.0096207215541164858
+asS'monday\xe2\x80\x99s session'
+p11704
+(lp11705
+I4
+aF-0.038294363224545734
+asS'87% $47.3'
+p11706
+(lp11707
+I2
+aF-0.027455969162467415
+asS'given cul'
+p11708
+(lp11709
+I1
+aF0.017951856385148825
+asS"fool 's"
+p11710
+(lp11711
+I1
+aF0.022254127781766008
+asS'today9 05'
+p11712
+(lp11713
+I30
+aF0.78528042609589921
+asS'today9 07'
+p11714
+(lp11715
+I30
+aF0.78528042609589921
+asS'expectations overall'
+p11716
+(lp11717
+I1
+aF-0.042688910696761409
+asS'states excessive'
+p11718
+(lp11719
+I1
+aF-0.015098314606741563
+asS'sheet sets'
+p11720
+(lp11721
+I2
+aF-0.0063315831052970124
+asS'repatriation \xc2'
+p11722
+(lp11723
+I1
+aF-0.015098314606741563
+asS'housing finance'
+p11724
+(lp11725
+I2
+aF0.0073921320280504483
+asS'quarter. sodastream'
+p11726
+(lp11727
+I2
+aF-0.00013053922301388583
+asS'past half'
+p11728
+(lp11729
+I2
+aF0.023269395998132755
+asS'delivering traffic'
+p11730
+(lp11731
+I6
+aF0.013389593364884374
+asS'myra p.'
+p11732
+(lp11733
+I36
+aF0.20722971666240242
+asS'paul van'
+p11734
+(lp11735
+I1
+aF-0.0044444444444443499
+asS'futures wipe'
+p11736
+(lp11737
+I2
+aF0.013187812642110119
+asS'global research.'
+p11738
+(lp11739
+I1
+aF0.014802631578947345
+asS'72.1. wasn'
+p11740
+(lp11741
+I1
+aF0.012706969580285016
+asS'transition "'
+p11742
+(lp11743
+I1
+aF0.0065939063210550593
+asS'$1.93 share'
+p11744
+(lp11745
+I2
+aF-0.01702614434749404
+asS'despicable crime'
+p11746
+(lp11747
+I1
+aF-0.01486199575371556
+asS'succeeded chief'
+p11748
+(lp11749
+I1
+aF-0.01749999999999996
+asS'cuts increased'
+p11750
+(lp11751
+I1
+aF-0.015098314606741563
+asS'states. part'
+p11752
+(lp11753
+I1
+aF-0.015098314606741563
+asS'mountain lion'
+p11754
+(lp11755
+I2
+aF0.0094823222529492185
+asS'shares rose'
+p11756
+(lp11757
+I2
+aF0.0050351650906114501
+asS'7 30'
+p11758
+(lp11759
+I60
+aF1.5705608521917984
+asS'central government'
+p11760
+(lp11761
+I3
+aF-0.036479419703103984
+asS"'s unwinding"
+p11762
+(lp11763
+I1
+aF-0.01486199575371556
+asS'7 39'
+p11764
+(lp11765
+I30
+aF0.78528042609589921
+asS'buyout rockwood'
+p11766
+(lp11767
+I1
+aF0.032987171655467266
+asS'" div-gpt-ad-1366304738017-0'
+p11768
+(lp11769
+I5
+aF0.1588106388459081
+asS'institute supply'
+p11770
+(lp11771
+I1
+aF-0.0071729957805906396
+asS'slightly beat'
+p11772
+(lp11773
+I1
+aF-0.042688910696761409
+asS'could try'
+p11774
+(lp11775
+I1
+aF-0.015098314606741563
+asS'target corp.'
+p11776
+(lp11777
+I2
+aF-0.00013053922301388583
+asS'blame recent'
+p11778
+(lp11779
+I2
+aF0.019620762866974131
+asS'months 11'
+p11780
+(lp11781
+I12
+aF0.069076572220800783
+asS'edges higher'
+p11782
+(lp11783
+I45
+aF0.27028511303896241
+asS'complete christmas'
+p11784
+(lp11785
+I30
+aF0.78528042609589921
+asS'jan. 31'
+p11786
+(lp11787
+I69
+aF1.6336162485683583
+asS'ibm pepsi'
+p11788
+(lp11789
+I2
+aF0.013187812642110119
+asS'posted double-digit'
+p11790
+(lp11791
+I1
+aF-0.042688910696761409
+asS'warrant look'
+p11792
+(lp11793
+I2
+aF-0.0082949308755760238
+asS'plans. core'
+p11794
+(lp11795
+I1
+aF-0.01486199575371556
+asS'-- shows'
+p11796
+(lp11797
+I2
+aF0.0094823222529492185
+asS'jobs apple'
+p11798
+(lp11799
+I2
+aF0.023269395998132755
+asS'cola co'
+p11800
+(lp11801
+I3
+aF0.019851875731156512
+asS"households '"
+p11802
+(lp11803
+I1
+aF-0.01486199575371556
+asS'xp april'
+p11804
+(lp11805
+I2
+aF0.0028409817157098796
+asS'6 00'
+p11806
+(lp11807
+I12
+aF0.069076572220800783
+asS'paid-connection deals'
+p11808
+(lp11809
+I6
+aF0.0076232379247427508
+asS'month half'
+p11810
+(lp11811
+I1
+aF0.00067980965329706225
+asS'euro rethinking'
+p11812
+(lp11813
+I44
+aF0.87759511459066997
+asS'reach compromise.'
+p11814
+(lp11815
+I1
+aF0.017951856385148825
+asS'usa received'
+p11816
+(lp11817
+I1
+aF-0.01486199575371556
+asS'0.50% \xc2'
+p11818
+(lp11819
+I1
+aF0.00067980965329706225
+asS'million 110'
+p11820
+(lp11821
+I1
+aF0.086510263929618747
+asS"'s restaurant"
+p11822
+(lp11823
+I2
+aF0.025413939160570033
+asS'reshuffle microsoft'
+p11824
+(lp11825
+I1
+aF-0.013834507961367818
+asS'dow triple-digit'
+p11826
+(lp11827
+I43
+aF0.25877235100216228
+asS'region send'
+p11828
+(lp11829
+I2
+aF-0.010838394062078319
+asS'hcn free'
+p11830
+(lp11831
+I1
+aF-0.0096207215541164858
+asS'closing 1,100'
+p11832
+(lp11833
+I30
+aF0.78528042609589921
+asS'research usesaad'
+p11834
+(lp11835
+I3
+aF0.050800374916289345
+asS'-- example'
+p11836
+(lp11837
+I4
+aF0.010079537768633639
+asS'investment bank'
+p11838
+(lp11839
+I1
+aF-0.015098314606741563
+asS'twtr free'
+p11840
+(lp11841
+I2
+aF0.044429609850170595
+asS'leopard. apple'
+p11842
+(lp11843
+I2
+aF0.0094823222529492185
+asS'- analyst'
+p11844
+(lp11845
+I30
+aF0.78528042609589921
+asS'move higher'
+p11846
+(lp11847
+I30
+aF0.78528042609589921
+asS'worldwide seeing'
+p11848
+(lp11849
+I7
+aF0.044000292847206829
+asS'? related'
+p11850
+(lp11851
+I2
+aF0.021396537900002406
+asS'inc. /quotes/zigman/68270/delayed/quotes/nls/aapl'
+p11852
+(lp11853
+I3
+aF0.029027283270916533
+asS'consider better-ranked'
+p11854
+(lp11855
+I3
+aF0.088336403992695017
+asS'next generation'
+p11856
+(lp11857
+I30
+aF0.78528042609589921
+asS'also included'
+p11858
+(lp11859
+I14
+aF0.018081633883883088
+asS'pcln +1.59%'
+p11860
+(lp11861
+I2
+aF0.044954567192730645
+asS'kingdom serbia'
+p11862
+(lp11863
+I1
+aF0.022254127781766008
+asS'conclusions investigation'
+p11864
+(lp11865
+I1
+aF-0.01486199575371556
+asS'kkr co'
+p11866
+(lp11867
+I1
+aF-0.0096207215541164858
+asS'buyers hlt'
+p11868
+(lp11869
+I2
+aF0.037754290992674737
+asS'- jeffry'
+p11870
+(lp11871
+I24
+aF0.13815314444160159
+asS'chemical company'
+p11872
+(lp11873
+I1
+aF0.032987171655467266
+asS'state-owned oil'
+p11874
+(lp11875
+I1
+aF-0.01486199575371556
+asS'dish network'
+p11876
+(lp11877
+I3
+aF0.012908532350072379
+asS'missile defense'
+p11878
+(lp11879
+I1
+aF-0.01749999999999996
+asS'seen solid'
+p11880
+(lp11881
+I1
+aF0.0085513078470825805
+asS'big thing'
+p11882
+(lp11883
+I1
+aF0.0065939063210550593
+asS'authorization $5'
+p11884
+(lp11885
+I1
+aF-0.015098314606741563
+asS'municipal bonds'
+p11886
+(lp11887
+I2
+aF0.013187812642110119
+asS'3.9 percent'
+p11888
+(lp11889
+I1
+aF0.022254127781766008
+asS'trends mounting'
+p11890
+(lp11891
+I1
+aF0.0075437537718768856
+asS'fhfa .fairholme'
+p11892
+(lp11893
+I2
+aF0.0073921320280504483
+asS'provided operation'
+p11894
+(lp11895
+I1
+aF-0.01486199575371556
+asS'corp free'
+p11896
+(lp11897
+I1
+aF0.00082576383154416076
+asS'filing monday'
+p11898
+(lp11899
+I1
+aF-0.01486199575371556
+asS'held positions'
+p11900
+(lp11901
+I1
+aF0.0095057034220531987
+asS'\xe2\x80\x98tax buying'
+p11902
+(lp11903
+I1
+aF0.0065939063210550593
+asS'inside banamex'
+p11904
+(lp11905
+I1
+aF-0.01486199575371556
+asS'1,321.60 1,355.00'
+p11906
+(lp11907
+I10
+aF0.057563810184000648
+asS'500 yahoo'
+p11908
+(lp11909
+I16
+aF0.046391384821821771
+asS'preliminary minimum'
+p11910
+(lp11911
+I1
+aF-0.015098314606741563
+asS'subsidiary paypal'
+p11912
+(lp11913
+I2
+aF0.0050351650906114501
+asS'reports. andreessen'
+p11914
+(lp11915
+I1
+aF-0.013834507961367818
+asS'1,871 52'
+p11916
+(lp11917
+I2
+aF0.013187812642110119
+asS'trst voc'
+p11918
+(lp11919
+I1
+aF0.029542097488921743
+asS'$48.63 early'
+p11920
+(lp11921
+I1
+aF0.0095057034220531987
+asS'chinese mobile'
+p11922
+(lp11923
+I1
+aF0.086510263929618747
+asS'predicted would'
+p11924
+(lp11925
+I1
+aF-0.015098314606741563
+asS'yen jumps'
+p11926
+(lp11927
+I57
+aF0.33936168525976329
+asS'appl.o independent'
+p11928
+(lp11929
+I1
+aF0.0028884159318941583
+asS'titanium dioxide'
+p11930
+(lp11931
+I1
+aF0.032987171655467266
+asS'high friday'
+p11932
+(lp11933
+I1
+aF-0.024283439490445837
+asS'44 p.m.'
+p11934
+(lp11935
+I30
+aF0.78528042609589921
+asS'soda +0.92%'
+p11936
+(lp11937
+I1
+aF0.011014344262295075
+asS'casey world'
+p11938
+(lp11939
+I9
+aF0.063055396376559991
+asS'list 5'
+p11940
+(lp11941
+I30
+aF0.78528042609589921
+asS'bellingham washington'
+p11942
+(lp11943
+I1
+aF-0.0044444444444443499
+asS'billion reserves'
+p11944
+(lp11945
+I1
+aF-0.025641025641025664
+asS'bell tesla'
+p11946
+(lp11947
+I2
+aF0.040569339539934614
+asS'today8 13'
+p11948
+(lp11949
+I12
+aF0.069076572220800783
+asS'cfo become'
+p11950
+(lp11951
+I1
+aF0.0065939063210550593
+asS'. bb&t'
+p11952
+(lp11953
+I1
+aF-0.0082949308755760238
+asS'ago10 36'
+p11954
+(lp11955
+I12
+aF0.069076572220800783
+asS'reduces effectiveness.'
+p11956
+(lp11957
+I1
+aF0.020620086040646798
+asS'+0.35% techs'
+p11958
+(lp11959
+I1
+aF0.0065939063210550593
+asS'described orderly'
+p11960
+(lp11961
+I1
+aF0.0065939063210550593
+asS'irish company'
+p11962
+(lp11963
+I1
+aF-0.0044444444444443499
+asS'expected wall'
+p11964
+(lp11965
+I1
+aF-0.024283439490445837
+asS'mkt wfm'
+p11966
+(lp11967
+I1
+aF-0.0096207215541164858
+asS'ago. ross'
+p11968
+(lp11969
+I1
+aF0.0022133075114123195
+asS'dwa +2.04%'
+p11970
+(lp11971
+I2
+aF0.033684210526315816
+asS"'s decision"
+p11972
+(lp11973
+I1
+aF-0.015098314606741563
+asS'cninsure inc.'
+p11974
+(lp11975
+I2
+aF0.060087816422073489
+asS'competitors ebay'
+p11976
+(lp11977
+I2
+aF0.0050351650906114501
+asS'acquiring alabama-based'
+p11978
+(lp11979
+I1
+aF-0.015098314606741563
+asS'said noting'
+p11980
+(lp11981
+I2
+aF0.007155813175024445
+asS"comcast 's"
+p11982
+(lp11983
+I6
+aF0.013389593364884374
+asS'companies activision'
+p11984
+(lp11985
+I14
+aF0.018081633883883088
+asS'internal models'
+p11986
+(lp11987
+I1
+aF-0.015098314606741563
+asS'rethinking 4%'
+p11988
+(lp11989
+I45
+aF0.88418902091172502
+asS'find right'
+p11990
+(lp11991
+I1
+aF0.034482758620689689
+asS'minister tuesday'
+p11992
+(lp11993
+I1
+aF-0.015098314606741563
+asS'- 1.63%'
+p11994
+(lp11995
+I2
+aF-0.053246146660439073
+asS'tumble concerns'
+p11996
+(lp11997
+I2
+aF0.011512762036800132
+asS'ukraine isn'
+p11998
+(lp11999
+I4
+aF0.039241525733948263
+asS'markets including'
+p12000
+(lp12001
+I1
+aF0.025356283546178002
+asS'plunge 9'
+p12002
+(lp12003
+I30
+aF0.78528042609589921
+asS'+0.97% well'
+p12004
+(lp12005
+I1
+aF0.0065939063210550593
+asS'intel intc'
+p12006
+(lp12007
+I20
+aF-0.00078643073702690854
+asS'angry letter'
+p12008
+(lp12009
+I2
+aF0.0050351650906114501
+asS'welcomes diversity'
+p12010
+(lp12011
+I1
+aF-0.010500807754442712
+asS'economic myths'
+p12012
+(lp12013
+I1
+aF-0.01486199575371556
+asS'click here.'
+p12014
+(lp12015
+I1
+aF0.020620086040646798
+asS'top ?'
+p12016
+(lp12017
+I1
+aF0.0065939063210550593
+asS'ukraine gives'
+p12018
+(lp12019
+I1
+aF0.0065939063210550593
+asS'$100,000. \xc2'
+p12020
+(lp12021
+I1
+aF-0.01486199575371556
+asS'major regional'
+p12022
+(lp12023
+I2
+aF-0.0082949308755760238
+asS'remain company'
+p12024
+(lp12025
+I1
+aF-0.013834507961367818
+asS'" berkowitz'
+p12026
+(lp12027
+I2
+aF0.0073921320280504483
+asS'widen homemade'
+p12028
+(lp12029
+I1
+aF-0.012006549026741798
+asS'general electric'
+p12030
+(lp12031
+I1
+aF0.00067980965329706225
+asS'expected industrywide'
+p12032
+(lp12033
+I1
+aF0.0063291139240506224
+asS'investor asking'
+p12034
+(lp12035
+I1
+aF-0.015098314606741563
+asS'people arrested'
+p12036
+(lp12037
+I1
+aF0.022254127781766008
+asS'. wheeler'
+p12038
+(lp12039
+I1
+aF0.011451442548223929
+asS'available united'
+p12040
+(lp12041
+I2
+aF0.007155813175024445
+asS'sold firm'
+p12042
+(lp12043
+I1
+aF-0.0044444444444443499
+asS'according ftc'
+p12044
+(lp12045
+I2
+aF0.019620762866974131
+asS'52% federal'
+p12046
+(lp12047
+I1
+aF0.017811704834605556
+asS'countries including'
+p12048
+(lp12049
+I1
+aF-0.015098314606741563
+asS'though remains'
+p12050
+(lp12051
+I1
+aF-0.0071729957805906396
+asS'52 week'
+p12052
+(lp12053
+I30
+aF0.17771658236793192
+asS'27 p.m.'
+p12054
+(lp12055
+I30
+aF0.78528042609589921
+asS'escalation. "'
+p12056
+(lp12057
+I1
+aF-0.015098314606741563
+asS'saying law'
+p12058
+(lp12059
+I4
+aF-0.047177815558848674
+asS'business development'
+p12060
+(lp12061
+I1
+aF-0.013834507961367818
+asS'lynn ecb'
+p12062
+(lp12063
+I9
+aF0.063055396376559991
+asS'consistently outperformed'
+p12064
+(lp12065
+I4
+aF0.10298968128032032
+asS'china steps'
+p12066
+(lp12067
+I9
+aF0.063055396376559991
+asS'; 9200'
+p12068
+(lp12069
+I30
+aF0.78528042609589921
+asS'safety investigators'
+p12070
+(lp12071
+I1
+aF0.034482758620689689
+asS'skype ceo'
+p12072
+(lp12073
+I1
+aF-0.013834507961367818
+asS'company huntsman'
+p12074
+(lp12075
+I1
+aF0.032987171655467266
+asS'means decisively'
+p12076
+(lp12077
+I1
+aF-0.015098314606741563
+asS'pushes past'
+p12078
+(lp12079
+I2
+aF0.013187812642110119
+asS'10 2014'
+p12080
+(lp12081
+I39
+aF0.8483358224724592
+asS'planning became'
+p12082
+(lp12083
+I2
+aF0.037754290992674737
+asS'18 points'
+p12084
+(lp12085
+I2
+aF0.013187812642110119
+asS'every year'
+p12086
+(lp12087
+I1
+aF0.022254127781766008
+asS'recent news'
+p12088
+(lp12089
+I2
+aF0.033133788568538193
+asS'washington made'
+p12090
+(lp12091
+I1
+aF-0.015098314606741563
+asS'rise ukraine'
+p12092
+(lp12093
+I14
+aF0.080589334257600925
+asS'+0.46% .'
+p12094
+(lp12095
+I1
+aF0.01163378856853821
+asS'forecast post'
+p12096
+(lp12097
+I6
+aF0.0059130244297795264
+asS'oppenheimer would'
+p12098
+(lp12099
+I1
+aF0.0065939063210550593
+asS'blogs.marketwatch.com market'
+p12100
+(lp12101
+I30
+aF0.78528042609589921
+asS'data. two'
+p12102
+(lp12103
+I1
+aF-0.01486199575371556
+asS'country previously'
+p12104
+(lp12105
+I1
+aF-0.015098314606741563
+asS'maker smith'
+p12106
+(lp12107
+I1
+aF0.015490533562822848
+asS'100 1.5%.'
+p12108
+(lp12109
+I1
+aF-0.0058604155567394478
+asS'10 things'
+p12110
+(lp12111
+I30
+aF0.78528042609589921
+asS'said ihs'
+p12112
+(lp12113
+I3
+aF-0.036479419703103984
+asS'include controversial'
+p12114
+(lp12115
+I2
+aF0.033133788568538193
+asS'expects sales'
+p12116
+(lp12117
+I1
+aF-0.015098314606741563
+asS'investment firm'
+p12118
+(lp12119
+I2
+aF0.032728465832498853
+asS'generation.trade ministry'
+p12120
+(lp12121
+I1
+aF-0.015098314606741563
+asS'says bad'
+p12122
+(lp12123
+I1
+aF0.034482758620689689
+asS'reasons ukraine'
+p12124
+(lp12125
+I3
+aF-0.036479419703103984
+asS'largo 4'
+p12126
+(lp12127
+I30
+aF0.78528042609589921
+asS'apple cfo'
+p12128
+(lp12129
+I44
+aF0.87759511459066997
+asS"googletag.display 'div-gpt-ad-1366304738017-0"
+p12130
+(lp12131
+I5
+aF0.1588106388459081
+asS'- 1.03%'
+p12132
+(lp12133
+I1
+aF-0.0085193657805474349
+asS'lion mountain'
+p12134
+(lp12135
+I2
+aF0.0094823222529492185
+asS'friday charter'
+p12136
+(lp12137
+I2
+aF0.011609522754737799
+asS'payne inc.'
+p12138
+(lp12139
+I1
+aF0.028248587570621538
+asS'senior vice'
+p12140
+(lp12141
+I1
+aF0.0095057034220531987
+asS'aaaresearchreports.com daily'
+p12142
+(lp12143
+I30
+aF0.78528042609589921
+asS'high $1,331'
+p12144
+(lp12145
+I12
+aF0.069076572220800783
+asS'ago11 23'
+p12146
+(lp12147
+I3
+aF0.019781718963165176
+asS'ago11 25'
+p12148
+(lp12149
+I9
+aF0.063055396376559991
+asS'ago11 24'
+p12150
+(lp12151
+I3
+aF0.019781718963165176
+asS'share repurchase.the'
+p12152
+(lp12153
+I1
+aF0.0065939063210550593
+asS'marketwire radioshack'
+p12154
+(lp12155
+I30
+aF0.78528042609589921
+asS'pressure investors'
+p12156
+(lp12157
+I1
+aF0.0065939063210550593
+asS'" taken'
+p12158
+(lp12159
+I2
+aF0.007155813175024445
+asS'firm rsi'
+p12160
+(lp12161
+I1
+aF0.0085513078470825805
+asS'gevorgyan senior'
+p12162
+(lp12163
+I2
+aF-0.010838394062078319
+asS'earlier government'
+p12164
+(lp12165
+I1
+aF-0.015098314606741563
+asS'2005 named'
+p12166
+(lp12167
+I1
+aF0.0095057034220531987
+asS'pbpb +2.06%'
+p12168
+(lp12169
+I1
+aF0.0095969289827254941
+asS'shares united'
+p12170
+(lp12171
+I2
+aF0.007155813175024445
+asS'personal guarantees'
+p12172
+(lp12173
+I1
+aF-0.0044444444444443499
+asS'blizzard atvi'
+p12174
+(lp12175
+I14
+aF0.018081633883883088
+asS'fell $218'
+p12176
+(lp12177
+I2
+aF-0.0047921869940820618
+asS"'s done"
+p12178
+(lp12179
+I6
+aF0.013389593364884374
+asS'twice year.'
+p12180
+(lp12181
+I2
+aF0.019620762866974131
+asS'years. tulinda'
+p12182
+(lp12183
+I1
+aF0.034482758620689689
+asS'? "'
+p12184
+(lp12185
+I5
+aF0.057595707378952157
+asS'- 0.37%'
+p12186
+(lp12187
+I1
+aF0.00067980965329706225
+asS'touching record'
+p12188
+(lp12189
+I1
+aF-0.025641025641025664
+asS'move shenzhen'
+p12190
+(lp12191
+I2
+aF0.011512762036800132
+asS'next four'
+p12192
+(lp12193
+I2
+aF0.0052826627277634021
+asS'pressures russian'
+p12194
+(lp12195
+I9
+aF0.063055396376559991
+asS'share $1.74'
+p12196
+(lp12197
+I2
+aF0.01182253889076694
+asS'share $1.75'
+p12198
+(lp12199
+I2
+aF0.0072236281422678079
+asS'united states'
+p12200
+(lp12201
+I31
+aF-0.13163945245939435
+asS'canadian oil'
+p12202
+(lp12203
+I43
+aF0.25877235100216228
+asS'used federal'
+p12204
+(lp12205
+I1
+aF-0.01486199575371556
+asS'example loading'
+p12206
+(lp12207
+I4
+aF0.010079537768633639
+asS'rules world'
+p12208
+(lp12209
+I1
+aF-0.015098314606741563
+asS'inc-a fb'
+p12210
+(lp12211
+I2
+aF0.044429609850170595
+asS'brewer veto'
+p12212
+(lp12213
+I5
+aF-0.044289399626954516
+asS'ftse 100'
+p12214
+(lp12215
+I4
+aF0.031722075945001274
+asS'revenue rose'
+p12216
+(lp12217
+I2
+aF-0.027455969162467415
+asS'ual fortune'
+p12218
+(lp12219
+I3
+aF-0.007942501431717118
+asS'increased freight'
+p12220
+(lp12221
+I1
+aF0.022254127781766008
+asS'stores inc'
+p12222
+(lp12223
+I1
+aF-0.0089897260273972355
+asS'co-head microsoft'
+p12224
+(lp12225
+I1
+aF-0.013834507961367818
+asS'publicly tuesday.microsoft'
+p12226
+(lp12227
+I1
+aF-0.013834507961367818
+asS'spanish american'
+p12228
+(lp12229
+I2
+aF-0.0005004065187305274
+asS'freely crisis'
+p12230
+(lp12231
+I1
+aF-0.015098314606741563
+asS'today12 52'
+p12232
+(lp12233
+I9
+aF0.063055396376559991
+asS'delivered past'
+p12234
+(lp12235
+I2
+aF0.023269395998132755
+asS'line "'
+p12236
+(lp12237
+I2
+aF0.007155813175024445
+asS'dnkn free'
+p12238
+(lp12239
+I3
+aF0.019851875731156512
+asS'7 13'
+p12240
+(lp12241
+I9
+aF0.063055396376559991
+asS'l.p. exlp'
+p12242
+(lp12243
+I1
+aF-0.0032679738562091968
+asS'7 11'
+p12244
+(lp12245
+I30
+aF0.78528042609589921
+asS'share "'
+p12246
+(lp12247
+I60
+aF1.5705608521917984
+asS'changes friday'
+p12248
+(lp12249
+I1
+aF-0.013834507961367818
+asS'development group'
+p12250
+(lp12251
+I1
+aF-0.015098314606741563
+asS'surveys households'
+p12252
+(lp12253
+I1
+aF-0.01486199575371556
+asS'paying direct'
+p12254
+(lp12255
+I6
+aF0.013389593364884374
+asS'return cash'
+p12256
+(lp12257
+I1
+aF0.0028884159318941583
+asS'report cninsure'
+p12258
+(lp12259
+I2
+aF0.060087816422073489
+asS'euro stoxx'
+p12260
+(lp12261
+I1
+aF0.025356283546178002
+asS'earnings announcement'
+p12262
+(lp12263
+I30
+aF0.78528042609589921
+asS'/quotes/zigman/109619/delayed/quotes/nls/dltr dltr'
+p12264
+(lp12265
+I2
+aF-0.0025576453686709114
+asS'jan. 17'
+p12266
+(lp12267
+I30
+aF0.78528042609589921
+asS'jan. 16'
+p12268
+(lp12269
+I9
+aF0.063055396376559991
+asS'took 10-million-share'
+p12270
+(lp12271
+I1
+aF0.036999999999999922
+asS'jan. 10'
+p12272
+(lp12273
+I30
+aF0.78528042609589921
+asS'jan. 13'
+p12274
+(lp12275
+I30
+aF0.78528042609589921
+asS'fb -'
+p12276
+(lp12277
+I1
+aF-0.015337423312883396
+asS'. carl'
+p12278
+(lp12279
+I1
+aF0.0028884159318941583
+asS'could done'
+p12280
+(lp12281
+I1
+aF0.034482758620689689
+asS'checks kick'
+p12282
+(lp12283
+I1
+aF0.0065939063210550593
+asS'kept many'
+p12284
+(lp12285
+I1
+aF0.0063291139240506224
+asS'company pemex.but'
+p12286
+(lp12287
+I1
+aF-0.01486199575371556
+asS'inc ups.n'
+p12288
+(lp12289
+I1
+aF0.022254127781766008
+asS'wheat jump'
+p12290
+(lp12291
+I43
+aF0.25877235100216228
+asS'recall 8'
+p12292
+(lp12293
+I30
+aF0.78528042609589921
+asS'ceo hot'
+p12294
+(lp12295
+I43
+aF0.25877235100216228
+asS'del frisco'
+p12296
+(lp12297
+I2
+aF0.025413939160570033
+asS'link.reuters.com/sar37v <^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^graphic'
+p12298
+(lp12299
+I1
+aF0.014802631578947345
+asS'loeb\xe2\x80\x99s third'
+p12300
+(lp12301
+I1
+aF0.036999999999999922
+asS'michael corbat'
+p12302
+(lp12303
+I1
+aF-0.01486199575371556
+asS'edgar online'
+p12304
+(lp12305
+I30
+aF0.78528042609589921
+asS'chesapeake engy'
+p12306
+(lp12307
+I1
+aF-0.0032679738562091968
+asS'cnc sale'
+p12308
+(lp12309
+I1
+aF-0.0044444444444443499
+asS'gold oil'
+p12310
+(lp12311
+I86
+aF0.51754470200432456
+asS'faced big'
+p12312
+(lp12313
+I2
+aF0.019620762866974131
+asS'met luca'
+p12314
+(lp12315
+I1
+aF0.0065939063210550593
+asS'announced discontinue'
+p12316
+(lp12317
+I2
+aF0.0028409817157098796
+asS'lead high'
+p12318
+(lp12319
+I1
+aF-0.01486199575371556
+asS'20 2013'
+p12320
+(lp12321
+I30
+aF0.78528042609589921
+asS'slid airline'
+p12322
+(lp12323
+I2
+aF0.007155813175024445
+asS'pemex owed'
+p12324
+(lp12325
+I1
+aF-0.01486199575371556
+asS'priceline.com inc.'
+p12326
+(lp12327
+I2
+aF0.014618679165891798
+asS'announced august'
+p12328
+(lp12329
+I1
+aF-0.013834507961367818
+asS'bill congress'
+p12330
+(lp12331
+I2
+aF0.019620762866974131
+asS'ltd. target'
+p12332
+(lp12333
+I2
+aF-0.00013053922301388583
+asS'stocks sell'
+p12334
+(lp12335
+I1
+aF0.0065939063210550593
+asS'market. action'
+p12336
+(lp12337
+I1
+aF0.086510263929618747
+asS"'re used"
+p12338
+(lp12339
+I1
+aF0.022254127781766008
+asS'blocking websites'
+p12340
+(lp12341
+I4
+aF0.010079537768633639
+asS'inflation threatens'
+p12342
+(lp12343
+I9
+aF0.063055396376559991
+asS'battle u.s.'
+p12344
+(lp12345
+I1
+aF-0.015098314606741563
+asS'projected report'
+p12346
+(lp12347
+I12
+aF-0.1002777672396778
+asS'news president'
+p12348
+(lp12349
+I2
+aF0.033133788568538193
+asS'q4 2013'
+p12350
+(lp12351
+I30
+aF0.78528042609589921
+asS's&p 500'
+p12352
+(lp12353
+I111
+aF1.8796829682411698
+asS'easing program'
+p12354
+(lp12355
+I1
+aF-0.01486199575371556
+asS'paypal "'
+p12356
+(lp12357
+I4
+aF0.0100703301812229
+asS'highs 12'
+p12358
+(lp12359
+I9
+aF0.063055396376559991
+asS'forces tightened'
+p12360
+(lp12361
+I1
+aF-0.025641025641025664
+asS'2014 +1.14%'
+p12362
+(lp12363
+I1
+aF0.0065939063210550593
+asS'business --'
+p12364
+(lp12365
+I4
+aF-0.047177815558848674
+asS'wheat corn'
+p12366
+(lp12367
+I12
+aF0.069076572220800783
+asS'changing frequent-flier'
+p12368
+(lp12369
+I1
+aF0.022254127781766008
+asS'officer michael'
+p12370
+(lp12371
+I1
+aF-0.01486199575371556
+asS'jeep models'
+p12372
+(lp12373
+I1
+aF0.0063291139240506224
+asS'fedex freight'
+p12374
+(lp12375
+I2
+aF0.044508255563532016
+asS'+1.44% \xc2'
+p12376
+(lp12377
+I1
+aF0.011548913043478255
+asS'posts crimea'
+p12378
+(lp12379
+I9
+aF0.063055396376559991
+asS'4,328 4,352'
+p12380
+(lp12381
+I1
+aF0.0065939063210550593
+asS'floors could'
+p12382
+(lp12383
+I1
+aF-0.015098314606741563
+asS'inc. /quotes/zigman/219651/delayed/quotes/nls/brk.a'
+p12384
+(lp12385
+I1
+aF0.00067980965329706225
+asS'access emails'
+p12386
+(lp12387
+I2
+aF0.0094823222529492185
+asS'percent $48.63'
+p12388
+(lp12389
+I1
+aF0.0095057034220531987
+asS'last year.kaplan'
+p12390
+(lp12391
+I1
+aF-0.015098314606741563
+asS'sink u.s.'
+p12392
+(lp12393
+I43
+aF0.25877235100216228
+asS'tech ntic'
+p12394
+(lp12395
+I6
+aF0.028685644767253066
+asS'war unfolded.the'
+p12396
+(lp12397
+I1
+aF-0.024283439490445837
+asS'conflict makes'
+p12398
+(lp12399
+I9
+aF0.063055396376559991
+asS"'t leveled"
+p12400
+(lp12401
+I4
+aF-0.012663166210594025
+asS"'t follow"
+p12402
+(lp12403
+I2
+aF0.0073921320280504483
+asS'core prices'
+p12404
+(lp12405
+I2
+aF-0.036601126188498201
+asS'companies including'
+p12406
+(lp12407
+I6
+aF0.0076232379247427508
+asS'currently $2.67'
+p12408
+(lp12409
+I30
+aF0.78528042609589921
+asS'carplay u.s.'
+p12410
+(lp12411
+I2
+aF0.011512762036800132
+asS'cold war'
+p12412
+(lp12413
+I2
+aF-0.0063315831052970124
+asS'apprehension surged'
+p12414
+(lp12415
+I1
+aF0.025356283546178002
+asS'first disclosed'
+p12416
+(lp12417
+I1
+aF-0.01486199575371556
+asS'steal -'
+p12418
+(lp12419
+I1
+aF0.0065939063210550593
+asS'vlo.n said'
+p12420
+(lp12421
+I1
+aF-0.01749999999999996
+asS'stock.freds inc'
+p12422
+(lp12423
+I1
+aF0.0085513078470825805
+asS'said period'
+p12424
+(lp12425
+I1
+aF-0.015098314606741563
+asS'analyst coverage'
+p12426
+(lp12427
+I30
+aF0.78528042609589921
+asS'corporations including'
+p12428
+(lp12429
+I4
+aF-0.047177815558848674
+asS'business competitive'
+p12430
+(lp12431
+I1
+aF0.022254127781766008
+asS'today8 35'
+p12432
+(lp12433
+I9
+aF0.063055396376559991
+asS'today8 32'
+p12434
+(lp12435
+I30
+aF0.78528042609589921
+asS'today8 30'
+p12436
+(lp12437
+I30
+aF0.78528042609589921
+asS'/quotes/zigman/77604/delayed/quotes/nls/rost rost'
+p12438
+(lp12439
+I4
+aF-0.0095843739881641219
+asS'8 min'
+p12440
+(lp12441
+I12
+aF0.069076572220800783
+asS'arthu ajg'
+p12442
+(lp12443
+I2
+aF0.060087816422073489
+asS'concerned. dfrg'
+p12444
+(lp12445
+I1
+aF0.012706969580285016
+asS'prostate cancer.'
+p12446
+(lp12447
+I2
+aF0.037754290992674737
+asS'would push'
+p12448
+(lp12449
+I1
+aF0.028248587570621538
+asS'attacks company'
+p12450
+(lp12451
+I2
+aF0.0050351650906114501
+asS'said recent'
+p12452
+(lp12453
+I1
+aF0.0075437537718768856
+asS'chemical co.'
+p12454
+(lp12455
+I2
+aF0.014895823661047334
+asS'respond. ukraine'
+p12456
+(lp12457
+I1
+aF-0.015098314606741563
+asS'1 muted'
+p12458
+(lp12459
+I2
+aF0.037754290992674737
+asS'" ingves'
+p12460
+(lp12461
+I1
+aF-0.015098314606741563
+asS'/quotes/zigman/109220/delayed/quotes/nls/dish dish'
+p12462
+(lp12463
+I3
+aF0.012908532350072379
+asS'- myra'
+p12464
+(lp12465
+I36
+aF0.20722971666240242
+asS'- ben'
+p12466
+(lp12467
+I12
+aF0.069076572220800783
+asS'global recall'
+p12468
+(lp12469
+I30
+aF0.78528042609589921
+asS'also founded'
+p12470
+(lp12471
+I1
+aF-0.0096207215541164858
+asS'inc. /quotes/zigman/121019/delayed/quotes/nls/chtr'
+p12472
+(lp12473
+I2
+aF0.011609522754737799
+asS'thursday renewing'
+p12474
+(lp12475
+I2
+aF0.0050351650906114501
+asS'high 4,328'
+p12476
+(lp12477
+I1
+aF0.0065939063210550593
+asS'retirementors behavioral'
+p12478
+(lp12479
+I43
+aF0.25877235100216228
+asS'market vectors'
+p12480
+(lp12481
+I1
+aF0.022254127781766008
+asS'u.s. gas'
+p12482
+(lp12483
+I1
+aF0.017811704834605556
+asS'last-minute solutions'
+p12484
+(lp12485
+I30
+aF0.78528042609589921
+asS'weather prompting'
+p12486
+(lp12487
+I2
+aF0.007155813175024445
+asS'research note.'
+p12488
+(lp12489
+I1
+aF0.0065939063210550593
+asS'wealth numbers'
+p12490
+(lp12491
+I1
+aF-0.01486199575371556
+asS'mutual funds'
+p12492
+(lp12493
+I4
+aF0.10298968128032032
+asS'grpn -'
+p12494
+(lp12495
+I2
+aF0.033694344163657949
+asS'- 2.45%'
+p12496
+(lp12497
+I1
+aF-0.041690140845070334
+asS'also accused'
+p12498
+(lp12499
+I2
+aF0.0050351650906114501
+asS'mexico within'
+p12500
+(lp12501
+I1
+aF0.022254127781766008
+asS'1.19% j.p.'
+p12502
+(lp12503
+I3
+aF0.029027283270916533
+asS'+1.14% rethinking'
+p12504
+(lp12505
+I1
+aF0.0065939063210550593
+asS'trade. 12'
+p12506
+(lp12507
+I1
+aF0.014802631578947345
+asS'3 min'
+p12508
+(lp12509
+I5
+aF0.032969531605275298
+asS'already rejected'
+p12510
+(lp12511
+I2
+aF0.0050351650906114501
+asS'considered one'
+p12512
+(lp12513
+I1
+aF-0.013834507961367818
+asS'chief investment'
+p12514
+(lp12515
+I1
+aF-0.015098314606741563
+asS'station 7'
+p12516
+(lp12517
+I30
+aF0.78528042609589921
+asS'brothers. world'
+p12518
+(lp12519
+I1
+aF-0.015098314606741563
+asS'2014 +1.33%'
+p12520
+(lp12521
+I1
+aF0.0065939063210550593
+asS'10-year partnership'
+p12522
+(lp12523
+I1
+aF0.054777388694347298
+asS'report verizon'
+p12524
+(lp12525
+I1
+aF0.00082576383154416076
+asS'record run'
+p12526
+(lp12527
+I9
+aF0.063055396376559991
+asS'succeed steve'
+p12528
+(lp12529
+I1
+aF-0.013834507961367818
+asS'find issue'
+p12530
+(lp12531
+I1
+aF0.017951856385148825
+asS'planned transition'
+p12532
+(lp12533
+I1
+aF0.0065939063210550593
+asS'together citigroup'
+p12534
+(lp12535
+I1
+aF0.0065939063210550593
+asS'corp. klac'
+p12536
+(lp12537
+I3
+aF0.076043454879415551
+asS'would bad'
+p12538
+(lp12539
+I4
+aF-0.047177815558848674
+asS'generation galaxy'
+p12540
+(lp12541
+I30
+aF0.78528042609589921
+asS'shares long.del'
+p12542
+(lp12543
+I1
+aF0.012706969580285016
+asS'end credit-card'
+p12544
+(lp12545
+I20
+aF0.11512762036800134
+asS'equity strategy'
+p12546
+(lp12547
+I1
+aF0.028248587570621538
+asS'take-two interactive'
+p12548
+(lp12549
+I2
+aF0.023622213537533625
+asS'analysts. analysts'
+p12550
+(lp12551
+I2
+aF-0.027455969162467415
+asS'changes shipping'
+p12552
+(lp12553
+I1
+aF0.022254127781766008
+asS'hurt 22,500'
+p12554
+(lp12555
+I1
+aF-0.015098314606741563
+asS'13-f filings'
+p12556
+(lp12557
+I1
+aF0.00067980965329706225
+asS'maestri left'
+p12558
+(lp12559
+I1
+aF0.0065939063210550593
+asS'determining markets'
+p12560
+(lp12561
+I1
+aF-0.013834507961367818
+asS'motors corp'
+p12562
+(lp12563
+I1
+aF0.0095057034220531987
+asS'500 slid'
+p12564
+(lp12565
+I2
+aF0.007155813175024445
+asS'favoring kinds'
+p12566
+(lp12567
+I4
+aF0.010079537768633639
+asS'said andreessen'
+p12568
+(lp12569
+I2
+aF0.0050351650906114501
+asS'ltd. /quotes/zigman/118648/delayed/quotes/nls/grmn'
+p12570
+(lp12571
+I2
+aF0.02462811733357069
+asS'would agree'
+p12572
+(lp12573
+I1
+aF-0.015098314606741563
+asS'steps effort'
+p12574
+(lp12575
+I9
+aF0.063055396376559991
+asS'weeks investors'
+p12576
+(lp12577
+I1
+aF0.012706969580285016
+asS'+1.36% day'
+p12578
+(lp12579
+I2
+aF0.013187812642110119
+asS'anne head'
+p12580
+(lp12581
+I1
+aF-0.015098314606741563
+asS'suit soon.'
+p12582
+(lp12583
+I1
+aF0.022254127781766008
+asS'4,277.30 4,350.83'
+p12584
+(lp12585
+I1
+aF0.0065939063210550593
+asS'budget according'
+p12586
+(lp12587
+I1
+aF0.017811704834605556
+asS'lynwood 5'
+p12588
+(lp12589
+I30
+aF0.78528042609589921
+asS'$236.6 million'
+p12590
+(lp12591
+I2
+aF-0.0047921869940820618
+asS'allowed outsiders'
+p12592
+(lp12593
+I2
+aF0.0094823222529492185
+asS'u.s. investment'
+p12594
+(lp12595
+I1
+aF-0.015098314606741563
+asS'? monday'
+p12596
+(lp12597
+I1
+aF0.028248587570621538
+asS'czr fortune'
+p12598
+(lp12599
+I4
+aF0.044781306879880148
+asS'accused andreessen'
+p12600
+(lp12601
+I4
+aF0.0100703301812229
+asS'said employees'
+p12602
+(lp12603
+I1
+aF-0.01486199575371556
+asS'ordan also'
+p12604
+(lp12605
+I1
+aF-0.0096207215541164858
+asS'500 sears'
+p12606
+(lp12607
+I4
+aF0.044781306879880148
+asS'+0.45% \xc2'
+p12608
+(lp12609
+I1
+aF0.020128888535285234
+asS'four years.'
+p12610
+(lp12611
+I2
+aF0.0052826627277634021
+asS'corrected dollar'
+p12612
+(lp12613
+I43
+aF0.25877235100216228
+asS'reserved. 1'
+p12614
+(lp12615
+I1
+aF0.0095057034220531987
+asS'reserved. "'
+p12616
+(lp12617
+I1
+aF0.0028884159318941583
+asS'fannie 2.98'
+p12618
+(lp12619
+I2
+aF0.0073921320280504483
+asS'well missile'
+p12620
+(lp12621
+I1
+aF-0.01749999999999996
+asS'rate change'
+p12622
+(lp12623
+I1
+aF0.022254127781766008
+asS'technology inc.'
+p12624
+(lp12625
+I2
+aF0.023622213537533625
+asS'committed abiding'
+p12626
+(lp12627
+I4
+aF-0.0075938299399980749
+asS'500 announced'
+p12628
+(lp12629
+I2
+aF0.0028409817157098796
+asS'addstyle "'
+p12630
+(lp12631
+I5
+aF0.1588106388459081
+asS'catches bitcoin'
+p12632
+(lp12633
+I9
+aF0.063055396376559991
+asS'global equities'
+p12634
+(lp12635
+I1
+aF-0.025641025641025664
+asS'toothbrush -'
+p12636
+(lp12637
+I1
+aF0.0065939063210550593
+asS'meanwhile intel'
+p12638
+(lp12639
+I1
+aF-0.010500807754442712
+asS"'s 7267.t"
+p12640
+(lp12641
+I1
+aF0.0095057034220531987
+asS'microsoft making'
+p12642
+(lp12643
+I1
+aF-0.013834507961367818
+asS'favorites sky-mobi'
+p12644
+(lp12645
+I1
+aF0.086510263929618747
+asS'strategy societe'
+p12646
+(lp12647
+I1
+aF-0.015098314606741563
+asS'underestimated risks'
+p12648
+(lp12649
+I1
+aF-0.025641025641025664
+asS'- 1.01%'
+p12650
+(lp12651
+I1
+aF0.023487602630611493
+asS'bit 1'
+p12652
+(lp12653
+I1
+aF0.028248587570621538
+asS'target tgt'
+p12654
+(lp12655
+I4
+aF0.044781306879880148
+asS'quarter 2013'
+p12656
+(lp12657
+I31
+aF0.77041843034218371
+asS'reserved. j.c.'
+p12658
+(lp12659
+I1
+aF0.0028884159318941583
+asS'india raised'
+p12660
+(lp12661
+I1
+aF-0.015098314606741563
+asS'ahead global'
+p12662
+(lp12663
+I30
+aF0.78528042609589921
+asS'abandoned prominent'
+p12664
+(lp12665
+I4
+aF0.044781306879880148
+asS'gas stocks'
+p12666
+(lp12667
+I1
+aF0.028248587570621538
+asS'threatens euro-zone'
+p12668
+(lp12669
+I9
+aF0.063055396376559991
+asS'click paste'
+p12670
+(lp12671
+I1
+aF0.014802631578947345
+asS'corn rally'
+p12672
+(lp12673
+I12
+aF0.069076572220800783
+asS'/quotes/zigman/102025/delayed/quotes/nls/fslr fslr'
+p12674
+(lp12675
+I4
+aF0.02364507778153388
+asS'weekend right'
+p12676
+(lp12677
+I1
+aF-0.025641025641025664
+asS'" cross'
+p12678
+(lp12679
+I1
+aF0.0065939063210550593
+asS'added shares'
+p12680
+(lp12681
+I1
+aF0.00067980965329706225
+asS'p.m. feb.'
+p12682
+(lp12683
+I297
+aF7.2566900239927605
+asS'casey u.s.'
+p12684
+(lp12685
+I9
+aF0.063055396376559991
+asS'path cfo'
+p12686
+(lp12687
+I1
+aF0.0065939063210550593
+asS'che apd'
+p12688
+(lp12689
+I3
+aF0.0021474564628237813
+asS'way communicate'
+p12690
+(lp12691
+I1
+aF0.034482758620689689
+asS'acres 1,000'
+p12692
+(lp12693
+I2
+aF0.040569339539934614
+asS'practices pnc'
+p12694
+(lp12695
+I1
+aF-0.01486199575371556
+asS'possibly overshadow'
+p12696
+(lp12697
+I1
+aF0.0075437537718768856
+asS'related full'
+p12698
+(lp12699
+I16
+aF0.046391384821821771
+asS'q3 earnings,\xe2\x80\x9d'
+p12700
+(lp12701
+I1
+aF0.0075437537718768856
+asS'currently zacks'
+p12702
+(lp12703
+I2
+aF0.038093405336004325
+asS'earlier touching'
+p12704
+(lp12705
+I1
+aF-0.025641025641025664
+asS'billion shareholders'
+p12706
+(lp12707
+I1
+aF0.0065939063210550593
+asS'today9 41'
+p12708
+(lp12709
+I9
+aF0.063055396376559991
+asS'exchange monday.'
+p12710
+(lp12711
+I1
+aF0.0095057034220531987
+asS'a.m. jan.'
+p12712
+(lp12713
+I255
+aF5.8122399645541005
+asS'said fairholme'
+p12714
+(lp12715
+I2
+aF0.0073921320280504483
+asS'handset companies'
+p12716
+(lp12717
+I1
+aF0.086510263929618747
+asS'cook said.apple'
+p12718
+(lp12719
+I1
+aF0.0065939063210550593
+asS"'s patent"
+p12720
+(lp12721
+I1
+aF-0.015098314606741563
+asS'futures |'
+p12722
+(lp12723
+I2
+aF0.011512762036800132
+asS'massing armored'
+p12724
+(lp12725
+I1
+aF-0.025641025641025664
+asS'6 percent'
+p12726
+(lp12727
+I3
+aF-0.075872117971469616
+asS"'s office"
+p12728
+(lp12729
+I3
+aF-0.044585987261146681
+asS'demanding inspect'
+p12730
+(lp12731
+I2
+aF0.0050351650906114501
+asS'2 23'
+p12732
+(lp12733
+I30
+aF0.78528042609589921
+asS'swung fourth-quarter'
+p12734
+(lp12735
+I2
+aF-0.01702614434749404
+asS'tod loofbourrow'
+p12736
+(lp12737
+I30
+aF0.78528042609589921
+asS'acres arizona'
+p12738
+(lp12739
+I2
+aF0.040569339539934614
+asS'$288.7 million'
+p12740
+(lp12741
+I2
+aF0.014618679165891798
+asS'share. g'
+p12742
+(lp12743
+I2
+aF0.032728465832498853
+asS'annual tally.'
+p12744
+(lp12745
+I2
+aF0.019620762866974131
+asS'shares took'
+p12746
+(lp12747
+I2
+aF0.0052826627277634021
+asS'executives tony'
+p12748
+(lp12749
+I1
+aF-0.013834507961367818
+asS'within canada'
+p12750
+(lp12751
+I1
+aF0.022254127781766008
+asS'told lawmakers'
+p12752
+(lp12753
+I2
+aF0.019620762866974131
+asS'flight trouble'
+p12754
+(lp12755
+I1
+aF0.034482758620689689
+asS'nba\xe2\x80\x99s sacramento'
+p12756
+(lp12757
+I9
+aF0.063055396376559991
+asS'myths won'
+p12758
+(lp12759
+I1
+aF-0.01486199575371556
+asS'going nasa'
+p12760
+(lp12761
+I1
+aF-0.01749999999999996
+asS'ukraine china'
+p12762
+(lp12763
+I2
+aF0.011512762036800132
+asS'verizon deal'
+p12764
+(lp12765
+I1
+aF0.0065939063210550593
+asS'them. comcast'
+p12766
+(lp12767
+I4
+aF-0.0075938299399980749
+asS'risk-weighted asset'
+p12768
+(lp12769
+I1
+aF-0.015098314606741563
+asS'funds crazy'
+p12770
+(lp12771
+I43
+aF0.25877235100216228
+asS'fslr +2.79%'
+p12772
+(lp12773
+I2
+aF0.062544674767691211
+asS'toyota still'
+p12774
+(lp12775
+I1
+aF0.028248587570621538
+asS'- 0.80%'
+p12776
+(lp12777
+I1
+aF-0.0011181513231456424
+asS'hit intraday'
+p12778
+(lp12779
+I47
+aF0.89737683355383513
+asS'international ltd.'
+p12780
+(lp12781
+I2
+aF-0.00013053922301388583
+asS'edition gold'
+p12782
+(lp12783
+I9
+aF0.063055396376559991
+asS'fay board'
+p12784
+(lp12785
+I30
+aF0.78528042609589921
+asS'bread co.'
+p12786
+(lp12787
+I3
+aF0.0073890814844253258
+asS'receiving future.makearticlead'
+p12788
+(lp12789
+I1
+aF0.022254127781766008
+asS'copyright \xc2\xa9'
+p12790
+(lp12791
+I43
+aF0.25877235100216228
+asS'four pieces'
+p12792
+(lp12793
+I2
+aF-0.0005004065187305274
+asS'kegerators like.'
+p12794
+(lp12795
+I2
+aF-0.0063315831052970124
+asS'names tod'
+p12796
+(lp12797
+I30
+aF0.78528042609589921
+asS'monday morning'
+p12798
+(lp12799
+I2
+aF0.028662201270295298
+asS'1,849 1,871'
+p12800
+(lp12801
+I2
+aF0.013187812642110119
+asS'global vehicle'
+p12802
+(lp12803
+I2
+aF0.02960526315789469
+asS'european business'
+p12804
+(lp12805
+I1
+aF-0.015098314606741563
+asS'fund prentice'
+p12806
+(lp12807
+I43
+aF0.25877235100216228
+asS'loans.in third'
+p12808
+(lp12809
+I1
+aF-0.01486199575371556
+asS'include advanced'
+p12810
+(lp12811
+I3
+aF0.076043454879415551
+asS'26 p.m.'
+p12812
+(lp12813
+I39
+aF0.8483358224724592
+asS'market ways'
+p12814
+(lp12815
+I2
+aF0.023269395998132755
+asS'/quotes/zigman/9962609/delayed/quotes/nls/fb fb'
+p12816
+(lp12817
+I2
+aF0.0052826627277634021
+asS'war ended'
+p12818
+(lp12819
+I1
+aF0.017951856385148825
+asS'dow methanex'
+p12820
+(lp12821
+I2
+aF0.014895823661047334
+asS'united airlines'
+p12822
+(lp12823
+I2
+aF0.007155813175024445
+asS'forecast 52.0'
+p12824
+(lp12825
+I1
+aF-0.0071729957805906396
+asS'viralgains names'
+p12826
+(lp12827
+I30
+aF0.78528042609589921
+asS'technologies holds'
+p12828
+(lp12829
+I3
+aF0.043144411231668872
+asS'claudia assis'
+p12830
+(lp12831
+I12
+aF0.069076572220800783
+asS'hlt ahead'
+p12832
+(lp12833
+I2
+aF0.037754290992674737
+asS'claims chevron'
+p12834
+(lp12835
+I1
+aF-0.015098314606741563
+asS'techs rally'
+p12836
+(lp12837
+I1
+aF0.0065939063210550593
+asS'reuters.cook noted'
+p12838
+(lp12839
+I1
+aF0.0065939063210550593
+asS'holdings inc.'
+p12840
+(lp12841
+I7
+aF0.037749091654869817
+asS'books records'
+p12842
+(lp12843
+I2
+aF0.0050351650906114501
+asS'nokia corp.'
+p12844
+(lp12845
+I1
+aF0.036999999999999922
+asS'past record'
+p12846
+(lp12847
+I2
+aF0.013187812642110119
+asS'chase citigroup'
+p12848
+(lp12849
+I1
+aF-0.015434451219512105
+asS'leveled accusations'
+p12850
+(lp12851
+I1
+aF-0.015098314606741563
+asS'rico.fedex shares'
+p12852
+(lp12853
+I1
+aF0.022254127781766008
+asS'lower revenue'
+p12854
+(lp12855
+I1
+aF0
+asS'reuters showed'
+p12856
+(lp12857
+I1
+aF-0.042688910696761409
+asS'time warner'
+p12858
+(lp12859
+I4
+aF-0.0075938299399980749
+asS'urging brewer'
+p12860
+(lp12861
+I4
+aF-0.047177815558848674
+asS'cnbc monday'
+p12862
+(lp12863
+I2
+aF0.028662201270295298
+asS'wary emerging'
+p12864
+(lp12865
+I3
+aF0.0047587671132585697
+asS'statistics federal'
+p12866
+(lp12867
+I2
+aF0.019620762866974131
+asS'stores 6'
+p12868
+(lp12869
+I30
+aF0.78528042609589921
+asS'cheer easing'
+p12870
+(lp12871
+I30
+aF0.78528042609589921
+asS'currencies |'
+p12872
+(lp12873
+I2
+aF0.011512762036800132
+asS'villagers pursued'
+p12874
+(lp12875
+I1
+aF-0.015098314606741563
+asS'unveiled company'
+p12876
+(lp12877
+I1
+aF-0.015098314606741563
+asS'blogs.marketwatch.com dollar'
+p12878
+(lp12879
+I2
+aF0.013187812642110119
+asS'gained much'
+p12880
+(lp12881
+I1
+aF0.020620086040646798
+asS'100 percent'
+p12882
+(lp12883
+I1
+aF0.0065939063210550593
+asS'earnings $8.31'
+p12884
+(lp12885
+I2
+aF0.014618679165891798
+asS'euro zone'
+p12886
+(lp12887
+I1
+aF-0.025641025641025664
+asS'battle starts'
+p12888
+(lp12889
+I30
+aF0.78528042609589921
+asS'turmoil slaps'
+p12890
+(lp12891
+I43
+aF0.25877235100216228
+asS'urging ebay'
+p12892
+(lp12893
+I2
+aF0.0050351650906114501
+asS'$5 billion'
+p12894
+(lp12895
+I1
+aF-0.015098314606741563
+asS'steep drop'
+p12896
+(lp12897
+I1
+aF-0.0071729957805906396
+asS'thanks hopes'
+p12898
+(lp12899
+I1
+aF-0.01486199575371556
+asS'reserve chair'
+p12900
+(lp12901
+I3
+aF0.0047587671132585697
+asS'japan.he expects'
+p12902
+(lp12903
+I1
+aF-0.015098314606741563
+asS'space worth'
+p12904
+(lp12905
+I2
+aF0.0063122470976729999
+asS'specialized industries'
+p12906
+(lp12907
+I14
+aF0.018081633883883088
+asS'apathy misinformation'
+p12908
+(lp12909
+I10
+aF0.065939063210550597
+asS'pursued claims'
+p12910
+(lp12911
+I1
+aF-0.015098314606741563
+asS'solar power'
+p12912
+(lp12913
+I1
+aF-0.015098314606741563
+asS'mahlich related'
+p12914
+(lp12915
+I1
+aF0.014802631578947345
+asS'called sifi'
+p12916
+(lp12917
+I2
+aF-0.0096143372351269688
+asS'today8 53'
+p12918
+(lp12919
+I12
+aF0.069076572220800783
+asS'fear miles'
+p12920
+(lp12921
+I1
+aF0.022254127781766008
+asS'lot trouble'
+p12922
+(lp12923
+I1
+aF-0.015098314606741563
+asS'today8 59'
+p12924
+(lp12925
+I2
+aF0.013187812642110119
+asS'/quotes/zigman/583979/delayed/quotes/nls/brk.b brk.b'
+p12926
+(lp12927
+I1
+aF0.00067980965329706225
+asS'shares general'
+p12928
+(lp12929
+I1
+aF0.00067980965329706225
+asS'currently holds'
+p12930
+(lp12931
+I1
+aF0.028248587570621538
+asS'months 5'
+p12932
+(lp12933
+I30
+aF0.78528042609589921
+asS'retreat ukraine'
+p12934
+(lp12935
+I2
+aF0.013187812642110119
+asS'stocks consider'
+p12936
+(lp12937
+I2
+aF0.060087816422073489
+asS'1964 1992.ecuador'
+p12938
+(lp12939
+I1
+aF-0.015098314606741563
+asS'yahoo apple'
+p12940
+(lp12941
+I1
+aF0.0065939063210550593
+asS'saying monday'
+p12942
+(lp12943
+I1
+aF0.0095057034220531987
+asS'gas giant'
+p12944
+(lp12945
+I1
+aF0.017811704834605556
+asS'arts ea'
+p12946
+(lp12947
+I14
+aF0.018081633883883088
+asS'18 min'
+p12948
+(lp12949
+I12
+aF0.069076572220800783
+asS'nasdaq mobi'
+p12950
+(lp12951
+I1
+aF0.086510263929618747
+asS'effective july.while'
+p12952
+(lp12953
+I1
+aF0.022254127781766008
+asS'year. iphones'
+p12954
+(lp12955
+I1
+aF0.0028884159318941583
+asS'icahn revealed'
+p12956
+(lp12957
+I2
+aF0.0050351650906114501
+asS'compatible wto'
+p12958
+(lp12959
+I1
+aF-0.015098314606741563
+asS'05 p.m.'
+p12960
+(lp12961
+I30
+aF0.78528042609589921
+asS'companies believe'
+p12962
+(lp12963
+I2
+aF0.0073921320280504483
+asS'rates new'
+p12964
+(lp12965
+I30
+aF0.78528042609589921
+asS'controversial social'
+p12966
+(lp12967
+I2
+aF0.033133788568538193
+asS'removal m&p'
+p12968
+(lp12969
+I1
+aF0.0075437537718768856
+asS'moscow luxury'
+p12970
+(lp12971
+I9
+aF0.063055396376559991
+asS'appoints john'
+p12972
+(lp12973
+I30
+aF0.78528042609589921
+asS'decision caps'
+p12974
+(lp12975
+I1
+aF-0.015098314606741563
+asS'commission law'
+p12976
+(lp12977
+I2
+aF0.019620762866974131
+asS'blogs.marketwatch.com u.s.'
+p12978
+(lp12979
+I1
+aF0.0065939063210550593
+asS'+0.79% \xc2'
+p12980
+(lp12981
+I1
+aF0.011014344262295075
+asS'47 a.m.'
+p12982
+(lp12983
+I42
+aF0.26426393719472163
+asS'co ko'
+p12984
+(lp12985
+I3
+aF0.019851875731156512
+asS'sell 334'
+p12986
+(lp12987
+I1
+aF-0.0032679738562091968
+asS"'s european"
+p12988
+(lp12989
+I1
+aF-0.015098314606741563
+asS'stake fannie'
+p12990
+(lp12991
+I2
+aF0.0073921320280504483
+asS'bates tami'
+p12992
+(lp12993
+I1
+aF-0.013834507961367818
+asS'protectionism "'
+p12994
+(lp12995
+I1
+aF-0.015098314606741563
+asS'options available'
+p12996
+(lp12997
+I30
+aF0.78528042609589921
+asS'mexico banking'
+p12998
+(lp12999
+I43
+aF0.25877235100216228
+asS'economic data.'
+p13000
+(lp13001
+I2
+aF0.019620762866974131
+asS'know ukraine'
+p13002
+(lp13003
+I12
+aF0.069076572220800783
+asS'office southern'
+p13004
+(lp13005
+I1
+aF-0.01486199575371556
+asS'energy corp'
+p13006
+(lp13007
+I1
+aF-0.01749999999999996
+asS'gives wall'
+p13008
+(lp13009
+I1
+aF0.0065939063210550593
+asS'brings factory'
+p13010
+(lp13011
+I2
+aF0.03556487878640302
+asS'supervisors exercise'
+p13012
+(lp13013
+I1
+aF-0.015098314606741563
+asS'subsidiary mexico'
+p13014
+(lp13015
+I1
+aF-0.01486199575371556
+asS'oil field'
+p13016
+(lp13017
+I1
+aF-0.015098314606741563
+asS'defense agency'
+p13018
+(lp13019
+I1
+aF-0.01749999999999996
+asS'deliberations skype'
+p13020
+(lp13021
+I2
+aF0.0050351650906114501
+asS'show sales'
+p13022
+(lp13023
+I2
+aF0.019620762866974131
+asS'shares 0.6'
+p13024
+(lp13025
+I1
+aF0.0065939063210550593
+asS'shares 0.7'
+p13026
+(lp13027
+I1
+aF0.0065939063210550593
+asS'turnaround radioshack'
+p13028
+(lp13029
+I44
+aF0.87759511459066997
+asS'midstrm acmp'
+p13030
+(lp13031
+I1
+aF-0.0032679738562091968
+asS'billion. lovallo'
+p13032
+(lp13033
+I1
+aF0.023487602630611493
+asS'better-ranked major'
+p13034
+(lp13035
+I2
+aF-0.0082949308755760238
+asS'13 a.m.'
+p13036
+(lp13037
+I42
+aF0.26426393719472163
+asS'inc. /quotes/zigman/54683/delayed/quotes/nls/gmcr'
+p13038
+(lp13039
+I4
+aF-0.010679627874459668
+asS'head u.s.'
+p13040
+(lp13041
+I1
+aF-0.042688910696761409
+asS'collective interests'
+p13042
+(lp13043
+I1
+aF0.017951856385148825
+asS'financial software'
+p13044
+(lp13045
+I4
+aF0.044938893448227483
+asS'rally 2'
+p13046
+(lp13047
+I9
+aF0.063055396376559991
+asS'- 23%'
+p13048
+(lp13049
+I30
+aF0.78528042609589921
+asS'sarah fay'
+p13050
+(lp13051
+I30
+aF0.78528042609589921
+asS"andreessen 's"
+p13052
+(lp13053
+I4
+aF0.007876146806321328
+asS'major player'
+p13054
+(lp13055
+I1
+aF0.086510263929618747
+asS'said index'
+p13056
+(lp13057
+I1
+aF-0.0071729957805906396
+asS'states trade'
+p13058
+(lp13059
+I1
+aF-0.015098314606741563
+asS'apple fixes'
+p13060
+(lp13061
+I2
+aF0.0094823222529492185
+asS'diligent consideration'
+p13062
+(lp13063
+I2
+aF0.0050351650906114501
+asS'purchased skype'
+p13064
+(lp13065
+I2
+aF0.0050351650906114501
+asS'betting stock'
+p13066
+(lp13067
+I43
+aF0.25877235100216228
+asS'senior equity'
+p13068
+(lp13069
+I2
+aF-0.010838394062078319
+asS'-- federal'
+p13070
+(lp13071
+I1
+aF-0.01486199575371556
+asS'vehicles 6'
+p13072
+(lp13073
+I1
+aF-0.042688910696761409
+asS'failed get'
+p13074
+(lp13075
+I2
+aF0.019620762866974131
+asS'co. /quotes/zigman/1466682/delayed/quotes/nls/gm'
+p13076
+(lp13077
+I3
+aF0.029027283270916533
+asS'reserved. related'
+p13078
+(lp13079
+I2
+aF0.0057768318637883165
+asS'local content'
+p13080
+(lp13081
+I1
+aF-0.015098314606741563
+asS'matters world'
+p13082
+(lp13083
+I4
+aF-0.051577734309845545
+asS'buying season\xe2\x80\x99'
+p13084
+(lp13085
+I1
+aF0.0065939063210550593
+asS'30 p.m.'
+p13086
+(lp13087
+I60
+aF1.5705608521917984
+asS'seemed concerned'
+p13088
+(lp13089
+I1
+aF0.022254127781766008
+asS'googletag.cmd.push function'
+p13090
+(lp13091
+I5
+aF0.1588106388459081
+asS'still bit'
+p13092
+(lp13093
+I1
+aF0.028248587570621538
+asS'gains sales'
+p13094
+(lp13095
+I1
+aF-0.042688910696761409
+asS'exone xone'
+p13096
+(lp13097
+I4
+aF-0.036225661420065031
+asS'app competes'
+p13098
+(lp13099
+I2
+aF-0.0005004065187305274
+asS'index national'
+p13100
+(lp13101
+I1
+aF-0.0071729957805906396
+asS'1,100 stores'
+p13102
+(lp13103
+I61
+aF1.5554625375850568
+asS'isps blocking'
+p13104
+(lp13105
+I4
+aF0.010079537768633639
+asS'missive earlier'
+p13106
+(lp13107
+I2
+aF0.0050351650906114501
+asS'options keurig'
+p13108
+(lp13109
+I1
+aF-0.012006549026741798
+asS'argued victim'
+p13110
+(lp13111
+I1
+aF-0.015098314606741563
+asS'q4 massive'
+p13112
+(lp13113
+I30
+aF0.78528042609589921
+asS'additional layers'
+p13114
+(lp13115
+I1
+aF-0.015098314606741563
+asS'eight years.'
+p13116
+(lp13117
+I1
+aF0.034482758620689689
+asS'aussie loonie'
+p13118
+(lp13119
+I9
+aF0.063055396376559991
+asS'germany built'
+p13120
+(lp13121
+I1
+aF0.034482758620689689
+asS'half the\xc2'
+p13122
+(lp13123
+I1
+aF-0.015098314606741563
+asS'helping satisfy'
+p13124
+(lp13125
+I1
+aF0.0065939063210550593
+asS"linkedin 's"
+p13126
+(lp13127
+I1
+aF0.028248587570621538
+asS'would flat'
+p13128
+(lp13129
+I1
+aF-0.042688910696761409
+asS'mr maestri'
+p13130
+(lp13131
+I1
+aF0.0065939063210550593
+asS'good times'
+p13132
+(lp13133
+I1
+aF0.0065939063210550593
+asS'cash end'
+p13134
+(lp13135
+I1
+aF0.0065939063210550593
+asS'publicly announced'
+p13136
+(lp13137
+I1
+aF0.0028884159318941583
+asS'shutdown shows'
+p13138
+(lp13139
+I9
+aF0.063055396376559991
+asS'- bzx'
+p13140
+(lp13141
+I30
+aF0.78528042609589921
+asS'struggling retailer'
+p13142
+(lp13143
+I1
+aF-0.015098314606741563
+asS'want add'
+p13144
+(lp13145
+I1
+aF-0.015098314606741563
+asS'committee banks'
+p13146
+(lp13147
+I1
+aF-0.015098314606741563
+asS'earlier month'
+p13148
+(lp13149
+I2
+aF0.0094823222529492185
+asS'meoh northern'
+p13150
+(lp13151
+I2
+aF0.0063122470976729999
+asS'nov. 13'
+p13152
+(lp13153
+I9
+aF0.063055396376559991
+asS'million ahead'
+p13154
+(lp13155
+I2
+aF-0.027455969162467415
+asS'highest paying'
+p13156
+(lp13157
+I16
+aF0.046391384821821771
+asS'15 a.m.'
+p13158
+(lp13159
+I9
+aF0.063055396376559991
+asS'program trying\xc2'
+p13160
+(lp13161
+I1
+aF-0.01486199575371556
+asS'back life'
+p13162
+(lp13163
+I1
+aF-0.01486199575371556
+asS'11 percent'
+p13164
+(lp13165
+I2
+aF-0.019311911716975043
+asS'said banamex'
+p13166
+(lp13167
+I1
+aF-0.01486199575371556
+asS'tuesday fourth-quarter'
+p13168
+(lp13169
+I2
+aF0.0072236281422678079
+asS'places united'
+p13170
+(lp13171
+I1
+aF-0.015098314606741563
+asS'states huge'
+p13172
+(lp13173
+I1
+aF-0.015098314606741563
+asS'prf february'
+p13174
+(lp13175
+I30
+aF0.78528042609589921
+asS'spain united'
+p13176
+(lp13177
+I1
+aF0.022254127781766008
+asS'record investors'
+p13178
+(lp13179
+I30
+aF0.78528042609589921
+asS'cable twc'
+p13180
+(lp13181
+I4
+aF-0.0075938299399980749
+asS"' net"
+p13182
+(lp13183
+I1
+aF-0.01486199575371556
+asS'6 29'
+p13184
+(lp13185
+I9
+aF0.063055396376559991
+asS'decision defend'
+p13186
+(lp13187
+I1
+aF-0.015098314606741563
+asS'russian stocks'
+p13188
+(lp13189
+I2
+aF-0.0033868978592596563
+asS'6 26'
+p13190
+(lp13191
+I30
+aF0.78528042609589921
+asS"ukraine 's"
+p13192
+(lp13193
+I17
+aF0.12185832080271417
+asS'losses fourth'
+p13194
+(lp13195
+I2
+aF0.024645570354333065
+asS"'s trade"
+p13196
+(lp13197
+I1
+aF-0.015098314606741563
+asS'might pressure'
+p13198
+(lp13199
+I12
+aF0.069076572220800783
+asS'top-selling jeep'
+p13200
+(lp13201
+I1
+aF0.0063291139240506224
+asS'interactive software'
+p13202
+(lp13203
+I2
+aF0.023622213537533625
+asS'seen. activist'
+p13204
+(lp13205
+I1
+aF-0.0078271226816403073
+asS'chk free'
+p13206
+(lp13207
+I1
+aF-0.0032679738562091968
+asS'airlines dal'
+p13208
+(lp13209
+I4
+aF-0.047177815558848674
+asS'contract trade'
+p13210
+(lp13211
+I30
+aF0.78528042609589921
+asS'chairman board'
+p13212
+(lp13213
+I1
+aF0.0095057034220531987
+asS'doubts 10'
+p13214
+(lp13215
+I9
+aF0.063055396376559991
+asS'falls yen'
+p13216
+(lp13217
+I57
+aF0.33936168525976329
+asS'reuters.also topping'
+p13218
+(lp13219
+I1
+aF0.0063291139240506224
+asS'market debt'
+p13220
+(lp13221
+I1
+aF0.014802631578947345
+asS'16 a.m.'
+p13222
+(lp13223
+I12
+aF0.069076572220800783
+asS'currency 9'
+p13224
+(lp13225
+I9
+aF0.063055396376559991
+asS'wu hongyuran'
+p13226
+(lp13227
+I9
+aF0.063055396376559991
+asS'start handing'
+p13228
+(lp13229
+I1
+aF0.0065939063210550593
+asS'expectations 2'
+p13230
+(lp13231
+I2
+aF0.037754290992674737
+asS'browser following'
+p13232
+(lp13233
+I1
+aF0.014802631578947345
+asS'204,625 euros'
+p13234
+(lp13235
+I2
+aF0.033133788568538193
+asS'2 00'
+p13236
+(lp13237
+I30
+aF0.78528042609589921
+asS'joined 2013'
+p13238
+(lp13239
+I1
+aF0.0065939063210550593
+asS'- thestreet.com'
+p13240
+(lp13241
+I150
+aF3.9264021304795018
+asS'potentially access'
+p13242
+(lp13243
+I2
+aF0.0050351650906114501
+asS'$1.09 loss'
+p13244
+(lp13245
+I1
+aF0.028248587570621538
+asS'. companies'
+p13246
+(lp13247
+I3
+aF-0.0010475372276938677
+asS'$40 billion'
+p13248
+(lp13249
+I1
+aF0.0065939063210550593
+asS'bank spend'
+p13250
+(lp13251
+I1
+aF-0.025641025641025664
+asS'mobi well'
+p13252
+(lp13253
+I1
+aF0.086510263929618747
+asS'loan ukraine'
+p13254
+(lp13255
+I9
+aF0.063055396376559991
+asS'results webcast'
+p13256
+(lp13257
+I30
+aF0.78528042609589921
+asS'gox finds'
+p13258
+(lp13259
+I9
+aF0.063055396376559991
+asS'grain prices'
+p13260
+(lp13261
+I4
+aF-0.021676788124156639
+asS'/quotes/zigman/162154/delayed/quotes/nls/nok nok'
+p13262
+(lp13263
+I1
+aF0.036999999999999922
+asS'uctt free'
+p13264
+(lp13265
+I3
+aF0.076043454879415551
+asS'company said'
+p13266
+(lp13267
+I2
+aF-0.0082680894326605005
+asS'extended session'
+p13268
+(lp13269
+I2
+aF0.0052826627277634021
+asS'policy "'
+p13270
+(lp13271
+I1
+aF-0.010500807754442712
+asS'earnings 56'
+p13272
+(lp13273
+I4
+aF0.0010669424439089712
+asS'pushing 1'
+p13274
+(lp13275
+I1
+aF0.028248587570621538
+asS'include methanex'
+p13276
+(lp13277
+I2
+aF0.0063122470976729999
+asS'ihs global'
+p13278
+(lp13279
+I6
+aF-0.072958839406207968
+asS'donziger "'
+p13280
+(lp13281
+I1
+aF-0.015098314606741563
+asS'rate. "'
+p13282
+(lp13283
+I1
+aF-0.015098314606741563
+asS'hustle s&p'
+p13284
+(lp13285
+I30
+aF0.78528042609589921
+asS'57 p.m.'
+p13286
+(lp13287
+I9
+aF0.063055396376559991
+asS'biggest management'
+p13288
+(lp13289
+I1
+aF-0.013834507961367818
+asS'brewing system'
+p13290
+(lp13291
+I2
+aF0.03185842475789831
+asS'cents 2'
+p13292
+(lp13293
+I1
+aF0.028248587570621538
+asS'love dollar'
+p13294
+(lp13295
+I9
+aF0.063055396376559991
+asS'2 buy'
+p13296
+(lp13297
+I6
+aF0.058962361751395069
+asS'tgt -'
+p13298
+(lp13299
+I1
+aF-0.011144883485308961
+asS'trouble new'
+p13300
+(lp13301
+I1
+aF0.034482758620689689
+asS'maker said'
+p13302
+(lp13303
+I1
+aF0.0065939063210550593
+asS'hike plug'
+p13304
+(lp13305
+I44
+aF0.87759511459066997
+asS'hldgs roc'
+p13306
+(lp13307
+I3
+aF0.026538188304429285
+asS'here. facebook'
+p13308
+(lp13309
+I1
+aF0.020620086040646798
+asS'shipping rates'
+p13310
+(lp13311
+I1
+aF0.022254127781766008
+asS'saying case'
+p13312
+(lp13313
+I1
+aF-0.015098314606741563
+asS'speaking cnbc'
+p13314
+(lp13315
+I2
+aF0.028662201270295298
+asS'43 p.m.'
+p13316
+(lp13317
+I30
+aF0.78528042609589921
+asS'directors sarah'
+p13318
+(lp13319
+I30
+aF0.78528042609589921
+asS'uctt .'
+p13320
+(lp13321
+I3
+aF0.076043454879415551
+asS'in-home cold-beverage'
+p13322
+(lp13323
+I4
+aF-0.010679627874459668
+asS'skepticism banks'
+p13324
+(lp13325
+I1
+aF-0.015098314606741563
+asS"parties 's"
+p13326
+(lp13327
+I6
+aF0.013389593364884374
+asS'starr ex-chairman'
+p13328
+(lp13329
+I4
+aF0.039241525733948263
+asS'fastest growing'
+p13330
+(lp13331
+I1
+aF-0.015098314606741563
+asS'coca-cola branded'
+p13332
+(lp13333
+I1
+aF0.054777388694347298
+asS'take bates'
+p13334
+(lp13335
+I1
+aF-0.013834507961367818
+asS'mountain exclusively'
+p13336
+(lp13337
+I1
+aF0.054777388694347298
+asS'0.48% \xc2'
+p13338
+(lp13339
+I2
+aF-0.0096874231100129455
+asS'. mobi'
+p13340
+(lp13341
+I1
+aF0.086510263929618747
+asS'bbt fifth'
+p13342
+(lp13343
+I2
+aF-0.0082949308755760238
+asS'underperform stock'
+p13344
+(lp13345
+I2
+aF0.023269395998132755
+asS'two subpoenas'
+p13346
+(lp13347
+I1
+aF-0.01486199575371556
+asS'software patches'
+p13348
+(lp13349
+I2
+aF0.0094823222529492185
+asS'former clinton'
+p13350
+(lp13351
+I1
+aF-0.013834507961367818
+asS'money expand'
+p13352
+(lp13353
+I1
+aF-0.0044444444444443499
+asS'40 2%'
+p13354
+(lp13355
+I1
+aF-0.0058604155567394478
+asS'used underpin'
+p13356
+(lp13357
+I1
+aF-0.015098314606741563
+asS'since released'
+p13358
+(lp13359
+I2
+aF0.0094823222529492185
+asS'asa-el european'
+p13360
+(lp13361
+I12
+aF0.069076572220800783
+asS'factset releases'
+p13362
+(lp13363
+I4
+aF0.0010669424439089712
+asS'. dow'
+p13364
+(lp13365
+I2
+aF0.014895823661047334
+asS'session hertz'
+p13366
+(lp13367
+I4
+aF-0.038294363224545734
+asS'target /quotes/zigman/253872/delayed/quotes/nls/tgt'
+p13368
+(lp13369
+I2
+aF-0.00013053922301388583
+asS'cboe volatility'
+p13370
+(lp13371
+I1
+aF0.025356283546178002
+asS'ebay ebay'
+p13372
+(lp13373
+I24
+aF0.066541252771678314
+asS'halted. 12'
+p13374
+(lp13375
+I1
+aF0.014802631578947345
+asS'u.s. securities'
+p13376
+(lp13377
+I1
+aF-0.01486199575371556
+asS"users 't"
+p13378
+(lp13379
+I2
+aF0.0094823222529492185
+asS"saturn 's"
+p13380
+(lp13381
+I2
+aF0.033732486151840983
+asS'earnings expectations'
+p13382
+(lp13383
+I2
+aF0.011512762036800132
+asS'nacional bancaria'
+p13384
+(lp13385
+I1
+aF-0.01486199575371556
+asS'13.2 percent'
+p13386
+(lp13387
+I1
+aF-0.015098314606741563
+asS'+0.53% bp'
+p13388
+(lp13389
+I2
+aF0.023622213537533625
+asS'collapse u.s.'
+p13390
+(lp13391
+I1
+aF-0.015098314606741563
+asS'best worst'
+p13392
+(lp13393
+I10
+aF0.065939063210550597
+asS'first quarter'
+p13394
+(lp13395
+I1
+aF0.028248587570621538
+asS'week high'
+p13396
+(lp13397
+I15
+aF0.088858291183965946
+asS'skype transaction.'
+p13398
+(lp13399
+I2
+aF0.0050351650906114501
+asS'given ;'
+p13400
+(lp13401
+I2
+aF0.037754290992674737
+asS'beat expectations'
+p13402
+(lp13403
+I1
+aF-0.042688910696761409
+asS'day low'
+p13404
+(lp13405
+I15
+aF0.088858291183965946
+asS'50-year-old born'
+p13406
+(lp13407
+I1
+aF0.0065939063210550593
+asS'would quickly'
+p13408
+(lp13409
+I1
+aF0.017951856385148825
+asS'used receiving'
+p13410
+(lp13411
+I1
+aF0.022254127781766008
+asS'brings next'
+p13412
+(lp13413
+I30
+aF0.78528042609589921
+asS'newswire fitch'
+p13414
+(lp13415
+I30
+aF0.78528042609589921
+asS"'s reputation"
+p13416
+(lp13417
+I4
+aF-0.047177815558848674
+asS'feb. 10'
+p13418
+(lp13419
+I9
+aF0.063055396376559991
+asS'several units'
+p13420
+(lp13421
+I1
+aF0.0065939063210550593
+asS'travelers coverage'
+p13422
+(lp13423
+I1
+aF0.0065939063210550593
+asS'heard absolutely'
+p13424
+(lp13425
+I2
+aF-0.0096143372351269688
+asS'operating officer'
+p13426
+(lp13427
+I1
+aF-0.01749999999999996
+asS'hard indian'
+p13428
+(lp13429
+I1
+aF-0.015098314606741563
+asS'providing us'
+p13430
+(lp13431
+I1
+aF-0.042688910696761409
+asS'consolidate foothold'
+p13432
+(lp13433
+I1
+aF-0.015098314606741563
+asS'chaos batters'
+p13434
+(lp13435
+I9
+aF0.063055396376559991
+asS'traded 1.3'
+p13436
+(lp13437
+I1
+aF-0.025641025641025664
+asS'compression units'
+p13438
+(lp13439
+I2
+aF0.014543730978396358
+asS'deckers outdoor'
+p13440
+(lp13441
+I2
+aF-0.00055632415198211133
+asS'inc. fred'
+p13442
+(lp13443
+I1
+aF0.0085513078470825805
+asS'take museo'
+p13444
+(lp13445
+I2
+aF0.033133788568538193
+asS'imminent default'
+p13446
+(lp13447
+I3
+aF-0.036479419703103984
+asS'? apple'
+p13448
+(lp13449
+I1
+aF0.0065939063210550593
+asS'sales ford'
+p13450
+(lp13451
+I1
+aF-0.042688910696761409
+asS'51% nook'
+p13452
+(lp13453
+I2
+aF0.032728465832498853
+asS'network name'
+p13454
+(lp13455
+I4
+aF0.044781306879880148
+asS'gold rush'
+p13456
+(lp13457
+I9
+aF0.063055396376559991
+asS'might risk'
+p13458
+(lp13459
+I1
+aF0.022254127781766008
+asS'basic rules'
+p13460
+(lp13461
+I2
+aF0.0073921320280504483
+asS'" issues'
+p13462
+(lp13463
+I1
+aF-0.015098314606741563
+asS'penney getting'
+p13464
+(lp13465
+I2
+aF0.0094823222529492185
+asS'accused donziger'
+p13466
+(lp13467
+I1
+aF-0.015098314606741563
+asS'technologies international'
+p13468
+(lp13469
+I4
+aF0.021208070758720332
+asS'take --'
+p13470
+(lp13471
+I2
+aF0.10801026392961874
+asS'due services'
+p13472
+(lp13473
+I1
+aF-0.01486199575371556
+asS'shows significant'
+p13474
+(lp13475
+I2
+aF0.0094823222529492185
+asS'fcc currently'
+p13476
+(lp13477
+I2
+aF-0.0005004065187305274
+asS'hybrid region.'
+p13478
+(lp13479
+I1
+aF-0.015098314606741563
+asS'country took'
+p13480
+(lp13481
+I1
+aF-0.015098314606741563
+asS'retire end'
+p13482
+(lp13483
+I1
+aF0.0065939063210550593
+asS'$4 billion'
+p13484
+(lp13485
+I2
+aF0.0028409817157098796
+asS'years. related'
+p13486
+(lp13487
+I2
+aF0.0052826627277634021
+asS'estimate trend'
+p13488
+(lp13489
+I2
+aF0.038093405336004325
+asS'officer apple'
+p13490
+(lp13491
+I1
+aF0.0028884159318941583
+asS'mahmudova s&p'
+p13492
+(lp13493
+I4
+aF0.026375625284220237
+asS'payment service'
+p13494
+(lp13495
+I2
+aF0.0050351650906114501
+asS'office u.s.'
+p13496
+(lp13497
+I1
+aF-0.01486199575371556
+asS'right invade'
+p13498
+(lp13499
+I1
+aF-0.025641025641025664
+asS'heavy losses'
+p13500
+(lp13501
+I2
+aF0.024645570354333065
+asS'it. icahn'
+p13502
+(lp13503
+I2
+aF0.0050351650906114501
+asS'monetary policy'
+p13504
+(lp13505
+I2
+aF0.019620762866974131
+asS'- 1.69%'
+p13506
+(lp13507
+I1
+aF0.00067980965329706225
+asS'parcel service'
+p13508
+(lp13509
+I1
+aF0.022254127781766008
+asS'resources lawyer'
+p13510
+(lp13511
+I1
+aF-0.015098314606741563
+asS'remains sluggish'
+p13512
+(lp13513
+I4
+aF0.039241525733948263
+asS'investigation could'
+p13514
+(lp13515
+I1
+aF0.034482758620689689
+asS'traded united'
+p13516
+(lp13517
+I2
+aF0.007155813175024445
+asS'4% retirement'
+p13518
+(lp13519
+I45
+aF0.88418902091172502
+asS'holidays. shares'
+p13520
+(lp13521
+I1
+aF-0.015098314606741563
+asS'included chinese'
+p13522
+(lp13523
+I14
+aF0.018081633883883088
+asS'isps. tech'
+p13524
+(lp13525
+I2
+aF-0.029171931274251214
+asS'massive gap.'
+p13526
+(lp13527
+I1
+aF0.017811704834605556
+asS'automobiles fia.mi'
+p13528
+(lp13529
+I1
+aF0.0063291139240506224
+asS'1 2014'
+p13530
+(lp13531
+I9
+aF0.063055396376559991
+asS'discontinue security'
+p13532
+(lp13533
+I2
+aF0.0028409817157098796
+asS"frisco 's"
+p13534
+(lp13535
+I2
+aF0.025413939160570033
+asS'beefs 8'
+p13536
+(lp13537
+I30
+aF0.78528042609589921
+asS'percent heavy'
+p13538
+(lp13539
+I1
+aF0.022254127781766008
+asS'stock market'
+p13540
+(lp13541
+I96
+aF1.1923216511013928
+asS'even bigger'
+p13542
+(lp13543
+I4
+aF-0.0075938299399980749
+asS'years.energy stocks'
+p13544
+(lp13545
+I1
+aF0.022254127781766008
+asS'u.s. minimum'
+p13546
+(lp13547
+I30
+aF0.78528042609589921
+asS'price --'
+p13548
+(lp13549
+I2
+aF0.10801026392961874
+asS'zacks.com click'
+p13550
+(lp13551
+I24
+aF0.25324927828668647
+asS'crisis 7'
+p13552
+(lp13553
+I12
+aF0.069076572220800783
+asS'delta airlines'
+p13554
+(lp13555
+I4
+aF-0.047177815558848674
+asS'share. solarcity'
+p13556
+(lp13557
+I2
+aF-0.027455969162467415
+asS'4 told'
+p13558
+(lp13559
+I1
+aF-0.013834507961367818
+asS'ablin chief'
+p13560
+(lp13561
+I1
+aF-0.015098314606741563
+asS'percent $132.90'
+p13562
+(lp13563
+I1
+aF0.022254127781766008
+asS'rises 1.3%'
+p13564
+(lp13565
+I1
+aF0.0065939063210550593
+asS'border posts'
+p13566
+(lp13567
+I9
+aF0.063055396376559991
+asS'radioshack closing'
+p13568
+(lp13569
+I30
+aF0.78528042609589921
+asS'revenue profits'
+p13570
+(lp13571
+I1
+aF0
+asS'announce publicly'
+p13572
+(lp13573
+I1
+aF-0.013834507961367818
+asS'500 jcpenney'
+p13574
+(lp13575
+I4
+aF0.044781306879880148
+asS'sluggish reasons'
+p13576
+(lp13577
+I4
+aF0.039241525733948263
+asS'20 years'
+p13578
+(lp13579
+I1
+aF0.0065939063210550593
+asS'all-time high.'
+p13580
+(lp13581
+I1
+aF0.012862287772251757
+asS'controller met'
+p13582
+(lp13583
+I1
+aF0.0065939063210550593
+asS'tuesday accused'
+p13584
+(lp13585
+I1
+aF-0.015098314606741563
+asS"'s experience"
+p13586
+(lp13587
+I30
+aF0.78528042609589921
+asS'they\xc2 begin'
+p13588
+(lp13589
+I1
+aF-0.01486199575371556
+asS'regulations "'
+p13590
+(lp13591
+I1
+aF-0.01486199575371556
+asS'prf radioshack'
+p13592
+(lp13593
+I180
+aF4.7116825565754015
+asS'gold futures'
+p13594
+(lp13595
+I9
+aF0.063055396376559991
+asS'chilean bank'
+p13596
+(lp13597
+I1
+aF-0.015098314606741563
+asS'thursday fourth-quarter'
+p13598
+(lp13599
+I2
+aF-0.0047921869940820618
+asS'include marsh'
+p13600
+(lp13601
+I2
+aF0.060087816422073489
+asS'u.k. company\xe2\x80\x99s'
+p13602
+(lp13603
+I2
+aF-0.0014321680310061119
+asS'priceline.com /quotes/zigman/90481/delayed/quotes/nls/pcln'
+p13604
+(lp13605
+I2
+aF0.014618679165891798
+asS'pemex.but citigroup'
+p13606
+(lp13607
+I1
+aF-0.01486199575371556
+asS'radioshack conn'
+p13608
+(lp13609
+I30
+aF0.78528042609589921
+asS'all-time highs'
+p13610
+(lp13611
+I43
+aF0.25877235100216228
+asS'activity rose'
+p13612
+(lp13613
+I1
+aF-0.0071729957805906396
+asS'ltd. /quotes/zigman/19622165/delayed/quotes/nls/bbry'
+p13614
+(lp13615
+I3
+aF0.029027283270916533
+asS'gas --'
+p13616
+(lp13617
+I1
+aF0.017811704834605556
+asS"ebay 's"
+p13618
+(lp13619
+I8
+aF0.0201406603624458
+asS'loss 55'
+p13620
+(lp13621
+I4
+aF-0.054911938324934823
+asS'gallagher arthu'
+p13622
+(lp13623
+I2
+aF0.060087816422073489
+asS'andreas cremer'
+p13624
+(lp13625
+I1
+aF0.014802631578947345
+asS'reserve required'
+p13626
+(lp13627
+I2
+aF0.019620762866974131
+asS'{ width'
+p13628
+(lp13629
+I5
+aF0.1588106388459081
+asS'also previously'
+p13630
+(lp13631
+I2
+aF-0.0005004065187305274
+asS'employees might'
+p13632
+(lp13633
+I1
+aF-0.01486199575371556
+asS'answer fannie'
+p13634
+(lp13635
+I2
+aF0.0073921320280504483
+asS'c -'
+p13636
+(lp13637
+I1
+aF-0.015434451219512105
+asS'bidu +2.03%'
+p13638
+(lp13639
+I1
+aF0.015729013254786376
+asS'reserve they\xc2'
+p13640
+(lp13641
+I1
+aF-0.01486199575371556
+asS'faster ebay'
+p13642
+(lp13643
+I4
+aF0.010079537768633639
+asS'4,352 stock'
+p13644
+(lp13645
+I1
+aF0.0065939063210550593
+asS'groupon inc.'
+p13646
+(lp13647
+I4
+aF0.088132213986143265
+asS'abroad.the decision'
+p13648
+(lp13649
+I1
+aF-0.015098314606741563
+asS'top u.s.'
+p13650
+(lp13651
+I1
+aF-0.015098314606741563
+asS'+1.07% \xc2'
+p13652
+(lp13653
+I2
+aF0.025299573760823445
+asS'- quasi-judicial'
+p13654
+(lp13655
+I1
+aF-0.015098314606741563
+asS'daily briefing'
+p13656
+(lp13657
+I30
+aF0.78528042609589921
+asS'-- set'
+p13658
+(lp13659
+I4
+aF0.21602052785923748
+asS'selling stakes'
+p13660
+(lp13661
+I1
+aF-0.015434451219512105
+asS'period linkedin'
+p13662
+(lp13663
+I1
+aF0.028248587570621538
+asS'second richest'
+p13664
+(lp13665
+I2
+aF0.007155813175024445
+asS'ukraine sparking'
+p13666
+(lp13667
+I1
+aF-0.025641025641025664
+asS'nine tenets'
+p13668
+(lp13669
+I60
+aF1.5705608521917984
+asS'engy chk'
+p13670
+(lp13671
+I1
+aF-0.0032679738562091968
+asS'northeastern ecuador'
+p13672
+(lp13673
+I1
+aF-0.015098314606741563
+asS'cnbc monday.'
+p13674
+(lp13675
+I1
+aF-0.005373455131649536
+asS'rich. gox'
+p13676
+(lp13677
+I1
+aF0.0095057034220531987
+asS'cannot done'
+p13678
+(lp13679
+I1
+aF0.028248587570621538
+asS'finl svc'
+p13680
+(lp13681
+I2
+aF-0.014586566700890537
+asS'6 02'
+p13682
+(lp13683
+I9
+aF0.063055396376559991
+asS'7 million'
+p13684
+(lp13685
+I1
+aF-0.015098314606741563
+asS'18 a.m.'
+p13686
+(lp13687
+I30
+aF0.78528042609589921
+asS'6 01'
+p13688
+(lp13689
+I18
+aF0.12611079275312001
+asS'twitter inc'
+p13690
+(lp13691
+I2
+aF0.044429609850170595
+asS'volatility index'
+p13692
+(lp13693
+I2
+aF0.050712567092356005
+asS'made hard'
+p13694
+(lp13695
+I1
+aF-0.015098314606741563
+asS'units including'
+p13696
+(lp13697
+I1
+aF0.0065939063210550593
+asS'akzo nobel'
+p13698
+(lp13699
+I8
+aF0.024277654080222977
+asS'feb. 24'
+p13700
+(lp13701
+I61
+aF1.5771547585128536
+asS'feb. 25'
+p13702
+(lp13703
+I1
+aF0.0065939063210550593
+asS'feb. 26'
+p13704
+(lp13705
+I30
+aF0.78528042609589921
+asS'feb. 27'
+p13706
+(lp13707
+I3
+aF0.019781718963165176
+asS'asset management.'
+p13708
+(lp13709
+I1
+aF0.014802631578947345
+asS'rules local'
+p13710
+(lp13711
+I1
+aF-0.015098314606741563
+asS'pbpb -'
+p13712
+(lp13713
+I2
+aF-0.053246146660439073
+asS'feb. 28'
+p13714
+(lp13715
+I123
+aF2.0119486268277185
+asS'sales rose'
+p13716
+(lp13717
+I1
+aF0.0095057034220531987
+asS'man united'
+p13718
+(lp13719
+I2
+aF0.007155813175024445
+asS'" recruiting'
+p13720
+(lp13721
+I1
+aF0.0065939063210550593
+asS'plan would'
+p13722
+(lp13723
+I1
+aF0.034482758620689689
+asS'stock exchange.'
+p13724
+(lp13725
+I1
+aF0.022254127781766008
+asS'1,170 feature'
+p13726
+(lp13727
+I1
+aF0.086510263929618747
+asS'edition euro'
+p13728
+(lp13729
+I9
+aF0.063055396376559991
+asS'manolo vald\xc3\xa9s'
+p13730
+(lp13731
+I2
+aF-0.0005004065187305274
+asS'board scrap'
+p13732
+(lp13733
+I1
+aF-0.015098314606741563
+asS'part investor'
+p13734
+(lp13735
+I2
+aF0.0050351650906114501
+asS'holdings armh'
+p13736
+(lp13737
+I14
+aF0.018081633883883088
+asS'editing jon'
+p13738
+(lp13739
+I1
+aF0.014802631578947345
+asS'board directors'
+p13740
+(lp13741
+I30
+aF0.78528042609589921
+asS'public comments'
+p13742
+(lp13743
+I2
+aF-0.0005004065187305274
+asS'ceo vendors'
+p13744
+(lp13745
+I44
+aF0.87759511459066997
+asS'recap -'
+p13746
+(lp13747
+I1
+aF0.0065939063210550593
+asS'jumps 2%'
+p13748
+(lp13749
+I57
+aF0.33936168525976329
+asS'recap 4'
+p13750
+(lp13751
+I1
+aF0.0065939063210550593
+asS'countries "'
+p13752
+(lp13753
+I2
+aF-0.010838394062078319
+asS'also worked'
+p13754
+(lp13755
+I1
+aF-0.013834507961367818
+asS'rose 87%'
+p13756
+(lp13757
+I2
+aF-0.027455969162467415
+asS'technology stock'
+p13758
+(lp13759
+I43
+aF0.25877235100216228
+asS'united kingdom'
+p13760
+(lp13761
+I1
+aF0.022254127781766008
+asS'sunday citing'
+p13762
+(lp13763
+I1
+aF-0.013834507961367818
+asS'spending rule'
+p13764
+(lp13765
+I45
+aF0.88418902091172502
+asS'ceo candidates'
+p13766
+(lp13767
+I1
+aF-0.013834507961367818
+asS'popular brands'
+p13768
+(lp13769
+I2
+aF0.03185842475789831
+asS'the\xc2 bundesbank'
+p13770
+(lp13771
+I1
+aF-0.015098314606741563
+asS'spend $10'
+p13772
+(lp13773
+I1
+aF-0.025641025641025664
+asS'rsh stock'
+p13774
+(lp13775
+I30
+aF0.78528042609589921
+asS'stage 1'
+p13776
+(lp13777
+I2
+aF0.037754290992674737
+asS'lexmark intl'
+p13778
+(lp13779
+I2
+aF0.044429609850170595
+asS'moving tesla'
+p13780
+(lp13781
+I2
+aF0.040569339539934614
+asS'tsla thursday.'
+p13782
+(lp13783
+I2
+aF0.040569339539934614
+asS'1996 cfo'
+p13784
+(lp13785
+I1
+aF0.0065939063210550593
+asS'\xc2 said'
+p13786
+(lp13787
+I14
+aF-0.0092629378320825892
+asS'52 a.m.'
+p13788
+(lp13789
+I24
+aF0.16567423067945033
+asS'network announced'
+p13790
+(lp13791
+I2
+aF0.0052826627277634021
+asS'outdated image'
+p13792
+(lp13793
+I30
+aF0.78528042609589921
+asS'number roughly'
+p13794
+(lp13795
+I1
+aF-0.015098314606741563
+asS'generic drugmakers'
+p13796
+(lp13797
+I1
+aF-0.015098314606741563
+asS'information. "'
+p13798
+(lp13799
+I1
+aF-0.01486199575371556
+asS'worries recede'
+p13800
+(lp13801
+I47
+aF0.89737683355383513
+asS'edition available'
+p13802
+(lp13803
+I2
+aF0.007155813175024445
+asS'stimulus. germany'
+p13804
+(lp13805
+I1
+aF0.034482758620689689
+asS'after-hours trading.'
+p13806
+(lp13807
+I1
+aF-0.020009416195856743
+asS'ex-chairman challenging'
+p13808
+(lp13809
+I4
+aF0.039241525733948263
+asS"country 's"
+p13810
+(lp13811
+I1
+aF0.034482758620689689
+asS'grain markets'
+p13812
+(lp13813
+I12
+aF0.069076572220800783
+asS'program rules'
+p13814
+(lp13815
+I1
+aF0.022254127781766008
+asS'09 p.m.'
+p13816
+(lp13817
+I1
+aF0.0065939063210550593
+asS'billion. earlier'
+p13818
+(lp13819
+I1
+aF-0.015098314606741563
+asS'since april'
+p13820
+(lp13821
+I1
+aF-0.0071729957805906396
+asS'- 0.84%'
+p13822
+(lp13823
+I2
+aF-0.00099220476444672294
+asS'set regulations.'
+p13824
+(lp13825
+I2
+aF-0.0005004065187305274
+asS'issue buffett'
+p13826
+(lp13827
+I2
+aF0.037754290992674737
+asS'fb twitter'
+p13828
+(lp13829
+I1
+aF0.020620086040646798
+asS'icahn penned'
+p13830
+(lp13831
+I2
+aF0.0050351650906114501
+asS'12 cents'
+p13832
+(lp13833
+I6
+aF0.1287015535260779
+asS'country sends'
+p13834
+(lp13835
+I1
+aF-0.015098314606741563
+asS'earlier week'
+p13836
+(lp13837
+I2
+aF0.0050351650906114501
+asS'sprint corp'
+p13838
+(lp13839
+I1
+aF0.00082576383154416076
+asS'concept stores'
+p13840
+(lp13841
+I30
+aF0.78528042609589921
+asS'know 6'
+p13842
+(lp13843
+I30
+aF0.78528042609589921
+asS'adhering agreement'
+p13844
+(lp13845
+I1
+aF-0.015098314606741563
+asS'wednesday\xe2\x80\x99s closing'
+p13846
+(lp13847
+I2
+aF0.040569339539934614
+asS'$47.3 million'
+p13848
+(lp13849
+I2
+aF-0.027455969162467415
+asS'following iconic'
+p13850
+(lp13851
+I2
+aF0.023269395998132755
+asS'posting u.s.'
+p13852
+(lp13853
+I1
+aF-0.042688910696761409
+asS'late tuesday'
+p13854
+(lp13855
+I4
+aF-0.047325463357154596
+asS'rules corporate'
+p13856
+(lp13857
+I2
+aF0.0073921320280504483
+asS'report lexmark'
+p13858
+(lp13859
+I2
+aF0.044429609850170595
+asS'hk warren'
+p13860
+(lp13861
+I2
+aF0.011512762036800132
+asS'chtr +0.45%'
+p13862
+(lp13863
+I1
+aF0.020128888535285234
+asS'war erupts'
+p13864
+(lp13865
+I43
+aF0.25877235100216228
+asS'would repatriate'
+p13866
+(lp13867
+I2
+aF0.019384444013948128
+asS'strategy.bates former'
+p13868
+(lp13869
+I1
+aF-0.013834507961367818
+asS'million $7.14'
+p13870
+(lp13871
+I2
+aF0.014618679165891798
+asS'market "'
+p13872
+(lp13873
+I1
+aF-0.025641025641025664
+asS'fed begins'
+p13874
+(lp13875
+I1
+aF-0.01486199575371556
+asS'ukraine consumer'
+p13876
+(lp13877
+I43
+aF0.25877235100216228
+asS'million users'
+p13878
+(lp13879
+I1
+aF0.086510263929618747
+asS'eligible fedex'
+p13880
+(lp13881
+I1
+aF0.022254127781766008
+asS'lynn bitcoin'
+p13882
+(lp13883
+I9
+aF0.063055396376559991
+asS'order increase'
+p13884
+(lp13885
+I1
+aF0.054777388694347298
+asS'volatility indexes'
+p13886
+(lp13887
+I1
+aF0.025356283546178002
+asS'tesla /quotes/zigman/118681/delayed/quotes/nls/tsla'
+p13888
+(lp13889
+I2
+aF0.040569339539934614
+asS'alpha radioshack'
+p13890
+(lp13891
+I30
+aF0.78528042609589921
+asS'move firm'
+p13892
+(lp13893
+I1
+aF0.0085513078470825805
+asS'declining 2.6%'
+p13894
+(lp13895
+I1
+aF0.049303322615219622
+asS"'ccc '"
+p13896
+(lp13897
+I30
+aF0.78528042609589921
+asS'percent 154,866'
+p13898
+(lp13899
+I1
+aF0.0063291139240506224
+asS'stocks got'
+p13900
+(lp13901
+I2
+aF0.019620762866974131
+asS'successor "'
+p13902
+(lp13903
+I1
+aF0.0065939063210550593
+asS'rules stipulate'
+p13904
+(lp13905
+I1
+aF-0.01486199575371556
+asS'well-known retailers'
+p13906
+(lp13907
+I8
+aF-0.020074526510182204
+asS'183,947 vehicles'
+p13908
+(lp13909
+I1
+aF-0.042688910696761409
+asS'would also'
+p13910
+(lp13911
+I1
+aF0
+asS'sets espresso'
+p13912
+(lp13913
+I2
+aF-0.0063315831052970124
+asS'systems. dunkin'
+p13914
+(lp13915
+I2
+aF0.03185842475789831
+asS'oct. 9'
+p13916
+(lp13917
+I9
+aF0.063055396376559991
+asS"'s marlborough"
+p13918
+(lp13919
+I2
+aF-0.0005004065187305274
+asS'revealed 0.82%'
+p13920
+(lp13921
+I2
+aF0.0050351650906114501
+asS's&p outlook'
+p13922
+(lp13923
+I44
+aF0.87759511459066997
+asS'expansion sector.the'
+p13924
+(lp13925
+I1
+aF-0.0071729957805906396
+asS'extends record'
+p13926
+(lp13927
+I9
+aF0.063055396376559991
+asS'trade minister'
+p13928
+(lp13929
+I2
+aF-0.030196629213483126
+asS'bought $40'
+p13930
+(lp13931
+I1
+aF0.0065939063210550593
+asS'stocks gold'
+p13932
+(lp13933
+I43
+aF0.25877235100216228
+asS'updates mac'
+p13934
+(lp13935
+I2
+aF0.0094823222529492185
+asS'platform mobi'
+p13936
+(lp13937
+I1
+aF0.086510263929618747
+asS'companies already'
+p13938
+(lp13939
+I8
+aF-0.020074526510182204
+asS'slightly vs.'
+p13940
+(lp13941
+I46
+aF0.89078292723278008
+asS'global leverage'
+p13942
+(lp13943
+I1
+aF-0.015098314606741563
+asS'sales trends'
+p13944
+(lp13945
+I1
+aF0.0075437537718768856
+asS'monday. annual'
+p13946
+(lp13947
+I1
+aF-0.01486199575371556
+asS'told reuters.cook'
+p13948
+(lp13949
+I1
+aF0.0065939063210550593
+asS'report kkr'
+p13950
+(lp13951
+I1
+aF-0.0096207215541164858
+asS'pnra +0.22%'
+p13952
+(lp13953
+I2
+aF0.00033090668431503574
+asS'states. places'
+p13954
+(lp13955
+I1
+aF-0.015098314606741563
+asS'company would'
+p13956
+(lp13957
+I4
+aF-0.0075938299399980749
+asS'brazil.chevron however'
+p13958
+(lp13959
+I1
+aF-0.015098314606741563
+asS'low day'
+p13960
+(lp13961
+I15
+aF0.088858291183965946
+asS'inc twtr'
+p13962
+(lp13963
+I2
+aF0.044429609850170595
+asS'examine trade'
+p13964
+(lp13965
+I1
+aF-0.015098314606741563
+asS'plug power'
+p13966
+(lp13967
+I44
+aF0.87759511459066997
+asS'markets 8'
+p13968
+(lp13969
+I12
+aF0.069076572220800783
+asS'markets 9'
+p13970
+(lp13971
+I9
+aF0.063055396376559991
+asS'feature phone'
+p13972
+(lp13973
+I1
+aF0.086510263929618747
+asS'markets "'
+p13974
+(lp13975
+I3
+aF-0.036479419703103984
+asS'jobs state'
+p13976
+(lp13977
+I1
+aF0.0028884159318941583
+asS'boeing.so weeks'
+p13978
+(lp13979
+I1
+aF-0.0044444444444443499
+asS'radioshack shut'
+p13980
+(lp13981
+I30
+aF0.78528042609589921
+asS'trading 0.3'
+p13982
+(lp13983
+I1
+aF0.022254127781766008
+asS'cherokee suvs'
+p13984
+(lp13985
+I1
+aF0.0063291139240506224
+asS'inc. /quotes/zigman/5065548/delayed/quotes/nls/c'
+p13986
+(lp13987
+I1
+aF-0.015434451219512105
+asS'pep -'
+p13988
+(lp13989
+I1
+aF-0.011144883485308961
+asS'share gains'
+p13990
+(lp13991
+I1
+aF-0.015098314606741563
+asS'334 compression'
+p13992
+(lp13993
+I1
+aF-0.0032679738562091968
+asS'chesapeake currently'
+p13994
+(lp13995
+I1
+aF0.028248587570621538
+asS'reiterating push'
+p13996
+(lp13997
+I2
+aF0.0050351650906114501
+asS'discusses q4'
+p13998
+(lp13999
+I30
+aF0.78528042609589921
+asS'500 comcast'
+p14000
+(lp14001
+I4
+aF-0.0075938299399980749
+asS'existing shareholders'
+p14002
+(lp14003
+I4
+aF0.039241525733948263
+asS'conflict. staged'
+p14004
+(lp14005
+I2
+aF0.0094823222529492185
+asS'rank 1'
+p14006
+(lp14007
+I8
+aF0.11545953689263815
+asS'solid trading'
+p14008
+(lp14009
+I1
+aF0.0085513078470825805
+asS'rank 2'
+p14010
+(lp14011
+I6
+aF0.058962361751395069
+asS'slowly surely'
+p14012
+(lp14013
+I2
+aF0.011512762036800132
+asS'monday. speaking'
+p14014
+(lp14015
+I1
+aF-0.005373455131649536
+asS'bidu sina'
+p14016
+(lp14017
+I14
+aF0.018081633883883088
+asS'2015 leroy'
+p14018
+(lp14019
+I1
+aF0.028248587570621538
+asS'earnings preview'
+p14020
+(lp14021
+I30
+aF0.78528042609589921
+asS'political volatility'
+p14022
+(lp14023
+I2
+aF-0.010838394062078319
+asS'13 2013'
+p14024
+(lp14025
+I9
+aF0.063055396376559991
+asS'mexico fedex'
+p14026
+(lp14027
+I1
+aF0.022254127781766008
+asS'35 a.m.'
+p14028
+(lp14029
+I27
+aF0.18916618912968003
+asS'employees arizona'
+p14030
+(lp14031
+I1
+aF-0.010500807754442712
+asS'circuit city'
+p14032
+(lp14033
+I44
+aF0.87759511459066997
+asS'escalates 8'
+p14034
+(lp14035
+I12
+aF0.069076572220800783
+asS'2014 +0.20%'
+p14036
+(lp14037
+I1
+aF0.0065939063210550593
+asS'occasional software'
+p14038
+(lp14039
+I2
+aF0.0094823222529492185
+asS'dismal q4'
+p14040
+(lp14041
+I30
+aF0.78528042609589921
+asS'respond ?'
+p14042
+(lp14043
+I1
+aF0.017951856385148825
+asS'anything problems'
+p14044
+(lp14045
+I1
+aF-0.015098314606741563
+asS'$7.14 share'
+p14046
+(lp14047
+I2
+aF0.014618679165891798
+asS'bank transactions'
+p14048
+(lp14049
+I2
+aF0.0094823222529492185
+asS'andre mouton'
+p14050
+(lp14051
+I9
+aF0.063055396376559991
+asS'companies better'
+p14052
+(lp14053
+I2
+aF0.0050351650906114501
+asS'million fraudulent'
+p14054
+(lp14055
+I1
+aF-0.01486199575371556
+asS'driving fx'
+p14056
+(lp14057
+I9
+aF0.063055396376559991
+asS'since ron'
+p14058
+(lp14059
+I2
+aF0.0094823222529492185
+asS'results thursday'
+p14060
+(lp14061
+I8
+aF-0.020074526510182204
+asS'2014 +1.35%'
+p14062
+(lp14063
+I1
+aF0.0065939063210550593
+asS'cfo "'
+p14064
+(lp14065
+I1
+aF0.0065939063210550593
+asS'+0.85% newscast'
+p14066
+(lp14067
+I1
+aF0.0065939063210550593
+asS'de valores'
+p14068
+(lp14069
+I1
+aF-0.01486199575371556
+asS"'s vast"
+p14070
+(lp14071
+I1
+aF-0.015098314606741563
+asS'exchange commission'
+p14072
+(lp14073
+I2
+aF-0.02972399150743112
+asS'said india'
+p14074
+(lp14075
+I2
+aF-0.030196629213483126
+asS'caught downturn'
+p14076
+(lp14077
+I57
+aF0.33936168525976329
+asS'focused federal'
+p14078
+(lp14079
+I1
+aF-0.01486199575371556
+asS'starts heat'
+p14080
+(lp14081
+I30
+aF0.78528042609589921
+asS'acquisitions aerospace'
+p14082
+(lp14083
+I1
+aF-0.0044444444444443499
+asS'apple edges'
+p14084
+(lp14085
 I45
 aF0.27028511303896241
 as.

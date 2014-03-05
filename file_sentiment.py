@@ -96,7 +96,7 @@ def value_words(word_dict, data):
 	return word_dict
 
 #returns a dictionary of bigram values
-def value_words_bigram(word_dict, data):
+def value_words_bigram(word_dict):
 	data = get_stock_info()
 	for s in data:
 		p_change = HIST.get_adj_change(s)
