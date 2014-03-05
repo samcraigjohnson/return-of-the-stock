@@ -80,7 +80,7 @@ def stock_in_senctence(filt_words):
 
 
 #returns a dictonary of words where word : (frequency, change)
-def value_words(word_dict):
+def value_words(word_dict, data):
 	data = get_stock_info()
 	for s in data:
 		p_change = HIST.get_adj_change(s)
@@ -96,7 +96,7 @@ def value_words(word_dict):
 	return word_dict
 
 #returns a dictionary of bigram values
-def value_words_bigram(word_dict):
+def value_words_bigram(word_dict, data):
 	data = get_stock_info()
 	for s in data:
 		p_change = HIST.get_adj_change(s)
