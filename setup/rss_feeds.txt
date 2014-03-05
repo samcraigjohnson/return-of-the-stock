@@ -1,0 +1,7 @@
+nasdaq|http://articlefeeds.nasdaq.com/nasdaq/categories?category=Stocks
+cnn-money|http://rss.cnn.com/rss/money_markets.rss
+cnn-companies|http://rss.cnn.com/rss/money_news_companies.rss
+cnn-economy|http://rss.cnn.com/rss/money_news_economy.rss
+marketwatch-stocks|http://feeds.marketwatch.com/marketwatch/StockstoWatch/
+marketwatch-headlines|http://feeds.marketwatch.com/marketwatch/realtimeheadlines/
+reuters-biznews|http://feeds.reuters.com/reuters/businessNews/
