@@ -35,7 +35,7 @@ def add_to_bigram_dictionary():
 
 if __name__ == '__main__':
 	print "Downloading RSS..."
-	#download_rss()
+	download_rss()
 	print "Done with downloading/turning into text"
 	#time.sleep(.5)
 	print "Doing BIGRAM sentiment analysis...."
