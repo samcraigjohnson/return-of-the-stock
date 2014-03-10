@@ -26,7 +26,6 @@ def write_feeds(filename):
 		print feed
 		url = feed[1]
 		name = feed[0]
-
 		parsed = feedparser.parse(url)
 		entries = parsed.entries
 		print '## ' + name + ' ##'
@@ -68,7 +67,7 @@ def make_date_dir(base_dir):
 	if day < 10:
 		day = "0" + str(day)
 
-	dt = str(dt.year) + "-" + month + "-" + day
+	dt = str(dt.year) + "-" + str(month) + "-" + str(day)
 	date_path = base_dir+"/"+dt+"/"
 
 	if not os.path.exists(date_path):
